@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.8"
+os:
+  - windows
+script:
+  - send_emails.py
