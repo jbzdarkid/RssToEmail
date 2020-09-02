@@ -23,9 +23,9 @@ jobs:
     - name: Run rss_to_email.py
       run: python rss_to_email.py
       env:
-        sender_email:    ${{ secrets.SENDER_EMAIL }}
-        sender_password: ${{ secrets.SENDER_PASSWORD }}
-        target_email:    ${{ secrets.TARGET_EMAIL }}
+        sender_email: ${{ secrets.SENDER_EMAIL }}
+        sender_pword: ${{ secrets.SENDER_PWORD }}
+        target_email: ${{ secrets.TARGET_EMAIL }}
     - name: Commit cache updates
       run: |
         git commit -am "Updated cache on $(date)"
