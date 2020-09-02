@@ -40,7 +40,7 @@ def parse_feeds(cache, feed_url, email_server):
     else:
         # Potentially update title
         cache[feed_url]['name'] = feed_title
-        cache[feed_url]['last_updated'] = int(time.time())
+        cache[feed_url]['last_updated'] = int(time())
 
     for entry in d['entries']:
         title = entry['title']
@@ -74,7 +74,7 @@ def send_email(email_server, title, content):
     msg['Subject'] = title
     msg['To'] = TARGET_EMAIL
     msg['From'] = SENDER_EMAIL
-    msg['Date'] = time.time().strftime('%A, %B %d, %Y') 
+    msg['Date'] = time().strftime('%A, %B %d, %Y') 
 
     msg.attach(MIMEText(content, 'html'))
     email_server.sendmail(msg['From'], msg['To'], msg.as_string())
