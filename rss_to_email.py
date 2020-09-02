@@ -74,7 +74,7 @@ def send_email(email_server, title, content):
     msg['Subject'] = title
     msg['To'] = TARGET_EMAIL
     msg['From'] = SENDER_EMAIL
-    msg['Date'] = strftime('%A, %B %d, %Y') 
+    msg['Date'] = time()
 
     msg.attach(MIMEText(content, 'html'))
     email_server.sendmail(msg['From'], msg['To'], msg.as_string())
