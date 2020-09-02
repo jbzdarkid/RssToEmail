@@ -88,7 +88,7 @@ if __name__ == '__main__':
     email_server.ehlo()
     email_server.starttls()
     if SENDER_EMAIL:
-        email_server.login(SENDER_EMAIL, SENDER_PASSWORD);
+        email_server.login(SENDER_EMAIL, SENDER_PWORD);
 
     with open('feed_list.txt', 'r') as f:
         for feed_url in f:
