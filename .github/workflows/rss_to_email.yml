@@ -19,6 +19,10 @@ jobs:
         pip install -r requirements.txt
     - name: Run rss_to_email.py
       run: python rss_to_email.py
+      env:
+        sender_email:    ${{ secrets.SENDER_EMAIL }}
+        sender_password: ${{ secrets.SENDER_PASSWORD }}
+        target_email:    ${{ secrets.TARGET_EMAIL }}
     - name: Commit cache updates
       run: |
         git commit -am "Updated cache on $(date)"
