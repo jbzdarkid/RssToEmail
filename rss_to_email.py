@@ -1,10 +1,10 @@
-from smtplib import SMTP
+import feedparser
 from email.message import EmailMessage
 from email.mime.text import MIMEText
-import feedparser
-from os import environ
-from time import mktime, time
 from json import load
+from os import environ
+from smtplib import SMTP
+from time import mktime, time, strftime
 
 try:
     SENDER_EMAIL = environ['sender_email']
@@ -74,7 +74,7 @@ def send_email(email_server, title, content):
     msg['Subject'] = title
     msg['To'] = TARGET_EMAIL
     msg['From'] = SENDER_EMAIL
-    msg['Date'] = time().strftime('%A, %B %d, %Y') 
+    msg['Date'] = strftime('%A, %B %d, %Y') 
 
     msg.attach(MIMEText(content, 'html'))
     email_server.sendmail(msg['From'], msg['To'], msg.as_string())
