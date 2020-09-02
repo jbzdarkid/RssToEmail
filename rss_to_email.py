@@ -58,26 +58,23 @@ def parse_feeds(cache, feed_url, email_server):
 
         if entry_date:
             if entry_date > cache[feed_url]['last_updated']:
-                send_email(email_server, title, content)
+                send_email(email_server, title, link, content)
         else:
             if link not in cache[feed_url]['seen_entries']:
-                send_email(email_server, title, content)
+                send_email(email_server, title, link, content)
                 cache[feed_url]['seen_entries'].append(link)
 
 
-def send_email(email_server, title, content):
-    if email_server is None:
-        print(title, content)
-        return
-
+def send_email(email_server, title, link, content):
     msg = EmailMessage()
     msg['Subject'] = title
     msg['To'] = TARGET_EMAIL
     msg['From'] = SENDER_EMAIL
     # msg['Date'] = time()
 
-    msg.attach(MIMEText(content, 'html'))
-    email_server.sendmail(msg['From'], msg['To'], msg.as_string())
+    msg.set_content('New RSS post: ' + link)
+    msg.add_alternative(content, subtype='html')
+    email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
 
 
 if __name__ == '__main__':
