@@ -7,9 +7,9 @@ from time import mktime, time
 from json import load
 
 try:
-    SENDER_EMAIL = environ['sender_email'].decode('utf-8')
-    SENDER_PWORD = environ['sender_pword'].decode('utf-8')
-    TARGET_EMAIL = environ['target_email'].decode('utf-8')
+    SENDER_EMAIL = environ['sender_email']
+    SENDER_PWORD = environ['sender_pword']
+    TARGET_EMAIL = environ['target_email']
 except KeyError:
     SENDER_EMAIL = None
     SENDER_PWORD = None
