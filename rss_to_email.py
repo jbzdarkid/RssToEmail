@@ -1,7 +1,7 @@
 import feedparser
 from email.message import EmailMessage
 from email.mime.text import MIMEText
-from json import load
+from json import load, dump
 from os import environ
 from smtplib import SMTP
 from time import mktime, time, strftime
@@ -92,7 +92,6 @@ if __name__ == '__main__':
             if feed_url.startswith('#'):
                 continue
             parse_feeds(cache, feed_url, email_server)
-            break
 
     email_server.quit()
 
