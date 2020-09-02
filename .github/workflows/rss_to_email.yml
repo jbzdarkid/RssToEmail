@@ -2,6 +2,9 @@ name: RSS To Email
 on:
   schedule:
     - cron: '0 11 * * *' # 3 AM PST / 4 AM PDT
+  push:
+    branches:
+    - master
 
 jobs:
   run:
