@@ -84,6 +84,7 @@ if __name__ == '__main__':
             if feed_url.startswith('#'):
                 continue
             parse_feeds(cache, feed_url, email_server)
+            break
 
     email_server.quit()
 
