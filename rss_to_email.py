@@ -63,6 +63,8 @@ def parse_feeds(cache, feed_url, email_server):
             if link not in cache[feed_url]['seen_entries']:
                 send_email(email_server, title, link, content)
                 cache[feed_url]['seen_entries'].append(link)
+        with open('entries_cache.json', 'r') as f:
+            dump(cache, j, sort_keys=True, indent=2)
 
 
 def send_email(email_server, title, link, content):
@@ -95,5 +97,3 @@ if __name__ == '__main__':
 
     email_server.quit()
 
-    with open('entries_cache.json', 'r') as f:
-        dump(cache, j, sort_keys=True, indent=2)
