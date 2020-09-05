@@ -64,7 +64,7 @@ def parse_feeds(cache, feed_url, email_server):
                 send_email(email_server, title, link, content)
                 cache[feed_url]['seen_entries'].append(link)
         with open('entries_cache.json', 'r') as f:
-            dump(cache, j, sort_keys=True, indent=2)
+            dump(cache, f, sort_keys=True, indent=2)
 
 
 def send_email(email_server, title, link, content):
