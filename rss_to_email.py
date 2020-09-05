@@ -71,7 +71,7 @@ def send_email(email_server, title, link, content):
     msg = EmailMessage()
     msg['Subject'] = title
     msg['To'] = TARGET_EMAIL
-    msg['From'] = SENDER_EMAIL
+    msg['From'] = 'RSS To Email'
     # msg['Date'] = time()
 
     msg.set_content('New RSS post: ' + link)
