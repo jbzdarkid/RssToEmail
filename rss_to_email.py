@@ -56,6 +56,8 @@ def parse_feeds(cache, feed_url, email_server):
                     break
 
         if entry_date:
+            print(entry_date, cache[feed_url]['last_updated'])
+            print(title, link)
             if entry_date > cache[feed_url]['last_updated']:
                 send_email(email_server, title, link, content)
                 cache[feed_url]['last_updated'] = entry_date
