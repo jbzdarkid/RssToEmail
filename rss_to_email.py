@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from json import load, dump
 from os import environ
 from smtplib import SMTP
-from time import mktime, time, strftime
+from time import mktime, time, strftime, sleep
 
 try:
     SENDER_EMAIL = environ['sender_email']
@@ -80,6 +80,7 @@ def send_email(email_server, title, link, content):
     content = f'To view the full post, <a href="{link}">click here</a>.<hr>{content}'
     msg.add_alternative(content, subtype='html')
     email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
+    sleep(1) # Avoid spamming emails too hard
 
 
 if __name__ == '__main__':
