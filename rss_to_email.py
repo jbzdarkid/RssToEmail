@@ -68,7 +68,6 @@ def parse_feeds(cache, feed_url, email_server):
 
         with open('entries_cache.json', 'w') as f:
             dump(cache, f, sort_keys=True, indent=2)
-        exit(0)
 
 
 def send_email(email_server, title, link, content):
