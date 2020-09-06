@@ -42,7 +42,7 @@ def parse_feeds(cache, feed_url, email_server):
         cache[feed_url]['name'] = feed_title
         cache[feed_url]['last_updated'] = int(time())
 
-    for entry in d['entries']:
+    for entry in reversed(d['entries']):
         title = entry['title']
         link = entry['link']
         # Not all entries have a date
