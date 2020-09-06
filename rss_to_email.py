@@ -66,6 +66,7 @@ def parse_feeds(cache, feed_url, email_server):
 
         with open('entries_cache.json', 'w') as f:
             dump(cache, f, sort_keys=True, indent=2)
+        exit(0)
 
 
 def send_email(email_server, title, link, content):
@@ -79,7 +80,6 @@ def send_email(email_server, title, link, content):
     content = f'To view the full post, <a href="{link}">click here</a>.<hr>{content}'
     msg.add_alternative(content, subtype='html')
     email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
-    exit(0)
 
 
 if __name__ == '__main__':
