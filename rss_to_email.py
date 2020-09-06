@@ -27,9 +27,9 @@ def parse_feeds(cache, feed_url, email_server):
     feed_title = d['feed']['title']
 
     # Not present for all feeds
-    #feed_updated = to_seconds(d['feed'].get('published_parsed') or d.get('updated_parsed'))
-    #if feed_updated < cache['last_updated']:
-    #    return # No need to parse entries if the feed hasn't been updated since then
+    # feed_updated = to_seconds(d['feed'].get('published_parsed') or d.get('updated_parsed'))
+    # if feed_updated < cache['last_updated']:
+    #     return # No need to parse entries if the feed hasn't been updated since then
 
     if feed_url not in cache:
         cache[feed_url] = {
@@ -77,7 +77,7 @@ def send_email(email_server, title, link, content):
     # msg['Date'] = time()
 
     msg.set_content('New RSS post: ' + link)
-    content = f'To view the full post, <a href="{link}">click here</a>.<br>{content}'
+    content = f'To view the full post, <a href="{link}">click here</a>.<hr>{content}'
     msg.add_alternative(content, subtype='html')
     email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
     exit(0)
