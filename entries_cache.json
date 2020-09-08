@@ -10,8 +10,18 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1586456143,
+    "last_updated": 1598321198,
     "name": "DeviantArt: shiniez's gallery",
+    "seen_entries": []
+  },
+  "https://backend.deviantart.com/rss.xml?q=gallery:sigeel": {
+    "last_updated": 1598498991,
+    "name": "DeviantArt: sigeel's gallery",
+    "seen_entries": []
+  },
+  "https://blizztrack.com/feeds/notes/hearthstone/rss": {
+    "last_updated": 1399571100,
+    "name": "Hearthstone Patch Notes",
     "seen_entries": []
   }
 }
