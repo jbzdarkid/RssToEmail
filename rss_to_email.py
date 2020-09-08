@@ -81,7 +81,7 @@ def send_email(email_server, title, date, link, content):
       content += f'<br>This was originally posted at {date}.'
     msg.add_alternative(content, subtype='html')
     email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
-    sleep(1) # Avoid spamming emails too hard
+    sleep(5) # Avoid spamming emails too hard
 
 
 if __name__ == '__main__':
