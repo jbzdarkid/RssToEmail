@@ -20,8 +20,33 @@
     "seen_entries": []
   },
   "https://blizztrack.com/feeds/notes/hearthstone/rss": {
-    "last_updated": 1399571100,
+    "last_updated": 1599584400,
     "name": "Hearthstone Patch Notes",
+    "seen_entries": []
+  },
+  "https://blizztrack.com/feeds/notes/overwatch/rss": {
+    "last_updated": 1589936880,
+    "name": "Overwatch Patch Notes",
+    "seen_entries": []
+  },
+  "https://blog.counter-strike.net/index.php/feed": {
+    "last_updated": 1599667996,
+    "name": "Counter-Strike: Global Offensive",
+    "seen_entries": []
+  },
+  "https://blog.dota2.com/feed": {
+    "last_updated": 1599244964,
+    "name": "Dota 2",
+    "seen_entries": []
+  },
+  "https://blog.momentum-mod.org/rss": {
+    "last_updated": 1594414128,
+    "name": "Momentum Mod Dev Blog",
+    "seen_entries": []
+  },
+  "https://blog.xkcd.com/feed": {
+    "last_updated": 1569436417,
+    "name": "xkcd",
     "seen_entries": []
   },
   "https://www.atomic-robo.com/rss.php": {
@@ -30,7 +55,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward.php": {
-    "last_updated": 1592193600,
+    "last_updated": 1599451200,
     "name": "Awkward Zombie",
     "seen_entries": []
   }
