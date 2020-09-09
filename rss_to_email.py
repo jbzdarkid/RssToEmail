@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from json import load, dump
 from os import environ
 from smtplib import SMTP
-from time import mktime, time, strftime, sleep
+from time import localtime, mktime, sleep, strftime, time
 
 try:
     SENDER_EMAIL = environ['sender_email']
@@ -77,7 +77,7 @@ def send_email(email_server, title, feed_title, date, link, content):
     msg.set_content('New RSS post: ' + link)
     content += f'<hr>To view the full post, <a href="{link}">click here</a>.'
     if date:
-      content += f'<br>This was originally posted at {date}.'
+      content += f'<br>This was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
     msg.add_alternative(content, subtype='html')
     email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
     sleep(5) # Avoid hitting GMail throttling limits
