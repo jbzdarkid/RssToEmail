@@ -57,23 +57,22 @@ def parse_feeds(cache, feed_url, email_server):
 
         if entry_date:
             if entry_date > cache[feed_url]['last_updated']:
-                send_email(email_server, title, entry_date, link, content)
+                send_email(email_server, title, feed_title, entry_date, link, content)
                 cache[feed_url]['last_updated'] = entry_date
         else:
             if link not in cache[feed_url]['seen_entries']:
-                send_email(email_server, title, None, link, content)
+                send_email(email_server, title, feed_title, None, link, content)
                 cache[feed_url]['seen_entries'].append(link)
 
         with open('entries_cache.json', 'w') as f:
             dump(cache, f, sort_keys=True, indent=2)
 
 
-def send_email(email_server, title, date, link, content):
+def send_email(email_server, title, feed_title, date, link, content):
     msg = EmailMessage()
-    msg['Subject'] = title
+    msg['Subject'] = title.replace('\n', '').replace('\r', '')
     msg['To'] = TARGET_EMAIL
-    msg['From'] = 'RSS To Email'
-    # msg['Date'] = time()
+    msg['From'] = feed_title
 
     msg.set_content('New RSS post: ' + link)
     content += f'<hr>To view the full post, <a href="{link}">click here</a>.'
@@ -81,7 +80,7 @@ def send_email(email_server, title, date, link, content):
       content += f'<br>This was originally posted at {date}.'
     msg.add_alternative(content, subtype='html')
     email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
-    sleep(5) # Avoid spamming emails too hard
+    sleep(5) # Avoid hitting GMail throttling limits
 
 
 if __name__ == '__main__':
