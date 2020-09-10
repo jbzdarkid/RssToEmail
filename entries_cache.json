@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1598321198,
+    "last_updated": 1599725171,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -49,6 +49,31 @@
     "name": "xkcd",
     "seen_entries": []
   },
+  "https://dumbrwby.tumblr.com/rss": {
+    "last_updated": 1593104630,
+    "name": "Dumb_RWBY",
+    "seen_entries": []
+  },
+  "https://eunnieverse.com/feed": {
+    "last_updated": 1599703418,
+    "name": "",
+    "seen_entries": []
+  },
+  "https://explosm.net/rss.php": {
+    "last_updated": 1599627600,
+    "name": "Explosm.net",
+    "seen_entries": []
+  },
+  "https://feeds.feedburner.com/jonathancoulton": {
+    "last_updated": 1554314657,
+    "name": "Jonathan Coulton",
+    "seen_entries": []
+  },
+  "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
+    "last_updated": 1537863120,
+    "name": "SFP",
+    "seen_entries": []
+  },
   "https://www.atomic-robo.com/rss.php": {
     "last_updated": 1599566402,
     "name": "Atomic Robo",
@@ -57,6 +82,21 @@
   "https://www.awkwardzombie.com/awkward.php": {
     "last_updated": 1599451200,
     "name": "Awkward Zombie",
+    "seen_entries": []
+  },
+  "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed": {
+    "last_updated": 1598983249,
+    "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
+    "seen_entries": []
+  },
+  "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed": {
+    "last_updated": 1599667249,
+    "name": "Zero Punctuation \u2013 Escapist Magazine",
+    "seen_entries": []
+  },
+  "https://www.fangamer.com/collections/t-shirts.atom": {
+    "last_updated": 1598373952,
+    "name": "Fangamer",
     "seen_entries": []
   }
 }
