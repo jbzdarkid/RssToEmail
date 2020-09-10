@@ -4,17 +4,13 @@ from email.mime.text import MIMEText
 from json import load, dump
 from os import environ
 from smtplib import SMTP
+from sys import exit
 from time import localtime, mktime, sleep, strftime, time
+from traceback import print_exc
 
-try:
-    SENDER_EMAIL = environ['sender_email']
-    SENDER_PWORD = environ['sender_pword']
-    TARGET_EMAIL = environ['target_email']
-except KeyError:
-    SENDER_EMAIL = None
-    SENDER_PWORD = None
-    TARGET_EMAIL = None
-
+SENDER_EMAIL = environ.get('sender_email', None)
+SENDER_PWORD = environ.get('sender_pword', None)
+TARGET_EMAIL = environ.get('target_email', None)
 
 def to_seconds(struct_time):
     if struct_time is None:
@@ -25,11 +21,6 @@ def to_seconds(struct_time):
 def parse_feeds(cache, feed_url, email_server):
     d = feedparser.parse(feed_url)
     feed_title = d['feed']['title']
-
-    # Not present for all feeds
-    # feed_updated = to_seconds(d['feed'].get('published_parsed') or d.get('updated_parsed'))
-    # if feed_updated < cache['last_updated']:
-    #     return # No need to parse entries if the feed hasn't been updated since then
 
     if feed_url not in cache:
         cache[feed_url] = {
@@ -79,8 +70,9 @@ def send_email(email_server, title, feed_title, date, link, content):
     if date:
       content += f'<br>This was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
     msg.add_alternative(content, subtype='html')
-    email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
-    sleep(5) # Avoid hitting GMail throttling limits
+    if SENDER_EMAIL and TARGET_EMAIL:
+        email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
+        sleep(5) # Avoid hitting GMail throttling limits
 
 
 if __name__ == '__main__':
@@ -93,12 +85,22 @@ if __name__ == '__main__':
     if SENDER_EMAIL:
         email_server.login(SENDER_EMAIL, SENDER_PWORD);
 
+    success = True
     with open('feed_list.txt', 'r') as f:
         for line in f:
             feed_url = line[:line.find('#')].strip()
             if feed_url == '':
-              continue
-            parse_feeds(cache, feed_url, email_server)
+                continue
+            try:
+                parse_feeds(cache, feed_url, email_server)
+            except KeyboardInterrupt:
+                break
+            except:
+                print('Exception while parsing feed: ' + feed_url)
+                print_exc()
+                success = False
+                continue
 
     email_server.quit()
+    exit(0 if success else 1)
 
