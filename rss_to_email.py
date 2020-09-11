@@ -1,11 +1,10 @@
 import feedparser
+import sys
 from email.message import EmailMessage
-from email.mime.text import MIMEText
 from json import load, dump
 from os import environ
 from smtplib import SMTP
-from sys import exit
-from time import localtime, mktime, sleep, strftime, time
+from time import localtime, mktime, sleep, strftime
 from traceback import print_exc
 
 SENDER_EMAIL = environ.get('sender_email', None)
@@ -102,5 +101,5 @@ if __name__ == '__main__':
                 continue
 
     email_server.quit()
-    exit(0 if success else 1)
+    sys.exit(0 if success else 1)
 
