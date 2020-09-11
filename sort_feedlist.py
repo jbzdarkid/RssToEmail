@@ -1,5 +1,4 @@
 import feedparser
-from json import load, dump
 
 def get_feed_name(feed_url):
     d = feedparser.parse(feed_url)
