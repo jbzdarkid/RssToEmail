@@ -6,7 +6,7 @@ from os import environ
 from smtplib import SMTP
 from sys import exit
 from time import localtime, mktime, sleep, strftime, time
-from traceback import print_exc
+from traceback import format_exc 
 
 SENDER_EMAIL = environ.get('sender_email', None)
 SENDER_PWORD = environ.get('sender_pword', None)
@@ -94,10 +94,15 @@ if __name__ == '__main__':
             try:
                 parse_feeds(cache, feed_url, email_server)
             except KeyboardInterrupt:
+                print_exc()
+                success = False
+                break
+            except smtplib.SMTPException:
+                print_exc()
+                success = False
                 break
             except:
-                print('Exception while parsing feed: ' + feed_url)
-                print_exc()
+                print('Exception while parsing feed: ' + feed_url + '\n' + format_exc())
                 success = False
                 continue
 
