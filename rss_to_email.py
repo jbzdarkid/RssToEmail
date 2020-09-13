@@ -3,7 +3,7 @@ import sys
 from email.message import EmailMessage
 from json import load, dump
 from os import environ
-from smtplib import SMTP
+from smtplib import SMTP, SMTPException
 from time import localtime, mktime, sleep, strftime
 from traceback import format_exc 
 
@@ -96,7 +96,7 @@ if __name__ == '__main__':
                 print_exc()
                 success = False
                 break
-            except smtplib.SMTPException:
+            except SMTPException:
                 print_exc()
                 success = False
                 break
