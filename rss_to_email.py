@@ -19,6 +19,8 @@ def to_seconds(struct_time):
 
 def parse_feeds(cache, feed_url, email_server):
     d = feedparser.parse(feed_url)
+    if d['bozo_exception']:
+        raise d['bozo_exception']
     feed_title = d['feed']['title']
 
     if feed_url not in cache:
