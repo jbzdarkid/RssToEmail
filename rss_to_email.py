@@ -5,7 +5,7 @@ from json import load, dump
 from os import environ
 from smtplib import SMTP, SMTPException
 from time import localtime, mktime, sleep, strftime
-from traceback import format_exc 
+from traceback import format_exc, print_exc
 
 SENDER_EMAIL = environ.get('sender_email', None)
 SENDER_PWORD = environ.get('sender_pword', None)
@@ -98,12 +98,12 @@ if __name__ == '__main__':
                 print_exc()
                 success = False
                 break
-            except SMTPException:
+            except SMTPException: # Indicates throttling in the SMTP client
                 print_exc()
                 success = False
                 break
-            except:
-                print('Exception while parsing feed: ' + feed_url + '\n' + format_exc())
+            except Exception:
+                print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
                 success = False
                 continue
 
