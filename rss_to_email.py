@@ -4,8 +4,10 @@ from email.message import EmailMessage
 from json import load, dump
 from os import environ
 from smtplib import SMTP, SMTPException
+from urllib.error import URLError
 from time import localtime, mktime, sleep, strftime
 from traceback import format_exc, print_exc
+from xml.sax import SAXException
 
 SENDER_EMAIL = environ.get('sender_email', None)
 SENDER_PWORD = environ.get('sender_pword', None)
@@ -18,9 +20,29 @@ def to_seconds(struct_time):
 
 
 def parse_feeds(cache, feed_url, email_server):
-    d = feedparser.parse(feed_url)
+    etag = None
+    if feed_url in cache and 'etag' in cache[feed_url]:
+        etag = cache[feed_url]['etag']
+    modified = None
+    if modified in cache and 'modified' in cache[feed_url]:
+        modified = cache[feed_url]['modified']
+
+    d = feedparser.parse(feed_url, etag=etag, modified=modified)
+
+    # Bozo may be set to 1 for recoverable errors. Since I don't own these feeds, there's no need to report this.
     if d['bozo'] == 1:
-        raise d['bozo_exception']
+        if isinstance(d['bozo_exception'], URLError): # Network error
+            raise d['bozo_exception']
+        if isinstance(d['bozo_exception'], SAXException): # XML parse error
+            raise d['bozo_exception']
+
+    if d['status'] == 304:
+        return # etag / modified indicates no new data
+    if d['status'] == 301:
+        print(f'Feed {feed_url} has moved to {d.href}')
+    if d['status'] == 410:
+        print(f'Feed {feed_url} has been permanently deleted')
+
     feed_title = d['feed']['title']
 
     if feed_url not in cache:
@@ -33,6 +55,11 @@ def parse_feeds(cache, feed_url, email_server):
         # Potentially update title
         cache[feed_url]['name'] = feed_title
 
+    if 'etag' in d:
+        cache[feed_url]['etag'] = d.etag
+    if 'modified' in d:
+        cache[feed_url]['modified'] = d.modified
+
     for entry in reversed(d['entries']):
         title = entry['title']
         link = entry['link']
@@ -40,6 +67,8 @@ def parse_feeds(cache, feed_url, email_server):
         entry_date = to_seconds(entry.get('published_parsed'))
         content = None
         if 'content' not in entry:
+            if 'description' not in entry:
+                continue
             content = entry['description']
         else:
             for c in entry['content']:
