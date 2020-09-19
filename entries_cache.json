@@ -34,8 +34,16 @@
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
+  "https://blog.counter-strike.net/index.php/feed/": {
+    "etag": "W/\"b184ebe195e7dcb5395d66c2a6a13657\"",
+    "last_updated": 1599667996,
+    "modified": "Thu, 17 Sep 2020 23:46:53 GMT",
+    "name": "Counter-Strike: Global Offensive",
+    "seen_entries": []
+  },
   "https://blog.dota2.com/feed": {
-    "last_updated": 1599244964,
+    "last_updated": 1600308679,
+    "modified": "Sat, 19 Sep 2020 11:12:38 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -49,6 +57,12 @@
     "name": "xkcd",
     "seen_entries": []
   },
+  "https://blog.xkcd.com/feed/": {
+    "last_updated": 1569436417,
+    "modified": "Thu, 26 Sep 2019 13:50:48 GMT",
+    "name": "xkcd",
+    "seen_entries": []
+  },
   "https://dumbrwby.tumblr.com/rss": {
     "last_updated": 1593104630,
     "name": "Dumb_RWBY",
@@ -56,6 +70,7 @@
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
     "last_updated": 1593049417,
+    "modified": "Mon, 14 Sep 2020 09:00:14 GMT",
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
@@ -65,17 +80,21 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1600405200,
+    "last_updated": 1600491600,
     "name": "Explosm.net",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/jonathancoulton": {
+    "etag": "BRj3N4wkoAw/WJH4ExFKlFUuuZU",
     "last_updated": 1554314657,
+    "modified": "Sat, 19 Sep 2020 10:34:01 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
+    "etag": "IuD0fFyoZ0pD2nGKiPhdu0OsvSg",
     "last_updated": 1537863120,
+    "modified": "Sat, 19 Sep 2020 10:59:01 GMT",
     "name": "SFP",
     "seen_entries": []
   },
@@ -85,7 +104,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
+    "etag": "W/\"1839d97a310577ec038b914f0b44545a76063efd00e98e0e6a7bff5cd415bec8\"",
     "last_updated": 1569029820,
+    "modified": "Sat, 19 Sep 2020 11:02:08 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -95,12 +116,16 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
+    "etag": "W/\"fc0d4eb480fd827ef264cccfd2f9e62d7703bcc9f12651d689d2ffefd98ddce7\"",
     "last_updated": 1599581160,
+    "modified": "Sat, 19 Sep 2020 11:02:50 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
   "https://hearthsim.info/feed.xml": {
+    "etag": "\"da94e38c051b7fd7c709c0cc04d5d49d\"",
     "last_updated": 1497916800,
+    "modified": "Wed, 21 Jun 2017 12:10:54 GMT",
     "name": "HearthSim",
     "seen_entries": []
   },
@@ -110,12 +135,14 @@
     "seen_entries": []
   },
   "https://steamcommunity.com/games/250820/rss": {
-    "last_updated": 1600376930,
+    "last_updated": 1600467912,
+    "modified": "Sat, 19 Sep 2020 11:18:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
-    "last_updated": 1598400009,
+    "last_updated": 1600467963,
+    "modified": "Sat, 19 Sep 2020 11:18:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -124,8 +151,15 @@
     "name": "Steam Database",
     "seen_entries": []
   },
+  "https://steamdb.info/api/BlogRSS/": {
+    "last_updated": 1584902011,
+    "name": "Steam Database",
+    "seen_entries": []
+  },
   "https://what-if.xkcd.com/feed.atom": {
+    "etag": "\"5b32ac27-f14c\"",
     "last_updated": 1526860800,
+    "modified": "Tue, 26 Jun 2018 21:12:07 GMT",
     "name": "What If?",
     "seen_entries": []
   },
@@ -134,9 +168,19 @@
     "name": "Team Fortress Wiki - Watchlist [en]",
     "seen_entries": []
   },
+  "https://www.atomic-robo.com/atomicrobo/rss": {
+    "last_updated": 1600344057,
+    "name": "Atomic Robo",
+    "seen_entries": []
+  },
   "https://www.atomic-robo.com/rss.php": {
     "last_updated": 1600344057,
     "name": "Atomic Robo",
+    "seen_entries": []
+  },
+  "https://www.awkwardzombie.com/awkward-zombie/rss": {
+    "last_updated": 1600056000,
+    "name": "Awkward Zombie",
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward.php": {
@@ -149,18 +193,35 @@
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
+  "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
+    "etag": "W/\"d2739b716e1dc08f0f79908ab0636819\"",
+    "last_updated": 1600186408,
+    "modified": "Fri, 18 Sep 2020 22:07:14 GMT",
+    "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
+    "seen_entries": []
+  },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed": {
     "last_updated": 1600272057,
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
+  "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
+    "etag": "W/\"d2739b716e1dc08f0f79908ab0636819\"",
+    "last_updated": 1600272057,
+    "modified": "Fri, 18 Sep 2020 22:07:14 GMT",
+    "name": "Zero Punctuation \u2013 Escapist Magazine",
+    "seen_entries": []
+  },
   "https://www.fangamer.com/collections/t-shirts.atom": {
+    "etag": "cacheable:e44abc59587d19c0195deb6dacd2f6a0",
     "last_updated": 1600218901,
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
+    "etag": "\"0x8D8567AFBF8766B\"",
     "last_updated": 0,
+    "modified": "Fri, 11 Sep 2020 17:49:08 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -176,8 +237,14 @@
       "http://www.giantitp.com/comics/oots1214.html"
     ]
   },
+  "https://www.gogetaroomie.com/comic/rss": {
+    "last_updated": 1600418700,
+    "name": "Go Get a Roomie!",
+    "seen_entries": []
+  },
   "https://www.l4d.com/blog/rss.xml": {
     "last_updated": 1600364280,
+    "modified": "Thu, 17 Sep 2020 17:38:00 +0000",
     "name": "L4D Official Blog",
     "seen_entries": []
   },
@@ -196,18 +263,34 @@
     "name": "The Starry Expanse Project",
     "seen_entries": []
   },
+  "https://www.starryexpanse.com/feed/": {
+    "etag": "\"a311f731e5c184e51f758f3004ae1f42-gzip\"",
+    "last_updated": 1578712195,
+    "modified": "Sun, 12 Jul 2020 03:53:37 GMT",
+    "name": "The Starry Expanse Project",
+    "seen_entries": []
+  },
   "https://www.teamfortress.com/rss.xml": {
     "last_updated": 1599666840,
+    "modified": "Wed, 09 Sep 2020 15:54:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
   "https://www.thinkwithportals.com/rss.xml": {
     "last_updated": 1594764840,
+    "modified": "Tue, 14 Jul 2020 22:14:00 +0000",
     "name": "Portal 2 Official Blog",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed": {
     "last_updated": 1600358443,
+    "name": "Analysis \u2013 Vicious Syndicate",
+    "seen_entries": []
+  },
+  "https://www.vicioussyndicate.com/category/analysis/feed/": {
+    "etag": "W/\"d82837e5f90332577202ccf66e10ab2e\"",
+    "last_updated": 1600358443,
+    "modified": "Thu, 17 Sep 2020 19:32:55 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -221,6 +304,11 @@
     "name": "Punderworld",
     "seen_entries": []
   },
+  "https://www.wildelifecomic.com/comic/rss": {
+    "last_updated": 1600405178,
+    "name": "Wilde Life",
+    "seen_entries": []
+  },
   "https://www.wildelifecomic.com/rss.php": {
     "last_updated": 1600405178,
     "name": "Wilde Life",
@@ -232,7 +320,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1600360541,
+    "last_updated": 1600445535,
     "name": "GDC",
     "seen_entries": []
   },
@@ -377,7 +465,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "last_updated": 1600228800,
+    "etag": "W/\"5f6552f5-977\"",
+    "last_updated": 1600401600,
+    "modified": "Sat, 19 Sep 2020 00:38:13 GMT",
     "name": "xkcd.com",
     "seen_entries": []
   }
