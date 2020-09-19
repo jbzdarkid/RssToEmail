@@ -1,12 +1,13 @@
 import feedparser
 import sys
 from email.message import EmailMessage
+from fileinput import input as fileinput
 from json import load, dump
 from os import environ
 from smtplib import SMTP, SMTPException
-from urllib.error import URLError
 from time import localtime, mktime, sleep, strftime
 from traceback import format_exc, print_exc
+from urllib.error import URLError
 from xml.sax import SAXException
 
 SENDER_EMAIL = environ.get('sender_email', None)
@@ -36,12 +37,25 @@ def parse_feeds(cache, feed_url, email_server):
         if isinstance(d['bozo_exception'], SAXException): # XML parse error
             raise d['bozo_exception']
 
-    if d['status'] == 304:
-        return # etag / modified indicates no new data
+    if d['status'] == 304: # etag / modified indicates no new data
+        return
     if d['status'] == 301:
-        print(f'Feed {feed_url} has moved to {d.href}')
+        print(f'Feed {feed_url} has permanently moved to {d.href}')
+        for line in fileinput('feed_list.txt', inplace=True):
+            print(line.replace(feed_url, d.href), end='')
+        cache[d.href] = cache[feed_url]
+        del cache[feed_url]
+        feed_url = d.href
     if d['status'] == 410:
         print(f'Feed {feed_url} has been permanently deleted')
+        for line in fileinput('feed_list.txt', inplace=True):
+            if feed_url not in line:
+                print(line, end='')
+                continue
+
+            print('# (Permanently deleted)')
+            print('# ' + line, end='')
+        return
 
     feed_title = d['feed']['title']
 
@@ -116,25 +130,29 @@ if __name__ == '__main__':
         email_server.login(SENDER_EMAIL, SENDER_PWORD);
 
     success = True
+    feeds = []
     with open('feed_list.txt', 'r') as f:
         for line in f:
             feed_url = line[:line.find('#')].strip()
             if feed_url == '':
                 continue
-            try:
-                parse_feeds(cache, feed_url, email_server)
-            except KeyboardInterrupt:
-                print_exc()
-                success = False
-                break
-            except SMTPException: # Indicates throttling in the SMTP client
-                print_exc()
-                success = False
-                break
-            except Exception:
-                print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
-                success = False
-                continue
+            feeds.append(feed_url)
+
+    for feed_url in feeds:
+        try:
+            parse_feeds(cache, feed_url, email_server)
+        except KeyboardInterrupt:
+            print_exc()
+            success = False
+            break
+        except SMTPException: # Indicates throttling in the SMTP client
+            print_exc()
+            success = False
+            break
+        except Exception:
+            print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
+            success = False
+            continue
 
     email_server.quit()
     sys.exit(0 if success else 1)
