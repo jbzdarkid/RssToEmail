@@ -15,7 +15,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1601063944,
+    "last_updated": 1601141480,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -33,7 +33,7 @@
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1600308679,
-    "modified": "Sat, 26 Sep 2020 11:03:08 GMT",
+    "modified": "Sun, 27 Sep 2020 10:35:46 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -84,16 +84,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"2130be878df192cd281265feb5a47f7f973f1a55752443ae236420dfeb9c7f8b\"",
+    "etag": "W/\"826ee95e41c2d78b5a13d7060da4adf80243eb7b88ea3a1eca15f8ebc73e0385\"",
     "last_updated": 1569029820,
-    "modified": "Sat, 26 Sep 2020 06:54:45 GMT",
+    "modified": "Sun, 27 Sep 2020 07:52:34 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"eb10ed0375aded1ae9c5f0d6646550a60a436f15250d6beb272a82b4506a85bd\"",
+    "etag": "W/\"b0055fd3d4b53e6de5ca71294b3ca8711bd94cee3f713fbc5efdbb5a1662c554\"",
     "last_updated": 1599581160,
-    "modified": "Sat, 26 Sep 2020 10:58:07 GMT",
+    "modified": "Sun, 27 Sep 2020 03:14:35 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -105,19 +105,19 @@
     "seen_entries": []
   },
   "https://politepol.com/fd/oaAc0yT3zDbO": {
-    "last_updated": 1600045508,
+    "last_updated": 1601204991,
     "name": "Jolly Jack's Collected Curios",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1600467912,
-    "modified": "Sat, 26 Sep 2020 11:10:00 GMT",
+    "modified": "Sun, 27 Sep 2020 11:10:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1600967959,
-    "modified": "Sat, 26 Sep 2020 11:10:00 GMT",
+    "modified": "Sun, 27 Sep 2020 11:10:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a7f428201b43631476b9ed137c1850e8\"",
+    "etag": "W/\"fcc4494412e2dab1e744f464a20064ce\"",
     "last_updated": 1600186408,
-    "modified": "Fri, 25 Sep 2020 21:54:25 GMT",
+    "modified": "Sat, 26 Sep 2020 17:52:38 GMT",
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"a7f428201b43631476b9ed137c1850e8\"",
+    "etag": "W/\"fcc4494412e2dab1e744f464a20064ce\"",
     "last_updated": 1600876848,
-    "modified": "Fri, 25 Sep 2020 21:54:25 GMT",
+    "modified": "Sat, 26 Sep 2020 17:52:38 GMT",
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:41d7d9a20b7241647f3ac84d24f0c8d9",
+    "etag": "cacheable:4f15be8c277addd7df51ceea4ce02cb0",
     "last_updated": 1600793489,
     "name": "Fangamer",
     "seen_entries": []
@@ -194,15 +194,17 @@
     "seen_entries": []
   },
   "https://www.l4d.com/blog/rss.xml": {
-    "last_updated": 1601078580,
-    "modified": "Sat, 26 Sep 2020 00:03:00 +0000",
+    "last_updated": 1601155200,
+    "modified": "Sat, 26 Sep 2020 21:20:00 +0000",
     "name": "L4D Official Blog",
     "seen_entries": []
   },
   "https://www.reddit.com/message/unread/.rss?feed=b8572a3b0666842ff05528c742145600cfc57a5f&user=darkid": {
     "last_updated": 0,
     "name": "messages: unread",
-    "seen_entries": []
+    "seen_entries": [
+      "https://www.reddit.com/message/messages/txtnqq"
+    ]
   },
   "https://www.samandfuzzy.com/feed": {
     "last_updated": 0,
@@ -229,9 +231,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"736cb3d4c95bc95f135867e9d0ea59ed\"",
+    "etag": "W/\"c36feafca16319fb0a288d04008003d7\"",
     "last_updated": 1600963252,
-    "modified": "Sat, 26 Sep 2020 02:29:27 GMT",
+    "modified": "Sat, 26 Sep 2020 18:37:52 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -306,12 +308,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1600881935,
+    "last_updated": 1601173554,
     "name": "Tom Francis",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1601064005,
+    "last_updated": 1601150405,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -341,7 +343,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
-    "last_updated": 1600587326,
+    "last_updated": 1601178739,
     "name": "shadyparadox",
     "seen_entries": []
   },
