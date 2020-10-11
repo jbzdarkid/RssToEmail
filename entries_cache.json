@@ -33,7 +33,7 @@
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1602281959,
-    "modified": "Sat, 10 Oct 2020 10:41:09 GMT",
+    "modified": "Sun, 11 Oct 2020 11:10:09 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -44,7 +44,7 @@
   },
   "https://blog.xkcd.com/feed/": {
     "last_updated": 1569436417,
-    "modified": "Fri, 25 Sep 2020 13:50:52 GMT",
+    "modified": "Fri, 25 Sep 2020 13:50:48 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -84,16 +84,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"95be423830b6823ea6badadd2fcc7c6f89ade17fdf234f08f54bb1575baf6729\"",
+    "etag": "W/\"425c99d3c071fbe73fbf89b29f6a1ca422f4b29bb39fe87be83e0f6ef46051fc\"",
     "last_updated": 1569029820,
-    "modified": "Sat, 10 Oct 2020 08:12:22 GMT",
+    "modified": "Sun, 11 Oct 2020 07:57:27 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"88952027abbd1fe0534377c5ccb543d85f27a1bceb9d35720442141eb1b86f1b\"",
+    "etag": "W/\"4b59abe429136e467f21cb4df8bb32a2dcb136f99d18f2cda2d34e0050dd1e20\"",
     "last_updated": 1602002280,
-    "modified": "Sat, 10 Oct 2020 09:27:04 GMT",
+    "modified": "Sun, 11 Oct 2020 09:10:57 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -111,13 +111,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1602020123,
-    "modified": "Sat, 10 Oct 2020 11:10:00 GMT",
+    "modified": "Sun, 11 Oct 2020 11:10:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1602095640,
-    "modified": "Sat, 10 Oct 2020 11:10:00 GMT",
+    "modified": "Sun, 11 Oct 2020 11:10:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"66d5529228ec92595c8efde47502c548\"",
+    "etag": "W/\"a46f17f247a7a7345735c7d63dc0b192\"",
     "last_updated": 1601405230,
-    "modified": "Sat, 10 Oct 2020 01:09:05 GMT",
+    "modified": "Sat, 10 Oct 2020 16:46:35 GMT",
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"66d5529228ec92595c8efde47502c548\"",
+    "etag": "W/\"a46f17f247a7a7345735c7d63dc0b192\"",
     "last_updated": 1602086405,
-    "modified": "Sat, 10 Oct 2020 01:09:05 GMT",
+    "modified": "Sat, 10 Oct 2020 16:46:35 GMT",
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e6839f08a6d71039bb60bcc787249458",
+    "etag": "cacheable:f4183687322a082a38cfdabb2bcf4c1d",
     "last_updated": 1602014538,
     "name": "Fangamer",
     "seen_entries": []
@@ -232,9 +232,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"7a233c9d0a21659a6fe7ce4f4a211017\"",
+    "etag": "W/\"ac9e33de30a60137c34a6e22c91a7f69\"",
     "last_updated": 1602172800,
-    "modified": "Fri, 09 Oct 2020 16:03:33 GMT",
+    "modified": "Sat, 10 Oct 2020 17:58:48 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -314,7 +314,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1602187202,
+    "last_updated": 1602360003,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -344,7 +344,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
-    "last_updated": 1601789045,
+    "last_updated": 1602394498,
     "name": "shadyparadox",
     "seen_entries": []
   },
@@ -369,7 +369,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A": {
-    "last_updated": 1602292353,
+    "last_updated": 1602351435,
     "name": "PlayOverwatch",
     "seen_entries": []
   },
