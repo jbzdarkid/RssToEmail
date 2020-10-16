@@ -24,6 +24,7 @@ jobs:
         sender_email: ${{ secrets.SENDER_EMAIL }}
         sender_pword: ${{ secrets.SENDER_PWORD }}
         target_email: ${{ secrets.TARGET_EMAIL }}
+        email_server: ${{ secrets.EMAIL_SERVER }}
     - name: Commit cache updates
       if: ${{ always() }}
       run: |

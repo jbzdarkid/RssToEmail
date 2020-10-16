@@ -125,9 +125,7 @@ if __name__ == '__main__':
         cache = load(f)
 
     print(len(EMAIL_SERVER), len(SENDER_EMAIL), len(SENDER_PWORD))
-    email_server = SMTP()
-    email_server.connect(EMAIL_SERVER, 587)
-    email_server.starttls()
+    email_server = SMTP_SSL(EMAIL_SERVER, 587)
     if SENDER_EMAIL:
         email_server.login(SENDER_EMAIL, SENDER_PWORD);
 
