@@ -125,6 +125,7 @@ if __name__ == '__main__':
         cache = load(f)
 
     email_server = SMTP(EMAIL_SERVER, 587)
+    email-server.connect()
     email_server.ehlo()
     email_server.starttls()
     if SENDER_EMAIL:
