@@ -13,6 +13,7 @@ from xml.sax import SAXException
 SENDER_EMAIL = environ.get('sender_email', None)
 SENDER_PWORD = environ.get('sender_pword', None)
 TARGET_EMAIL = environ.get('target_email', None)
+EMAIL_SERVER = environ.get('email_server', None)
 
 def to_seconds(struct_time):
     if struct_time is None:
@@ -116,14 +117,14 @@ def send_email(email_server, title, feed_title, date, link, content):
     msg.add_alternative(content, subtype='html')
     if SENDER_EMAIL and TARGET_EMAIL:
         email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
-        sleep(5) # Avoid hitting GMail throttling limits
+        sleep(5) # Avoid hitting throttling limits
 
 
 if __name__ == '__main__':
     with open('entries_cache.json', 'r') as f:
         cache = load(f)
 
-    email_server = SMTP('smtp.gmail.com', 587)
+    email_server = SMTP(EMAIL_SERVER, 587)
     email_server.ehlo()
     email_server.starttls()
     if SENDER_EMAIL:
