@@ -124,8 +124,7 @@ if __name__ == '__main__':
     with open('entries_cache.json', 'r') as f:
         cache = load(f)
 
-    email_server = SMTP(EMAIL_SERVER, 587)
-    email_server.ehlo()
+    email_server = SMTP(EMAIL_SERVER)
     email_server.starttls()
     if SENDER_EMAIL:
         email_server.login(SENDER_EMAIL, SENDER_PWORD);
