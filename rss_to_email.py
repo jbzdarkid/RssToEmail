@@ -124,8 +124,8 @@ if __name__ == '__main__':
     with open('entries_cache.json', 'r') as f:
         cache = load(f)
 
-    print(len(EMAIL_SERVER), len(SENDER_EMAIL), len(SENDER_PWORD))
-    email_server = SMTP_SSL(EMAIL_SERVER, 587)
+    email_server = SMTP(EMAIL_SERVER, 587)
+    email_server.starttls()
     if SENDER_EMAIL:
         email_server.login(SENDER_EMAIL, SENDER_PWORD);
 
