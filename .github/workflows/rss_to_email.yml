@@ -31,4 +31,5 @@ jobs:
         git config --global user.email "rss-to-email@noreply.github.com"
         git config --global user.name "RSSToEmailBot"
         git commit -am "Updated cache on $(date)"
+        git pull --ff-only
         git push
