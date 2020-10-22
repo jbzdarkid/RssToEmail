@@ -1,6 +1,6 @@
 {
   "http://explosm.net/rss.php": {
-    "last_updated": 1603170000,
+    "last_updated": 1603256400,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -25,15 +25,15 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"69e34449494bb4762774f969b01f3282\"",
+    "etag": "W/\"3acc2e924115c7e2e635fa27946d8e45\"",
     "last_updated": 1599667996,
-    "modified": "Mon, 19 Oct 2020 18:19:55 GMT",
+    "modified": "Wed, 21 Oct 2020 22:22:55 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1602796410,
-    "modified": "Wed, 21 Oct 2020 11:05:43 GMT",
+    "modified": "Thu, 22 Oct 2020 04:28:10 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -84,16 +84,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a26bbe0f178aee938dc81d377064965191b851d15c820a493626aa760f5f0cc1\"",
+    "etag": "W/\"b74c4bcc4053e6546ca01b8d840118516cac1574287fa06ec53d1309b69b5d20\"",
     "last_updated": 1569029820,
-    "modified": "Wed, 21 Oct 2020 09:12:49 GMT",
+    "modified": "Wed, 21 Oct 2020 22:28:30 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ec4642222bdeda55af60991d8d01393c94b841a10d37bbdf2219e136dcf0ee27\"",
+    "etag": "W/\"9a480831ec3a467498b0e46cede1450c3faf0ac1c61f2100ec3939b5838f8f50\"",
     "last_updated": 1602002280,
-    "modified": "Wed, 21 Oct 2020 09:09:56 GMT",
+    "modified": "Thu, 22 Oct 2020 03:10:28 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -111,13 +111,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1602636663,
-    "modified": "Wed, 21 Oct 2020 11:10:00 GMT",
+    "modified": "Thu, 22 Oct 2020 04:46:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1602867630,
-    "modified": "Wed, 21 Oct 2020 11:10:00 GMT",
+    "modified": "Thu, 22 Oct 2020 04:46:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a390a15966be32a136ac3343aae6f765\"",
+    "etag": "W/\"94678fd3bb1c57a3938e015760567528\"",
     "last_updated": 1603209632,
-    "modified": "Tue, 20 Oct 2020 22:34:31 GMT",
+    "modified": "Wed, 21 Oct 2020 23:12:13 GMT",
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"a390a15966be32a136ac3343aae6f765\"",
-    "last_updated": 1602691232,
-    "modified": "Tue, 20 Oct 2020 22:34:31 GMT",
+    "etag": "W/\"94678fd3bb1c57a3938e015760567528\"",
+    "last_updated": 1603296006,
+    "modified": "Wed, 21 Oct 2020 23:12:13 GMT",
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a3461afd0d5da56f0cc0af81e8eb9aba",
+    "etag": "cacheable:e7c4250463042712848a0582fc444209",
     "last_updated": 1603213598,
     "name": "Fangamer",
     "seen_entries": []
@@ -196,8 +196,8 @@
     "seen_entries": []
   },
   "https://www.l4d.com/blog/rss.xml": {
-    "last_updated": 1602706440,
-    "modified": "Wed, 14 Oct 2020 20:14:00 +0000",
+    "last_updated": 1603304760,
+    "modified": "Wed, 21 Oct 2020 18:26:00 +0000",
     "name": "L4D Official Blog",
     "seen_entries": []
   },
@@ -233,9 +233,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"d0cca7fabda58f5220000d9a572ec141\"",
+    "etag": "W/\"f955a279260855a866adef4c48172729\"",
     "last_updated": 1602777644,
-    "modified": "Tue, 20 Oct 2020 06:12:07 GMT",
+    "modified": "Thu, 22 Oct 2020 01:47:06 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -260,7 +260,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1603210107,
+    "last_updated": 1603314788,
     "name": "GDC",
     "seen_entries": []
   },
@@ -310,12 +310,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1603216948,
+    "last_updated": 1603310618,
     "name": "Tom Francis",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1603224013,
+    "last_updated": 1603310402,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -405,9 +405,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5f8fb248-91e\"",
-    "last_updated": 1603080000,
-    "modified": "Wed, 21 Oct 2020 04:00:08 GMT",
+    "etag": "W/\"5f90d407-a04\"",
+    "last_updated": 1603252800,
+    "modified": "Thu, 22 Oct 2020 00:36:23 GMT",
     "name": "xkcd.com",
     "seen_entries": []
   }
