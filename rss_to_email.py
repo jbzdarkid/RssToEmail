@@ -108,8 +108,7 @@ def send_email(email_server, title, feed_title, date, link, content):
     msg = EmailMessage()
     msg['Subject'] = title.replace('\n', '').replace('\r', '')
     msg['To'] = TARGET_EMAIL
-    print(feed_title)
-    msg['From'] = f'feed_title <{SENDER_EMAIL}>'
+    msg['From'] = f'{feed_title} <{SENDER_EMAIL}>'
 
     msg.set_content('New RSS post: ' + link)
     content += f'<hr>To view the full post, <a href="{link}">click here</a>.'
