@@ -1,6 +1,6 @@
 {
   "http://explosm.net/rss.php": {
-    "last_updated": 1604296800,
+    "last_updated": 1604383200,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -25,15 +25,15 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"3acc2e924115c7e2e635fa27946d8e45\"",
+    "etag": "W/\"7bfb5bc46e15bc2d2203dfd499d2d04c\"",
     "last_updated": 1599667996,
-    "modified": "Wed, 21 Oct 2020 22:22:55 GMT",
+    "modified": "Mon, 02 Nov 2020 15:56:32 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1603997997,
-    "modified": "Mon, 02 Nov 2020 10:51:02 GMT",
+    "modified": "Tue, 03 Nov 2020 10:59:03 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -44,7 +44,7 @@
   },
   "https://blog.xkcd.com/feed/": {
     "last_updated": 1569436417,
-    "modified": "Fri, 25 Sep 2020 13:50:48 GMT",
+    "modified": "Fri, 25 Sep 2020 13:50:52 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -79,21 +79,21 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1604216975,
+    "last_updated": 1604395226,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"90cd8615f6dd043b32388d6774e19079595eadd3656ff5b708661bf79b827147\"",
+    "etag": "W/\"9a7c4783ec0983cebe4fb1c124312e1e20bc4bc4e74a565dfedadf80e6e96aa6\"",
     "last_updated": 1569029820,
-    "modified": "Mon, 02 Nov 2020 10:00:53 GMT",
+    "modified": "Tue, 03 Nov 2020 09:01:34 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1cb3ba80d5502a3db5787272f3f63505385976c7c464094ea25a8953d1735eb2\"",
+    "etag": "W/\"04941fb42113038d7c6737e94ac5236b8c37ad2d2b268dcb281eba88933531f0\"",
     "last_updated": 1602002280,
-    "modified": "Mon, 02 Nov 2020 11:00:23 GMT",
+    "modified": "Tue, 03 Nov 2020 09:03:17 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -110,14 +110,14 @@
     "seen_entries": []
   },
   "https://steamcommunity.com/games/250820/rss": {
-    "last_updated": 1602636663,
-    "modified": "Mon, 02 Nov 2020 11:08:00 GMT",
+    "last_updated": 1604345338,
+    "modified": "Tue, 03 Nov 2020 11:08:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1603997889,
-    "modified": "Mon, 02 Nov 2020 11:08:00 GMT",
+    "modified": "Tue, 03 Nov 2020 11:08:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7ba8de5676d302d0f1ca35c3afc64e58\"",
+    "etag": "W/\"885f985eaa0b8a83a82a181e54bcf603\"",
     "last_updated": 1603209632,
-    "modified": "Sun, 01 Nov 2020 20:00:40 GMT",
+    "modified": "Mon, 02 Nov 2020 23:15:06 GMT",
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"7ba8de5676d302d0f1ca35c3afc64e58\"",
+    "etag": "W/\"885f985eaa0b8a83a82a181e54bcf603\"",
     "last_updated": 1603900836,
-    "modified": "Sun, 01 Nov 2020 20:00:40 GMT",
+    "modified": "Mon, 02 Nov 2020 23:15:06 GMT",
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e841a6ce3d46cbefb88521d90679c32b",
+    "etag": "cacheable:f0ef05073a29a9a4e0075eb1acedd337",
     "last_updated": 1603899104,
     "name": "Fangamer",
     "seen_entries": []
@@ -261,7 +261,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1604073612,
+    "last_updated": 1604338025,
     "name": "GDC",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1604259575,
+    "last_updated": 1604385294,
     "name": "Tom Francis",
     "seen_entries": []
   },
@@ -391,7 +391,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1604195952,
+    "last_updated": 1604348350,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -406,9 +406,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5f9f9257-8f3\"",
-    "last_updated": 1604030400,
-    "modified": "Mon, 02 Nov 2020 05:00:07 GMT",
+    "etag": "W/\"5fa06f9a-9e3\"",
+    "last_updated": 1604293200,
+    "modified": "Mon, 02 Nov 2020 20:44:10 GMT",
     "name": "xkcd.com",
     "seen_entries": []
   }
