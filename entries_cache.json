@@ -1,6 +1,6 @@
 {
   "http://explosm.net/rss.php": {
-    "last_updated": 1604728800,
+    "last_updated": 1604901600,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -33,7 +33,7 @@
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1603997997,
-    "modified": "Sun, 08 Nov 2020 10:17:32 GMT",
+    "modified": "Mon, 09 Nov 2020 10:50:21 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -84,16 +84,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7f39f2b1bd2f4597da45505b85f963e5a108719837a936cd97ddecd8bdf7b35b\"",
+    "etag": "W/\"287717ee07fc6cae3015f2fa04ef60f84d2391e1b85512ffeb5a9c23a5f104ca\"",
     "last_updated": 1569029820,
-    "modified": "Sun, 08 Nov 2020 09:07:18 GMT",
+    "modified": "Mon, 09 Nov 2020 08:54:33 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"50aff850a38a6c4d3b3dacc6ef8ed868d9f00d802d46cdc7ba752c24f32e8ded\"",
+    "etag": "W/\"74ca80de85e6d7ce7c74064cf49bf06b2058f1391cdb6b01180126b8964a73f6\"",
     "last_updated": 1602002280,
-    "modified": "Sun, 08 Nov 2020 09:05:47 GMT",
+    "modified": "Mon, 09 Nov 2020 10:32:41 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -111,13 +111,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1604538456,
-    "modified": "Sun, 08 Nov 2020 11:08:00 GMT",
+    "modified": "Mon, 09 Nov 2020 11:08:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1603997889,
-    "modified": "Sun, 08 Nov 2020 11:08:00 GMT",
+    "modified": "Mon, 09 Nov 2020 11:08:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -144,26 +144,26 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1604293200,
+    "last_updated": 1604898000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7e2e1d9b4da7add356f3fb9925ea3148\"",
+    "etag": "W/\"6f080f4bf66dcb2b873d5c283261cb1c\"",
     "last_updated": 1604422850,
-    "modified": "Sat, 07 Nov 2020 20:30:53 GMT",
+    "modified": "Sun, 08 Nov 2020 16:00:09 GMT",
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"7e2e1d9b4da7add356f3fb9925ea3148\"",
+    "etag": "W/\"6f080f4bf66dcb2b873d5c283261cb1c\"",
     "last_updated": 1604509252,
-    "modified": "Sat, 07 Nov 2020 20:30:53 GMT",
+    "modified": "Sun, 08 Nov 2020 16:00:09 GMT",
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e1c9f7b047c22b2c03e252bc60a44a68",
+    "etag": "cacheable:67266a9c71c18bcc8566975376bac8d1",
     "last_updated": 1604595513,
     "name": "Fangamer",
     "seen_entries": []
@@ -192,7 +192,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1604638800,
+    "last_updated": 1604898000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -251,7 +251,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1604638866,
+    "last_updated": 1604901658,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1604782392,
+    "last_updated": 1604881400,
     "name": "Tom Francis",
     "seen_entries": []
   },
@@ -406,9 +406,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fa5f781-9c7\"",
+    "etag": "W/\"5fa8ccd8-9c7\"",
     "last_updated": 1604638800,
-    "modified": "Sat, 07 Nov 2020 01:25:21 GMT",
+    "modified": "Mon, 09 Nov 2020 05:00:08 GMT",
     "name": "xkcd.com",
     "seen_entries": []
   }
