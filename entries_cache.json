@@ -1,6 +1,6 @@
 {
   "http://explosm.net/rss.php": {
-    "last_updated": 1605938400,
+    "last_updated": 1606111200,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -33,7 +33,7 @@
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1603997997,
-    "modified": "Sun, 22 Nov 2020 10:48:32 GMT",
+    "modified": "Mon, 23 Nov 2020 10:16:59 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -79,21 +79,21 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1605940634,
+    "last_updated": 1606097402,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e7f0b474df1b7a8cd5f2ae9dcda59dcc483798997bc759fbdee0c7f2e7902315\"",
+    "etag": "W/\"4b0686ef1479af4d9c8fbecd16a16c8954bdd5e58bd3c137f15fada711076a37\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 22 Nov 2020 08:46:15 GMT",
+    "modified": "Mon, 23 Nov 2020 09:47:40 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"558250a6fca5a647b732da82b385982cd28cdfd6cfdd9a7ce1a4dfc8a1150a24\"",
+    "etag": "W/\"9971adc433bee9cb04e55caf8e9f61de1c1f316b48c83c34200a2850fe27074a\"",
     "last_updated": 1605290460,
-    "modified": "Sun, 22 Nov 2020 08:46:16 GMT",
+    "modified": "Mon, 23 Nov 2020 09:47:32 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -111,13 +111,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1605840748,
-    "modified": "Sun, 22 Nov 2020 11:10:00 GMT",
+    "modified": "Mon, 23 Nov 2020 11:08:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1605227210,
-    "modified": "Sun, 22 Nov 2020 11:10:00 GMT",
+    "modified": "Mon, 23 Nov 2020 11:08:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -144,26 +144,26 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1605502800,
+    "last_updated": 1606107600,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"97b30c0062bd37101eeb37e02fc149e8\"",
+    "etag": "W/\"3fe5746c5cf063b4ed03116839afe150\"",
     "last_updated": 1605632407,
-    "modified": "Sat, 21 Nov 2020 19:01:02 GMT",
+    "modified": "Sun, 22 Nov 2020 20:11:52 GMT",
     "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"97b30c0062bd37101eeb37e02fc149e8\"",
+    "etag": "W/\"3fe5746c5cf063b4ed03116839afe150\"",
     "last_updated": 1605718837,
-    "modified": "Sat, 21 Nov 2020 19:01:02 GMT",
+    "modified": "Sun, 22 Nov 2020 20:11:52 GMT",
     "name": "Zero Punctuation \u2013 Escapist Magazine",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a3351ae54b73316a28e4f46036f75ab5",
+    "etag": "cacheable:1cc584330a31617490dc18906c0a0c66",
     "last_updated": 1605718252,
     "name": "Fangamer",
     "seen_entries": []
@@ -193,7 +193,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1605848400,
+    "last_updated": 1606107600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -252,7 +252,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1605851070,
+    "last_updated": 1606104235,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -407,9 +407,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fb843e1-a0b\"",
+    "etag": "W/\"5fbb41d8-a0b\"",
     "last_updated": 1605848400,
-    "modified": "Fri, 20 Nov 2020 22:32:01 GMT",
+    "modified": "Mon, 23 Nov 2020 05:00:08 GMT",
     "name": "xkcd.com",
     "seen_entries": []
   }
