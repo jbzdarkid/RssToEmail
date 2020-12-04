@@ -40,12 +40,7 @@
   "https://blog.xkcd.com/feed/": {
     "last_updated": 1569436417,
     "modified": "Fri, 25 Sep 2020 13:50:48 GMT",
-    "name": "xkcd",
-    "seen_entries": []
-  },
-  "https://dumbrwby.tumblr.com/rss": {
-    "last_updated": 1593104630,
-    "name": "Dumb_RWBY",
+    "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
@@ -54,14 +49,9 @@
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
-  "https://eunnieverse.com/feed": {
-    "last_updated": 1599703418,
-    "name": "",
-    "seen_entries": []
-  },
   "https://explosm.net/rss.php": {
     "last_updated": 1607061600,
-    "name": "Explosm.net",
+    "name": "Cyanide and Happiness",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/jonathancoulton": {
@@ -75,7 +65,7 @@
     "etag": "1/EDx0PucLsM8fl5e+51GpspM8A",
     "last_updated": 1537863120,
     "modified": "Fri, 30 Oct 2020 10:55:58 GMT",
-    "name": "SFP",
+    "name": "Strong Female Protagonist",
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
@@ -87,14 +77,14 @@
     "etag": "W/\"2003b5156110bc531436a4a58815b68ed188f72256b41817378c92f31d896f85\"",
     "last_updated": 1605573900,
     "modified": "Fri, 04 Dec 2020 08:59:54 GMT",
-    "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
+    "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
     "etag": "W/\"a99240beb809b086a01f315fe48a09641d49fcf312b8410ae6c7994f71ef7b2c\"",
     "last_updated": 1606857840,
     "modified": "Fri, 04 Dec 2020 09:55:51 GMT",
-    "name": "Project Zero",
+    "name": "Google Project Zero",
     "seen_entries": []
   },
   "https://hearthsim.info/feed.xml": {
@@ -130,12 +120,12 @@
     "etag": "\"5b32ac27-f14c\"",
     "last_updated": 1526860800,
     "modified": "Tue, 26 Jun 2018 21:12:07 GMT",
-    "name": "What If?",
+    "name": "XKCD What If?",
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
     "last_updated": 1605129945,
-    "name": "Team Fortress Wiki - Watchlist [en]",
+    "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": []
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
@@ -152,20 +142,20 @@
     "etag": "W/\"67f6b1514a2b2ced4a76d9513e150ad0\"",
     "last_updated": 1606842042,
     "modified": "Fri, 04 Dec 2020 06:33:08 GMT",
-    "name": "Yahtzee\u2019s Dev Diary \u2013 Escapist Magazine",
+    "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
     "etag": "W/\"67f6b1514a2b2ced4a76d9513e150ad0\"",
     "last_updated": 1606928429,
     "modified": "Fri, 04 Dec 2020 06:33:08 GMT",
-    "name": "Zero Punctuation \u2013 Escapist Magazine",
+    "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
     "etag": "cacheable:8041621f02198139366509d9c1831298",
     "last_updated": 1606498215,
-    "name": "Fangamer",
+    "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
@@ -206,7 +196,7 @@
   },
   "https://www.reddit.com/message/unread/.rss?feed=b8572a3b0666842ff05528c742145600cfc57a5f&user=darkid": {
     "last_updated": 0,
-    "name": "messages: unread",
+    "name": "Reddit DMs",
     "seen_entries": [
       "https://www.reddit.com/message/messages/txtnqq"
     ]
@@ -239,7 +229,7 @@
     "etag": "W/\"f9b6afecbc90854e067b058a508331fa\"",
     "last_updated": 1607014800,
     "modified": "Thu, 03 Dec 2020 17:30:59 GMT",
-    "name": "Analysis \u2013 Vicious Syndicate",
+    "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/blood-stain/rss?title_no=166806": {
@@ -411,7 +401,7 @@
     "etag": "W/\"5fc9c257-997\"",
     "last_updated": 1606885200,
     "modified": "Fri, 04 Dec 2020 05:00:07 GMT",
-    "name": "xkcd.com",
+    "name": "xkcd",
     "seen_entries": []
   }
 }

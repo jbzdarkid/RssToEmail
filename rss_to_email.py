@@ -58,17 +58,14 @@ def parse_feeds(cache, feed_url, email_server):
             print('# ' + line, end='')
         return
 
-    feed_title = d['feed']['title']
-
     if feed_url not in cache:
         cache[feed_url] = {
-            'name': feed_title,
+            'name': d['feed']['title'],
             'last_updated': 0,
             'seen_entries': [],
         }
     else:
         # Potentially update title
-        cache[feed_url]['name'] = feed_title
 
     if 'etag' in d:
         cache[feed_url]['etag'] = d.etag
@@ -93,11 +90,11 @@ def parse_feeds(cache, feed_url, email_server):
 
         if entry_date:
             if entry_date > cache[feed_url]['last_updated']:
-                send_email(email_server, title, feed_title, entry_date, link, content)
+                send_email(email_server, title, cache[feed_url]['name'], entry_date, link, content)
                 cache[feed_url]['last_updated'] = entry_date
         else:
             if link not in cache[feed_url]['seen_entries']:
-                send_email(email_server, title, feed_title, None, link, content)
+                send_email(email_server, title, cache[feed_url]['name'], None, link, content)
                 cache[feed_url]['seen_entries'].append(link)
 
         with open('entries_cache.json', 'w') as f:
