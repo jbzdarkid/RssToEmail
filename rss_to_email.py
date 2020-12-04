@@ -64,8 +64,6 @@ def parse_feeds(cache, feed_url, email_server):
             'last_updated': 0,
             'seen_entries': [],
         }
-    else:
-        # Potentially update title
 
     if 'etag' in d:
         cache[feed_url]['etag'] = d.etag
@@ -76,17 +74,13 @@ def parse_feeds(cache, feed_url, email_server):
         title = entry['title']
         link = entry['link']
         # Not all entries have a date
-        entry_date = to_seconds(entry.get('published_parsed'))
-        content = None
-        if 'content' not in entry:
-            if 'description' not in entry:
-                continue
+        entry_date = to_seconds(entry.get('published_parsed', None))
+        if 'description' in entry:
             content = entry['description']
+        elif 'content' in entry:
+            content = next(c['value'] for c in entry['content'] if c['type'] == 'text/html')
         else:
-            for c in entry['content']:
-                if c['type'] == 'text/html':
-                    content = c['value']
-                    break
+            content = '(This RSS entry has no contents)'
 
         if entry_date:
             if entry_date > cache[feed_url]['last_updated']:
@@ -108,11 +102,14 @@ def send_email(email_server, title, feed_title, date, link, content):
     msg['From'] = f'{feed_title} <{SENDER_EMAIL}>'
     msg['reply-to'] = TARGET_EMAIL
 
-    msg.set_content('New RSS post: ' + link)
-    content += f'<hr>To view the full post, <a href="{link}">click here</a>.'
+    plaintext = f'{content}\n\nTo view the full post, click here: {link}'
+    richtext = f'{content}<hr>To view the full post, <a href="{link}">click here</a>.'
     if date:
-      content += f'<br>This was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
-    msg.add_alternative(content, subtype='html')
+        plaintext += f'\nThis was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
+        richtext += f'<br>This was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
+
+    msg.set_content(plaintext)
+    msg.add_alternative(richtext, subtype='html')
     if SENDER_EMAIL and TARGET_EMAIL:
         email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
         sleep(5) # Avoid hitting throttling limits
