@@ -1,7 +1,7 @@
 name: RSS To Email
 on:
   schedule:
-    - cron: '0 11 * * *' # 3 AM PST / 4 AM PDT
+    - cron: '0 * * * *' # Hourly
   workflow_dispatch:
 
 jobs:
