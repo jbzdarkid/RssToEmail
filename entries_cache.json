@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1607057112,
+    "last_updated": 1607116246,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -20,15 +20,15 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"d9d7302a95c82079e016825e538f5bcf\"",
+    "etag": "W/\"3fbad109402e17304da5a6f6f9efc4ee\"",
     "last_updated": 1607033588,
-    "modified": "Fri, 04 Dec 2020 02:08:38 GMT",
+    "modified": "Sat, 05 Dec 2020 02:59:51 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
   "https://blog.dota2.com/feed": {
     "last_updated": 1606858544,
-    "modified": "Fri, 04 Dec 2020 11:11:34 GMT",
+    "modified": "Sat, 05 Dec 2020 10:21:54 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -39,7 +39,7 @@
   },
   "https://blog.xkcd.com/feed/": {
     "last_updated": 1569436417,
-    "modified": "Fri, 25 Sep 2020 13:50:48 GMT",
+    "modified": "Fri, 25 Sep 2020 13:50:52 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -50,7 +50,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1607061600,
+    "last_updated": 1607148000,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -69,21 +69,21 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1606980770,
+    "last_updated": 1607148487,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"2003b5156110bc531436a4a58815b68ed188f72256b41817378c92f31d896f85\"",
+    "etag": "W/\"c69eff81a462e0bd6c0a86cfff1c809ae9035baa3827c79bb2cf0788f3a360d7\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 04 Dec 2020 08:59:54 GMT",
+    "modified": "Sat, 05 Dec 2020 09:32:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a99240beb809b086a01f315fe48a09641d49fcf312b8410ae6c7994f71ef7b2c\"",
+    "etag": "W/\"5b47786f0f78d32819668c7395bbdccff6a0efb80b7d7cbef652354653391f15\"",
     "last_updated": 1606857840,
-    "modified": "Fri, 04 Dec 2020 09:55:51 GMT",
+    "modified": "Sat, 05 Dec 2020 09:17:51 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -101,13 +101,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1606875787,
-    "modified": "Fri, 04 Dec 2020 11:10:00 GMT",
+    "modified": "Sat, 05 Dec 2020 11:10:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1606328481,
-    "modified": "Fri, 04 Dec 2020 11:10:00 GMT",
+    "modified": "Sat, 05 Dec 2020 11:10:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -126,7 +126,9 @@
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
     "last_updated": 1605129945,
     "name": "Team Fortress Wiki - Watchlist",
-    "seen_entries": []
+    "seen_entries": [
+      ""
+    ]
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
     "last_updated": 1607000421,
@@ -139,29 +141,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"67f6b1514a2b2ced4a76d9513e150ad0\"",
+    "etag": "W/\"ed6f11839ba447f45b08da6a25df3428\"",
     "last_updated": 1606842042,
-    "modified": "Fri, 04 Dec 2020 06:33:08 GMT",
+    "modified": "Sat, 05 Dec 2020 00:07:26 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"67f6b1514a2b2ced4a76d9513e150ad0\"",
+    "etag": "W/\"ed6f11839ba447f45b08da6a25df3428\"",
     "last_updated": 1606928429,
-    "modified": "Fri, 04 Dec 2020 06:33:08 GMT",
+    "modified": "Sat, 05 Dec 2020 00:07:26 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8041621f02198139366509d9c1831298",
+    "etag": "cacheable:e5122f559ff692658393450c22b2ba81",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D892DE773098FB\"",
+    "etag": "\"0x8D898563BFA270E\"",
     "last_updated": 0,
-    "modified": "Fri, 27 Nov 2020 14:12:25 GMT",
+    "modified": "Fri, 04 Dec 2020 13:12:21 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -180,7 +182,8 @@
       "http://www.giantitp.com/comics/oots1217.html",
       "http://www.giantitp.com/comics/oots1218.html",
       "http://www.giantitp.com/comics/oots1219.html",
-      "http://www.giantitp.com/comics/oots1220.html"
+      "http://www.giantitp.com/comics/oots1220.html",
+      "http://www.giantitp.com/comics/oots1221.html"
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
@@ -202,7 +205,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 0,
+    "last_updated": 1607068800,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
@@ -253,7 +256,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1607016398,
+    "last_updated": 1607102323,
     "name": "GDC",
     "seen_entries": []
   },
@@ -398,9 +401,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fc9c257-997\"",
-    "last_updated": 1606885200,
-    "modified": "Fri, 04 Dec 2020 05:00:07 GMT",
+    "etag": "W/\"5fcac9e7-a2b\"",
+    "last_updated": 1607058000,
+    "modified": "Fri, 04 Dec 2020 23:44:39 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
