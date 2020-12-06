@@ -33,3 +33,4 @@ jobs:
         git commit -am "Updated cache on $(date)"
         git pull --ff-only
         git push
+      continue-on-error: true
