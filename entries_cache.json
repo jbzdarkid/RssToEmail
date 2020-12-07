@@ -28,7 +28,7 @@
   },
   "https://blog.dota2.com/feed/": {
     "last_updated": 1606858544,
-    "modified": "Mon, 07 Dec 2020 03:44:42 GMT",
+    "modified": "Mon, 07 Dec 2020 04:45:12 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -101,13 +101,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1606875787,
-    "modified": "Mon, 07 Dec 2020 04:24:00 GMT",
+    "modified": "Mon, 07 Dec 2020 05:20:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1606328481,
-    "modified": "Mon, 07 Dec 2020 04:24:00 GMT",
+    "modified": "Mon, 07 Dec 2020 05:20:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -136,7 +136,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1606712400,
+    "last_updated": 1607317200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -155,7 +155,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c052aee5bb29bcbe00c0234c8d3e6766",
+    "etag": "cacheable:eae7290e729fb07b0d8d1c2c5d4c02b8",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -187,7 +187,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1607065200,
+    "last_updated": 1607317200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -246,7 +246,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1607054350,
+    "last_updated": 1607316775,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -401,9 +401,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fcac9e7-a2b\"",
+    "etag": "W/\"5fcdb6d7-a2b\"",
     "last_updated": 1607058000,
-    "modified": "Fri, 04 Dec 2020 23:44:39 GMT",
+    "modified": "Mon, 07 Dec 2020 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
