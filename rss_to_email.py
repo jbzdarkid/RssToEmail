@@ -6,7 +6,7 @@ from json import load, dump
 from os import environ
 from smtplib import SMTP, SMTPException
 from time import localtime, mktime, sleep, strftime
-from traceback import format_exc, print_exc
+from traceback import format_exc, print_exc, print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
 
