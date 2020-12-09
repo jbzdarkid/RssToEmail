@@ -28,7 +28,7 @@
   },
   "https://blog.dota2.com/feed/": {
     "last_updated": 1606858544,
-    "modified": "Tue, 08 Dec 2020 23:57:46 GMT",
+    "modified": "Wed, 09 Dec 2020 06:59:12 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -81,9 +81,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3f985010ff69d96ba6ec4ce551d435693a5660072f092973a253023df295941b\"",
+    "etag": "W/\"4792f7c988ffbff2a7fad91fec941121fc34c1b40692e0a021e120429b98f734\"",
     "last_updated": 1606857840,
-    "modified": "Tue, 08 Dec 2020 10:02:05 GMT",
+    "modified": "Wed, 09 Dec 2020 01:58:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -101,13 +101,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Wed, 09 Dec 2020 00:54:00 GMT",
+    "modified": "Wed, 09 Dec 2020 07:20:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1606328481,
-    "modified": "Wed, 09 Dec 2020 00:54:00 GMT",
+    "modified": "Wed, 09 Dec 2020 07:20:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -141,21 +141,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d5bdb167be30a4a39043c0e71c6e6374\"",
+    "etag": "W/\"0fe7c4ddb0ee987df6cec297476dc505\"",
     "last_updated": 1606842042,
-    "modified": "Tue, 08 Dec 2020 22:04:28 GMT",
+    "modified": "Wed, 09 Dec 2020 00:53:57 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"d5bdb167be30a4a39043c0e71c6e6374\"",
+    "etag": "W/\"0fe7c4ddb0ee987df6cec297476dc505\"",
     "last_updated": 1606928429,
-    "modified": "Tue, 08 Dec 2020 22:04:28 GMT",
+    "modified": "Wed, 09 Dec 2020 00:53:57 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9af81c0234ec68827ce8954c66eeb4a5",
+    "etag": "cacheable:6a691389f3307dfedf307394cbc245f9",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -187,7 +187,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1607317200,
+    "last_updated": 1607490000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -246,7 +246,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1607316775,
+    "last_updated": 1607488761,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -401,9 +401,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fceb472-acd\"",
+    "etag": "W/\"5fd059d8-acd\"",
     "last_updated": 1607317200,
-    "modified": "Mon, 07 Dec 2020 23:02:10 GMT",
+    "modified": "Wed, 09 Dec 2020 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
