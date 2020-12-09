@@ -30,7 +30,7 @@ jobs:
       run: |
         git config --global user.email "rss-to-email@noreply.github.com"
         git config --global user.name "RSSToEmailBot"
-        git commit -am "Updated cache on $(date)"
+        git commit --amend -am "Updated cache on $(date)"
         git pull --ff-only
         git push
       continue-on-error: true
