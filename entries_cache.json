@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"bd7f45656f0184106003da7acb859581\"",
     "last_updated": 1606858544,
-    "modified": "Fri, 11 Dec 2020 04:11:42 GMT",
+    "modified": "Fri, 11 Dec 2020 05:12:03 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Fri, 11 Dec 2020 04:26:00 GMT",
+    "modified": "Fri, 11 Dec 2020 05:20:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607627339,
-    "modified": "Fri, 11 Dec 2020 04:26:00 GMT",
+    "modified": "Fri, 11 Dec 2020 05:20:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2a2842f1d3c81258c923756111eb3995",
+    "etag": "cacheable:951a2ba1316bede5b2ec2a2f064c0e61",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -188,7 +188,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1607490000,
+    "last_updated": 1607662800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -247,7 +247,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1607488761,
+    "last_updated": 1607662964,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fd17354-b35\"",
+    "etag": "W/\"5fd2fcd7-b35\"",
     "last_updated": 1607490000,
-    "modified": "Thu, 10 Dec 2020 01:01:08 GMT",
+    "modified": "Fri, 11 Dec 2020 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
