@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"bd7f45656f0184106003da7acb859581\"",
     "last_updated": 1606858544,
-    "modified": "Mon, 14 Dec 2020 20:13:38 GMT",
+    "modified": "Mon, 14 Dec 2020 20:41:11 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Mon, 14 Dec 2020 20:20:00 GMT",
+    "modified": "Mon, 14 Dec 2020 21:18:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Mon, 14 Dec 2020 20:20:00 GMT",
+    "modified": "Mon, 14 Dec 2020 21:18:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2d204afbbb400a3b7557cad3f0119c28\"",
+    "etag": "W/\"180843dc9a00c0293d3b47bc1994b7f0\"",
     "last_updated": 1607533233,
-    "modified": "Mon, 14 Dec 2020 18:00:32 GMT",
+    "modified": "Mon, 14 Dec 2020 21:11:02 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"2d204afbbb400a3b7557cad3f0119c28\"",
+    "etag": "W/\"180843dc9a00c0293d3b47bc1994b7f0\"",
     "last_updated": 1607533233,
-    "modified": "Mon, 14 Dec 2020 18:00:32 GMT",
+    "modified": "Mon, 14 Dec 2020 21:11:02 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7484791ec54b39f1bceb998f5dba1b3d",
+    "etag": "cacheable:aeaa1e51c6af91e0375e9a778d5489a5",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -387,7 +387,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1607882410,
+    "last_updated": 1607979756,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
