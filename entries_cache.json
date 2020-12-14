@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"bd7f45656f0184106003da7acb859581\"",
     "last_updated": 1606858544,
-    "modified": "Mon, 14 Dec 2020 03:36:31 GMT",
+    "modified": "Mon, 14 Dec 2020 04:36:50 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,9 +75,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9de7bea0dec3f9aae5ffe8538e71a5c7b5429d819e7bd8bc59b58b0778cbefa3\"",
+    "etag": "W/\"c203b6bea50c9fa15aadf92050361101a45fe989253c10f967a3a2f9e4fb950e\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 13 Dec 2020 11:29:38 GMT",
+    "modified": "Mon, 14 Dec 2020 04:33:52 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Mon, 14 Dec 2020 04:26:00 GMT",
+    "modified": "Mon, 14 Dec 2020 05:20:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607627339,
-    "modified": "Mon, 14 Dec 2020 04:26:00 GMT",
+    "modified": "Mon, 14 Dec 2020 05:20:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1607317200,
+    "last_updated": 1607922000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6cd1b81ce403c9ac1b12e882bec24b9a",
+    "etag": "cacheable:da74bd0e3b5efd54e03613c153fa451f",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -188,7 +188,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1607662800,
+    "last_updated": 1607922000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -247,7 +247,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1607662964,
+    "last_updated": 1607922454,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fd41531-c72\"",
+    "etag": "W/\"5fd6f157-c72\"",
     "last_updated": 1607662800,
-    "modified": "Sat, 12 Dec 2020 00:56:17 GMT",
+    "modified": "Mon, 14 Dec 2020 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
