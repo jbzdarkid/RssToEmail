@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"bd7f45656f0184106003da7acb859581\"",
     "last_updated": 1606858544,
-    "modified": "Tue, 15 Dec 2020 00:43:12 GMT",
+    "modified": "Tue, 15 Dec 2020 01:43:14 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Tue, 15 Dec 2020 00:56:00 GMT",
+    "modified": "Tue, 15 Dec 2020 01:50:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Tue, 15 Dec 2020 00:56:00 GMT",
+    "modified": "Tue, 15 Dec 2020 01:50:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6566fbbf78bb942cb127b39d771808aa",
+    "etag": "cacheable:db27258e6b17bf77c96c6b9c0ba52934",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fd6f157-c72\"",
-    "last_updated": 1607662800,
-    "modified": "Mon, 14 Dec 2020 05:00:07 GMT",
+    "etag": "W/\"5fd811a0-b0e\"",
+    "last_updated": 1607922000,
+    "modified": "Tue, 15 Dec 2020 01:30:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
