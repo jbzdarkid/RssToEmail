@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"bd7f45656f0184106003da7acb859581\"",
     "last_updated": 1606858544,
-    "modified": "Tue, 15 Dec 2020 18:48:15 GMT",
+    "modified": "Tue, 15 Dec 2020 19:49:11 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Tue, 15 Dec 2020 19:16:00 GMT",
+    "modified": "Tue, 15 Dec 2020 20:20:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Tue, 15 Dec 2020 19:16:00 GMT",
+    "modified": "Tue, 15 Dec 2020 20:20:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b826324159bc4eabe3062507085915ae\"",
+    "etag": "W/\"ead70e1770e5ac33190045b92bdd4b2e\"",
     "last_updated": 1608052529,
-    "modified": "Tue, 15 Dec 2020 18:01:17 GMT",
+    "modified": "Tue, 15 Dec 2020 19:34:16 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"b826324159bc4eabe3062507085915ae\"",
+    "etag": "W/\"ead70e1770e5ac33190045b92bdd4b2e\"",
     "last_updated": 1607533233,
-    "modified": "Tue, 15 Dec 2020 18:01:17 GMT",
+    "modified": "Tue, 15 Dec 2020 19:34:16 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6f94e483640c97c7f7021130e7868648",
+    "etag": "cacheable:82a50e847174e5a04abeb4611adceb7b",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -218,8 +218,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1607722860,
-    "modified": "Fri, 11 Dec 2020 21:41:00 +0000",
+    "last_updated": 1608062880,
+    "modified": "Tue, 15 Dec 2020 20:08:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -230,9 +230,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"11330d624e5fd5812716e4b206e3ab36\"",
+    "etag": "W/\"a75c43a46e13a1d813a6be84763b00f4\"",
     "last_updated": 1607619628,
-    "modified": "Sun, 13 Dec 2020 17:00:10 GMT",
+    "modified": "Tue, 15 Dec 2020 18:27:13 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -367,7 +367,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A": {
-    "last_updated": 1605640626,
+    "last_updated": 1608059126,
     "name": "PlayOverwatch",
     "seen_entries": []
   },
