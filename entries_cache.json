@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"bd7f45656f0184106003da7acb859581\"",
     "last_updated": 1606858544,
-    "modified": "Tue, 15 Dec 2020 16:24:10 GMT",
+    "modified": "Tue, 15 Dec 2020 16:48:11 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1607375481,
-    "modified": "Tue, 15 Dec 2020 16:42:00 GMT",
+    "modified": "Tue, 15 Dec 2020 17:28:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Tue, 15 Dec 2020 16:42:00 GMT",
+    "modified": "Tue, 15 Dec 2020 17:28:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b541a62b5d0ab2907c69738a3a077c6a\"",
-    "last_updated": 1607533233,
-    "modified": "Tue, 15 Dec 2020 16:00:55 GMT",
+    "etag": "W/\"8fc38d7c36cc7568476e0bd5f7a84409\"",
+    "last_updated": 1608052529,
+    "modified": "Tue, 15 Dec 2020 17:15:29 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"b541a62b5d0ab2907c69738a3a077c6a\"",
+    "etag": "W/\"8fc38d7c36cc7568476e0bd5f7a84409\"",
     "last_updated": 1607533233,
-    "modified": "Tue, 15 Dec 2020 16:00:55 GMT",
+    "modified": "Tue, 15 Dec 2020 17:15:29 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ef259a6a65c35475349abab78aada792",
+    "etag": "cacheable:3f52da55c7dc54240359540fb73bca54",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -257,7 +257,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1607706078,
+    "last_updated": 1608052714,
     "name": "GDC",
     "seen_entries": []
   },
