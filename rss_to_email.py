@@ -71,6 +71,7 @@ def parse_feeds(cache, feed_url, email_server):
     if 'modified' in d:
         cache[feed_url]['modified'] = d.modified
 
+    new_entries = false
     for entry in reversed(d['entries']):
         title = entry['title']
         link = entry['link']
@@ -87,13 +88,16 @@ def parse_feeds(cache, feed_url, email_server):
             if entry_date > cache[feed_url]['last_updated']:
                 send_email(email_server, title, cache[feed_url]['name'], entry_date, link, content)
                 cache[feed_url]['last_updated'] = entry_date
+                new_entries = true
         else:
             if link not in cache[feed_url]['seen_entries']:
                 send_email(email_server, title, cache[feed_url]['name'], None, link, content)
                 cache[feed_url]['seen_entries'].append(link)
+                new_entries = true
 
-        with open('entries_cache.json', 'w') as f:
-            dump(cache, f, sort_keys=True, indent=2)
+        if new_entries:
+            with open('entries_cache.json', 'w') as f:
+                dump(cache, f, sort_keys=True, indent=2)
 
 
 def send_email(email_server, title, feed_title, date, link, content):
