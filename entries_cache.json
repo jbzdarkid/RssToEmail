@@ -27,9 +27,9 @@
     "seen_entries": []
   },
   "https://blog.dota2.com/feed/": {
-    "etag": "\"4a37d022929d7ef1310c92428131e83c\"",
+    "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Fri, 18 Dec 2020 18:07:37 GMT",
+    "modified": "Sat, 19 Dec 2020 00:08:15 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608245944,
-    "modified": "Fri, 18 Dec 2020 18:22:00 GMT",
+    "modified": "Sat, 19 Dec 2020 00:40:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Fri, 18 Dec 2020 18:22:00 GMT",
+    "modified": "Sat, 19 Dec 2020 00:40:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8f7b878382f54b17cd1c3ebf469656f2\"",
+    "etag": "W/\"85b755d06246508e6d531131f99ccb33\"",
     "last_updated": 1608052529,
-    "modified": "Fri, 18 Dec 2020 17:37:02 GMT",
+    "modified": "Fri, 18 Dec 2020 23:00:41 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"8f7b878382f54b17cd1c3ebf469656f2\"",
+    "etag": "W/\"85b755d06246508e6d531131f99ccb33\"",
     "last_updated": 1608138033,
-    "modified": "Fri, 18 Dec 2020 17:37:02 GMT",
+    "modified": "Fri, 18 Dec 2020 23:00:41 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4e265e47e19d8c097dfd5dbb888a11ce",
+    "etag": "cacheable:769320c1f24b852c17a37563dc0533ed",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fdcea19-be6\"",
-    "last_updated": 1608094800,
-    "modified": "Fri, 18 Dec 2020 17:42:49 GMT",
+    "etag": "W/\"5fdd34b9-a76\"",
+    "last_updated": 1608267600,
+    "modified": "Fri, 18 Dec 2020 23:01:13 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
