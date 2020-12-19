@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Sat, 19 Dec 2020 06:09:35 GMT",
+    "modified": "Sat, 19 Dec 2020 15:10:47 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -70,14 +70,14 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1608227771,
+    "last_updated": 1608378422,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1e8c703ad0a6bb430a180973691a821349ad5de957008ad74264e775a46a4f48\"",
+    "etag": "W/\"e6f41b59bb003fa7b888fbcf14e3ce0046318c4580258f11f9e9f15903f938b4\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 18 Dec 2020 08:40:52 GMT",
+    "modified": "Sat, 19 Dec 2020 14:43:42 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -156,15 +156,15 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:769320c1f24b852c17a37563dc0533ed",
+    "etag": "cacheable:44031e732e976f205154eb774c153eca",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D898563BFA270E\"",
+    "etag": "\"0x8D8A4239D1ECF2B\"",
     "last_updated": 0,
-    "modified": "Fri, 04 Dec 2020 13:12:21 GMT",
+    "modified": "Sat, 19 Dec 2020 13:40:13 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -184,7 +184,8 @@
       "http://www.giantitp.com/comics/oots1218.html",
       "http://www.giantitp.com/comics/oots1219.html",
       "http://www.giantitp.com/comics/oots1220.html",
-      "http://www.giantitp.com/comics/oots1221.html"
+      "http://www.giantitp.com/comics/oots1221.html",
+      "http://www.giantitp.com/comics/oots1222.html"
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
