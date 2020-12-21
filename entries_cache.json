@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Mon, 21 Dec 2020 05:19:11 GMT",
+    "modified": "Mon, 21 Dec 2020 08:19:59 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"fae649f8b44bdd32fc2a7beb7fb4f80253f3fb3069bc45e5bb60c9562f418c18\"",
+    "etag": "W/\"9665a5054abb69ea145698ee8eea4c1b847dc2bb258177cb11d8cde51793850b\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 21 Dec 2020 05:37:50 GMT",
+    "modified": "Mon, 21 Dec 2020 08:21:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1bf42c1801b54b1f01af0684da9ee255dbee64922e3252f339b0075073e0bc56\"",
+    "etag": "W/\"b3b9d664584b42c8b2f9090987ab0c5e8ea4078649f722f9b6784b50a8d11730\"",
     "last_updated": 1606857840,
-    "modified": "Sun, 20 Dec 2020 21:54:00 GMT",
+    "modified": "Mon, 21 Dec 2020 08:21:06 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608245944,
-    "modified": "Mon, 21 Dec 2020 06:18:00 GMT",
+    "modified": "Mon, 21 Dec 2020 09:18:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Mon, 21 Dec 2020 06:18:00 GMT",
+    "modified": "Mon, 21 Dec 2020 09:18:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:eb99634b2c29fd9e425e137bfd72f511",
+    "etag": "cacheable:fc07984f7e121eac056fb804c8782b00",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -207,7 +207,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1608192000,
+    "last_updated": 1608537600,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1608487210,
+    "last_updated": 1608532209,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fdd34b9-a76\"",
+    "etag": "W/\"5fe02bd9-a76\"",
     "last_updated": 1608267600,
-    "modified": "Fri, 18 Dec 2020 23:01:13 GMT",
+    "modified": "Mon, 21 Dec 2020 05:00:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
