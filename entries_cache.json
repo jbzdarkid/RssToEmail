@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Mon, 21 Dec 2020 02:27:44 GMT",
+    "modified": "Mon, 21 Dec 2020 05:19:11 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7038677d773f02c4934b27395a7757ff58fef7a769863f7ec5aa7cd3835e4583\"",
+    "etag": "W/\"fae649f8b44bdd32fc2a7beb7fb4f80253f3fb3069bc45e5bb60c9562f418c18\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 20 Dec 2020 10:50:22 GMT",
+    "modified": "Mon, 21 Dec 2020 05:37:50 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c323fab0838a58f2eadac0bedf28d4cff653311205aeb35a0d28de01882cfd17\"",
+    "etag": "W/\"1bf42c1801b54b1f01af0684da9ee255dbee64922e3252f339b0075073e0bc56\"",
     "last_updated": 1606857840,
-    "modified": "Sun, 20 Dec 2020 10:52:52 GMT",
+    "modified": "Sun, 20 Dec 2020 21:54:00 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608245944,
-    "modified": "Sun, 20 Dec 2020 21:14:00 GMT",
+    "modified": "Mon, 21 Dec 2020 06:18:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1607972255,
-    "modified": "Sun, 20 Dec 2020 21:12:00 GMT",
+    "modified": "Mon, 21 Dec 2020 06:18:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1607922000,
+    "last_updated": 1608526800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:edd168bf14a0771da3291660e9f52da9",
+    "etag": "cacheable:eb99634b2c29fd9e425e137bfd72f511",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -189,7 +189,7 @@
     ]
   },
   "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1608267600,
+    "last_updated": 1608526800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -248,7 +248,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1608264142,
+    "last_updated": 1608524220,
     "name": "Wilde Life",
     "seen_entries": []
   },
