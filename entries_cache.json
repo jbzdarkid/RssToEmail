@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Mon, 21 Dec 2020 20:22:12 GMT",
+    "modified": "Tue, 22 Dec 2020 00:22:41 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1608444000,
+    "last_updated": 1608530400,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608245944,
-    "modified": "Mon, 21 Dec 2020 21:16:00 GMT",
+    "modified": "Tue, 22 Dec 2020 00:44:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1608573648,
-    "modified": "Mon, 21 Dec 2020 21:16:00 GMT",
+    "modified": "Tue, 22 Dec 2020 00:44:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b7c58b3893a9fa570ae9c62f9099dc9c",
+    "etag": "cacheable:17e00933352e50dd8b5f04977be3ce07",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fe02bd9-a76\"",
-    "last_updated": 1608267600,
-    "modified": "Mon, 21 Dec 2020 05:00:09 GMT",
+    "etag": "W/\"5fe1401e-9c1\"",
+    "last_updated": 1608526800,
+    "modified": "Tue, 22 Dec 2020 00:38:54 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
