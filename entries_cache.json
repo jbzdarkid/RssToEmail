@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Tue, 22 Dec 2020 05:23:41 GMT",
+    "modified": "Tue, 22 Dec 2020 11:25:10 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9665a5054abb69ea145698ee8eea4c1b847dc2bb258177cb11d8cde51793850b\"",
+    "etag": "W/\"44360fbcb92817e32595077b33a15c46ec1e14436dde0e13b915694a47d693a3\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 21 Dec 2020 08:21:24 GMT",
+    "modified": "Tue, 22 Dec 2020 12:19:14 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b01d74734d6048a69dd1b66bf5d713acd33a7e2d041ca40f208af84388f8f542\"",
+    "etag": "W/\"454ff8a0a0a912d142f6ee84264a23ed27be9cc7d0542bd79e0f038f42ceb62f\"",
     "last_updated": 1608581400,
-    "modified": "Mon, 21 Dec 2020 20:11:07 GMT",
+    "modified": "Tue, 22 Dec 2020 10:53:11 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608245944,
-    "modified": "Tue, 22 Dec 2020 00:44:00 GMT",
+    "modified": "Tue, 22 Dec 2020 12:24:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1608573648,
-    "modified": "Tue, 22 Dec 2020 00:44:00 GMT",
+    "modified": "Tue, 22 Dec 2020 12:24:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:17e00933352e50dd8b5f04977be3ce07",
+    "etag": "cacheable:9abbe478b8ac206eb56e7890beccf8ea",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -231,9 +231,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"8998485fd0a96a322038d81c8d44a411\"",
+    "etag": "W/\"b5f7f0b2c74b102bc22d292ce0c8ed7a\"",
     "last_updated": 1607619628,
-    "modified": "Sat, 19 Dec 2020 19:52:29 GMT",
+    "modified": "Tue, 22 Dec 2020 10:41:28 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCnV5HYjb358rUDcAnrlxUkw": {
-    "last_updated": 1603219025,
+    "last_updated": 1608628501,
     "name": "HTC VIVE",
     "seen_entries": []
   },
