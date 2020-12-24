@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Wed, 23 Dec 2020 20:34:11 GMT",
+    "modified": "Thu, 24 Dec 2020 00:35:02 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608752000,
-    "modified": "Wed, 23 Dec 2020 21:16:00 GMT",
+    "modified": "Thu, 24 Dec 2020 00:48:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1608662434,
-    "modified": "Wed, 23 Dec 2020 18:32:00 GMT",
+    "modified": "Thu, 24 Dec 2020 00:48:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ad314a97b4ab87019ad017dc8d80d600\"",
+    "etag": "W/\"4a42f9717f445bfdfb0f48df095fee0b\"",
     "last_updated": 1608052529,
-    "modified": "Wed, 23 Dec 2020 20:49:16 GMT",
+    "modified": "Wed, 23 Dec 2020 23:23:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4a56fc92728ca12082a859759553753d\"",
+    "etag": "W/\"4a42f9717f445bfdfb0f48df095fee0b\"",
     "last_updated": 1608742826,
-    "modified": "Wed, 23 Dec 2020 18:29:19 GMT",
+    "modified": "Wed, 23 Dec 2020 23:23:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0071d0ec917d708e020cce0f32e0c83d",
+    "etag": "cacheable:5b9638caf6b24779d32b0887cc539369",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -231,9 +231,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"494f908075e4945b79ef6d76bdb49b52\"",
+    "etag": "W/\"c6e9359e1177b5919f8fb264ec1954a2\"",
     "last_updated": 1607619628,
-    "modified": "Wed, 23 Dec 2020 12:57:05 GMT",
+    "modified": "Wed, 23 Dec 2020 23:42:55 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fe2ced8-9c1\"",
-    "last_updated": 1608526800,
-    "modified": "Wed, 23 Dec 2020 05:00:08 GMT",
+    "etag": "W/\"5fe3bf75-a29\"",
+    "last_updated": 1608699600,
+    "modified": "Wed, 23 Dec 2020 22:06:45 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
