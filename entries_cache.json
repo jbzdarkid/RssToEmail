@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Tue, 29 Dec 2020 00:12:33 GMT",
+    "modified": "Tue, 29 Dec 2020 03:13:23 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b25e3ddeebc670241a3e653be6ef39dd56de5669a031194e736569e2dff45ff3\"",
+    "etag": "W/\"207b14e43318431f40f237cddf752249c340ca6aeeddb7e14f78d8d50425f601\"",
     "last_updated": 1608581400,
-    "modified": "Mon, 28 Dec 2020 12:56:02 GMT",
+    "modified": "Tue, 29 Dec 2020 00:57:36 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608752000,
-    "modified": "Tue, 29 Dec 2020 00:48:00 GMT",
+    "modified": "Tue, 29 Dec 2020 03:26:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Tue, 29 Dec 2020 00:48:00 GMT",
+    "modified": "Tue, 29 Dec 2020 03:26:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1609196528,
+    "last_updated": 1609205027,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:687b542c3adbc9ccfed81d9e7b89bead",
+    "etag": "cacheable:a39f6d559de53927777631972463a0b4",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fe665f0-89b\"",
-    "last_updated": 1608872400,
-    "modified": "Fri, 25 Dec 2020 22:21:36 GMT",
+    "etag": "W/\"5fea8495-983\"",
+    "last_updated": 1609131600,
+    "modified": "Tue, 29 Dec 2020 01:21:25 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
