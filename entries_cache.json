@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1608240654,
-    "modified": "Thu, 31 Dec 2020 14:32:10 GMT",
+    "modified": "Thu, 31 Dec 2020 18:34:51 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608752000,
-    "modified": "Thu, 31 Dec 2020 15:20:00 GMT",
+    "modified": "Thu, 31 Dec 2020 18:42:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Thu, 31 Dec 2020 15:20:00 GMT",
+    "modified": "Thu, 31 Dec 2020 18:40:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4a874cd90125d8c5cefdc70f1c2998db\"",
+    "etag": "W/\"740335f9463c6900f94f71ba03fa913b\"",
     "last_updated": 1608052529,
-    "modified": "Wed, 30 Dec 2020 22:51:43 GMT",
+    "modified": "Thu, 31 Dec 2020 18:00:27 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4a874cd90125d8c5cefdc70f1c2998db\"",
+    "etag": "W/\"4388c3d8a9baa83bb5efbb538ed590a8\"",
     "last_updated": 1608742826,
-    "modified": "Wed, 30 Dec 2020 22:51:43 GMT",
+    "modified": "Thu, 31 Dec 2020 17:00:08 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:67a8a1ad8400007f96f00d0c0f0f5c7e",
+    "etag": "cacheable:d243f7ba74b691476330af951474bd55",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -231,9 +231,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ce4f69e854b25506b61a621c32cf40ff\"",
-    "last_updated": 1608829204,
-    "modified": "Thu, 31 Dec 2020 00:12:45 GMT",
+    "etag": "W/\"ec395511eac2de2756782b85fb8fe826\"",
+    "last_updated": 1609434009,
+    "modified": "Thu, 31 Dec 2020 17:00:09 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1609351225,
+    "last_updated": 1609437600,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
