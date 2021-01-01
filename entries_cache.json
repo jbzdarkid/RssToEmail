@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1609414467,
-    "modified": "Fri, 01 Jan 2021 05:36:27 GMT",
+    "modified": "Fri, 01 Jan 2021 08:37:08 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -70,21 +70,21 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1608710567,
+    "last_updated": 1609477809,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6e5afe2df241fe3994416ce56340f66eb016cc38bd5136815445fdc40274ea1d\"",
+    "etag": "W/\"f2b30a2197c24c4a91594591bf9b15157b78f6b7e2844f4852d74d388d2203a8\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 01 Jan 2021 06:10:46 GMT",
+    "modified": "Fri, 01 Jan 2021 08:22:25 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"bbb457b65ac846422f0635c8d262d70b96a6434f7d7a54573a60a6e20f10c5bd\"",
+    "etag": "W/\"7d9bbfa3ae69dfca7fabb591afe99994a7a178f1544ca7d3d5c2f136eaccb387\"",
     "last_updated": 1608581400,
-    "modified": "Thu, 31 Dec 2020 11:55:55 GMT",
+    "modified": "Fri, 01 Jan 2021 08:54:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608752000,
-    "modified": "Fri, 01 Jan 2021 06:22:00 GMT",
+    "modified": "Fri, 01 Jan 2021 09:26:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Fri, 01 Jan 2021 06:22:00 GMT",
+    "modified": "Fri, 01 Jan 2021 09:26:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:be0ba016fb36c8332a2718f024f0a6fc",
+    "etag": "cacheable:266e8bac29a15a6b2131926f0000bde0",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -207,7 +207,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1609315200,
+    "last_updated": 1609488000,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
@@ -278,7 +278,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1605160149,
+    "last_updated": 1609490715,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fed34d1-9d9\"",
+    "etag": "W/\"5feeac59-9d9\"",
     "last_updated": 1609304400,
-    "modified": "Thu, 31 Dec 2020 02:17:53 GMT",
+    "modified": "Fri, 01 Jan 2021 05:00:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
