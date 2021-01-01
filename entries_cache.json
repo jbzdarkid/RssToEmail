@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"91a300ae59d84bf936258ff0a75058b7\"",
     "last_updated": 1609414467,
-    "modified": "Fri, 01 Jan 2021 08:37:08 GMT",
+    "modified": "Fri, 01 Jan 2021 17:38:43 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7d9bbfa3ae69dfca7fabb591afe99994a7a178f1544ca7d3d5c2f136eaccb387\"",
+    "etag": "W/\"c2126cb445628833879c8e269e5089dba407d859b7c4d2605eebe4024f03c064\"",
     "last_updated": 1608581400,
-    "modified": "Fri, 01 Jan 2021 08:54:31 GMT",
+    "modified": "Fri, 01 Jan 2021 09:42:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608752000,
-    "modified": "Fri, 01 Jan 2021 09:26:00 GMT",
+    "modified": "Fri, 01 Jan 2021 18:38:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Fri, 01 Jan 2021 09:26:00 GMT",
+    "modified": "Fri, 01 Jan 2021 18:38:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ca2740ff4d5ec331846f5ca2d2318a4c\"",
+    "etag": "W/\"12829824ab8852a7c72346478b13170a\"",
     "last_updated": 1608052529,
-    "modified": "Thu, 31 Dec 2020 19:00:19 GMT",
+    "modified": "Fri, 01 Jan 2021 18:00:10 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"ca2740ff4d5ec331846f5ca2d2318a4c\"",
+    "etag": "W/\"12829824ab8852a7c72346478b13170a\"",
     "last_updated": 1608742826,
-    "modified": "Thu, 31 Dec 2020 19:00:19 GMT",
+    "modified": "Fri, 01 Jan 2021 18:00:10 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:266e8bac29a15a6b2131926f0000bde0",
+    "etag": "cacheable:1eac2d20c0ca350a69b406bc000e3505",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5feeac59-9d9\"",
-    "last_updated": 1609304400,
-    "modified": "Fri, 01 Jan 2021 05:00:09 GMT",
+    "etag": "W/\"5fef5dc8-acd\"",
+    "last_updated": 1609477200,
+    "modified": "Fri, 01 Jan 2021 17:37:12 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
