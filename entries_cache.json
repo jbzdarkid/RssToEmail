@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"1525ef23273ffa37ba3db41ceb1205d5\"",
     "last_updated": 1609414467,
-    "modified": "Wed, 06 Jan 2021 09:08:40 GMT",
+    "modified": "Wed, 06 Jan 2021 12:10:40 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"bb6eee409506bdec7d6d2729236b3c032c2192c02b433cf6f6e5cf6283afefe3\"",
+    "etag": "W/\"bec182bc518fd3fda3114c9f0640a76494087fc79a3a29ffbead9de1ca5ccd8b\"",
     "last_updated": 1608581400,
-    "modified": "Wed, 06 Jan 2021 07:45:38 GMT",
+    "modified": "Wed, 06 Jan 2021 12:13:37 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1608752000,
-    "modified": "Wed, 06 Jan 2021 06:24:00 GMT",
+    "modified": "Wed, 06 Jan 2021 12:24:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Wed, 06 Jan 2021 06:22:00 GMT",
+    "modified": "Wed, 06 Jan 2021 12:24:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1609205027,
+    "last_updated": 1609930464,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b73096a0b206f0a07fde929aca1df539",
+    "etag": "cacheable:d54e814e1fc2f47323e081314eea8803",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
