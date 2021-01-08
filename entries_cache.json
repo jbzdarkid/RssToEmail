@@ -20,16 +20,16 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"d5a4924903ba82e0818a2807d326ae59\"",
+    "etag": "W/\"0a2358fd186a244d90500d8d680abfdf\"",
     "last_updated": 1608250672,
-    "modified": "Wed, 06 Jan 2021 18:59:20 GMT",
+    "modified": "Fri, 08 Jan 2021 00:49:44 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
   "https://blog.dota2.com/feed/": {
     "etag": "\"1525ef23273ffa37ba3db41ceb1205d5\"",
     "last_updated": 1609414467,
-    "modified": "Fri, 08 Jan 2021 00:17:52 GMT",
+    "modified": "Fri, 08 Jan 2021 06:19:07 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -46,7 +46,7 @@
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
     "last_updated": 1609259209,
-    "modified": "Thu, 07 Jan 2021 02:12:57 GMT",
+    "modified": "Thu, 07 Jan 2021 09:00:21 GMT",
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4aa7d492c16886a724878f10b10a95bd2e56057f89aeb9cac1b878aee9b9134f\"",
+    "etag": "W/\"f51d9ccd8ef6c94450ceb96b42404657a9a8b1d5091b07509669e044e8a91e9b\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 07 Jan 2021 14:57:42 GMT",
+    "modified": "Fri, 08 Jan 2021 05:56:04 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b51d98716c08f0dffcf2863ceba91f5671b10b05629b47780bb489e9c0a46bb9\"",
+    "etag": "W/\"09303389e1e1db0f17ce419d005a00c342b97b96cff8279ba7240ed790aafc9f\"",
     "last_updated": 1608581400,
-    "modified": "Thu, 07 Jan 2021 20:35:27 GMT",
+    "modified": "Fri, 08 Jan 2021 04:22:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610043873,
-    "modified": "Fri, 08 Jan 2021 00:58:00 GMT",
+    "modified": "Fri, 08 Jan 2021 06:28:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Fri, 08 Jan 2021 00:58:00 GMT",
+    "modified": "Fri, 08 Jan 2021 06:28:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1610017688,
+    "last_updated": 1610079639,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:00b075d53ccb6f6637e5b888c182e449",
+    "etag": "cacheable:b1c171d576f72fe45cd41606f67616a4",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -248,7 +248,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1609909119,
+    "last_updated": 1610085694,
     "name": "Wilde Life",
     "seen_entries": []
   },
