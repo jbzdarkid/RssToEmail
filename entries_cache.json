@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Sat, 09 Jan 2021 09:25:55 GMT",
+    "modified": "Sat, 09 Jan 2021 20:28:15 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"870cadb7a8d9cd5ac15aba2b6d47737f86cf8d6badfc51d2df798cd47e0efcc0\"",
+    "etag": "W/\"f9f403f7fb5620ba7178397e81cc4d7666cf52ee922b6a309442704f60e219d4\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 08 Jan 2021 07:22:41 GMT",
+    "modified": "Sat, 09 Jan 2021 06:27:21 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2a04da018be06735b55a5182f379699076e7709bb9b40407f41fc840ed3134ff\"",
+    "etag": "W/\"5ef66603d9eab7907c3586718d6e8a187f6e83f1d8d08293fe3a18300b8860ec\"",
     "last_updated": 1608581400,
-    "modified": "Sat, 09 Jan 2021 03:18:43 GMT",
+    "modified": "Sat, 09 Jan 2021 19:36:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610155252,
-    "modified": "Sat, 09 Jan 2021 03:40:00 GMT",
+    "modified": "Sat, 09 Jan 2021 21:18:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Sat, 09 Jan 2021 03:40:00 GMT",
+    "modified": "Sat, 09 Jan 2021 21:18:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1610079639,
+    "last_updated": 1610220579,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e048ec02ae6986640e292c18b01e626e\"",
+    "etag": "W/\"21fa2320fc20f3c2eb8106c08d0c4be2\"",
     "last_updated": 1609866004,
-    "modified": "Fri, 08 Jan 2021 23:48:10 GMT",
+    "modified": "Sat, 09 Jan 2021 19:29:47 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"e048ec02ae6986640e292c18b01e626e\"",
+    "etag": "W/\"21fa2320fc20f3c2eb8106c08d0c4be2\"",
     "last_updated": 1609952453,
-    "modified": "Fri, 08 Jan 2021 23:48:10 GMT",
+    "modified": "Sat, 09 Jan 2021 19:29:47 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fec82ed4cb256c014ada4866921709ef",
+    "etag": "cacheable:0ca41de1bf4ba106e200b663fceccaeb",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -313,7 +313,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1610053205,
+    "last_updated": 1610226012,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
