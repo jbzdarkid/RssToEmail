@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Sun, 10 Jan 2021 00:20:45 GMT",
+    "modified": "Sun, 10 Jan 2021 18:33:27 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f9f403f7fb5620ba7178397e81cc4d7666cf52ee922b6a309442704f60e219d4\"",
+    "etag": "W/\"8c3602d481319be087735769ba65ed478e9a00356ff8bedb685e82452743f9ca\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 09 Jan 2021 06:27:21 GMT",
+    "modified": "Sun, 10 Jan 2021 03:38:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5ef66603d9eab7907c3586718d6e8a187f6e83f1d8d08293fe3a18300b8860ec\"",
+    "etag": "W/\"48475dafd0b93fa979c1a884c2bf41944cc3f3970d509bcafa0d52263d524d4c\"",
     "last_updated": 1608581400,
-    "modified": "Sat, 09 Jan 2021 19:36:39 GMT",
+    "modified": "Sun, 10 Jan 2021 04:37:27 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -102,13 +102,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610155252,
-    "modified": "Sun, 10 Jan 2021 01:00:00 GMT",
+    "modified": "Sun, 10 Jan 2021 18:40:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Sun, 10 Jan 2021 01:00:00 GMT",
+    "modified": "Sun, 10 Jan 2021 18:40:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +142,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"21fa2320fc20f3c2eb8106c08d0c4be2\"",
+    "etag": "W/\"2675b254527781d5ada2ec2185602867\"",
     "last_updated": 1609866004,
-    "modified": "Sat, 09 Jan 2021 19:29:47 GMT",
+    "modified": "Sun, 10 Jan 2021 17:40:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"21fa2320fc20f3c2eb8106c08d0c4be2\"",
+    "etag": "W/\"2675b254527781d5ada2ec2185602867\"",
     "last_updated": 1609952453,
-    "modified": "Sat, 09 Jan 2021 19:29:47 GMT",
+    "modified": "Sun, 10 Jan 2021 17:40:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:16657640ff56a87631e1b74824bf16f4",
+    "etag": "cacheable:bd7adc69528aa818cc52414a3d89f644",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -231,9 +231,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f5c65b6ca747884eda33d935f368ce53\"",
+    "etag": "W/\"f095a5332ccb5fbe4617e76af13e5559\"",
     "last_updated": 1610038857,
-    "modified": "Fri, 08 Jan 2021 21:09:28 GMT",
+    "modified": "Sun, 10 Jan 2021 17:00:00 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1610233203,
+    "last_updated": 1610301607,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
