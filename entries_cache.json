@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Tue, 12 Jan 2021 00:39:11 GMT",
+    "modified": "Tue, 12 Jan 2021 05:40:22 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1610344800,
+    "last_updated": 1610431200,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"db490227d3543cc4119dcb2822cde283d776b70ccc5762cdda985d994483348a\"",
+    "etag": "W/\"81177a137c29ff1db350985dc6c84087529197d061566aefa3e7660b7c2d3bf0\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 11 Jan 2021 16:56:43 GMT",
+    "modified": "Tue, 12 Jan 2021 04:20:43 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ae6c1846745f29a71db51484c23f777c904c1c947ae3f531e30ac9583986b616\"",
+    "etag": "W/\"f8a378b1cb34d08ac01488aeb21f5e3dd53d9b0583045709a25b25e534290cd4\"",
     "last_updated": 1608581400,
-    "modified": "Mon, 11 Jan 2021 16:40:08 GMT",
+    "modified": "Tue, 12 Jan 2021 05:27:42 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -101,14 +101,14 @@
     "seen_entries": []
   },
   "https://steamcommunity.com/games/250820/rss": {
-    "last_updated": 1610155252,
-    "modified": "Mon, 11 Jan 2021 18:40:00 GMT",
+    "last_updated": 1610424018,
+    "modified": "Tue, 12 Jan 2021 06:32:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Mon, 11 Jan 2021 18:42:00 GMT",
+    "modified": "Tue, 12 Jan 2021 06:32:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d3c4235c89c17968ac25d278d0bc924d",
+    "etag": "cacheable:02187ada8b054b51259cc29130d98460",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5ffbdb58-9d3\"",
-    "last_updated": 1610082000,
-    "modified": "Mon, 11 Jan 2021 05:00:08 GMT",
+    "etag": "W/\"5ffd29fb-8f1\"",
+    "last_updated": 1610341200,
+    "modified": "Tue, 12 Jan 2021 04:47:55 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
