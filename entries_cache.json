@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Wed, 13 Jan 2021 09:37:27 GMT",
+    "modified": "Wed, 13 Jan 2021 18:39:57 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0347572eebc0c1b96868308a03049f99a2270c9f4e371d731fc7e9dac46c30fc\"",
+    "etag": "W/\"9d4130ab4648252745936929bfa45ca6f085fa702154f1473691710d66c7fd36\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 13 Jan 2021 07:45:42 GMT",
+    "modified": "Wed, 13 Jan 2021 12:02:23 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5e178ed1cf78dc65ebd5367e5a9831b1dab3f4bad893e8a4138fffc39e92b0a7\"",
+    "etag": "W/\"35013016191d99c05bbc0d5d7cbd52907004282698577ccd04afd9a0049a9e85\"",
     "last_updated": 1610473020,
-    "modified": "Wed, 13 Jan 2021 09:08:06 GMT",
+    "modified": "Wed, 13 Jan 2021 17:42:27 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -95,6 +95,13 @@
     "name": "HearthSim",
     "seen_entries": []
   },
+  "https://msrc-blog.microsoft.com/category/msrc/feed/": {
+    "etag": "\"0447c0114700b2f2beaaacfa81d05e8c\"",
+    "last_updated": 1610559879,
+    "modified": "Wed, 13 Jan 2021 17:44:44 GMT",
+    "name": "MSRC \u2013 Microsoft Security Response Center",
+    "seen_entries": []
+  },
   "https://politepol.com/fd/oaAc0yT3zDbO": {
     "last_updated": 1608574974,
     "name": "Jolly Jack's Collected Curios",
@@ -102,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610478940,
-    "modified": "Wed, 13 Jan 2021 06:38:00 GMT",
+    "modified": "Wed, 13 Jan 2021 18:56:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Wed, 13 Jan 2021 06:38:00 GMT",
+    "modified": "Wed, 13 Jan 2021 18:56:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -142,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e55977b49aacc9fd486162c5d8b847e7\"",
+    "etag": "W/\"ea07d5d9a04626bf04d44d8b404c6b6f\"",
     "last_updated": 1609866004,
-    "modified": "Tue, 12 Jan 2021 23:16:54 GMT",
+    "modified": "Wed, 13 Jan 2021 17:51:43 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"e55977b49aacc9fd486162c5d8b847e7\"",
-    "last_updated": 1609952453,
-    "modified": "Tue, 12 Jan 2021 23:16:54 GMT",
+    "etag": "W/\"ea07d5d9a04626bf04d44d8b404c6b6f\"",
+    "last_updated": 1610557204,
+    "modified": "Wed, 13 Jan 2021 17:51:43 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6cdb5097ebe78abee812067987941836",
+    "etag": "cacheable:3c4407cc2b4ae9d3b4706d1acbddd765",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -258,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1610470313,
+    "last_updated": 1610562700,
     "name": "GDC",
     "seen_entries": []
   },
@@ -388,7 +395,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1610474407,
+    "last_updated": 1610560816,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -403,9 +410,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5ffd29fb-8f1\"",
+    "etag": "W/\"5ffe7e57-8f1\"",
     "last_updated": 1610341200,
-    "modified": "Tue, 12 Jan 2021 04:47:55 GMT",
+    "modified": "Wed, 13 Jan 2021 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
