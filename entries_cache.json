@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Thu, 14 Jan 2021 18:45:30 GMT",
+    "modified": "Thu, 14 Jan 2021 20:46:18 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610580842,
-    "modified": "Thu, 14 Jan 2021 18:54:00 GMT",
+    "modified": "Thu, 14 Jan 2021 21:26:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Thu, 14 Jan 2021 18:54:00 GMT",
+    "modified": "Thu, 14 Jan 2021 21:24:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -132,7 +132,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1610513461,
+    "last_updated": 1610655521,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -149,9 +149,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"0c70bedb791125273d3a5436b73264b7\"",
+    "etag": "W/\"c2c2168f0d930029336ff1a08e08a625\"",
     "last_updated": 1609866004,
-    "modified": "Thu, 14 Jan 2021 18:48:32 GMT",
+    "modified": "Thu, 14 Jan 2021 21:07:44 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e009fb70a26cda772c3df8c31a900f5e",
+    "etag": "cacheable:79544500abef3019b513d1b310eedba6",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -320,7 +320,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1610485222,
+    "last_updated": 1610658031,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
