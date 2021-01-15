@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Fri, 15 Jan 2021 08:48:56 GMT",
+    "modified": "Fri, 15 Jan 2021 14:51:23 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1610523605,
+    "last_updated": 1610700875,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"24829a950617dc8c24247c6cefab5988e272700606e2c7166730d8710b52fa96\"",
+    "etag": "W/\"3c9caf0b21b06d020a6279d5b41086b78e77264216c6a2c090e9634259184f37\"",
     "last_updated": 1610643840,
-    "modified": "Fri, 15 Jan 2021 00:55:53 GMT",
+    "modified": "Fri, 15 Jan 2021 13:51:04 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610580842,
-    "modified": "Fri, 15 Jan 2021 06:38:00 GMT",
+    "modified": "Fri, 15 Jan 2021 15:28:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Fri, 15 Jan 2021 06:38:00 GMT",
+    "modified": "Fri, 15 Jan 2021 15:28:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6566851d7a637e466f545b6795ee2517",
+    "etag": "cacheable:f6d86e2f80408b306ded5b087c3c2b30",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -238,9 +238,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"b13ec6841055d0a3cb5ca4518ac2e895\"",
+    "etag": "W/\"c2d5204f270fa7d00e6b5b12e0cca644\"",
     "last_updated": 1610038857,
-    "modified": "Tue, 12 Jan 2021 18:15:31 GMT",
+    "modified": "Fri, 15 Jan 2021 11:04:50 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -325,7 +325,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1609424943,
+    "last_updated": 1610718021,
     "name": "miracleofsound",
     "seen_entries": []
   },
@@ -410,9 +410,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"5fffa28d-8b4\"",
+    "etag": "W/\"60012159-8b4\"",
     "last_updated": 1610514000,
-    "modified": "Thu, 14 Jan 2021 01:46:53 GMT",
+    "modified": "Fri, 15 Jan 2021 05:00:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
