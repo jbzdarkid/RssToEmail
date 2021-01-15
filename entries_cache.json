@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Fri, 15 Jan 2021 18:52:24 GMT",
+    "modified": "Fri, 15 Jan 2021 20:52:56 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"705836838a8cf41ec13f8c5247c8fb60\"",
+    "etag": "\"513905b3df7de9c6bee69b8064279d3a\"",
     "last_updated": 1610677916,
-    "modified": "Fri, 15 Jan 2021 18:25:10 GMT",
+    "modified": "Fri, 15 Jan 2021 19:25:41 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1610580842,
-    "modified": "Fri, 15 Jan 2021 18:52:00 GMT",
+    "modified": "Fri, 15 Jan 2021 21:30:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Fri, 15 Jan 2021 18:52:00 GMT",
+    "modified": "Fri, 15 Jan 2021 21:30:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"dc234d00260e39e571467a834f1b1605\"",
+    "etag": "W/\"0dda56cb7f44277ede0d936e2b55c440\"",
     "last_updated": 1609866004,
-    "modified": "Fri, 15 Jan 2021 18:00:45 GMT",
+    "modified": "Fri, 15 Jan 2021 21:19:11 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"dc234d00260e39e571467a834f1b1605\"",
+    "etag": "W/\"0dda56cb7f44277ede0d936e2b55c440\"",
     "last_updated": 1610557204,
-    "modified": "Fri, 15 Jan 2021 18:00:45 GMT",
+    "modified": "Fri, 15 Jan 2021 21:19:11 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a3413ba09f21830d8fb8ff3dfda20d42",
+    "etag": "cacheable:38a94257b15cb2b9793f070be7742dff",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -350,7 +350,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
-    "last_updated": 1607840945,
+    "last_updated": 1610745075,
     "name": "shadyparadox",
     "seen_entries": []
   },
