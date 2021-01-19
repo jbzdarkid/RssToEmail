@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1609414467,
-    "modified": "Tue, 19 Jan 2021 15:16:37 GMT",
+    "modified": "Tue, 19 Jan 2021 18:17:20 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"922cffad5d2a724c9afef01cd9ca43f1f9b1168056943ca6e5b0fb6344a00267\"",
+    "etag": "W/\"5f201e6bc5cff39ec00c44676a889f2f3d760c1fdb4c35e344f8e4bcd09c92da\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 18 Jan 2021 17:48:32 GMT",
+    "modified": "Tue, 19 Jan 2021 09:11:30 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"bf9574021050fb93d381d60b68cd764f1bbab0c7387aebbe564fc596c02c772a\"",
-    "last_updated": 1610643840,
-    "modified": "Tue, 19 Jan 2021 00:54:50 GMT",
+    "etag": "W/\"adf7a7f9fb2bcec3e2705de3a7ade37a5b37798351119dd8b52ffcdb3a02e5eb\"",
+    "last_updated": 1611077280,
+    "modified": "Tue, 19 Jan 2021 18:04:17 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"513905b3df7de9c6bee69b8064279d3a\"",
+    "etag": "\"f083712d2b39e920dc57773351386506\"",
     "last_updated": 1610677916,
-    "modified": "Fri, 15 Jan 2021 19:25:41 GMT",
+    "modified": "Tue, 19 Jan 2021 02:07:12 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -108,14 +108,14 @@
     "seen_entries": []
   },
   "https://steamcommunity.com/games/250820/rss": {
-    "last_updated": 1610580842,
-    "modified": "Tue, 19 Jan 2021 01:16:00 GMT",
+    "last_updated": 1611078614,
+    "modified": "Tue, 19 Jan 2021 18:52:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Tue, 19 Jan 2021 01:16:00 GMT",
+    "modified": "Tue, 19 Jan 2021 18:52:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9eab20cf49e8cfae53d588f312275dd2\"",
-    "last_updated": 1609866004,
-    "modified": "Tue, 19 Jan 2021 14:49:08 GMT",
+    "etag": "W/\"e0ea464dc04a7227ef0a7d3d1e5a0b64\"",
+    "last_updated": 1611075648,
+    "modified": "Tue, 19 Jan 2021 17:55:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"9eab20cf49e8cfae53d588f312275dd2\"",
+    "etag": "W/\"e0ea464dc04a7227ef0a7d3d1e5a0b64\"",
     "last_updated": 1610557204,
-    "modified": "Tue, 19 Jan 2021 14:49:08 GMT",
+    "modified": "Tue, 19 Jan 2021 17:55:34 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c386c4ddc8aaa2beec2bad57834fa3c8",
+    "etag": "cacheable:25765108e317860bdae9f78335f3874f",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -195,8 +195,8 @@
       "http://www.giantitp.com/comics/oots1222.html"
     ]
   },
-  "https://www.gogetaroomie.com/comic/rss": {
-    "last_updated": 1609736400,
+  "https://www.gogetaroomie.com/ggar-rerun/rss": {
+    "last_updated": 1611032400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1610731634,
+    "last_updated": 1611075285,
     "name": "GDC",
     "seen_entries": []
   },
@@ -395,7 +395,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1610906403,
+    "last_updated": 1611079211,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
