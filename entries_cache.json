@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1611082637,
-    "modified": "Wed, 20 Jan 2021 06:20:03 GMT",
+    "modified": "Wed, 20 Jan 2021 09:20:37 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"adf7a7f9fb2bcec3e2705de3a7ade37a5b37798351119dd8b52ffcdb3a02e5eb\"",
+    "etag": "W/\"c91c8309066ed2177bade9c02b80c83fd1b09ea0aa7537fc5a41925e00223d09\"",
     "last_updated": 1611077280,
-    "modified": "Tue, 19 Jan 2021 18:04:17 GMT",
+    "modified": "Wed, 20 Jan 2021 09:32:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:988f1e3593981a1e908bab86d72adda8",
+    "etag": "cacheable:d282ec895e8541dc20691c641ecdb3d1",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -214,7 +214,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1610956800,
+    "last_updated": 1611129600,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
