@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1611082637,
-    "modified": "Fri, 22 Jan 2021 09:32:52 GMT",
+    "modified": "Fri, 22 Jan 2021 14:34:02 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1611122400,
+    "last_updated": 1611295200,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -163,15 +163,15 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:790363257a4ecead27ac7bd78b5880aa",
+    "etag": "cacheable:c62cdc5f02aabef9f4014971d67b4662",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D8A4239D1ECF2B\"",
+    "etag": "\"0x8D8BEE23642A122\"",
     "last_updated": 0,
-    "modified": "Sat, 19 Dec 2020 13:40:13 GMT",
+    "modified": "Fri, 22 Jan 2021 14:30:05 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -192,7 +192,8 @@
       "http://www.giantitp.com/comics/oots1219.html",
       "http://www.giantitp.com/comics/oots1220.html",
       "http://www.giantitp.com/comics/oots1221.html",
-      "http://www.giantitp.com/comics/oots1222.html"
+      "http://www.giantitp.com/comics/oots1222.html",
+      "http://www.giantitp.com/comics/oots1223.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
