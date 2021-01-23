@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1611082637,
-    "modified": "Sat, 23 Jan 2021 18:11:23 GMT",
+    "modified": "Sat, 23 Jan 2021 20:42:51 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1611361043,
-    "modified": "Sat, 23 Jan 2021 18:50:00 GMT",
+    "modified": "Sat, 23 Jan 2021 21:28:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Sat, 23 Jan 2021 18:50:00 GMT",
+    "modified": "Sat, 23 Jan 2021 21:28:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"757ebfd472cb6f239c44b9c94b69b477\"",
+    "etag": "W/\"a297e64f0a7eb37adb40b87c101efd0c\"",
     "last_updated": 1611075648,
-    "modified": "Sat, 23 Jan 2021 01:10:09 GMT",
+    "modified": "Sat, 23 Jan 2021 19:00:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"757ebfd472cb6f239c44b9c94b69b477\"",
+    "etag": "W/\"a297e64f0a7eb37adb40b87c101efd0c\"",
     "last_updated": 1611162028,
-    "modified": "Sat, 23 Jan 2021 01:10:09 GMT",
+    "modified": "Sat, 23 Jan 2021 19:00:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:46658222fa04306944939d9c00120e96",
+    "etag": "cacheable:400cc0751b01f1907be827c739a6a6cc",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -321,7 +321,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1611262808,
+    "last_updated": 1611435601,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
