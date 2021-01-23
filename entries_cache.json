@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"6630d375a55f784f884230d35092db4a\"",
     "last_updated": 1611082637,
-    "modified": "Sat, 23 Jan 2021 00:37:37 GMT",
+    "modified": "Sat, 23 Jan 2021 03:38:33 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1611361043,
-    "modified": "Sat, 23 Jan 2021 01:14:00 GMT",
+    "modified": "Sat, 23 Jan 2021 04:00:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1609005625,
-    "modified": "Fri, 22 Jan 2021 18:50:00 GMT",
+    "modified": "Sat, 23 Jan 2021 04:00:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"12022664374ba2d4490d24d82a6a6e78\"",
+    "etag": "W/\"757ebfd472cb6f239c44b9c94b69b477\"",
     "last_updated": 1611075648,
-    "modified": "Sat, 23 Jan 2021 00:31:44 GMT",
+    "modified": "Sat, 23 Jan 2021 01:10:09 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"12022664374ba2d4490d24d82a6a6e78\"",
+    "etag": "W/\"757ebfd472cb6f239c44b9c94b69b477\"",
     "last_updated": 1611162028,
-    "modified": "Sat, 23 Jan 2021 00:31:44 GMT",
+    "modified": "Sat, 23 Jan 2021 01:10:09 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fc8824da1978edbf9585e90075786859",
+    "etag": "cacheable:0ed8bfff5126c1a1a77e648e105f593d",
     "last_updated": 1606498215,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -411,9 +411,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"600a5bd9-a33\"",
-    "last_updated": 1611118800,
-    "modified": "Fri, 22 Jan 2021 05:00:09 GMT",
+    "etag": "W/\"600b9196-9fe\"",
+    "last_updated": 1611291600,
+    "modified": "Sat, 23 Jan 2021 03:01:42 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
