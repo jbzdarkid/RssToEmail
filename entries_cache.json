@@ -29,7 +29,7 @@
   "https://blog.dota2.com/feed/": {
     "etag": "\"cfdad8ace90b2a4158a5f82ddb87b2c0\"",
     "last_updated": 1611082637,
-    "modified": "Wed, 27 Jan 2021 12:20:25 GMT",
+    "modified": "Wed, 27 Jan 2021 14:21:02 GMT",
     "name": "Dota 2",
     "seen_entries": []
   },
@@ -75,9 +75,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"31fb0a9bdcc68fe3e4fbf46cd98817a90f21ef546140f04c2c753b8d63596ef2\"",
+    "etag": "W/\"0a0c62ec1f045fa93a2d74500cf303025f7475418c6f60281927a5ed79c68458\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 27 Jan 2021 06:00:02 GMT",
+    "modified": "Wed, 27 Jan 2021 11:08:34 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -149,29 +149,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9ca0185b6b31ef2dbd6729514b4dc830\"",
+    "etag": "W/\"4aa2c7cefe65f2e7f0b45429e37038c2\"",
     "last_updated": 1611075648,
-    "modified": "Tue, 26 Jan 2021 23:08:26 GMT",
+    "modified": "Wed, 27 Jan 2021 14:00:11 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"9ca0185b6b31ef2dbd6729514b4dc830\"",
+    "etag": "W/\"4aa2c7cefe65f2e7f0b45429e37038c2\"",
     "last_updated": 1611162028,
-    "modified": "Tue, 26 Jan 2021 23:08:26 GMT",
+    "modified": "Wed, 27 Jan 2021 14:00:11 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:24bd8b73a3641279e5435ed45487890b",
+    "etag": "cacheable:6d63620fb31663929523b69c6f2e3435",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D8BEE23642A122\"",
+    "etag": "\"0x8D8C2C9192E8FC8\"",
     "last_updated": 0,
-    "modified": "Fri, 22 Jan 2021 14:30:05 GMT",
+    "modified": "Wed, 27 Jan 2021 13:40:23 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -193,7 +193,8 @@
       "http://www.giantitp.com/comics/oots1220.html",
       "http://www.giantitp.com/comics/oots1221.html",
       "http://www.giantitp.com/comics/oots1222.html",
-      "http://www.giantitp.com/comics/oots1223.html"
+      "http://www.giantitp.com/comics/oots1223.html",
+      "http://www.giantitp.com/comics/oots1224.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
