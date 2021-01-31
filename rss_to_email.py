@@ -10,6 +10,8 @@ from traceback import format_exc, print_exc, print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
 
+# TODO: https://web.dev/color-scheme/ -- try sending dark mode emails?
+
 SENDER_EMAIL = environ.get('sender_email', None)
 SENDER_PWORD = environ.get('sender_pword', None)
 TARGET_EMAIL = environ.get('target_email', None)
