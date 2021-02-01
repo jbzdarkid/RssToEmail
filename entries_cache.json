@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ef5b353e8988a56ad1212c7cc48e7827ca78f82b04546a502099bd579119b833\"",
+    "etag": "W/\"8ce046fa77b85b68bf04ebb18d6b849b7f2a8599a5681b8c08ab899955a6166e\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 01 Feb 2021 01:30:24 GMT",
+    "modified": "Mon, 01 Feb 2021 09:11:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2de22cba2e8e2d422e24cd34818a8ad60449b7e48319495564871903a6a9cc35\"",
+    "etag": "W/\"30972fd216c10756cb31b761a4c8563def9fdc4ac712e6ad7a4451661bf0e86c\"",
     "last_updated": 1611863220,
-    "modified": "Sun, 31 Jan 2021 14:00:06 GMT",
+    "modified": "Mon, 01 Feb 2021 09:08:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"88742293ae9c9f8a503e89cc32b130d2\"",
+    "etag": "\"1f3ca4d4951870059b49abe7eff8523b\"",
     "last_updated": 1610677916,
-    "modified": "Mon, 01 Feb 2021 05:55:42 GMT",
+    "modified": "Mon, 01 Feb 2021 06:37:41 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:91dd0accf499d38225fd6d3359400416",
+    "etag": "cacheable:af6ebd2566357ea09936dd7632976d06",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -216,7 +216,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1611907200,
+    "last_updated": 1612166400,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
