@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1612332000,
+    "last_updated": 1612504800,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"885e8dc9245470e957796dc893fb5d9029bb29f858f944f85ac2bfde14dcb270\"",
+    "etag": "W/\"a984d19da475bca339867cda6906e2e7beae6fb8b6e271d4e301afcb57cef4f9\"",
     "last_updated": 1612372200,
-    "modified": "Fri, 05 Feb 2021 13:06:17 GMT",
+    "modified": "Fri, 05 Feb 2021 20:23:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1612314669,
-    "modified": "Fri, 05 Feb 2021 18:14:00 GMT",
+    "modified": "Fri, 05 Feb 2021 21:12:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1611597646,
-    "modified": "Fri, 05 Feb 2021 18:14:00 GMT",
+    "modified": "Fri, 05 Feb 2021 21:12:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3ccbe515e72f9990b97ae029a69ce0f3\"",
+    "etag": "W/\"11f607c2afb5857434e7d89933cbb29c\"",
     "last_updated": 1612285210,
-    "modified": "Fri, 05 Feb 2021 17:30:19 GMT",
+    "modified": "Fri, 05 Feb 2021 18:30:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"3ccbe515e72f9990b97ae029a69ce0f3\"",
+    "etag": "W/\"11f607c2afb5857434e7d89933cbb29c\"",
     "last_updated": 1612371629,
-    "modified": "Fri, 05 Feb 2021 17:30:19 GMT",
+    "modified": "Fri, 05 Feb 2021 18:30:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b46c8965d195b8f17436f03f8f0f0847",
+    "etag": "cacheable:49b3f479ee75c5c765ec60c5f60f6cca",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -412,9 +412,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"601cd0d9-924\"",
-    "last_updated": 1612328400,
-    "modified": "Fri, 05 Feb 2021 05:00:09 GMT",
+    "etag": "W/\"601db0c6-9f9\"",
+    "last_updated": 1612501200,
+    "modified": "Fri, 05 Feb 2021 20:55:34 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
