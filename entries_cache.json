@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"fcf6d7d6507c4b952e94bff86a97ed65f85de791cd166acc2df9ac1093788fc1\"",
+    "etag": "W/\"6c3e7e93e7d1f949fa6f0aa8a87e7dc1915a7f7595a8a0fa34a86d444673dacb\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 08 Feb 2021 08:49:31 GMT",
+    "modified": "Mon, 08 Feb 2021 16:14:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9f5f1141fcda7ef731eb01f33a230ab2d15ca4ae685d5edacbf04989b665b8e9\"",
+    "etag": "W/\"7fb207dd8d40d4fc1a8be8eebd2ad3b84d018db8ab2302dd87113bd357b2dc95\"",
     "last_updated": 1612372200,
-    "modified": "Mon, 08 Feb 2021 08:37:31 GMT",
+    "modified": "Mon, 08 Feb 2021 17:55:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"7740347c2e5624c9ed31aaf7cca126a1\"",
+    "etag": "\"6d1ea099d9d01c0761ce59cb3aaf8136\"",
     "last_updated": 1612202400,
-    "modified": "Fri, 05 Feb 2021 17:23:11 GMT",
+    "modified": "Mon, 08 Feb 2021 12:34:28 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1612314669,
-    "modified": "Mon, 08 Feb 2021 06:16:00 GMT",
+    "modified": "Mon, 08 Feb 2021 18:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1611597646,
-    "modified": "Mon, 08 Feb 2021 06:16:00 GMT",
+    "modified": "Mon, 08 Feb 2021 18:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,29 +149,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3e3f34ed5f80ae063444ed5d5ab33f74\"",
+    "etag": "W/\"51b8bd71fe2ffc5716629b69e6c57c16\"",
     "last_updated": 1612285210,
-    "modified": "Mon, 08 Feb 2021 05:03:14 GMT",
+    "modified": "Mon, 08 Feb 2021 17:30:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"3e3f34ed5f80ae063444ed5d5ab33f74\"",
+    "etag": "W/\"51b8bd71fe2ffc5716629b69e6c57c16\"",
     "last_updated": 1612371629,
-    "modified": "Mon, 08 Feb 2021 05:03:14 GMT",
+    "modified": "Mon, 08 Feb 2021 17:30:05 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b5e33114826eaeb52a85abef1c179856",
+    "etag": "cacheable:69e2ecd98a8da9b864eed79bf41e01f5",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D8C2C9192E8FC8\"",
+    "etag": "\"0x8D8CC323826CF1F\"",
     "last_updated": 0,
-    "modified": "Wed, 27 Jan 2021 13:40:23 GMT",
+    "modified": "Mon, 08 Feb 2021 13:05:33 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -267,7 +267,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1612545989,
+    "last_updated": 1612805879,
     "name": "GDC",
     "seen_entries": []
   },
@@ -317,7 +317,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1609555114,
+    "last_updated": 1612806776,
     "name": "Tom Francis",
     "seen_entries": []
   },
@@ -412,9 +412,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"601db0c6-9f9\"",
+    "etag": "W/\"6020c55a-9f9\"",
     "last_updated": 1612501200,
-    "modified": "Fri, 05 Feb 2021 20:55:34 GMT",
+    "modified": "Mon, 08 Feb 2021 05:00:10 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
