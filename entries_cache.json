@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"01553e86e60464907a0ac837b84feb66c7814565913157a3460b607c0051ea6a\"",
+    "etag": "W/\"91f2bd21a005d523fd0fab1b6777c5f04f21fc2b2cbb2ed5b31cce9dc2828c77\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 10 Feb 2021 09:08:19 GMT",
+    "modified": "Wed, 10 Feb 2021 17:11:58 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f9c9c90948337e362f9a8715f224a9eaf820b146c6b14f3c243935842235dbe0\"",
+    "etag": "W/\"24bae8afda2f6e8d56fa98f3546ca590958e93b420899696138efa67254e7d75\"",
     "last_updated": 1612372200,
-    "modified": "Wed, 10 Feb 2021 09:00:09 GMT",
+    "modified": "Wed, 10 Feb 2021 17:59:35 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"9739ba30bf1bde6ab5ada888205565d8\"",
-    "last_updated": 1612894259,
-    "modified": "Wed, 10 Feb 2021 05:23:28 GMT",
+    "etag": "\"537ed692999a5f695adb3940fa71cbcf\"",
+    "last_updated": 1612979420,
+    "modified": "Wed, 10 Feb 2021 17:50:26 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -109,13 +109,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1612894810,
-    "modified": "Wed, 10 Feb 2021 06:16:00 GMT",
+    "modified": "Wed, 10 Feb 2021 18:22:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1611597646,
-    "modified": "Wed, 10 Feb 2021 06:16:00 GMT",
+    "modified": "Wed, 10 Feb 2021 18:22:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,21 +149,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"878f0be9dcc6789f773153f2b1d6d332\"",
+    "etag": "W/\"66f45b3b7e53f49534682291b8b29549\"",
     "last_updated": 1612285210,
-    "modified": "Tue, 09 Feb 2021 23:12:28 GMT",
+    "modified": "Wed, 10 Feb 2021 18:00:57 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"878f0be9dcc6789f773153f2b1d6d332\"",
-    "last_updated": 1612371629,
-    "modified": "Tue, 09 Feb 2021 23:12:28 GMT",
+    "etag": "W/\"66f45b3b7e53f49534682291b8b29549\"",
+    "last_updated": 1612976401,
+    "modified": "Wed, 10 Feb 2021 18:00:57 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:165777889595985248a82241332604f0",
+    "etag": "cacheable:a916ae3056aaf0aeab2b77358a67e8bc",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -241,9 +241,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"3f909022551aae0fe8d0c10333094f62\"",
+    "etag": "W/\"a858757792289b24af25f36c49de1af1\"",
     "last_updated": 1612108802,
-    "modified": "Tue, 09 Feb 2021 12:01:26 GMT",
+    "modified": "Wed, 10 Feb 2021 16:26:55 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1612891449,
+    "last_updated": 1612977393,
     "name": "GDC",
     "seen_entries": []
   },
@@ -398,7 +398,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1612652404,
+    "last_updated": 1612980010,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -413,9 +413,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6021d80a-965\"",
+    "etag": "W/\"60236859-965\"",
     "last_updated": 1612760400,
-    "modified": "Tue, 09 Feb 2021 00:32:10 GMT",
+    "modified": "Wed, 10 Feb 2021 05:00:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
