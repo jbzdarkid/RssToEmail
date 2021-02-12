@@ -1,31 +1,26 @@
 import feedparser
 import sys
-from email.message import EmailMessage
+from urllib import request
 from fileinput import input as fileinput
 from json import load, dump
-from os import environ
 from smtplib import SMTP, SMTPException
-from time import localtime, mktime, sleep, strftime
 from traceback import format_exc, print_exc, print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
 
-# TODO: https://web.dev/color-scheme/ -- try sending dark mode emails?
+from entry import *
 
-SENDER_EMAIL = environ.get('sender_email', None)
-SENDER_PWORD = environ.get('sender_pword', None)
-TARGET_EMAIL = environ.get('target_email', None)
-EMAIL_SERVER = environ.get('email_server', None)
+def parse_feeds(cache, feed_url):
+    # In the future, this probably moves out into main scope. Or something.
+    if feed_url not in cache:
+        cache[feed_url] = {
+            'name': d['feed']['title'],
+            'last_updated': 0,
+            'seen_entries': [],
+        }
 
-def to_seconds(struct_time):
-    if struct_time is None:
-        return None
-    return int(mktime(struct_time))
-
-
-def parse_feeds(cache, feed_url, email_server):
     etag = None
-    if feed_url in cache and 'etag' in cache[feed_url]:
+    if 'etag' in cache[feed_url]:
         etag = cache[feed_url]['etag']
     modified = None
     if modified in cache and 'modified' in cache[feed_url]:
@@ -61,40 +56,65 @@ def parse_feeds(cache, feed_url, email_server):
             print('# ' + line, end='')
         return
 
-    if feed_url not in cache:
-        cache[feed_url] = {
-            'name': d['feed']['title'],
-            'last_updated': 0,
-            'seen_entries': [],
-        }
-
     if 'etag' in d:
         cache[feed_url]['etag'] = d.etag
     if 'modified' in d:
         cache[feed_url]['modified'] = d.modified
 
-    new_entries = False
-    for entry in reversed(d['entries']):
-        title = entry['title']
-        link = entry['link']
-        # Not all entries have a date
-        entry_date = to_seconds(entry.get('published_parsed', None))
-        if 'description' in entry:
-            content = entry['description']
-        elif 'content' in entry:
-            content = next(c['value'] for c in entry['content'] if c['type'] == 'text/html')
-        else:
-            content = '(This RSS entry has no contents)'
+    entries = []
+    for row in data:
+        entry = Entry()
+        entry.title = data['title']
+        entry.link = data['link']
+        entry.url = data['href']
+        if 'published_parsed' in data: # Not all entries have a date
+            entry.date = int(mktime(data['publish_parsed']))
+        if 'description' in data:
+            entry.content = data['description']
+        elif 'content' in data:
+            entry.content = next(c['value'] for c in data['content'] if c['type'] == 'text/html')
+        entries.append(entry)
 
-        if entry_date:
-            if entry_date > cache[feed_url]['last_updated']:
-                send_email(email_server, title, cache[feed_url]['name'], entry_date, link, content)
-                cache[feed_url]['last_updated'] = entry_date
+    return entries
+
+
+def get_hearthstone_patch_notes():
+    feed_url = 'https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch'
+    data = load(request.urlopen(feed_url))
+    if feed_url not in cache:
+        cache[feed_url] = {
+            'name': 'Hearthstone Patch Notes',
+            'last_updated': 0,
+            'seen_entries': [],
+        }
+
+    entries = []
+    for row in data:
+        entry = Entry()
+        entry.title = row['title']
+        entry.link = row['defaultUrl']
+        entry.url = feed_url
+        entry.date = row['created'] // 1000
+        entry.content = row['content']
+        entries.append(entry)
+
+    print(entries)
+    return entries
+
+
+def handle_entries(entries, cache, email_server):
+    new_entries = False
+    # Reversed so that older entries are first, that way we send emails in chronological order.
+    for entry in reversed(entries):
+        if entry.date:
+            if entry.date > cache[entry.url]['last_updated']:
+                entry.send_email(email_server, cache[entry.url]['name'])
+                cache[entry.url]['last_updated'] = entry.date
                 new_entries = True
         else:
-            if link not in cache[feed_url]['seen_entries']:
-                send_email(email_server, title, cache[feed_url]['name'], None, link, content)
-                cache[feed_url]['seen_entries'].append(link)
+            if entry.link not in cache[entry.url]['seen_entries']:
+                entry.send_email(email_server, cache[entry.url]['name'])
+                cache[entry.url]['seen_entries'].append(link)
                 new_entries = True
 
         if new_entries:
@@ -102,36 +122,13 @@ def parse_feeds(cache, feed_url, email_server):
                 dump(cache, f, sort_keys=True, indent=2)
 
 
-def send_email(email_server, title, feed_title, date, link, content):
-    msg = EmailMessage()
-    msg['Subject'] = title.replace('\n', '').replace('\r', '')
-    msg['To'] = TARGET_EMAIL
-    msg['From'] = f'{feed_title} <{SENDER_EMAIL}>'
-    msg['reply-to'] = TARGET_EMAIL
-
-    plaintext = f'{content}\n\nTo view the full post, click here: {link}'
-    richtext = f'{content}<hr>To view the full post, <a href="{link}">click here</a>.'
-    if date:
-        plaintext += f'\nThis was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
-        richtext += f'<br>This was originally posted at {strftime("%A, %B %d, %Y", localtime(date))}.'
-
-    msg.set_content(plaintext)
-    msg.add_alternative(richtext, subtype='html')
-    if SENDER_EMAIL and TARGET_EMAIL:
-        email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
-        sleep(5) # Avoid hitting throttling limits
-
-
 if __name__ == '__main__':
     with open('entries_cache.json', 'r') as f:
         cache = load(f)
 
-    email_server = SMTP(EMAIL_SERVER, 587)
-    if SENDER_EMAIL:
-        email_server.starttls()
-        email_server.login(SENDER_EMAIL, SENDER_PWORD);
-
     success = True
+    entries = []
+
     feeds = []
     with open('feed_list.txt', 'r') as f:
         for line in f:
@@ -140,14 +137,11 @@ if __name__ == '__main__':
                 continue
             feeds.append(feed_url)
 
+    """
     for feed_url in feeds:
         try:
-            parse_feeds(cache, feed_url, email_server)
+            entries += parse_feeds(cache, feed_url)
         except KeyboardInterrupt:
-            print_exc()
-            success = False
-            break
-        except SMTPException: # Indicates throttling in the SMTP client
             print_exc()
             success = False
             break
@@ -155,6 +149,27 @@ if __name__ == '__main__':
             print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
             success = False
             continue
+    """
+
+    entries += get_hearthstone_patch_notes()
+
+    email_server = SMTP(EMAIL_SERVER, 587)
+    if SENDER_EMAIL:
+        email_server.starttls()
+        email_server.login(SENDER_EMAIL, SENDER_PWORD);
+
+    try:
+        handle_entries(entries, cache, email_server)
+    except SMTPException: # Indicates throttling in the SMTP client
+        print_exc()
+        success = False
+    except KeyboardInterrupt:
+        print_exc()
+        success = False
+    except Exception:
+        print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
+        success = False
+
 
     email_server.quit()
     sys.exit(0 if success else 1)
