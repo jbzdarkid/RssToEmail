@@ -137,7 +137,6 @@ if __name__ == '__main__':
                 continue
             feeds.append(feed_url)
 
-    """
     for feed_url in feeds:
         try:
             entries += parse_feeds(cache, feed_url)
@@ -149,7 +148,6 @@ if __name__ == '__main__':
             print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
             success = False
             continue
-    """
 
     entries += get_hearthstone_patch_notes()
 
