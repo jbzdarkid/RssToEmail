@@ -34,10 +34,10 @@ def parse_feeds(cache, feed_url):
          or isinstance(d['bozo_exception'], SAXException)): # XML Parsing error
             print(f'URLError while parsing feed: {feed_url}\n')
             print_exception(d['bozo_exception'], None, None, chain=False)
-            return # These two errors are indicative of a critical parse failure, so there's no value in continuing.
+            return [] # These two errors are indicative of a critical parse failure, so there's no value in continuing.
 
     if d['status'] == 304: # etag / modified indicates no new data
-        return
+        return []
     if d['status'] == 301:
         print(f'Feed {feed_url} has permanently moved to {d.href}')
         for line in fileinput('feed_list.txt', inplace=True):
@@ -54,7 +54,7 @@ def parse_feeds(cache, feed_url):
 
             print('# (Permanently deleted)')
             print('# ' + line, end='')
-        return
+        return []
 
     if 'etag' in d:
         cache[feed_url]['etag'] = d.etag
@@ -62,17 +62,17 @@ def parse_feeds(cache, feed_url):
         cache[feed_url]['modified'] = d.modified
 
     entries = []
-    for row in data:
+    for row in d['entries']:
         entry = Entry()
-        entry.title = data['title']
-        entry.link = data['link']
-        entry.url = data['href']
-        if 'published_parsed' in data: # Not all entries have a date
-            entry.date = int(mktime(data['publish_parsed']))
-        if 'description' in data:
-            entry.content = data['description']
-        elif 'content' in data:
-            entry.content = next(c['value'] for c in data['content'] if c['type'] == 'text/html')
+        entry.title = row['title']
+        entry.link = row['link']
+        entry.url = feed_url
+        if 'published_parsed' in row: # Not all entries have a date
+            entry.date = int(mktime(row['published_parsed']))
+        if 'description' in row:
+            entry.content = row['description']
+        elif 'content' in row:
+            entry.content = next(c['value'] for c in row['content'] if c['type'] == 'text/html')
         entries.append(entry)
 
     return entries
@@ -98,7 +98,6 @@ def get_hearthstone_patch_notes():
         entry.content = row['content']
         entries.append(entry)
 
-    print(entries)
     return entries
 
 
@@ -150,6 +149,8 @@ if __name__ == '__main__':
             continue
 
     entries += get_hearthstone_patch_notes()
+
+    print(f'Found {len(entries)} new entries, sending emails...')
 
     email_server = SMTP(EMAIL_SERVER, 587)
     if SENDER_EMAIL:
