@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1612503423,
+    "last_updated": 1613217175,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -20,9 +20,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"82320c23b5e1d4ccd3fc0ab1cf521031\"",
+    "etag": "W/\"6aa12c2df5b004bea80f4c7a78499754\"",
     "last_updated": 1611790989,
-    "modified": "Thu, 11 Feb 2021 19:06:13 GMT",
+    "modified": "Fri, 12 Feb 2021 22:58:42 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1612936800,
+    "last_updated": 1613368800,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -70,21 +70,21 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1612945855,
+    "last_updated": 1613291990,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f2674771207b76a6df742b1a61e70a541bad66fb201349f2df677b572fd5f135\"",
+    "etag": "W/\"8d6e572fac0dd9de480356e6fb357083d99bc45453b6c36dd86b6328c0c89615\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 11 Feb 2021 22:23:36 GMT",
+    "modified": "Mon, 15 Feb 2021 11:49:26 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8077e81f33fac15d8cbea34738ebe8aa5b82c31ec47825fd15fc289a66228d5b\"",
+    "etag": "W/\"6213e38353a78552156041ae3eaa468bd4a6e81df514bb92965e73518bf5a41c\"",
     "last_updated": 1612372200,
-    "modified": "Thu, 11 Feb 2021 22:28:07 GMT",
+    "modified": "Mon, 15 Feb 2021 11:05:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"118bcc82ef0059b875368c55cc94dd00\"",
+    "etag": "\"53884a602c372702e9cb4d9748d0d753\"",
     "last_updated": 1612979420,
-    "modified": "Thu, 11 Feb 2021 23:39:25 GMT",
+    "modified": "Mon, 15 Feb 2021 01:09:09 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1612894810,
-    "modified": "Fri, 12 Feb 2021 00:34:00 GMT",
+    "modified": "Mon, 15 Feb 2021 15:12:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1613067179,
-    "modified": "Fri, 12 Feb 2021 00:34:00 GMT",
+    "modified": "Mon, 15 Feb 2021 15:12:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,26 +149,26 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1612760400,
+    "last_updated": 1613365200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"548c279f163d50f06d6421ecc8b3b3a2\"",
+    "etag": "W/\"78121dd0f7b660e802b82827f6041596\"",
     "last_updated": 1612285210,
-    "modified": "Thu, 11 Feb 2021 23:07:50 GMT",
+    "modified": "Sun, 14 Feb 2021 22:34:08 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"548c279f163d50f06d6421ecc8b3b3a2\"",
+    "etag": "W/\"78121dd0f7b660e802b82827f6041596\"",
     "last_updated": 1612976401,
-    "modified": "Thu, 11 Feb 2021 23:07:50 GMT",
+    "modified": "Sun, 14 Feb 2021 22:34:08 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:965bb0fb5525e9f4a8348233ac18bf18",
+    "etag": "cacheable:d8fdafb9bf7ac206b925e49a93512d87",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1613019600,
+    "last_updated": 1613365200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -222,7 +222,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1612944000,
+    "last_updated": 1613376000,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
@@ -246,9 +246,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"d25c53e0936c6012fb193492c8319ee8\"",
+    "etag": "W/\"7348c4b963b2210a802fbef1abf88120\"",
     "last_updated": 1613062843,
-    "modified": "Thu, 11 Feb 2021 17:19:25 GMT",
+    "modified": "Sat, 13 Feb 2021 18:35:33 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -263,7 +263,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1612934315,
+    "last_updated": 1613366740,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -273,7 +273,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1613063930,
+    "last_updated": 1613150247,
     "name": "GDC",
     "seen_entries": []
   },
@@ -328,7 +328,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1613077207,
+    "last_updated": 1613250000,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -403,7 +403,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1612980010,
+    "last_updated": 1613250222,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -413,14 +413,14 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1613061363,
+    "last_updated": 1613152815,
     "name": "SourceRuns",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"602480f0-96d\"",
-    "last_updated": 1612933200,
-    "modified": "Thu, 11 Feb 2021 00:57:20 GMT",
+    "etag": "W/\"6029ffd6-a33\"",
+    "last_updated": 1613106000,
+    "modified": "Mon, 15 Feb 2021 05:00:06 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
