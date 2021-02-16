@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1613368800,
+    "last_updated": 1613455200,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0bf7e28ab8bc1baaa53037d9982ca6d886875082850d1e90430682504df1ab85\"",
+    "etag": "W/\"81abeb9068a684dda8c3e9a89f693f8427473fe4ae52b9382c3a727a237da8fe\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 15 Feb 2021 20:48:19 GMT",
+    "modified": "Mon, 15 Feb 2021 22:59:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b1ae2a5cf48f9a4f81a042ac0386f3179c552321ea61c075234b291639ddb6df\"",
+    "etag": "W/\"2af4c8f914465f14087a6ac59be5a3845569034114e3793d1304091653564257\"",
     "last_updated": 1612372200,
-    "modified": "Mon, 15 Feb 2021 20:48:47 GMT",
+    "modified": "Tue, 16 Feb 2021 05:58:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1612894810,
-    "modified": "Mon, 15 Feb 2021 21:12:00 GMT",
+    "modified": "Tue, 16 Feb 2021 06:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1613067179,
-    "modified": "Mon, 15 Feb 2021 21:12:00 GMT",
+    "modified": "Tue, 16 Feb 2021 06:14:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4cc4c6e0151850c482c2d689b78ed569\"",
+    "etag": "W/\"8bed0b233d981f998c6d1ce1fe230826\"",
     "last_updated": 1612285210,
-    "modified": "Mon, 15 Feb 2021 21:05:42 GMT",
+    "modified": "Mon, 15 Feb 2021 22:43:28 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4cc4c6e0151850c482c2d689b78ed569\"",
+    "etag": "W/\"8bed0b233d981f998c6d1ce1fe230826\"",
     "last_updated": 1612976401,
-    "modified": "Mon, 15 Feb 2021 21:05:42 GMT",
+    "modified": "Mon, 15 Feb 2021 22:43:28 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f6acb2e6c2ff201fa0d5052003b9c16d",
+    "etag": "cacheable:c92e923f8eddf7b2b1e065b4c793d497",
     "last_updated": 1611677144,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1613365200,
+    "last_updated": 1613451600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
