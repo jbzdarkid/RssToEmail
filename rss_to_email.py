@@ -11,14 +11,6 @@ from xml.sax import SAXException
 from entry import *
 
 def parse_feeds(cache, feed_url):
-    # In the future, this probably moves out into main scope. Or something.
-    if feed_url not in cache:
-        cache[feed_url] = {
-            'name': d['feed']['title'],
-            'last_updated': 0,
-            'seen_entries': [],
-        }
-
     etag = None
     if 'etag' in cache[feed_url]:
         etag = cache[feed_url]['etag']
@@ -27,6 +19,14 @@ def parse_feeds(cache, feed_url):
         modified = cache[feed_url]['modified']
 
     d = feedparser.parse(feed_url, etag=etag, modified=modified)
+
+    # In the future, this probably moves out into main scope. Or something.
+    if feed_url not in cache:
+        cache[feed_url] = {
+            'name': d['feed']['title'],
+            'last_updated': 0,
+            'seen_entries': [],
+        }
 
     # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I don't own these feeds, there's no need to report this.
     if d['bozo'] == 1:
