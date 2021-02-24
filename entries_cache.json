@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5e349d426bf9001f4cee02b2c71fd4aea3cbaa0b75c27df36f702190ac24e782\"",
+    "etag": "W/\"a1f376f19e8cbb733a62daf1c89edccce6d414b4a653156a00738bb0f62c15eb\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 24 Feb 2021 00:18:30 GMT",
+    "modified": "Wed, 24 Feb 2021 06:02:34 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9b5c0d285767c34d0906be54f14a03c6c67c75538049f0bbb5ca2dadd566cfb3\"",
+    "etag": "W/\"29343ef10021bc4fec123f1c5f16de78ab6673791766df5f4f1c250f79ad6234\"",
     "last_updated": 1612372200,
-    "modified": "Tue, 23 Feb 2021 22:16:56 GMT",
+    "modified": "Wed, 24 Feb 2021 05:27:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614046934,
-    "modified": "Wed, 24 Feb 2021 00:36:00 GMT",
+    "modified": "Wed, 24 Feb 2021 06:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1613067179,
-    "modified": "Wed, 24 Feb 2021 00:36:00 GMT",
+    "modified": "Wed, 24 Feb 2021 06:14:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -168,7 +168,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:472e39af2f91e3dac1209ce1dc110229",
+    "etag": "cacheable:7b7ecc756acebcffff1236986324d6c9",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1614056400,
+    "last_updated": 1614142800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -263,7 +263,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1613974591,
+    "last_updated": 1614140245,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -418,9 +418,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6033fefb-99d\"",
+    "etag": "W/\"6035dd58-99d\"",
     "last_updated": 1613970000,
-    "modified": "Mon, 22 Feb 2021 18:59:07 GMT",
+    "modified": "Wed, 24 Feb 2021 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
