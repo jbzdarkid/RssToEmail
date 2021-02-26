@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0e95305bd318b646139077c97e8c0e246b7a1ad52d47bdd9fe5965deed8f9d1d\"",
+    "etag": "W/\"0ed901a7fb10bbbbb1a38e60e5b1d57c216f64a8766ab410f33fcec59257c937\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 25 Feb 2021 21:35:00 GMT",
+    "modified": "Fri, 26 Feb 2021 08:55:45 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f4a27aedff4b2e7a50acfffb80ea55f2c72cfb210bbcda6004785e2e6e5d3de8\"",
+    "etag": "W/\"8900bef1bec41125662438f69ae45980ee481944be413b977315378570579738\"",
     "last_updated": 1612372200,
-    "modified": "Fri, 26 Feb 2021 04:57:12 GMT",
+    "modified": "Fri, 26 Feb 2021 09:04:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"8daa0d0fe3685d102f3b04d2bcde7d30\"",
+    "etag": "\"6178bc3e6c552e7f7344839f7c1d2cc1\"",
     "last_updated": 1613664000,
-    "modified": "Thu, 25 Feb 2021 21:21:57 GMT",
+    "modified": "Fri, 26 Feb 2021 08:43:01 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614207913,
-    "modified": "Fri, 26 Feb 2021 06:16:00 GMT",
+    "modified": "Fri, 26 Feb 2021 09:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Fri, 26 Feb 2021 06:16:00 GMT",
+    "modified": "Fri, 26 Feb 2021 09:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -168,7 +168,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b87e70ff4e984fc7d95ddc242cc6ae38",
+    "etag": "cacheable:88e6cc5a588c8d02203924291e825d29",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -222,7 +222,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1614153600,
+    "last_updated": 1614326400,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
