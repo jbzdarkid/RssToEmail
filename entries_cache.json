@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b8b606d022f921b18ae4781cf309bc2c4d4f0cb36df055306ea5786db050652a\"",
+    "etag": "W/\"0e95305bd318b646139077c97e8c0e246b7a1ad52d47bdd9fe5965deed8f9d1d\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 25 Feb 2021 20:13:05 GMT",
+    "modified": "Thu, 25 Feb 2021 21:35:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9290a7e9b0c2f8d42560e33e5f15eabc595117676e6c24a0d8d2ca09ffca37b6\"",
+    "etag": "W/\"9f28b925048c4b67819a7abd4c490c16514174486872a20694910ff09df6e901\"",
     "last_updated": 1612372200,
-    "modified": "Thu, 25 Feb 2021 13:10:45 GMT",
+    "modified": "Thu, 25 Feb 2021 23:19:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"b94ef46c20dbd54401e61a31480618c7\"",
+    "etag": "\"8daa0d0fe3685d102f3b04d2bcde7d30\"",
     "last_updated": 1613664000,
-    "modified": "Mon, 22 Feb 2021 19:20:12 GMT",
+    "modified": "Thu, 25 Feb 2021 21:21:57 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614207913,
-    "modified": "Thu, 25 Feb 2021 21:12:00 GMT",
+    "modified": "Fri, 26 Feb 2021 03:14:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Thu, 25 Feb 2021 21:12:00 GMT",
+    "modified": "Fri, 26 Feb 2021 03:14:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"227db1ac6f351e06f52049b57f07f6d5\"",
+    "etag": "W/\"2ba28cd4b00b60ad5d9c7051fe3f92b8\"",
     "last_updated": 1613494801,
-    "modified": "Thu, 25 Feb 2021 20:33:54 GMT",
+    "modified": "Fri, 26 Feb 2021 01:50:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"227db1ac6f351e06f52049b57f07f6d5\"",
+    "etag": "W/\"2ba28cd4b00b60ad5d9c7051fe3f92b8\"",
     "last_updated": 1614186053,
-    "modified": "Thu, 25 Feb 2021 20:33:54 GMT",
+    "modified": "Fri, 26 Feb 2021 01:50:20 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ccb4a18b4a35488f260368381862582a",
+    "etag": "cacheable:e1ecb1148f9abc0511ed9db21ee54d82",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -403,7 +403,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1614189607,
+    "last_updated": 1614305127,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
