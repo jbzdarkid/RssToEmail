@@ -12,11 +12,10 @@ from entry import *
 
 def parse_feeds(cache, feed_url):
     etag = None
-    if 'etag' in cache[feed_url]:
-        etag = cache[feed_url]['etag']
     modified = None
-    if modified in cache and 'modified' in cache[feed_url]:
-        modified = cache[feed_url]['modified']
+    if cache_data := cache.get(feed_url, None):
+        etag = cache_data.get('etag', None)
+        modified = cache_data.get('modified', None)
 
     d = feedparser.parse(feed_url, etag=etag, modified=modified)
 

@@ -9,7 +9,6 @@ EMAIL_SERVER = environ.get('email_server', None)
 
 # TODO: https://web.dev/color-scheme/ -- try sending dark mode emails?
 
-
 class Entry:
     def __init__(self):
         self.content = '(This RSS entry has no contents)'
@@ -25,10 +24,9 @@ class Entry:
         msg['reply-to'] = TARGET_EMAIL
 
         plaintext = f'{self.content}\n\nTo view the full post, click here: {self.link}'
-        richtext = f'{self.content}<hr>To view the full post, <a href="{self.link}">click here</a>.'
         if self.date:
             plaintext += f'\nThis was originally posted at {strftime("%A, %B %d, %Y", localtime(self.date))}.'
-            richtext += f'<br>This was originally posted at {strftime("%A, %B %d, %Y", localtime(self.date))}.'
+        richtext = plaintext.replace('\n', '<br>')
 
         msg.set_content(plaintext)
         msg.add_alternative(richtext, subtype='html')
