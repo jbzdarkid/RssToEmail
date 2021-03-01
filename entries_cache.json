@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1614492000,
+    "last_updated": 1614578400,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"6178bc3e6c552e7f7344839f7c1d2cc1\"",
+    "etag": "\"b03706ab6e8d7124002317f123ca67e5\"",
     "last_updated": 1613664000,
-    "modified": "Fri, 26 Feb 2021 08:43:01 GMT",
+    "modified": "Mon, 01 Mar 2021 02:34:38 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614207913,
-    "modified": "Mon, 01 Mar 2021 00:38:00 GMT",
+    "modified": "Mon, 01 Mar 2021 06:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Mon, 01 Mar 2021 00:38:00 GMT",
+    "modified": "Mon, 01 Mar 2021 06:14:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -149,7 +149,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1613970000,
+    "last_updated": 1614574800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -168,7 +168,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b6ab721ed5116dc23031b1bad0ef59cb",
+    "etag": "cacheable:d945b26859bfe58016762de7749ae0c6",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1614315600,
+    "last_updated": 1614574800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -263,7 +263,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1614319603,
+    "last_updated": 1614575135,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60395296-917\"",
+    "etag": "W/\"603c74d8-917\"",
     "last_updated": 1614315600,
-    "modified": "Fri, 26 Feb 2021 19:57:10 GMT",
+    "modified": "Mon, 01 Mar 2021 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
