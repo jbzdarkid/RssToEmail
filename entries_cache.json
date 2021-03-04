@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"c242fbf70b0eb64c6a01d22163ecab1c\"",
+    "etag": "\"faa580b9717874ccfe9fee4244ae15d7\"",
     "last_updated": 1614795300,
-    "modified": "Wed, 03 Mar 2021 18:15:00 GMT",
+    "modified": "Thu, 04 Mar 2021 17:42:24 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614207913,
-    "modified": "Thu, 04 Mar 2021 15:14:00 GMT",
+    "modified": "Thu, 04 Mar 2021 18:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Thu, 04 Mar 2021 15:14:00 GMT",
+    "modified": "Thu, 04 Mar 2021 18:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1626c0d9c8c7913f7e7594a10eb65e86\"",
+    "etag": "W/\"0c07c055bc063bc5042deeeccad9b1a0\"",
     "last_updated": 1614704411,
-    "modified": "Thu, 04 Mar 2021 01:49:39 GMT",
+    "modified": "Thu, 04 Mar 2021 16:35:07 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"1626c0d9c8c7913f7e7594a10eb65e86\"",
+    "etag": "W/\"0c07c055bc063bc5042deeeccad9b1a0\"",
     "last_updated": 1614790827,
-    "modified": "Thu, 04 Mar 2021 01:49:39 GMT",
+    "modified": "Thu, 04 Mar 2021 16:35:07 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ca850f5ae09ea34a95c9a11156e55ab5",
+    "etag": "cacheable:98f0b5128372227484034a2a64fd46f9",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -273,7 +273,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1614792610,
+    "last_updated": 1614878043,
     "name": "GDC",
     "seen_entries": []
   },
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"604025ca-881\"",
+    "etag": "W/\"60411386-87f\"",
     "last_updated": 1614747600,
-    "modified": "Thu, 04 Mar 2021 00:11:54 GMT",
+    "modified": "Thu, 04 Mar 2021 17:06:14 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
