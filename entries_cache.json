@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7d33dcadcd431bfb280952efdfd05ba5f1dc62b318d4e220b09f2df874f2586c\"",
+    "etag": "W/\"374641078f65db76da997f2b3ce00ce90b98b7c2c9d7635f40c09b6b1bbe7794\"",
     "last_updated": 1612372200,
-    "modified": "Fri, 05 Mar 2021 03:08:12 GMT",
+    "modified": "Fri, 05 Mar 2021 06:03:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614207913,
-    "modified": "Fri, 05 Mar 2021 03:16:00 GMT",
+    "modified": "Fri, 05 Mar 2021 06:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Fri, 05 Mar 2021 03:16:00 GMT",
+    "modified": "Fri, 05 Mar 2021 06:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -168,7 +168,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c954ad3de896b1c4d34759bef709fb0f",
+    "etag": "cacheable:d6a74bf786b22bd2e6234e1ac47cfa10",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1614834000,
+    "last_updated": 1614920400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60411386-87f\"",
+    "etag": "W/\"6041bad8-87f\"",
     "last_updated": 1614747600,
-    "modified": "Thu, 04 Mar 2021 17:06:14 GMT",
+    "modified": "Fri, 05 Mar 2021 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
