@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"44cb03b6f2338d926ecd9e3a906b0b6253c2a838e3a73ac5ea00de8694e8035e\"",
+    "etag": "W/\"40b40d20653358182a883b3c31bce2bd80b22eb295c4a1d144f0365fdcbfe3f6\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 05 Mar 2021 09:15:03 GMT",
+    "modified": "Fri, 05 Mar 2021 12:19:37 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7368dead2c0bf44fc877e1365b58ea9a429e92a16b74f84095dddb9b31bcc5a6\"",
+    "etag": "W/\"2c47114f20d61cbab54c07639f399baa7315a49adb7669ad7cb7b73e2d60de5f\"",
     "last_updated": 1612372200,
-    "modified": "Fri, 05 Mar 2021 09:15:23 GMT",
+    "modified": "Fri, 05 Mar 2021 12:06:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614207913,
-    "modified": "Fri, 05 Mar 2021 09:14:00 GMT",
+    "modified": "Fri, 05 Mar 2021 18:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Fri, 05 Mar 2021 09:14:00 GMT",
+    "modified": "Fri, 05 Mar 2021 18:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ff62828d9f750a83a119c30cee2bf48a\"",
+    "etag": "W/\"a981821ca3baca1ec47d46ec3dccc075\"",
     "last_updated": 1614704411,
-    "modified": "Thu, 04 Mar 2021 22:53:52 GMT",
+    "modified": "Fri, 05 Mar 2021 17:06:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"ff62828d9f750a83a119c30cee2bf48a\"",
+    "etag": "W/\"a981821ca3baca1ec47d46ec3dccc075\"",
     "last_updated": 1614790827,
-    "modified": "Thu, 04 Mar 2021 22:53:52 GMT",
+    "modified": "Fri, 05 Mar 2021 17:06:20 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:688e11f517ef06cb8fb4ccf014e786a1",
+    "etag": "cacheable:293a0ec1723e13f193b9c5f4f7f1c11b",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -273,7 +273,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1614878043,
+    "last_updated": 1614963617,
     "name": "GDC",
     "seen_entries": []
   },
@@ -408,7 +408,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1614908333,
+    "last_updated": 1614967212,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
