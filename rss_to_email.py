@@ -101,23 +101,24 @@ def get_hearthstone_patch_notes():
 
 
 def handle_entries(entries, cache, email_server):
-    new_entries = False
     # Reversed so that older entries are first, that way we send emails in chronological order.
     for entry in reversed(entries):
         if entry.date:
             if entry.date > cache[entry.url]['last_updated']:
+                print(f'Found new entry for {entry.url} by date')
                 entry.send_email(email_server, cache[entry.url]['name'])
+
                 cache[entry.url]['last_updated'] = entry.date
-                new_entries = True
+                with open('entries_cache.json', 'w') as f:
+                    dump(cache, f, sort_keys=True, indent=2)
         else:
             if entry.link not in cache[entry.url]['seen_entries']:
+                print(f'Found new entry for {entry.url} by link')
                 entry.send_email(email_server, cache[entry.url]['name'])
-                cache[entry.url]['seen_entries'].append(link)
-                new_entries = True
 
-        if new_entries:
-            with open('entries_cache.json', 'w') as f:
-                dump(cache, f, sort_keys=True, indent=2)
+                cache[entry.url]['seen_entries'].append(link)
+                with open('entries_cache.json', 'w') as f:
+                    dump(cache, f, sort_keys=True, indent=2)
 
 
 if __name__ == '__main__':
@@ -149,7 +150,7 @@ if __name__ == '__main__':
 
     entries += get_hearthstone_patch_notes()
 
-    print(f'Found {len(entries)} new entries, sending emails...')
+    print(f'Found {len(entries)} entries')
 
     email_server = SMTP(EMAIL_SERVER, 587)
     if SENDER_EMAIL:
