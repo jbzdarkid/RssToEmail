@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1615183200,
+    "last_updated": 1615269600,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"6c1ea3c56e9c228c90f69de24098d05d\"",
+    "etag": "\"cdfe172c2add183d2d24751471635d8f\"",
     "last_updated": 1614981690,
-    "modified": "Mon, 08 Mar 2021 06:52:22 GMT",
+    "modified": "Tue, 09 Mar 2021 05:07:08 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614982557,
-    "modified": "Tue, 09 Mar 2021 00:36:00 GMT",
+    "modified": "Tue, 09 Mar 2021 06:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Tue, 09 Mar 2021 00:36:00 GMT",
+    "modified": "Tue, 09 Mar 2021 06:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -168,7 +168,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:827c9d840bcf5477700d45cf955f715e",
+    "etag": "cacheable:b2ff4fae34c766a2f5a7b756cd2d2a6a",
     "last_updated": 1614098791,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1615179600,
+    "last_updated": 1615266000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6045af5a-80d\"",
-    "last_updated": 1614920400,
-    "modified": "Mon, 08 Mar 2021 05:00:10 GMT",
+    "etag": "W/\"6046ecb8-81d\"",
+    "last_updated": 1615179600,
+    "modified": "Tue, 09 Mar 2021 03:34:16 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
