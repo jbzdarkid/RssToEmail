@@ -20,9 +20,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"ac52c70dea39822b79089282e7c3658d\"",
+    "etag": "W/\"53cb6d496b829dd751a2f49684bff910\"",
     "last_updated": 1611790989,
-    "modified": "Mon, 08 Mar 2021 17:29:27 GMT",
+    "modified": "Tue, 09 Mar 2021 20:35:03 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"562dfa29a7d61b8f42cc18b7f489c13b11f0d9b51d8ff39374934417515b97bb\"",
+    "etag": "W/\"316dea091a95d4bff0c0ac2f046cb9a922e3e6d1c5e91e844b192025482576b4\"",
     "last_updated": 1612372200,
-    "modified": "Tue, 09 Mar 2021 15:04:43 GMT",
+    "modified": "Tue, 09 Mar 2021 20:59:53 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"cdfe172c2add183d2d24751471635d8f\"",
+    "etag": "\"e6517084d3c1afe9125262e9231564b9\"",
     "last_updated": 1614981690,
-    "modified": "Tue, 09 Mar 2021 05:07:08 GMT",
+    "modified": "Tue, 09 Mar 2021 19:17:23 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1614982557,
-    "modified": "Tue, 09 Mar 2021 18:26:00 GMT",
+    "modified": "Tue, 09 Mar 2021 21:12:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Tue, 09 Mar 2021 18:26:00 GMT",
+    "modified": "Tue, 09 Mar 2021 21:12:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4a2b1a4cc751415bd3315525cf029cee\"",
+    "etag": "W/\"be518139d0703b442264505315c5841f\"",
     "last_updated": 1614704411,
-    "modified": "Tue, 09 Mar 2021 18:07:10 GMT",
+    "modified": "Tue, 09 Mar 2021 20:10:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4a2b1a4cc751415bd3315525cf029cee\"",
+    "etag": "W/\"be518139d0703b442264505315c5841f\"",
     "last_updated": 1614790827,
-    "modified": "Tue, 09 Mar 2021 18:07:10 GMT",
+    "modified": "Tue, 09 Mar 2021 20:10:34 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:36355de47d20df8edd3b5e160d2fd3ca",
+    "etag": "cacheable:90c754c0bd47d8df09f39d0fadf86866",
     "last_updated": 1615308923,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -246,9 +246,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"310773bc19765344802b99029b284d25\"",
+    "etag": "W/\"c224b7c645078dfb78eafbbc0fa45a45\"",
     "last_updated": 1614531603,
-    "modified": "Tue, 09 Mar 2021 11:22:38 GMT",
+    "modified": "Tue, 09 Mar 2021 20:32:22 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -333,7 +333,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1615064404,
+    "last_updated": 1615323611,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A": {
-    "last_updated": 1613868592,
+    "last_updated": 1615316732,
     "name": "PlayOverwatch",
     "seen_entries": []
   },
@@ -408,7 +408,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1615222811,
+    "last_updated": 1615314921,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
