@@ -20,9 +20,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"4c46b9cee303a1965af4034bd5b2b9ed\"",
+    "etag": "W/\"a3b786136df2e7713b52900c477353cc\"",
     "last_updated": 1611790989,
-    "modified": "Tue, 16 Mar 2021 19:06:09 GMT",
+    "modified": "Tue, 16 Mar 2021 21:52:42 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -75,9 +75,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"97d931c020e631d97bf0008c9f13ddc126e43cc464214ad8307c7476f44e607f\"",
+    "etag": "W/\"7334f6a7132cbb54cf38793d8b3e115d19d93637adb9b9b2e81e2db1f4926967\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 16 Mar 2021 20:09:02 GMT",
+    "modified": "Wed, 17 Mar 2021 04:09:22 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"a1abf5c577abfd84c4b038e809c1ac48\"",
+    "etag": "\"081f605d8410cece7277e2f24b83fa05\"",
     "last_updated": 1615920268,
-    "modified": "Tue, 16 Mar 2021 19:06:05 GMT",
+    "modified": "Wed, 17 Mar 2021 03:44:06 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1615842605,
-    "modified": "Tue, 16 Mar 2021 21:14:00 GMT",
+    "modified": "Wed, 17 Mar 2021 06:16:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Tue, 16 Mar 2021 21:14:00 GMT",
+    "modified": "Wed, 17 Mar 2021 06:16:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ae1ca2009871c8e3bc930387f9e6c687\"",
+    "etag": "W/\"b7e0af743fab74ea6472d292f775aae0\"",
     "last_updated": 1615910430,
-    "modified": "Tue, 16 Mar 2021 20:32:00 GMT",
+    "modified": "Tue, 16 Mar 2021 22:45:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"ae1ca2009871c8e3bc930387f9e6c687\"",
+    "etag": "W/\"b7e0af743fab74ea6472d292f775aae0\"",
     "last_updated": 1615395617,
-    "modified": "Tue, 16 Mar 2021 20:32:00 GMT",
+    "modified": "Tue, 16 Mar 2021 22:45:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6a34c2b1ea799956ae4b14469eb7370f",
+    "etag": "cacheable:a2b13435f67ca9d61365081095112e3a",
     "last_updated": 1615308923,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1615867200,
+    "last_updated": 1615953600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -263,7 +263,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1615786220,
+    "last_updated": 1615951438,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"604f8bfa-8d7\"",
+    "etag": "W/\"60517ec8-8d7\"",
     "last_updated": 1615780800,
-    "modified": "Mon, 15 Mar 2021 16:31:54 GMT",
+    "modified": "Wed, 17 Mar 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
