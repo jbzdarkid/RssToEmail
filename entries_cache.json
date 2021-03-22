@@ -20,9 +20,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"d6b3f77a64d3679cdaf0a155de580919\"",
+    "etag": "W/\"bd2f6331a4f731cf78c991e393e290fb\"",
     "last_updated": 1616108936,
-    "modified": "Sat, 20 Mar 2021 16:16:41 GMT",
+    "modified": "Mon, 22 Mar 2021 17:30:13 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -46,12 +46,12 @@
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
     "last_updated": 1609259209,
-    "modified": "Mon, 15 Mar 2021 09:00:38 GMT",
+    "modified": "Mon, 22 Mar 2021 09:00:18 GMT",
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1616302800,
+    "last_updated": 1616389200,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"cf1188b14eeb3f0c24cc6a4f4ddb14f07621eb9a8f0132be185f29d350e334eb\"",
+    "etag": "W/\"893f74d6fa6cc2485135ff89a37c216122734f2e88a9e1beebf7c251adadf193\"",
     "last_updated": 1616085900,
-    "modified": "Mon, 22 Mar 2021 07:46:44 GMT",
+    "modified": "Mon, 22 Mar 2021 15:23:28 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1612821131,
+    "last_updated": 1615339659,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1616019662,
-    "modified": "Mon, 22 Mar 2021 12:20:00 GMT",
+    "modified": "Mon, 22 Mar 2021 18:20:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1614276037,
-    "modified": "Mon, 22 Mar 2021 12:20:00 GMT",
+    "modified": "Mon, 22 Mar 2021 18:20:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a1061d8bd588c8eaf17365b3d39c0a17\"",
+    "etag": "W/\"2e505e852db0f1d714166fa92ef9f06e\"",
     "last_updated": 1615910430,
-    "modified": "Sun, 21 Mar 2021 18:09:40 GMT",
+    "modified": "Mon, 22 Mar 2021 18:15:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"a1061d8bd588c8eaf17365b3d39c0a17\"",
+    "etag": "W/\"91659806f7415c4c10f47a5d8c70b270\"",
     "last_updated": 1615996843,
-    "modified": "Sun, 21 Mar 2021 18:09:40 GMT",
+    "modified": "Mon, 22 Mar 2021 17:00:03 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f8a2c39c4141d68584b0b7af42380925",
+    "etag": "cacheable:490bc28119954d314b54a09f03de327a",
     "last_updated": 1615308923,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -273,7 +273,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1615568981,
+    "last_updated": 1616429599,
     "name": "GDC",
     "seen_entries": []
   },
@@ -403,7 +403,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1614358843,
+    "last_updated": 1616434802,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
