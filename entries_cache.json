@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1616019662,
-    "modified": "Tue, 23 Mar 2021 21:14:00 GMT",
+    "modified": "Wed, 24 Mar 2021 06:24:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1616452240,
-    "modified": "Tue, 23 Mar 2021 21:14:00 GMT",
+    "modified": "Wed, 24 Mar 2021 06:24:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d9053ce14df226020633550b247e7c40\"",
+    "etag": "W/\"217dbd629b3e8fe23469cda7e9edc390\"",
     "last_updated": 1615910430,
-    "modified": "Tue, 23 Mar 2021 19:38:09 GMT",
+    "modified": "Tue, 23 Mar 2021 22:04:03 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"d9053ce14df226020633550b247e7c40\"",
+    "etag": "W/\"217dbd629b3e8fe23469cda7e9edc390\"",
     "last_updated": 1615996843,
-    "modified": "Tue, 23 Mar 2021 19:38:09 GMT",
+    "modified": "Tue, 23 Mar 2021 22:04:03 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5b4b4afc533f621814d036b6e0d9545c",
+    "etag": "cacheable:65665c7ae474a3b422ae7f240c887959",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -204,7 +204,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1616472000,
+    "last_updated": 1616558400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -263,7 +263,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1616383416,
+    "last_updated": 1616558633,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60593c00-8d3\"",
+    "etag": "W/\"605ab948-8d3\"",
     "last_updated": 1616385600,
-    "modified": "Tue, 23 Mar 2021 00:53:20 GMT",
+    "modified": "Wed, 24 Mar 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
