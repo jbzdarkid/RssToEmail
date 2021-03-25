@@ -82,9 +82,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c16e6b01daaece38fe1ac861db15aab16708d7a87f230fd1d40db499b1e74339\"",
+    "etag": "W/\"0e676c6e8244515abd7925285bc87e261983747412b464b0da991c41f7ea2bf3\"",
     "last_updated": 1616085900,
-    "modified": "Thu, 25 Mar 2021 08:01:40 GMT",
+    "modified": "Thu, 25 Mar 2021 15:34:17 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -114,13 +114,13 @@
   },
   "https://steamcommunity.com/games/250820/rss": {
     "last_updated": 1616626751,
-    "modified": "Thu, 25 Mar 2021 12:20:00 GMT",
+    "modified": "Thu, 25 Mar 2021 18:32:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
-    "last_updated": 1616605225,
-    "modified": "Thu, 25 Mar 2021 12:20:00 GMT",
+    "last_updated": 1616693619,
+    "modified": "Thu, 25 Mar 2021 18:32:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"0472d7bfe51a5b9e39bbbf1c0c8a1360\"",
+    "etag": "W/\"5ce32d9844cfbb08ac9e9579aa0dc156\"",
     "last_updated": 1615910430,
-    "modified": "Wed, 24 Mar 2021 21:50:09 GMT",
+    "modified": "Thu, 25 Mar 2021 18:00:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"0472d7bfe51a5b9e39bbbf1c0c8a1360\"",
+    "etag": "W/\"5ce32d9844cfbb08ac9e9579aa0dc156\"",
     "last_updated": 1616601630,
-    "modified": "Wed, 24 Mar 2021 21:50:09 GMT",
+    "modified": "Thu, 25 Mar 2021 18:00:55 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8494992cbade412d564b3d56322dadf2",
+    "etag": "cacheable:20f79c503a6aef243505b70abe261ca0",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -273,7 +273,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1616610236,
+    "last_updated": 1616687594,
     "name": "GDC",
     "seen_entries": []
   },
