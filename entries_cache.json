@@ -75,16 +75,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c1ac8baf6c15a36f9412d09619ee7d138a38bf68f63d3eed12567ce7af5615eb\"",
+    "etag": "W/\"0a764254988c95472c35b7b638951ce8de2ee031f35ae8d3130872559c6600c5\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 24 Mar 2021 17:35:34 GMT",
+    "modified": "Wed, 24 Mar 2021 20:24:58 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e1b3403c54ade77913a728ed9eebb8141f2b5518a55ce0f5fee6588ec3ec414b\"",
+    "etag": "W/\"6e08817b35e2966dcfb8f36a2d407adc5281fd85fe40b1897028ef52cfb73c02\"",
     "last_updated": 1616085900,
-    "modified": "Wed, 24 Mar 2021 15:24:33 GMT",
+    "modified": "Wed, 24 Mar 2021 20:25:33 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -96,9 +96,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"b41d41de423b6504d0056a2f0c7bf8a6\"",
-    "last_updated": 1615920268,
-    "modified": "Mon, 22 Mar 2021 00:47:42 GMT",
+    "etag": "\"1ad58b1f1d10497e4b4733925d86dafb\"",
+    "last_updated": 1616623200,
+    "modified": "Wed, 24 Mar 2021 22:00:31 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -113,14 +113,14 @@
     "seen_entries": []
   },
   "https://steamcommunity.com/games/250820/rss": {
-    "last_updated": 1616019662,
-    "modified": "Wed, 24 Mar 2021 18:40:00 GMT",
+    "last_updated": 1616626751,
+    "modified": "Thu, 25 Mar 2021 01:14:00 GMT",
     "name": "SteamVR RSS Feed",
     "seen_entries": []
   },
   "https://steamcommunity.com/games/593110/rss": {
     "last_updated": 1616605225,
-    "modified": "Wed, 24 Mar 2021 18:40:00 GMT",
+    "modified": "Thu, 25 Mar 2021 01:14:00 GMT",
     "name": "Steam Blog RSS Feed",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1610920851,
+    "last_updated": 1616623214,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -154,21 +154,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"04d34eda42a30a6b8e78cafae79a1917\"",
+    "etag": "W/\"0472d7bfe51a5b9e39bbbf1c0c8a1360\"",
     "last_updated": 1615910430,
-    "modified": "Wed, 24 Mar 2021 17:07:04 GMT",
+    "modified": "Wed, 24 Mar 2021 21:50:09 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"04d34eda42a30a6b8e78cafae79a1917\"",
+    "etag": "W/\"0472d7bfe51a5b9e39bbbf1c0c8a1360\"",
     "last_updated": 1616601630,
-    "modified": "Wed, 24 Mar 2021 17:07:04 GMT",
+    "modified": "Wed, 24 Mar 2021 21:50:09 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7829119a7390e25e347347c8632cbb64",
+    "etag": "cacheable:eea1f07e99dae0b78b442d549eb0dcfb",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -423,9 +423,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"605ab948-8d3\"",
-    "last_updated": 1616385600,
-    "modified": "Wed, 24 Mar 2021 04:00:08 GMT",
+    "etag": "W/\"605bb979-8cb\"",
+    "last_updated": 1616558400,
+    "modified": "Wed, 24 Mar 2021 22:13:13 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
