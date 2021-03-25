@@ -19,6 +19,11 @@
     "name": "DeviantArt: sigeel's gallery",
     "seen_entries": []
   },
+  "https://blizztrack.com/rss/overwatch/live": {
+    "last_updated": 1579806180,
+    "name": "Overwatch Live Patch Notes",
+    "seen_entries": []
+  },
   "https://blog.counter-strike.net/index.php/feed/": {
     "etag": "W/\"808f54d5c2ae2293549e93bcbc5dd176\"",
     "last_updated": 1616108936,
@@ -154,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5ce32d9844cfbb08ac9e9579aa0dc156\"",
+    "etag": "W/\"5c23f692d39758e650aefac7231503a7\"",
     "last_updated": 1615910430,
-    "modified": "Thu, 25 Mar 2021 18:00:55 GMT",
+    "modified": "Thu, 25 Mar 2021 19:09:13 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"5ce32d9844cfbb08ac9e9579aa0dc156\"",
+    "etag": "W/\"5c23f692d39758e650aefac7231503a7\"",
     "last_updated": 1616601630,
-    "modified": "Thu, 25 Mar 2021 18:00:55 GMT",
+    "modified": "Thu, 25 Mar 2021 19:09:13 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:20f79c503a6aef243505b70abe261ca0",
+    "etag": "cacheable:9a7bf1a59a1ca32b1c3ea9d974c9de5a",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -328,12 +333,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1615825916,
+    "last_updated": 1616697373,
     "name": "Tom Francis",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1616529606,
+    "last_updated": 1616702401,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
