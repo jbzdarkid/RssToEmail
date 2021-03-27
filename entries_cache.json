@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"1561f9f5ebdaa26f6010f648701c068c\"",
+    "etag": "W/\"741aaf5e0c41ea9a2d171cdab606a6bb\"",
     "last_updated": 1616108936,
-    "modified": "Fri, 26 Mar 2021 17:38:17 GMT",
+    "modified": "Sat, 27 Mar 2021 00:28:06 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3d72ca02d4356af1954b7d7be12cdfbb34d8cde4ae68fda0725e71011be7cd4a\"",
+    "etag": "W/\"207a70c012610f27a158410483e42fe5595144c6ffe7140de3f52ca75f56592e\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 26 Mar 2021 16:08:29 GMT",
+    "modified": "Fri, 26 Mar 2021 22:03:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9691a8190e7b0b55d869313b4ab5e812ece8d5b14801e0bdadaca5347bcaeb95\"",
+    "etag": "W/\"2b7c6b84d79e70de19cbca34c77370a4ed954de9ef5ba3c66eb41879a197363f\"",
     "last_updated": 1616085900,
-    "modified": "Fri, 26 Mar 2021 14:17:18 GMT",
+    "modified": "Fri, 26 Mar 2021 20:04:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -159,29 +159,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"729af8ab6d29933781fc8ba009d4596c\"",
+    "etag": "W/\"fd26e928c5bd95efe7e92d75c911d783\"",
     "last_updated": 1615910430,
-    "modified": "Fri, 26 Mar 2021 17:00:21 GMT",
+    "modified": "Fri, 26 Mar 2021 23:45:42 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"729af8ab6d29933781fc8ba009d4596c\"",
+    "etag": "W/\"fd26e928c5bd95efe7e92d75c911d783\"",
     "last_updated": 1616601630,
-    "modified": "Fri, 26 Mar 2021 17:00:21 GMT",
+    "modified": "Fri, 26 Mar 2021 23:45:42 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d4004d7322ead4c42a87f6fb0e4795a3",
+    "etag": "cacheable:2363f853ed872fa84b48b26c64bf0960",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D8E93C884942BE\"",
+    "etag": "\"0x8D8F0A43CA9D2D9\"",
     "last_updated": 0,
-    "modified": "Wed, 17 Mar 2021 12:02:26 GMT",
+    "modified": "Fri, 26 Mar 2021 22:12:25 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"605d5c47-8cb\"",
-    "last_updated": 1616558400,
-    "modified": "Fri, 26 Mar 2021 04:00:07 GMT",
+    "etag": "W/\"605e605f-999\"",
+    "last_updated": 1616731200,
+    "modified": "Fri, 26 Mar 2021 22:29:51 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
