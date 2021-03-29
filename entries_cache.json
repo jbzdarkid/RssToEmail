@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0e63288fb230aa2ee372aff9730e859bd529d43efc31cce895d72beee98bdc8f\"",
+    "etag": "W/\"026423264d455d43238ecc28bb3e91664a18c315dba663aed3a45c84b70e953b\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 28 Mar 2021 07:55:45 GMT",
+    "modified": "Sun, 28 Mar 2021 19:52:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"38bcdbc16cd001e7f35cd46ce16279a0b66ee1dc0e6e138ccb6e4e5c09b9548a\"",
+    "etag": "W/\"64573757f50a121a93abbe744f772a44dc4ea3c033775b3571aa741d62e46751\"",
     "last_updated": 1616085900,
-    "modified": "Sun, 28 Mar 2021 18:23:06 GMT",
+    "modified": "Sun, 28 Mar 2021 19:53:06 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -159,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f6505766e1a2481850888e148a5b1f62\"",
+    "etag": "W/\"d361188b670da33f8f606448d10a38cf\"",
     "last_updated": 1615910430,
-    "modified": "Sun, 28 Mar 2021 17:51:58 GMT",
+    "modified": "Sun, 28 Mar 2021 19:00:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"2b20a44615f42d66e3e70f72dbf9bcc9\"",
+    "etag": "W/\"d361188b670da33f8f606448d10a38cf\"",
     "last_updated": 1616601630,
-    "modified": "Sun, 28 Mar 2021 16:56:34 GMT",
+    "modified": "Sun, 28 Mar 2021 19:00:19 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f34963c5725bc6d6bf1bb32812a90d84",
+    "etag": "cacheable:6ab3a20db46b63cc0042306069a813cf",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -251,9 +251,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"553996ed92dc344aba44ded15e416952\"",
+    "etag": "W/\"3ad2d99bd5716a7aaf8e82df18c127c4\"",
     "last_updated": 1616947229,
-    "modified": "Sun, 28 Mar 2021 17:16:58 GMT",
+    "modified": "Sun, 28 Mar 2021 19:16:10 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1616710473,
+    "last_updated": 1616970228,
     "name": "Proton Jon",
     "seen_entries": []
   },
@@ -403,7 +403,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCq71f9hMufSaXPBtcrujjfQ": {
-    "last_updated": 1616850376,
+    "last_updated": 1616972786,
     "name": "Req",
     "seen_entries": []
   },
