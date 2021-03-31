@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1617080400,
+    "last_updated": 1617166800,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"da2fcafd5a2af84b3f4b1c372f0d37c843f24a111d45ddca4f71306fbbc7c657\"",
+    "etag": "W/\"1bf0a53ab96d77ee9eeb1b0c0f6d15367510a330e7816156299b84419ef346c6\"",
     "last_updated": 1616085900,
-    "modified": "Wed, 31 Mar 2021 18:07:24 GMT",
+    "modified": "Wed, 31 Mar 2021 20:47:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -159,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2a1470592435a332ce78d8c339a7496e\"",
+    "etag": "W/\"834fe6885d2e9481da9a23f53bb46e51\"",
     "last_updated": 1617120012,
-    "modified": "Wed, 31 Mar 2021 17:01:19 GMT",
+    "modified": "Wed, 31 Mar 2021 18:22:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"2a1470592435a332ce78d8c339a7496e\"",
+    "etag": "W/\"834fe6885d2e9481da9a23f53bb46e51\"",
     "last_updated": 1617206436,
-    "modified": "Wed, 31 Mar 2021 17:01:19 GMT",
+    "modified": "Wed, 31 Mar 2021 18:22:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9ce91854cc2bc8466b232b67cd66b1de",
+    "etag": "cacheable:f424ac56c1468d1c95c1159beca1e70d",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6063f3c7-9e9\"",
-    "last_updated": 1616990400,
-    "modified": "Wed, 31 Mar 2021 04:00:07 GMT",
+    "etag": "W/\"6064d5f7-a11\"",
+    "last_updated": 1617163200,
+    "modified": "Wed, 31 Mar 2021 20:05:11 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
