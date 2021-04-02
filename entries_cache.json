@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1617166800,
+    "last_updated": 1617339600,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1ed643fdeb10be1bf4b2e535e2880457003b05b2b39b1d53dc785d3df6299c94\"",
+    "etag": "W/\"7eac2d0db54da7cdbb20171549f5467034c22f408a5b915b0775f94c0fd69a0e\"",
     "last_updated": 1617293160,
-    "modified": "Fri, 02 Apr 2021 00:30:32 GMT",
+    "modified": "Fri, 02 Apr 2021 06:01:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -159,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b341d94f53e8023ba6584baf33bab8b0\"",
+    "etag": "W/\"8566497bb84f3686ae33c47bb4db2f8f\"",
     "last_updated": 1617120012,
-    "modified": "Fri, 02 Apr 2021 00:35:57 GMT",
+    "modified": "Fri, 02 Apr 2021 01:26:07 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"b341d94f53e8023ba6584baf33bab8b0\"",
+    "etag": "W/\"8566497bb84f3686ae33c47bb4db2f8f\"",
     "last_updated": 1617206436,
-    "modified": "Fri, 02 Apr 2021 00:35:57 GMT",
+    "modified": "Fri, 02 Apr 2021 01:26:07 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:08293a0c2ecf0623aca566d5ef143008",
+    "etag": "cacheable:5fe407a4d26a0fce7ffae4d407b834e6",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -209,7 +209,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1617249600,
+    "last_updated": 1617336000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1617168770,
+    "last_updated": 1617337655,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60664b23-995\"",
+    "etag": "W/\"606696c3-995\"",
     "last_updated": 1617249600,
-    "modified": "Thu, 01 Apr 2021 22:37:23 GMT",
+    "modified": "Fri, 02 Apr 2021 04:00:03 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
