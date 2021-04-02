@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6195eab27ae8775d4176ce2c79b3c2899538ebc98fadcf23b863516da8242fa4\"",
+    "etag": "W/\"1ed643fdeb10be1bf4b2e535e2880457003b05b2b39b1d53dc785d3df6299c94\"",
     "last_updated": 1617293160,
-    "modified": "Thu, 01 Apr 2021 16:06:01 GMT",
+    "modified": "Fri, 02 Apr 2021 00:30:32 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -159,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"785544bc2ba4dfa313231f2eee5537e5\"",
+    "etag": "W/\"b341d94f53e8023ba6584baf33bab8b0\"",
     "last_updated": 1617120012,
-    "modified": "Thu, 01 Apr 2021 19:41:00 GMT",
+    "modified": "Fri, 02 Apr 2021 00:35:57 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"785544bc2ba4dfa313231f2eee5537e5\"",
+    "etag": "W/\"b341d94f53e8023ba6584baf33bab8b0\"",
     "last_updated": 1617206436,
-    "modified": "Thu, 01 Apr 2021 19:41:00 GMT",
+    "modified": "Fri, 02 Apr 2021 00:35:57 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4a1007d6a87b3d03923e6121f3685ca6",
+    "etag": "cacheable:08293a0c2ecf0623aca566d5ef143008",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1616970228,
+    "last_updated": 1617314494,
     "name": "Proton Jon",
     "seen_entries": []
   },
@@ -413,7 +413,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1617210000,
+    "last_updated": 1617322285,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6064d5f7-a11\"",
-    "last_updated": 1617163200,
-    "modified": "Wed, 31 Mar 2021 20:05:11 GMT",
+    "etag": "W/\"60664b23-995\"",
+    "last_updated": 1617249600,
+    "modified": "Thu, 01 Apr 2021 22:37:23 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
