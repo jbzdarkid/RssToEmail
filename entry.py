@@ -1,6 +1,6 @@
 from email.message import EmailMessage
 from os import environ
-from time import localtime, mktime, sleep, strftime
+from time import localtime, sleep, strftime
 
 SENDER_EMAIL = environ.get('sender_email', None)
 SENDER_PWORD = environ.get('sender_pword', None)

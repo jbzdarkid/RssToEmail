@@ -4,6 +4,7 @@ from urllib import request
 from fileinput import input as fileinput
 from json import load, dump
 from smtplib import SMTP, SMTPException
+from time import mktime
 from traceback import format_exc, print_exc, print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
@@ -116,7 +117,7 @@ def handle_entries(entries, cache, email_server):
                 print(f'Found new entry for {entry.url} by link')
                 entry.send_email(email_server, cache[entry.url]['name'])
 
-                cache[entry.url]['seen_entries'].append(link)
+                cache[entry.url]['seen_entries'].append(entry.link)
                 with open('entries_cache.json', 'w') as f:
                     dump(cache, f, sort_keys=True, indent=2)
 
