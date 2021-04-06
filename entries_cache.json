@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1617547281,
+    "last_updated": 1617618079,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b718a36dad6831fa04308ea738ec98066e15106971a05eac2ca7cd28cc44f8a9\"",
+    "etag": "W/\"5c87cbb55f7f1829c5d74bcba7320e9ccf609491d6f0f35b27156ec9fbd1b3fc\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 04 Apr 2021 20:03:54 GMT",
+    "modified": "Mon, 05 Apr 2021 19:44:57 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ef5126a86d2fbbe4de4a43e7f0f280b04a4271179413d072c13c6983e32b019f\"",
+    "etag": "W/\"7f3657147372db8f481bc76a8deb1d26b0f465106142adbba3080c43ecd26fec\"",
     "last_updated": 1617293160,
-    "modified": "Mon, 05 Apr 2021 06:04:05 GMT",
+    "modified": "Mon, 05 Apr 2021 19:45:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -149,7 +149,7 @@
     ]
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
-    "last_updated": 1617364830,
+    "last_updated": 1617624056,
     "name": "Atomic Robo",
     "seen_entries": []
   },
@@ -159,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7615fe3c0b62fbedb1fc4e06216780c9\"",
+    "etag": "W/\"ccd53d9f3680155ebfbe62fb8436493b\"",
     "last_updated": 1617120012,
-    "modified": "Sun, 04 Apr 2021 19:08:45 GMT",
+    "modified": "Mon, 05 Apr 2021 23:27:33 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"7615fe3c0b62fbedb1fc4e06216780c9\"",
+    "etag": "W/\"ccd53d9f3680155ebfbe62fb8436493b\"",
     "last_updated": 1617206436,
-    "modified": "Sun, 04 Apr 2021 19:08:45 GMT",
+    "modified": "Mon, 05 Apr 2021 23:27:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fa69612678c0b907436e025fb425757c",
+    "etag": "cacheable:ffaf1b97bdbea2766189d097e17bffbf",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -227,7 +227,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1617346800,
+    "last_updated": 1617606000,
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
@@ -278,7 +278,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1617379713,
+    "last_updated": 1617639579,
     "name": "GDC",
     "seen_entries": []
   },
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"606a8b47-995\"",
-    "last_updated": 1617249600,
-    "modified": "Mon, 05 Apr 2021 04:00:07 GMT",
+    "etag": "W/\"606ba099-8d1\"",
+    "last_updated": 1617595200,
+    "modified": "Mon, 05 Apr 2021 23:43:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
