@@ -1,3 +1,6 @@
+import defusedxml
+defusedxml.defuse_stdlib()
+
 import feedparser
 import sys
 from urllib import request
