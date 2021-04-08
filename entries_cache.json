@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1617685200,
+    "last_updated": 1617771600,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -159,21 +159,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9363a021822c6a8da0b0e72e0d458400\"",
+    "etag": "W/\"73e6688c83c02ebf1f72441ce711410b\"",
     "last_updated": 1617120012,
-    "modified": "Wed, 07 Apr 2021 22:13:23 GMT",
+    "modified": "Thu, 08 Apr 2021 01:22:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"9363a021822c6a8da0b0e72e0d458400\"",
+    "etag": "W/\"73e6688c83c02ebf1f72441ce711410b\"",
     "last_updated": 1617811225,
-    "modified": "Wed, 07 Apr 2021 22:13:23 GMT",
+    "modified": "Thu, 08 Apr 2021 01:22:14 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f4de9b93b35985bcda5afc1217b43836",
+    "etag": "cacheable:036b401b410c5fb2a33552776a2c4d1d",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -251,9 +251,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"6160a95335423ca5f96afb5467b3eaf8\"",
+    "etag": "W/\"add2b52de39135df304090f59493e6db\"",
     "last_updated": 1617033638,
-    "modified": "Wed, 07 Apr 2021 19:56:53 GMT",
+    "modified": "Thu, 08 Apr 2021 01:34:49 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"606d2e48-8d1\"",
-    "last_updated": 1617595200,
-    "modified": "Wed, 07 Apr 2021 04:00:08 GMT",
+    "etag": "W/\"606e62d8-8b1\"",
+    "last_updated": 1617768000,
+    "modified": "Thu, 08 Apr 2021 01:56:40 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
