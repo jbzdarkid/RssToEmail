@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"158cee4edc8634f211cf72a9ba940e6115dad8cbe322f1ab6694b4aa0d9dc842\"",
+    "etag": "W/\"c513bdab4639e9e90efd7af557e834bf56a69ac3becd472476e96484669575a3\"",
     "last_updated": 1617293160,
-    "modified": "Mon, 12 Apr 2021 07:22:24 GMT",
+    "modified": "Mon, 12 Apr 2021 09:50:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -108,7 +108,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1615339659,
+    "last_updated": 1617758864,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -159,29 +159,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"17745f5f2311ca5b60fb9348d15fa9ca\"",
+    "etag": "W/\"f8d07338ceb50c1dd410582af699a558\"",
     "last_updated": 1617120012,
-    "modified": "Mon, 12 Apr 2021 00:26:51 GMT",
+    "modified": "Mon, 12 Apr 2021 17:00:30 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"17745f5f2311ca5b60fb9348d15fa9ca\"",
+    "etag": "W/\"f8d07338ceb50c1dd410582af699a558\"",
     "last_updated": 1617811225,
-    "modified": "Mon, 12 Apr 2021 00:26:51 GMT",
+    "modified": "Mon, 12 Apr 2021 17:00:30 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:433cd3a44dedddb5d027afd16a6a3408",
+    "etag": "cacheable:dbd7d13244d770603deae8a528e20bad",
     "last_updated": 1616518090,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D8F0A43CA9D2D9\"",
+    "etag": "\"0x8D8FDACE73825F6\"",
     "last_updated": 0,
-    "modified": "Fri, 26 Mar 2021 22:12:25 GMT",
+    "modified": "Mon, 12 Apr 2021 12:17:12 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -278,7 +278,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1617985159,
+    "last_updated": 1618244268,
     "name": "GDC",
     "seen_entries": []
   },
