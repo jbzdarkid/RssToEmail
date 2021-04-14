@@ -39,7 +39,7 @@
     "seen_entries": []
   },
   "https://blog.momentum-mod.org/rss": {
-    "last_updated": 1607565189,
+    "last_updated": 1618415716,
     "name": "Momentum Mod Dev Blog",
     "seen_entries": []
   },
@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6767b3259fc683964c260cb33ab67627fbf63d93b494f5439ef6dfefa262b873\"",
+    "etag": "W/\"469a51065a361e5588c437bb2b0d1bbcdc972989b8c71393a218f119cbbe634c\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 14 Apr 2021 16:59:35 GMT",
+    "modified": "Wed, 14 Apr 2021 20:35:23 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"bb49331dac3d672eac1fc9d242ab320c380a28b3afc0e6cb5e6aa51fcd1d63be\"",
+    "etag": "W/\"81f2463bbe481233adfc3f64582c1ab61d20bc214b88c240628fed2db05853f5\"",
     "last_updated": 1617293160,
-    "modified": "Wed, 14 Apr 2021 14:33:48 GMT",
+    "modified": "Wed, 14 Apr 2021 20:05:27 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -105,6 +105,13 @@
     "last_updated": 1618333299,
     "modified": "Wed, 14 Apr 2021 00:38:09 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
+    "seen_entries": []
+  },
+  "https://pi-hole.net/category/updates/feed/": {
+    "etag": "\"fb4b2cf221a6bd3c73cc5c8a928e01d6-gzip\"",
+    "last_updated": 1618423890,
+    "modified": "Wed, 14 Apr 2021 18:32:33 GMT",
+    "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
@@ -159,21 +166,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3906b6b9e5634905399ee7a798dfb804\"",
+    "etag": "W/\"0607ea62129636e2dd149d73d8be50b0\"",
     "last_updated": 1617120012,
-    "modified": "Wed, 14 Apr 2021 17:18:02 GMT",
+    "modified": "Wed, 14 Apr 2021 19:37:16 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"3906b6b9e5634905399ee7a798dfb804\"",
+    "etag": "W/\"0607ea62129636e2dd149d73d8be50b0\"",
     "last_updated": 1618416001,
-    "modified": "Wed, 14 Apr 2021 17:18:02 GMT",
+    "modified": "Wed, 14 Apr 2021 19:37:16 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1dbaccbf4d6165b48a834101c69a605c",
+    "etag": "cacheable:db5ebb3aee6e4fed26aa766cb6d501a6",
     "last_updated": 1618332994,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
