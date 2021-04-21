@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4e837b17c0d292a3e1d7765319e593d9cc3b3f90c59ecab1d4db17764733c3b8\"",
+    "etag": "W/\"0235c0e44f13243024d730cd913ad16501bccaef60be3929226c908289538ab0\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 21 Apr 2021 10:57:23 GMT",
+    "modified": "Wed, 21 Apr 2021 17:38:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a2a0a7a7c587d374df851ab580a2db19b65672c5ed098ab461cf88acd0631cc8\"",
+    "etag": "W/\"bfa884da7a23fc2b1595ae97d7a2c182f3768e16a099cb59e62bf7fc18fa25f3\"",
     "last_updated": 1618502520,
-    "modified": "Wed, 21 Apr 2021 06:20:35 GMT",
+    "modified": "Wed, 21 Apr 2021 16:44:07 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -166,21 +166,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7c63338f5f89e4e3fe81271a7467f5d4\"",
+    "etag": "W/\"940a4ebf2bf7c9eddcf4288f9a3b91ff\"",
     "last_updated": 1617120012,
-    "modified": "Tue, 20 Apr 2021 22:59:35 GMT",
+    "modified": "Wed, 21 Apr 2021 18:00:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"7c63338f5f89e4e3fe81271a7467f5d4\"",
-    "last_updated": 1618416001,
-    "modified": "Tue, 20 Apr 2021 22:59:35 GMT",
+    "etag": "W/\"940a4ebf2bf7c9eddcf4288f9a3b91ff\"",
+    "last_updated": 1619020819,
+    "modified": "Wed, 21 Apr 2021 18:00:55 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:29e976dd651fe1d5caa9cf13b697ea95",
+    "etag": "cacheable:2a884b7f1dec6cdc5b2d09c6dbcc5b44",
     "last_updated": 1618332994,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -285,7 +285,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1618936716,
+    "last_updated": 1619020958,
     "name": "GDC",
     "seen_entries": []
   },
@@ -355,7 +355,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1617814505,
+    "last_updated": 1619024334,
     "name": "Steamworks Development",
     "seen_entries": []
   },
