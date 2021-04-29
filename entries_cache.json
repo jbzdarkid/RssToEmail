@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"abb60aca1ae5d181e66525ac5adcf87228643f8bf3ab1d7b001053af6f3c0fa2\"",
+    "etag": "W/\"893fc1bb2591f3ae2a77530978431edeb59cefa3fb1756b32755871cee41dd37\"",
     "last_updated": 1619114700,
-    "modified": "Thu, 29 Apr 2021 10:36:18 GMT",
+    "modified": "Thu, 29 Apr 2021 17:43:24 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -101,9 +101,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"98a5c0bc149ca70e3c46bfe61f6dd426\"",
-    "last_updated": 1618506000,
-    "modified": "Thu, 15 Apr 2021 17:00:00 GMT",
+    "etag": "\"553eb5cc93e8637f98cec9023fa78f46\"",
+    "last_updated": 1619715396,
+    "modified": "Thu, 29 Apr 2021 16:56:42 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -115,7 +115,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1617758864,
+    "last_updated": 1619054095,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -166,21 +166,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4e47c52501e39ada5bcefe5372a88c95\"",
+    "etag": "W/\"a90fb4737c10a44dcf28ed1eef198f89\"",
     "last_updated": 1617120012,
-    "modified": "Thu, 29 Apr 2021 12:00:43 GMT",
+    "modified": "Thu, 29 Apr 2021 16:25:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"21872aad12bf15bee679e9b5187f5cae\"",
+    "etag": "W/\"a90fb4737c10a44dcf28ed1eef198f89\"",
     "last_updated": 1619625651,
-    "modified": "Thu, 29 Apr 2021 01:35:51 GMT",
+    "modified": "Thu, 29 Apr 2021 16:25:59 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:278887205428fd62f8678f2b5b435ce9",
+    "etag": "cacheable:a08006063ba10ce630d9fa5d4108c2b6",
     "last_updated": 1619542578,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -258,9 +258,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f0280eb8d5529d6d73b27208d74bed5b\"",
-    "last_updated": 1619107201,
-    "modified": "Thu, 29 Apr 2021 06:21:10 GMT",
+    "etag": "W/\"e02e854b8d01ee0592507df91c862e01\"",
+    "last_updated": 1619712035,
+    "modified": "Thu, 29 Apr 2021 16:06:13 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -285,7 +285,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1619627367,
+    "last_updated": 1619712897,
     "name": "GDC",
     "seen_entries": []
   },
@@ -350,7 +350,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1617896511,
+    "last_updated": 1619717435,
     "name": "miracleofsound",
     "seen_entries": []
   },
@@ -415,7 +415,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1618580780,
+    "last_updated": 1619719534,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
