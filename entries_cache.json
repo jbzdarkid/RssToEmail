@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"6e4ba09e6eb69584d0815f4d083795c2\"",
+    "etag": "W/\"dbeb36b2979115b318a7a725da0dcce4\"",
     "last_updated": 1618506373,
-    "modified": "Thu, 29 Apr 2021 00:54:11 GMT",
+    "modified": "Thu, 29 Apr 2021 22:03:14 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1bdc907f4be3d5c33f55fb44398c1976417a8ec0af60aaa0eb5172fb231b11a2\"",
+    "etag": "W/\"798c1a923e63bf4474f77eea67c81f2fdecdf307d6a932bd5cfc42c375205d34\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 29 Apr 2021 07:36:43 GMT",
+    "modified": "Thu, 29 Apr 2021 23:15:18 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a4ecf365f842299253692269fbacf442d46203cf4c0869eeb5b9895873be5f0c\"",
+    "etag": "W/\"a3a9573e30b33de37753c81ab91899567ed88b512a329d9846eedf58ceb11c90\"",
     "last_updated": 1619114700,
-    "modified": "Thu, 29 Apr 2021 20:16:07 GMT",
+    "modified": "Thu, 29 Apr 2021 22:29:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -166,21 +166,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"56c09b9af1bbc1393e48fc10f281ce23\"",
+    "etag": "W/\"9e5f351b10ef93e7148ad69705ae40ae\"",
     "last_updated": 1617120012,
-    "modified": "Thu, 29 Apr 2021 20:23:33 GMT",
+    "modified": "Thu, 29 Apr 2021 22:29:00 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"56c09b9af1bbc1393e48fc10f281ce23\"",
+    "etag": "W/\"9e5f351b10ef93e7148ad69705ae40ae\"",
     "last_updated": 1619625651,
-    "modified": "Thu, 29 Apr 2021 20:23:33 GMT",
+    "modified": "Thu, 29 Apr 2021 22:29:00 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ad336e3439beac38fa6ba6e06714a55d",
+    "etag": "cacheable:f6103794c10185c65fba1ae558c5e8dd",
     "last_updated": 1619542578,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -355,7 +355,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1619024334,
+    "last_updated": 1619736258,
     "name": "Steamworks Development",
     "seen_entries": []
   },
@@ -395,7 +395,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1619413566,
+    "last_updated": 1619733683,
     "name": "Proton Jon",
     "seen_entries": []
   },
