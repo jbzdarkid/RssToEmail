@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5475fdf30ae763ccad51f450f9f1fae40732a63ce73cbb03de4aed0493086c24\"",
+    "etag": "W/\"0a2247ad3398b072c5360e9c2a4ae910cf0243d40ff75c60ae5009262e25f2e7\"",
     "last_updated": 1619114700,
-    "modified": "Fri, 30 Apr 2021 11:04:14 GMT",
+    "modified": "Fri, 30 Apr 2021 18:22:35 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -166,29 +166,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"bf308bef7d3645d658c3017c1a55d786\"",
+    "etag": "W/\"13ea5dbf9bfb2b240b04ab12fb7e8c4b\"",
     "last_updated": 1617120012,
-    "modified": "Fri, 30 Apr 2021 02:41:50 GMT",
+    "modified": "Fri, 30 Apr 2021 17:30:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"bf308bef7d3645d658c3017c1a55d786\"",
+    "etag": "W/\"13ea5dbf9bfb2b240b04ab12fb7e8c4b\"",
     "last_updated": 1619625651,
-    "modified": "Fri, 30 Apr 2021 02:41:50 GMT",
+    "modified": "Fri, 30 Apr 2021 17:30:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6b620a0d7ea735999058d10099e656bd",
+    "etag": "cacheable:a4f82c72562e66417915e6fa2ad551d6",
     "last_updated": 1619542578,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D905901DE87AC4\"",
+    "etag": "\"0x8D90BDD6E4D0290\"",
     "last_updated": 0,
-    "modified": "Thu, 22 Apr 2021 13:11:18 GMT",
+    "modified": "Fri, 30 Apr 2021 13:39:51 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1204.html",
@@ -285,7 +285,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1619712897,
+    "last_updated": 1619798035,
     "name": "GDC",
     "seen_entries": []
   },
@@ -370,7 +370,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1617213621,
+    "last_updated": 1619803092,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
@@ -420,7 +420,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1619751399,
+    "last_updated": 1619801902,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"608b80c8-aed\"",
-    "last_updated": 1619582400,
-    "modified": "Fri, 30 Apr 2021 04:00:08 GMT",
+    "etag": "W/\"608c3824-b5b\"",
+    "last_updated": 1619755200,
+    "modified": "Fri, 30 Apr 2021 17:02:28 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
