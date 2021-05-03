@@ -67,7 +67,7 @@ def parse_feeds(cache, feed_url):
     entries = []
     for row in d['entries']:
         entry = Entry()
-        entry.title = row['title']
+        entry.title = row.get('title', '(no title)')
         entry.link = row['link']
         entry.url = feed_url
         if 'published_parsed' in row: # Not all entries have a date
@@ -105,12 +105,14 @@ def get_hearthstone_patch_notes():
 
 
 def handle_entries(entries, cache, email_server):
+    new_entries = 0
     # Reversed so that older entries are first, that way we send emails in chronological order.
     for entry in reversed(entries):
         if entry.date:
             if entry.date > cache[entry.url]['last_updated']:
                 print(f'Found new entry for {entry.url} by date')
                 entry.send_email(email_server, cache[entry.url]['name'])
+                new_entries += 1
 
                 cache[entry.url]['last_updated'] = entry.date
                 with open('entries_cache.json', 'w') as f:
@@ -119,10 +121,13 @@ def handle_entries(entries, cache, email_server):
             if entry.link not in cache[entry.url]['seen_entries']:
                 print(f'Found new entry for {entry.url} by link')
                 entry.send_email(email_server, cache[entry.url]['name'])
+                new_entries += 1
 
                 cache[entry.url]['seen_entries'].append(entry.link)
                 with open('entries_cache.json', 'w') as f:
                     dump(cache, f, sort_keys=True, indent=2)
+
+    print(f'Found {new_entries} total new entries')
 
 
 if __name__ == '__main__':
@@ -174,6 +179,7 @@ if __name__ == '__main__':
         success = False
 
 
-    email_server.quit()
+    if SENDER_EMAIL:
+        email_server.quit()
     sys.exit(0 if success else 1)
 
