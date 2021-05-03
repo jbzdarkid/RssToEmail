@@ -124,6 +124,9 @@ def handle_entries(entries, cache, email_server):
                 new_entries += 1
 
                 cache[entry.url]['seen_entries'].append(entry.link)
+                # Keep only the most recent 20 (OOTS sends only 10)
+                cache[entry.url]['seen_entries'] = cache[entry.url]['seen_entries'][-20:]
+
                 with open('entries_cache.json', 'w') as f:
                     dump(cache, f, sort_keys=True, indent=2)
 

@@ -12,6 +12,7 @@ EMAIL_SERVER = environ.get('email_server', None)
 class Entry:
     def __init__(self):
         self.content = '(This RSS entry has no contents)'
+        self.date = None
 
     def __repr__(self):
         return f'Entry(title={self.title}, date={self.date}, link={self.link}, content={len(self.content)})'
