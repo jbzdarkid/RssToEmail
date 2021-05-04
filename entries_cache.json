@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"ffe30acbd4522ad89bfdcaba42e20678\"",
-    "last_updated": 1618506373,
-    "modified": "Mon, 03 May 2021 15:33:42 GMT",
+    "etag": "W/\"16cece32ec80f9f17a1e2986cada1c08\"",
+    "last_updated": 1620080590,
+    "modified": "Mon, 03 May 2021 22:24:03 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1619931600,
+    "last_updated": 1620018000,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -75,7 +75,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1615544171,
+    "last_updated": 1619941775,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5f8474ed9924be2872695bf884c79afc1433ffb8b97ff12e1c222cab40e4660a\"",
+    "etag": "W/\"47a3d46af97fd4b5a32ab0cd9ad19b25d2083899c0366c72d8efd71b1698c0b6\"",
     "last_updated": 1619114700,
-    "modified": "Mon, 03 May 2021 17:19:44 GMT",
+    "modified": "Mon, 03 May 2021 20:04:23 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -166,39 +166,31 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"efecc1c3ced8ae95367b1c2c23b03321\"",
+    "etag": "W/\"c643ca7278aafdd0198d6ed503ccbb55\"",
     "last_updated": 1617120012,
-    "modified": "Mon, 03 May 2021 17:18:09 GMT",
+    "modified": "Mon, 03 May 2021 22:37:12 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"efecc1c3ced8ae95367b1c2c23b03321\"",
+    "etag": "W/\"c643ca7278aafdd0198d6ed503ccbb55\"",
     "last_updated": 1619625651,
-    "modified": "Mon, 03 May 2021 17:18:09 GMT",
+    "modified": "Mon, 03 May 2021 22:37:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2f7c78259bc5924ff8b72b27b0dff4d9",
+    "etag": "cacheable:03c0f9b51b64a87f41007db22947f946",
     "last_updated": 1619542578,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
+    "etag": "\"0x8D90BDD6E4D0290\"",
     "last_updated": 0,
+    "modified": "Fri, 30 Apr 2021 13:39:51 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1204.html",
-      "http://www.giantitp.com/comics/oots1205.html",
-      "http://www.giantitp.com/comics/oots1206.html",
-      "http://www.giantitp.com/comics/oots1207.html",
-      "http://www.giantitp.com/comics/oots1208.html",
-      "http://www.giantitp.com/comics/oots1209.html",
-      "http://www.giantitp.com/comics/oots1210.html",
-      "http://www.giantitp.com/comics/oots1211.html",
-      "http://www.giantitp.com/comics/oots1212.html",
-      "http://www.giantitp.com/comics/oots1213.html",
       "http://www.giantitp.com/comics/oots1214.html",
       "http://www.giantitp.com/comics/oots1215.html",
       "http://www.giantitp.com/comics/oots1216.html",
@@ -210,7 +202,15 @@
       "http://www.giantitp.com/comics/oots1222.html",
       "http://www.giantitp.com/comics/oots1223.html",
       "http://www.giantitp.com/comics/oots1224.html",
-      "http://www.giantitp.com/comics/oots1225.html"
+      "http://www.giantitp.com/comics/oots1225.html",
+      "http://www.giantitp.com/comics/oots1226.html",
+      "http://www.giantitp.com/comics/oots1227.html",
+      "http://www.giantitp.com/comics/oots1228.html",
+      "http://www.giantitp.com/comics/oots1229.html",
+      "http://www.giantitp.com/comics/oots1230.html",
+      "http://www.giantitp.com/comics/oots1231.html",
+      "http://www.giantitp.com/comics/oots1232.html",
+      "http://www.giantitp.com/comics/oots1233.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
