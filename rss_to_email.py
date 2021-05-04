@@ -3,12 +3,13 @@ defusedxml.defuse_stdlib()
 
 import feedparser
 import sys
-from urllib import request
 from fileinput import input as fileinput
+from html import unescape
 from json import load, dump
 from smtplib import SMTP, SMTPException
 from time import mktime
 from traceback import format_exc, print_exc, print_exception
+from urllib import request
 from urllib.error import URLError
 from xml.sax import SAXException
 
@@ -67,7 +68,7 @@ def parse_feeds(cache, feed_url):
     entries = []
     for row in d['entries']:
         entry = Entry()
-        entry.title = row.get('title', '(no title)')
+        entry.title = unescape(row.get('title', '(no title)'))
         entry.link = row['link']
         entry.url = feed_url
         if 'published_parsed' in row: # Not all entries have a date
