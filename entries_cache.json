@@ -80,16 +80,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a44fa02b2a5c02ce7e14532defb9ca10e633dfbcf77adb68f1212bb27c7fef87\"",
+    "etag": "W/\"4764989867ba370dad034766a4518cfc35ec5e8f392e99e5017579a6f1045a86\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 04 May 2021 20:24:31 GMT",
+    "modified": "Wed, 05 May 2021 06:03:13 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"4c8061ec09d3266e07cdfc36bcdcbb5f62182580888006aaa80e6fa120bc219b\"",
+    "etag": "W/\"e07dc60bced67ed57c8a76e9c94c38fa0efef5c8dc1df5ec2a7d7b95f2d6311f\"",
     "last_updated": 1619114700,
-    "modified": "Tue, 04 May 2021 17:13:52 GMT",
+    "modified": "Wed, 05 May 2021 06:20:12 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -180,7 +180,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d956c3f3a71c8c6c37902dac90393ecb",
+    "etag": "cacheable:b7ddc1a31b7fa3a3e9218792d3c45b6a",
     "last_updated": 1620147477,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -214,7 +214,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1620100800,
+    "last_updated": 1620187200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -256,9 +256,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"0147cbaa4d57a29391a48edceb614ae3\"",
+    "etag": "W/\"3018c856a431c0eab60113cec9e71a8b\"",
     "last_updated": 1619712035,
-    "modified": "Tue, 04 May 2021 15:45:38 GMT",
+    "modified": "Wed, 05 May 2021 05:31:27 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6090b397-a2f\"",
+    "etag": "W/\"60921848-a2f\"",
     "last_updated": 1620014400,
-    "modified": "Tue, 04 May 2021 02:38:15 GMT",
+    "modified": "Wed, 05 May 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
