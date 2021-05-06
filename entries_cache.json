@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"5ac1c530862195dd4c17bf1e4f69c533\"",
+    "etag": "W/\"464bc59e1937dd669694d7be1496caa5\"",
     "last_updated": 1620080590,
-    "modified": "Wed, 05 May 2021 16:09:14 GMT",
+    "modified": "Wed, 05 May 2021 20:36:33 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1620104400,
+    "last_updated": 1620190800,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2689d4cff848d03206b937ba65be497c225a1a6ff0ce9a056505a76c6b6ded81\"",
+    "etag": "W/\"30e9453c9ac23cdbad602617184c600455f190213f0a412e559d88fa1b984fdf\"",
     "last_updated": 1619114700,
-    "modified": "Wed, 05 May 2021 12:23:07 GMT",
+    "modified": "Thu, 06 May 2021 00:50:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -166,21 +166,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"eed1c4645af364cdd334818879027485\"",
+    "etag": "W/\"474064b13e7b3f7b2c7e47a44809ac44\"",
     "last_updated": 1620144042,
-    "modified": "Wed, 05 May 2021 18:00:27 GMT",
+    "modified": "Wed, 05 May 2021 23:36:29 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"527d6161f619557706703f17006627ff\"",
+    "etag": "W/\"474064b13e7b3f7b2c7e47a44809ac44\"",
     "last_updated": 1620230450,
-    "modified": "Wed, 05 May 2021 17:35:06 GMT",
+    "modified": "Wed, 05 May 2021 23:36:29 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2c7878bd9b6809148ed929da4ef1e770",
+    "etag": "cacheable:fd14cc71f49e8b409c31c12120e3dfb1",
     "last_updated": 1620147477,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -214,7 +214,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1620187200,
+    "last_updated": 1620274406,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -256,9 +256,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"dc554fe90ba1470f1024432e11fc053f\"",
+    "etag": "W/\"56f547e80e575d00306b1bcad8ba6a2d\"",
     "last_updated": 1619712035,
-    "modified": "Wed, 05 May 2021 09:39:31 GMT",
+    "modified": "Thu, 06 May 2021 02:39:16 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60921848-a2f\"",
-    "last_updated": 1620014400,
-    "modified": "Wed, 05 May 2021 04:00:08 GMT",
+    "etag": "W/\"60936117-981\"",
+    "last_updated": 1620187200,
+    "modified": "Thu, 06 May 2021 03:23:03 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
