@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b1019021d3886c1f5de8b15c56f0d0254a0f144f68cbedc4ef50b5c987f832fd\"",
+    "etag": "W/\"4c5433a3b5ff718c0329ad4ec7fa83ad8d02f4811e632cbaaf9f5cc54bf1d5f3\"",
     "last_updated": 1619114700,
-    "modified": "Tue, 11 May 2021 16:18:13 GMT",
+    "modified": "Tue, 11 May 2021 20:32:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -101,16 +101,16 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"553eb5cc93e8637f98cec9023fa78f46\"",
+    "etag": "\"1858f32c68f8fb4fa3d4d316df4a11d6\"",
     "last_updated": 1619715396,
-    "modified": "Thu, 29 Apr 2021 16:56:42 GMT",
+    "modified": "Tue, 11 May 2021 23:43:31 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"01bd2fb7235c15d872343b5347d78e31-gzip\"",
     "last_updated": 1619032628,
-    "modified": "Wed, 21 Apr 2021 19:17:08 GMT",
+    "modified": "Tue, 11 May 2021 20:37:48 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     ]
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
-    "last_updated": 1620648055,
+    "last_updated": 1620792045,
     "name": "Atomic Robo",
     "seen_entries": []
   },
@@ -166,21 +166,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"52694a94e14918524323e4b78e4c5551\"",
+    "etag": "W/\"6047faa657ea56129d9cbfc6ff4586c9\"",
     "last_updated": 1620144042,
-    "modified": "Tue, 11 May 2021 17:15:47 GMT",
+    "modified": "Tue, 11 May 2021 20:18:42 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"52694a94e14918524323e4b78e4c5551\"",
+    "etag": "W/\"6047faa657ea56129d9cbfc6ff4586c9\"",
     "last_updated": 1620230450,
-    "modified": "Tue, 11 May 2021 17:15:47 GMT",
+    "modified": "Tue, 11 May 2021 20:18:42 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f032bbffaef4437e4278fff19a95f6f8",
+    "etag": "cacheable:28bfe5c8c30785e5bdfa125f148ca87b",
     "last_updated": 1620752020,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -214,7 +214,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1620705600,
+    "last_updated": 1620792000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -273,7 +273,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1620615969,
+    "last_updated": 1620791453,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60998f79-88a\"",
+    "etag": "W/\"609b52c8-88a\"",
     "last_updated": 1620619200,
-    "modified": "Mon, 10 May 2021 19:54:33 GMT",
+    "modified": "Wed, 12 May 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
