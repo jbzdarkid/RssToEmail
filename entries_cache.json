@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"ca1872a30748da8607ce565495b83a1b\"",
+    "etag": "W/\"16f4b59914d6bebada799b11fb480bde\"",
     "last_updated": 1620080590,
-    "modified": "Fri, 14 May 2021 22:01:21 GMT",
+    "modified": "Sat, 15 May 2021 16:48:27 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -67,6 +67,13 @@
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
+  "https://feeds.feedburner.com/kff/kaiserpolls": {
+    "etag": "l/arICLXrHDKEUzN/Q1J8rm3wTE",
+    "last_updated": 1620925234,
+    "modified": "Sat, 15 May 2021 18:28:48 GMT",
+    "name": "Polls and Surveys about Health Policy from the Kaiser Family Foundation",
+    "seen_entries": []
+  },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
     "etag": "AoPSB8IDzhw/UltMMElnsWI2yVo",
     "last_updated": 1537863120,
@@ -80,16 +87,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"cef9394103c2ad27dbd62d23352f41ebebee72596623ad4d21822f6584de59c8\"",
+    "etag": "W/\"2d1003bda4b1ceb115820d1810efa0196588d588a04c52b9ff1cf61cf1d07ea4\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 14 May 2021 21:23:36 GMT",
+    "modified": "Sat, 15 May 2021 09:23:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7d0c3c0924165fc5789ed2662efe4af40edcd16a3f8bdb087142701998863fc3\"",
+    "etag": "W/\"7f24da78713ce32b114967564fcb755817caa6703632937724e27ce31dc6db87\"",
     "last_updated": 1619114700,
-    "modified": "Sat, 15 May 2021 03:27:29 GMT",
+    "modified": "Sat, 15 May 2021 10:53:35 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -166,21 +173,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9f96ab4d614e622d4d8307dbdedea901\"",
+    "etag": "W/\"7f22e192ea610979acb8191f30634cfd\"",
     "last_updated": 1620144042,
-    "modified": "Fri, 14 May 2021 19:10:55 GMT",
+    "modified": "Sat, 15 May 2021 17:30:58 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"9f96ab4d614e622d4d8307dbdedea901\"",
+    "etag": "W/\"7f22e192ea610979acb8191f30634cfd\"",
     "last_updated": 1620835206,
-    "modified": "Fri, 14 May 2021 19:10:55 GMT",
+    "modified": "Sat, 15 May 2021 17:30:58 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e27c347f511120407dbb3e21c569789c",
+    "etag": "cacheable:dc8d3d696b76a2f10f6ccb261fd2d27a",
     "last_updated": 1620752020,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -418,7 +425,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1621011625,
+    "last_updated": 1621098010,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
