@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1621141200,
+    "last_updated": 1621227600,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -87,16 +87,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0a9f37c7cdef8caa96bf0ba92e8c8e7c91d4a113bd41adad2663b5f8c6c416f3\"",
+    "etag": "W/\"042f6d24425ed24d9796205d3cc3dff260c62eb49c332540562519993e35d71c\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 17 May 2021 11:30:52 GMT",
+    "modified": "Mon, 17 May 2021 20:38:12 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5ec5b17c9d834671000dcda99e7902748066b3b75fe8c2edd71dd20e41cb509d\"",
+    "etag": "W/\"9a72a9f57f9c0ebbda27c322d09c5382f7d74a5e2a8290e033c22bf152aaf5f6\"",
     "last_updated": 1619114700,
-    "modified": "Mon, 17 May 2021 07:43:03 GMT",
+    "modified": "Mon, 17 May 2021 20:37:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -173,21 +173,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9b29a101c451da32916fdca13b9f7d41\"",
+    "etag": "W/\"31ddc61f4cc6add57088c21c2a91aa88\"",
     "last_updated": 1620144042,
-    "modified": "Mon, 17 May 2021 17:40:47 GMT",
+    "modified": "Mon, 17 May 2021 19:54:00 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"9b29a101c451da32916fdca13b9f7d41\"",
+    "etag": "W/\"31ddc61f4cc6add57088c21c2a91aa88\"",
     "last_updated": 1620835206,
-    "modified": "Mon, 17 May 2021 17:40:47 GMT",
+    "modified": "Mon, 17 May 2021 19:54:00 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5bb50206497e582ed6f972f7a809a5a9",
+    "etag": "cacheable:10817b19b1f0ebcb1295fad6e775e0c3",
     "last_updated": 1620752020,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -350,7 +350,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1620169713,
+    "last_updated": 1621281621,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -440,9 +440,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60a1ea46-a42\"",
-    "last_updated": 1620964800,
-    "modified": "Mon, 17 May 2021 04:00:06 GMT",
+    "etag": "W/\"60a2d0ef-991\"",
+    "last_updated": 1621224000,
+    "modified": "Mon, 17 May 2021 20:24:15 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
