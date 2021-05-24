@@ -21,8 +21,8 @@ class Entry:
         msg = EmailMessage()
         msg['Subject'] = self.title.replace('\n', '').replace('\r', '')
         msg['To'] = TARGET_EMAIL
-        from = '"' + feed_title.replace('"', '\\"').replace(':', '') + '"'
-        msg['From'] = f'{feed_title} <{SENDER_EMAIL}>'
+        escaped_from = feed_title.replace('"', '\\"').replace(':', '')
+        msg['From'] = f'"{escaped_from}" <{SENDER_EMAIL}>'
         msg['Reply-To'] = TARGET_EMAIL
 
         plaintext = f'{self.content}\n\nTo view the full post, click here: {self.link}'
