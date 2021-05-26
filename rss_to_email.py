@@ -147,6 +147,8 @@ if __name__ == '__main__':
             feed_url = line[:line.find('#')].strip()
             if feed_url == '':
                 continue
+            if 'deviantart' in feed_url:
+                continue # DeviantArt RSS is broken right now.
             feeds.append(feed_url)
 
     for feed_url in feeds:
