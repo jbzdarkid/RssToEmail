@@ -1,16 +1,16 @@
 {
   "https://backend.deviantart.com/rss.xml?q=gallery:DrFaustusAU": {
-    "last_updated": 1621428571,
+    "last_updated": 1622042007,
     "name": "DeviantArt: DrFaustusAU's gallery",
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:SanePerson": {
-    "last_updated": 1619436287,
+    "last_updated": 1622042052,
     "name": "DeviantArt: SanePerson's gallery",
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1621342090,
+    "last_updated": 1622042052,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -94,9 +94,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"be6b6696b5f30ae8677ca892e87f82abdc58ae2bdcd8842a2e28350b4e76fbb3\"",
+    "etag": "W/\"f065f9862a9e3d6f126aba0e729a7ae7b12b9be8490b21f1eb35a1bda875d9d5\"",
     "last_updated": 1621530420,
-    "modified": "Wed, 26 May 2021 09:15:01 GMT",
+    "modified": "Wed, 26 May 2021 12:42:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -173,21 +173,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6455e417f9815bf6d6f2cbec6ecc1ad0\"",
+    "etag": "W/\"96b3f658113f1a43616a9acdf867899c\"",
     "last_updated": 1620144042,
-    "modified": "Tue, 25 May 2021 22:35:32 GMT",
+    "modified": "Wed, 26 May 2021 14:02:01 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"6455e417f9815bf6d6f2cbec6ecc1ad0\"",
+    "etag": "W/\"96b3f658113f1a43616a9acdf867899c\"",
     "last_updated": 1621440027,
-    "modified": "Tue, 25 May 2021 22:35:32 GMT",
+    "modified": "Wed, 26 May 2021 14:02:01 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4c3b1658aac2244ddc4b30e4b756bd14",
+    "etag": "cacheable:6df0dbb84cbd28c534c8f96ab802d07d",
     "last_updated": 1621961984,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -440,9 +440,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60adc7c7-7d0\"",
-    "last_updated": 1621828800,
-    "modified": "Wed, 26 May 2021 04:00:07 GMT",
+    "etag": "W/\"60ae505d-83d\"",
+    "last_updated": 1622001600,
+    "modified": "Wed, 26 May 2021 13:42:53 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
