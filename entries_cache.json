@@ -87,9 +87,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e8c9003b6e937caeb700369b1a63f15d22d19e61a7bf78c641e5ea620822c733\"",
+    "etag": "W/\"21366d00938ffaebd07116165c46fdee2667df34c3c0541f8bb9a9a88c8cbf01\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 31 May 2021 19:36:57 GMT",
+    "modified": "Tue, 01 Jun 2021 01:00:06 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1622330293,
+    "last_updated": 1622513572,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -187,7 +187,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4c1d680f1cce822eeba54347a886e855",
+    "etag": "cacheable:cea3d82f72ae94229b2df09af61cd031",
     "last_updated": 1621961984,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -440,9 +440,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60b45f49-8cb\"",
-    "last_updated": 1622174400,
-    "modified": "Mon, 31 May 2021 04:00:09 GMT",
+    "etag": "W/\"60b56141-955\"",
+    "last_updated": 1622433600,
+    "modified": "Mon, 31 May 2021 22:20:49 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
