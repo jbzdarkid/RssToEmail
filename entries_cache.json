@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"2135979fbce1af301af2ff164fc6d699\"",
+    "etag": "W/\"c2c7225aed08f1ab0b65e74f7e54b7be\"",
     "last_updated": 1620080590,
-    "modified": "Tue, 01 Jun 2021 22:13:50 GMT",
+    "modified": "Wed, 02 Jun 2021 19:48:20 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -94,9 +94,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"69a7dc19a3d6f32d94088d9046b2c00b95d468458754c34119005d13196314b7\"",
+    "etag": "W/\"c0219519ada89ef7e8de665ba19a4e783a258a92698cd22dd2c5cd281b764952\"",
     "last_updated": 1621530420,
-    "modified": "Wed, 02 Jun 2021 11:45:07 GMT",
+    "modified": "Wed, 02 Jun 2021 18:40:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -122,7 +122,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1620347729,
+    "last_updated": 1621548866,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -173,21 +173,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5c254e1e2b74ccea8e161df69b94eb17\"",
+    "etag": "W/\"a5cd84aa60bb8709655d3d9aef1603f1\"",
     "last_updated": 1622563220,
-    "modified": "Wed, 02 Jun 2021 15:30:01 GMT",
+    "modified": "Wed, 02 Jun 2021 18:58:56 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"5c254e1e2b74ccea8e161df69b94eb17\"",
-    "last_updated": 1622044828,
-    "modified": "Wed, 02 Jun 2021 15:30:01 GMT",
+    "etag": "W/\"a5cd84aa60bb8709655d3d9aef1603f1\"",
+    "last_updated": 1622651424,
+    "modified": "Wed, 02 Jun 2021 18:58:56 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c8c2d2db56925661f91779180076054e",
+    "etag": "cacheable:9a5c8ac9eb422efb4ae98407a0faec66",
     "last_updated": 1621961984,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -263,9 +263,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e2824a59ce016e1e9124bda441cb1826\"",
+    "etag": "W/\"02d4c9fe87343edba350f00631c1bac1\"",
     "last_updated": 1622131207,
-    "modified": "Wed, 02 Jun 2021 15:19:59 GMT",
+    "modified": "Wed, 02 Jun 2021 16:07:33 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -350,7 +350,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1622577612,
+    "last_updated": 1622664010,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1619736258,
+    "last_updated": 1622665169,
     "name": "Steamworks Development",
     "seen_entries": []
   },
@@ -425,7 +425,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1622394008,
+    "last_updated": 1622653214,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
