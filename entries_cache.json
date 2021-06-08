@@ -87,16 +87,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a45d6ec3fd568533c7d06529f19a43f4a82a9ff5d07e4c8b3386b99fb6a7924e\"",
+    "etag": "W/\"e4ce639ed71a9d3c3c6fb98b232786ac1cf4f991f85d12fbd933f223f970e308\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 07 Jun 2021 21:29:31 GMT",
+    "modified": "Mon, 07 Jun 2021 22:00:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"320be38ba7caf3461b0db409ba228138b7bf0113767ad5f915e90dfef3cdad34\"",
+    "etag": "W/\"0b8d3f8a8be004b3d83a53f50395c60ca8a80fbf02ca1c8f2da4bc82c201267d\"",
     "last_updated": 1621530420,
-    "modified": "Mon, 07 Jun 2021 20:51:05 GMT",
+    "modified": "Mon, 07 Jun 2021 23:04:35 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1622523102,
+    "last_updated": 1623119554,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -187,7 +187,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8a0c8f67b0e30a7abf945c5bcb11f7f5",
+    "etag": "cacheable:a6fbd0eaf37dcb398c2b5f5d3a50acb2",
     "last_updated": 1621961984,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -221,7 +221,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1623038400,
+    "last_updated": 1623124800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -440,9 +440,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60bd99c4-a2b\"",
-    "last_updated": 1622779200,
-    "modified": "Mon, 07 Jun 2021 04:00:04 GMT",
+    "etag": "W/\"60bec808-a7f\"",
+    "last_updated": 1623038400,
+    "modified": "Tue, 08 Jun 2021 01:29:44 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
