@@ -87,16 +87,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"409658ada73826e3f10c2d5ea269b645b1d2cfac7a799e054cdae72e5459c01f\"",
+    "etag": "W/\"4396fa1b85f117b33b1dd8e38eafe6f1b6ac765e2cd7a7913e67b9a864c2f4f9\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 10 Jun 2021 21:06:42 GMT",
+    "modified": "Fri, 11 Jun 2021 06:00:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d7db2e330e2ccf8cf564ee507af3b575470ec8287820b07a7450d4f7eb29ad57\"",
+    "etag": "W/\"e03d9966e4c83fb22309344c36ce12a896f5977465df012e3fd02fefe73c46bd\"",
     "last_updated": 1621530420,
-    "modified": "Fri, 11 Jun 2021 02:33:50 GMT",
+    "modified": "Fri, 11 Jun 2021 06:04:30 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -187,7 +187,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:022fe27d10aea2fe821e71eea5622bc3",
+    "etag": "cacheable:e3fbb7eb9a196957bd3a1e7087f26e00",
     "last_updated": 1621961984,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -221,7 +221,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1623297600,
+    "last_updated": 1623384000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1623214551,
+    "last_updated": 1623390129,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1619981230,
+    "last_updated": 1623387422,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -440,9 +440,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60c17825-9d5\"",
+    "etag": "W/\"60c2dfc8-9d5\"",
     "last_updated": 1623211200,
-    "modified": "Thu, 10 Jun 2021 02:25:41 GMT",
+    "modified": "Fri, 11 Jun 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
