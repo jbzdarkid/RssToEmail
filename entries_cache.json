@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1623560400,
+    "last_updated": 1623646800,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -173,21 +173,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9882a41052c10e100bee6fc2203b0f64\"",
+    "etag": "W/\"2efd6aa55a6f21ef1b5f20fc5b4a8718\"",
     "last_updated": 1622563220,
-    "modified": "Sun, 13 Jun 2021 20:34:14 GMT",
+    "modified": "Mon, 14 Jun 2021 17:50:58 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"9882a41052c10e100bee6fc2203b0f64\"",
+    "etag": "W/\"2efd6aa55a6f21ef1b5f20fc5b4a8718\"",
     "last_updated": 1623254401,
-    "modified": "Sun, 13 Jun 2021 20:34:14 GMT",
+    "modified": "Mon, 14 Jun 2021 17:50:58 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:756c23c1ceb31f5b82d44eeaba592f84",
+    "etag": "cacheable:70ec166671e56f1da5a34bcdab1523f2",
     "last_updated": 1621961984,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -290,7 +290,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1623425080,
+    "last_updated": 1623686771,
     "name": "GDC",
     "seen_entries": []
   },
@@ -420,7 +420,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1623434413,
+    "last_updated": 1623692592,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
@@ -440,9 +440,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60c6d44c-8fb\"",
-    "last_updated": 1623384000,
-    "modified": "Mon, 14 Jun 2021 04:00:12 GMT",
+    "etag": "W/\"60c78f6f-923\"",
+    "last_updated": 1623643200,
+    "modified": "Mon, 14 Jun 2021 17:18:39 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
