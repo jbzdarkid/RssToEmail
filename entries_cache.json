@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1624078800,
+    "last_updated": 1624165200,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -81,22 +81,31 @@
     "name": "Strong Female Protagonist",
     "seen_entries": []
   },
+  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f260cfc761181ad801f97eae62.atom": {
+    "last_updated": 0,
+    "name": "@breachwizards on Twitter",
+    "seen_entries": [
+      "https://twitter.com/BreachWizards/status/1389980441747197955",
+      "https://twitter.com/BreachWizards/status/1404490143763865611",
+      "https://twitter.com/BreachWizards/status/1405955930450132994"
+    ]
+  },
   "https://foxes-in-love.tumblr.com/rss": {
     "last_updated": 1624078421,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a8a4fa3b726bccc8cfe3f54bcd792c41711c349fb9b47cc795e3e01e840b7490\"",
+    "etag": "W/\"d5732314520802a6be0d2a76da1dcfd7584f8f7e76cc3e8b1135cb1441c282ba\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 19 Jun 2021 20:06:19 GMT",
+    "modified": "Sun, 20 Jun 2021 19:57:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"51c0e37b540a19ba6a74ffdbd454e1ba11f0850122d7af22e7e1a029fd7039c9\"",
+    "etag": "W/\"0ce829662fccb95884bcfebb465908a543add22b30a54f1af243e2be3ee4ea00\"",
     "last_updated": 1621530420,
-    "modified": "Sat, 19 Jun 2021 20:23:39 GMT",
+    "modified": "Sun, 20 Jun 2021 08:03:16 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -173,21 +182,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"35e54b357a9360d6d3b7c5799db1fc1a\"",
+    "etag": "W/\"2717ade8fc453fc537dcd25343028096\"",
     "last_updated": 1622563220,
-    "modified": "Sat, 19 Jun 2021 15:00:21 GMT",
+    "modified": "Sun, 20 Jun 2021 15:00:08 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"35e54b357a9360d6d3b7c5799db1fc1a\"",
+    "etag": "W/\"2717ade8fc453fc537dcd25343028096\"",
     "last_updated": 1623859235,
-    "modified": "Sat, 19 Jun 2021 15:00:21 GMT",
+    "modified": "Sun, 20 Jun 2021 15:00:08 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1d3bcacc5ffb639a15bdd9099c3ae2bb",
+    "etag": "cacheable:5aaae7d12f1041a89496709eba275106",
     "last_updated": 1623776356,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -389,6 +398,11 @@
     "name": "Valve",
     "seen_entries": []
   },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
+    "last_updated": 1604257001,
+    "name": "The Slow Mo Guys 2",
+    "seen_entries": []
+  },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UChW-TZWEQCOWw9G80-LAGZw": {
     "last_updated": 1599472727,
     "name": "MousseMoose",
@@ -400,7 +414,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1623969338,
+    "last_updated": 1624228132,
     "name": "Proton Jon",
     "seen_entries": []
   },
