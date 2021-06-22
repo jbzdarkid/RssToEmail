@@ -20,7 +20,7 @@
     "seen_entries": []
   },
   "https://blizztrack.com/rss/overwatch/live": {
-    "last_updated": 1623261600,
+    "last_updated": 1624384800,
     "name": "Overwatch Live Patch Notes",
     "seen_entries": []
   },
@@ -96,16 +96,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"cdb4711484e9892811e703c37de55845d422ad7d130fc1f70a74c8d41b0fbc86\"",
+    "etag": "W/\"be4c4bec555327920b13e603bfe5ba6fe3800832664de7713402f05ef44f63a0\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 21 Jun 2021 18:50:11 GMT",
+    "modified": "Tue, 22 Jun 2021 08:43:28 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"76cf1496f1182ad6300f3cd21ecdf9374f17dba08fc3f4c1dfc273a8cb79763b\"",
+    "etag": "W/\"27b24cf164d4252ce44816b97c10eba82ecf63f433b2e4fd62e48b9047c7955d\"",
     "last_updated": 1621530420,
-    "modified": "Mon, 21 Jun 2021 23:42:03 GMT",
+    "modified": "Tue, 22 Jun 2021 17:37:36 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -182,22 +182,22 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1420ddb34dbb5fb70f9252833b7328aa\"",
+    "etag": "W/\"b295c4dbf29a29765799528744491281\"",
     "last_updated": 1622563220,
-    "modified": "Mon, 21 Jun 2021 19:19:37 GMT",
+    "modified": "Tue, 22 Jun 2021 17:20:24 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"1420ddb34dbb5fb70f9252833b7328aa\"",
+    "etag": "W/\"b295c4dbf29a29765799528744491281\"",
     "last_updated": 1623859235,
-    "modified": "Mon, 21 Jun 2021 19:19:37 GMT",
+    "modified": "Tue, 22 Jun 2021 17:20:24 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4d46638756f1f014a31bc08b583787d5",
-    "last_updated": 1623776356,
+    "etag": "cacheable:154bec09fb1e09e0e03b7a380895359a",
+    "last_updated": 1624381149,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
@@ -260,8 +260,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1623705600,
-    "modified": "Mon, 14 Jun 2021 21:20:00 +0000",
+    "last_updated": 1624381440,
+    "modified": "Tue, 22 Jun 2021 17:04:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -272,9 +272,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1a976e00d62cc36dcaaee81f028850c7\"",
+    "etag": "W/\"6eb6262fc2ecedd0da3b62bf12493389\"",
     "last_updated": 1623945624,
-    "modified": "Sat, 19 Jun 2021 15:14:47 GMT",
+    "modified": "Tue, 22 Jun 2021 08:24:09 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -299,7 +299,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1624300394,
+    "last_updated": 1624378117,
     "name": "GDC",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1624038476,
+    "last_updated": 1624379170,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
