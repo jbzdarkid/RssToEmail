@@ -103,9 +103,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c494440ad769a72927ca95f8957cb18f351c41920b16a3824eeebdd1337b7362\"",
+    "etag": "W/\"5c60d67146cd72a3c0aa38d6831a6ea5ec077a08a3f7108352021b2301fb0425\"",
     "last_updated": 1621530420,
-    "modified": "Wed, 23 Jun 2021 20:13:24 GMT",
+    "modified": "Thu, 24 Jun 2021 05:02:40 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -182,21 +182,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"670ba2675a86edecc73615a97bc2aa3e\"",
+    "etag": "W/\"f2c34113c4f9d85238f694a51a673a20\"",
     "last_updated": 1622563220,
-    "modified": "Wed, 23 Jun 2021 18:01:18 GMT",
+    "modified": "Wed, 23 Jun 2021 21:55:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"670ba2675a86edecc73615a97bc2aa3e\"",
+    "etag": "W/\"f2c34113c4f9d85238f694a51a673a20\"",
     "last_updated": 1624464040,
-    "modified": "Wed, 23 Jun 2021 18:01:18 GMT",
+    "modified": "Wed, 23 Jun 2021 21:55:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b6ffbd484b9a6f44723c1c64c708b6bf",
+    "etag": "cacheable:af14cf510b416533654c67658e3e8dac",
     "last_updated": 1624381149,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -230,7 +230,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1624420800,
+    "last_updated": 1624507200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -272,9 +272,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ed83704e72c7c077a0b21f247fd71820\"",
+    "etag": "W/\"bbbc7c2f42b99c54468fad4af6272301\"",
     "last_updated": 1623945624,
-    "modified": "Wed, 23 Jun 2021 06:13:04 GMT",
+    "modified": "Thu, 24 Jun 2021 00:41:58 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -454,9 +454,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60d39948-908\"",
+    "etag": "W/\"60d3ad4d-908\"",
     "last_updated": 1624420800,
-    "modified": "Wed, 23 Jun 2021 20:27:52 GMT",
+    "modified": "Wed, 23 Jun 2021 21:53:17 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
