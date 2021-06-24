@@ -96,16 +96,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"00c10dbc5a4ca57fcad4948faade6caecf998cb5925d75ba4bb8ee8ed681572b\"",
+    "etag": "W/\"d9ddcb249c4fc0e2849af224f1e48c3c4f4b107a424b838c679b9487c92d0a23\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 23 Jun 2021 20:13:27 GMT",
+    "modified": "Thu, 24 Jun 2021 15:06:06 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5c60d67146cd72a3c0aa38d6831a6ea5ec077a08a3f7108352021b2301fb0425\"",
+    "etag": "W/\"61038050f9cb4e89f655cfaf75b4d97f488299be569b616b464b51d8c4649fde\"",
     "last_updated": 1621530420,
-    "modified": "Thu, 24 Jun 2021 05:02:40 GMT",
+    "modified": "Thu, 24 Jun 2021 13:44:52 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -196,18 +196,17 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:af14cf510b416533654c67658e3e8dac",
+    "etag": "cacheable:da2525d6f423aa5e6dd29dea24c3fa0a",
     "last_updated": 1624381149,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D92F36EF9FB217\"",
+    "etag": "\"0x8D9371077491D52\"",
     "last_updated": 0,
-    "modified": "Mon, 14 Jun 2021 13:18:44 GMT",
+    "modified": "Thu, 24 Jun 2021 13:03:30 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1217.html",
       "http://www.giantitp.com/comics/oots1218.html",
       "http://www.giantitp.com/comics/oots1219.html",
       "http://www.giantitp.com/comics/oots1220.html",
@@ -226,7 +225,8 @@
       "http://www.giantitp.com/comics/oots1233.html",
       "http://www.giantitp.com/comics/oots1234.html",
       "http://www.giantitp.com/comics/oots1235.html",
-      "http://www.giantitp.com/comics/oots1236.html"
+      "http://www.giantitp.com/comics/oots1236.html",
+      "http://www.giantitp.com/comics/oots1237.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -272,9 +272,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bbbc7c2f42b99c54468fad4af6272301\"",
+    "etag": "W/\"c18673dfcef770f50a710d3f927cc194\"",
     "last_updated": 1623945624,
-    "modified": "Thu, 24 Jun 2021 00:41:58 GMT",
+    "modified": "Thu, 24 Jun 2021 06:00:22 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
