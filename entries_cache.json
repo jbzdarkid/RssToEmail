@@ -105,9 +105,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2d085db13c3a7984a916ac395ce6180d2c42285713831456b01c0024a0dc72c5\"",
-    "last_updated": 1621530420,
-    "modified": "Tue, 29 Jun 2021 08:10:32 GMT",
+    "etag": "W/\"35b4f9a7f3353388ba59bdb99588bc5ffd8dd541b53e96f398c0b5377356607e\"",
+    "last_updated": 1624982280,
+    "modified": "Tue, 29 Jun 2021 16:31:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -184,21 +184,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"228f11ab6d82a6444edd5215e1d2ca12\"",
-    "last_updated": 1622563220,
-    "modified": "Mon, 28 Jun 2021 20:57:18 GMT",
+    "etag": "W/\"a966326189eb0c626a194bedfa75b939\"",
+    "last_updated": 1624982439,
+    "modified": "Tue, 29 Jun 2021 17:48:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"228f11ab6d82a6444edd5215e1d2ca12\"",
+    "etag": "W/\"a966326189eb0c626a194bedfa75b939\"",
     "last_updated": 1624464040,
-    "modified": "Mon, 28 Jun 2021 20:57:18 GMT",
+    "modified": "Tue, 29 Jun 2021 17:48:55 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b378679648f45dcdbe979e665c9c1029",
+    "etag": "cacheable:5e36d7575cc29a0feee6f9f5f98a3eaf",
     "last_updated": 1624381149,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -301,7 +301,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1624913686,
+    "last_updated": 1624983086,
     "name": "GDC",
     "seen_entries": []
   },
