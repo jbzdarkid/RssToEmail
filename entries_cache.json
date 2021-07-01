@@ -98,16 +98,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9795952532e8953e0e6126b25d2be6509dc84364790a427175e34ac0ece4a10a\"",
+    "etag": "W/\"d4f123462b15a7705a5c507eccacbe005cab8d216df48f2cc28767d2b83091c8\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 30 Jun 2021 10:34:04 GMT",
+    "modified": "Wed, 30 Jun 2021 21:16:12 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"af963573348690e764ea0070b24e7ec9828ad5377c88ebf722aa1aa0d6e4a03e\"",
+    "etag": "W/\"ed0b5a374edfdf36aced9d53fdfe98a862e331cc26f4f4e9ed8573eafef9a1a8\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 30 Jun 2021 14:00:47 GMT",
+    "modified": "Thu, 01 Jul 2021 02:08:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -184,21 +184,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6e1af478a531148b2a918d0e4dadb7c0\"",
+    "etag": "W/\"5e3a8e018eb7bae80cd806a35fad2f95\"",
     "last_updated": 1624982439,
-    "modified": "Wed, 30 Jun 2021 17:17:06 GMT",
+    "modified": "Wed, 30 Jun 2021 19:40:12 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"6e1af478a531148b2a918d0e4dadb7c0\"",
+    "etag": "W/\"5e3a8e018eb7bae80cd806a35fad2f95\"",
     "last_updated": 1625068854,
-    "modified": "Wed, 30 Jun 2021 17:17:06 GMT",
+    "modified": "Wed, 30 Jun 2021 19:40:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c60186bfb55aefd4eca87fca0b53c7ce",
+    "etag": "cacheable:2777a54201ff99a4796e5748ebb439b1",
     "last_updated": 1624381149,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -274,9 +274,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"50dc3d20b7dbe7c888f81beec165a5ff\"",
+    "etag": "W/\"6ea7888f18329ad52bfcdf908a142251\"",
     "last_updated": 1624550405,
-    "modified": "Wed, 30 Jun 2021 06:58:11 GMT",
+    "modified": "Thu, 01 Jul 2021 00:43:15 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -456,9 +456,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60dbec48-878\"",
-    "last_updated": 1624852800,
-    "modified": "Wed, 30 Jun 2021 04:00:08 GMT",
+    "etag": "W/\"60dd28d6-858\"",
+    "last_updated": 1625025600,
+    "modified": "Thu, 01 Jul 2021 02:30:46 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
