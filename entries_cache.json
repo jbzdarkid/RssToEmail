@@ -98,16 +98,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"29c904dd02a0f2d9ccafb455a64507542ae541c99ebfc4093519359d6a764c8f\"",
+    "etag": "W/\"40442b90f755e7fa48347e55f2d7d769aa81f31a4d87e2eff03b8328632f5cfa\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 05 Jul 2021 10:29:48 GMT",
+    "modified": "Mon, 05 Jul 2021 12:35:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b967c588979fed828cc1401fc3f53e0e1c35561489d4f97cdc20a6397601d23d\"",
+    "etag": "W/\"2704cb84478f3ebc009326818126949d2aa7e32fc59dfca85bc920ed9ec1b943\"",
     "last_updated": 1624982280,
-    "modified": "Mon, 05 Jul 2021 11:50:24 GMT",
+    "modified": "Mon, 05 Jul 2021 15:12:26 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -179,7 +179,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1624852800,
+    "last_updated": 1625457600,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -198,7 +198,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:910494f56413b02489be7c9109962248",
+    "etag": "cacheable:a3172bc87ab1ac272c5a56628b9871a4",
     "last_updated": 1624381149,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -456,9 +456,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60e283c7-8f1\"",
-    "last_updated": 1625198400,
-    "modified": "Mon, 05 Jul 2021 04:00:07 GMT",
+    "etag": "W/\"60e316e7-8c9\"",
+    "last_updated": 1625457600,
+    "modified": "Mon, 05 Jul 2021 14:27:51 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
