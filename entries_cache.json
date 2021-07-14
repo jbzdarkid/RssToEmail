@@ -98,16 +98,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7204a840515b7264950160877292a1f1f0098c447a84d7257f3d22be22b68a7f\"",
+    "etag": "W/\"468d62e9877d5f3fe9503702e7cd41dd4588563107f3dec9ddc14ee0666f667c\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 13 Jul 2021 13:10:22 GMT",
+    "modified": "Wed, 14 Jul 2021 06:08:36 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d1b6ceaab54c27a97e061cac2d04c20e42425c4cc840618720e8e97b1113fd7c\"",
+    "etag": "W/\"3099ae06137a8ea464fcdb85a319fec20c6d7013a19bd4a4ed26c38b96f33d66\"",
     "last_updated": 1624982280,
-    "modified": "Tue, 13 Jul 2021 15:09:03 GMT",
+    "modified": "Wed, 14 Jul 2021 06:06:32 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -119,9 +119,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"5982c7c4b4dcac037208d164c2b2f2fc\"",
+    "etag": "\"e83243e6372ac9c93f7173ac70fafb18\"",
     "last_updated": 1625792442,
-    "modified": "Mon, 12 Jul 2021 01:11:25 GMT",
+    "modified": "Wed, 14 Jul 2021 00:00:44 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -191,14 +191,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"25016d820a1e36a2372d661a16b380e8\"",
+    "etag": "W/\"4fec540b3cf1622b0475ea19c260a2f6\"",
     "last_updated": 1625673608,
-    "modified": "Tue, 13 Jul 2021 20:55:08 GMT",
+    "modified": "Tue, 13 Jul 2021 20:55:24 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a4d51515b47257a85495b75db9ef3c54",
+    "etag": "cacheable:607017f3182a30210c9cb8289cb2980d",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -232,7 +232,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1626148800,
+    "last_updated": 1626235200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -291,7 +291,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1626066216,
+    "last_updated": 1626236872,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -456,9 +456,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60ed0b5c-916\"",
+    "etag": "W/\"60ee6144-916\"",
     "last_updated": 1626062400,
-    "modified": "Tue, 13 Jul 2021 03:41:16 GMT",
+    "modified": "Wed, 14 Jul 2021 04:00:04 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
