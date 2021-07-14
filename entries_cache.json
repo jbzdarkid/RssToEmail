@@ -98,16 +98,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"341f6670540bcd26db1bd10f9fc7e07dc95d49afc4ebe3f0c723777c827f03bd\"",
+    "etag": "W/\"525ccd1df450567facb9d3b1753281e32fc02fbd3da68f930f6e38b8173f9ce6\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 14 Jul 2021 11:38:12 GMT",
+    "modified": "Wed, 14 Jul 2021 15:59:19 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e860f987d42adf5f0701ab9e10d24f1204a23cde65604377b763c22aa9693245\"",
+    "etag": "W/\"a52a9b828654ee97a03797b196821dcb720581586e35ffdcdf03536c048908ae\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 14 Jul 2021 12:45:02 GMT",
+    "modified": "Wed, 14 Jul 2021 17:23:14 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -133,7 +133,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1624575547,
+    "last_updated": 1625866585,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -184,21 +184,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4fec540b3cf1622b0475ea19c260a2f6\"",
+    "etag": "W/\"7dc00d1e40ea834948f3f51607da8350\"",
     "last_updated": 1624982439,
-    "modified": "Tue, 13 Jul 2021 20:55:24 GMT",
+    "modified": "Wed, 14 Jul 2021 16:00:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4fec540b3cf1622b0475ea19c260a2f6\"",
-    "last_updated": 1625673608,
-    "modified": "Tue, 13 Jul 2021 20:55:24 GMT",
+    "etag": "W/\"7dc00d1e40ea834948f3f51607da8350\"",
+    "last_updated": 1626278459,
+    "modified": "Wed, 14 Jul 2021 16:00:59 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1d9e29634245769c6f18a861e2ddf105",
+    "etag": "cacheable:1392de0c0e16debedf3c1e528b8f6e99",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -301,7 +301,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1626192308,
+    "last_updated": 1626278522,
     "name": "GDC",
     "seen_entries": []
   },
@@ -441,7 +441,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1625954427,
+    "last_updated": 1626282013,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
