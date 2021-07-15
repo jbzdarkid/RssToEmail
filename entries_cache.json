@@ -98,16 +98,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"525ccd1df450567facb9d3b1753281e32fc02fbd3da68f930f6e38b8173f9ce6\"",
+    "etag": "W/\"ea6a1df55f4d9652efc0009c6b2c9b6eaec90ea7dc21e4383d0d2551ef45e05c\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 14 Jul 2021 15:59:19 GMT",
+    "modified": "Wed, 14 Jul 2021 20:22:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a52a9b828654ee97a03797b196821dcb720581586e35ffdcdf03536c048908ae\"",
+    "etag": "W/\"2e3e35b00a33e05741a0e68a0e122108575d19a7bde8888833a72befd25306a6\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 14 Jul 2021 17:23:14 GMT",
+    "modified": "Wed, 14 Jul 2021 20:22:26 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -184,21 +184,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7dc00d1e40ea834948f3f51607da8350\"",
+    "etag": "W/\"ec462360866c871249aa5f6a21a18a90\"",
     "last_updated": 1624982439,
-    "modified": "Wed, 14 Jul 2021 16:00:59 GMT",
+    "modified": "Thu, 15 Jul 2021 00:36:46 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"7dc00d1e40ea834948f3f51607da8350\"",
+    "etag": "W/\"ec462360866c871249aa5f6a21a18a90\"",
     "last_updated": 1626278459,
-    "modified": "Wed, 14 Jul 2021 16:00:59 GMT",
+    "modified": "Thu, 15 Jul 2021 00:36:46 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1392de0c0e16debedf3c1e528b8f6e99",
+    "etag": "cacheable:2c380b6f2dda19dec958d67a5bd9368f",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -456,9 +456,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60ee6144-916\"",
-    "last_updated": 1626062400,
-    "modified": "Wed, 14 Jul 2021 04:00:04 GMT",
+    "etag": "W/\"60ef862b-9a7\"",
+    "last_updated": 1626235200,
+    "modified": "Thu, 15 Jul 2021 00:49:47 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
