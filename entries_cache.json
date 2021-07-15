@@ -98,16 +98,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ee565bd91b37712142d56e5f90dbfa123de9e81934fa16550c1c7f8261e5a3ba\"",
+    "etag": "W/\"88ab71919328fd9d31ddbd40b972067bb31163e4ca915d26e42bf1e52020c9a4\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 15 Jul 2021 04:34:30 GMT",
+    "modified": "Thu, 15 Jul 2021 12:44:13 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"75901366788a1a408c468589c5054b73fcb0e57d0b73d1b3e669546e39d6779e\"",
+    "etag": "W/\"97befbb8b2f11825a2d8841c9cf002a5473d3632d23b489beb949e64bfa7fa7f\"",
     "last_updated": 1624982280,
-    "modified": "Thu, 15 Jul 2021 04:04:26 GMT",
+    "modified": "Thu, 15 Jul 2021 10:14:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -119,9 +119,9 @@
     "seen_entries": []
   },
   "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"e83243e6372ac9c93f7173ac70fafb18\"",
-    "last_updated": 1625792442,
-    "modified": "Wed, 14 Jul 2021 00:00:44 GMT",
+    "etag": "\"7162a7c34edd43f88c500732e2575c59\"",
+    "last_updated": 1626368400,
+    "modified": "Thu, 15 Jul 2021 17:00:00 GMT",
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -155,7 +155,7 @@
     "seen_entries": []
   },
   "https://steamdb.info/api/BlogRSS/": {
-    "last_updated": 1612866810,
+    "last_updated": 1626369099,
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -184,21 +184,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ec462360866c871249aa5f6a21a18a90\"",
+    "etag": "W/\"c3c0014d80b3c97c360aff2282005ebc\"",
     "last_updated": 1624982439,
-    "modified": "Thu, 15 Jul 2021 00:36:46 GMT",
+    "modified": "Thu, 15 Jul 2021 17:00:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"ec462360866c871249aa5f6a21a18a90\"",
+    "etag": "W/\"c3c0014d80b3c97c360aff2282005ebc\"",
     "last_updated": 1626278459,
-    "modified": "Thu, 15 Jul 2021 00:36:46 GMT",
+    "modified": "Thu, 15 Jul 2021 17:00:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4166071c70bb3ee0cb3844461f403f50",
+    "etag": "cacheable:8db5f4285167a82e8f957799e3f45a02",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -301,7 +301,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1626278522,
+    "last_updated": 1626366436,
     "name": "GDC",
     "seen_entries": []
   },
@@ -371,7 +371,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1622665169,
+    "last_updated": 1626368463,
     "name": "Steamworks Development",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1624120362,
+    "last_updated": 1626370295,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
