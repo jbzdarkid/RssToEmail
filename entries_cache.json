@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1626325200,
+    "last_updated": 1626411600,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -106,9 +106,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7265a2ad4510282ffa4196f1f645ba3f783dd6e7fb4cac9dd8fcadf136ea4b92\"",
+    "etag": "W/\"fd5d368da66911ff0f7bad676afc30860ad8f3722e0cb15d0b50f34633f837a4\"",
     "last_updated": 1624982280,
-    "modified": "Fri, 16 Jul 2021 09:02:52 GMT",
+    "modified": "Fri, 16 Jul 2021 14:57:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:213d6cfd4ac6ec6d7d6590f0d988d4a7",
+    "etag": "cacheable:72c2a0b9f4df0fe7b0253daa36c3e542",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -457,9 +457,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60f10447-9a7\"",
-    "last_updated": 1626235200,
-    "modified": "Fri, 16 Jul 2021 04:00:07 GMT",
+    "etag": "W/\"60f19703-927\"",
+    "last_updated": 1626408000,
+    "modified": "Fri, 16 Jul 2021 14:26:11 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
