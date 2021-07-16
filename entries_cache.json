@@ -99,16 +99,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8a76bba062677bb5a5c7d5ae206009b0f67ccbd38bad031b75636cd8770b9f0e\"",
+    "etag": "W/\"d37230ae96e888da2be93e8baecaaf90f76d55697818b9c2e1a52a148a2f14e7\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 15 Jul 2021 20:38:47 GMT",
+    "modified": "Fri, 16 Jul 2021 06:06:33 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"eb0774ad12bef509663a03098fb49dc4e317a5598425371e8fb73e03119baa68\"",
+    "etag": "W/\"bdb99d0316c5f0683c48adfeeea1abbed9f4f0164937564f6b816a25ada10a57\"",
     "last_updated": 1624982280,
-    "modified": "Thu, 15 Jul 2021 20:39:02 GMT",
+    "modified": "Fri, 16 Jul 2021 06:07:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:683a12642ecec3f721655daf41bb0ee0",
+    "etag": "cacheable:cb35ff2ec9f339b31b4677483f227826",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -233,7 +233,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1626321600,
+    "last_updated": 1626408000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -292,7 +292,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1626236872,
+    "last_updated": 1626408205,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -457,9 +457,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60ef862b-9a7\"",
+    "etag": "W/\"60f10447-9a7\"",
     "last_updated": 1626235200,
-    "modified": "Thu, 15 Jul 2021 00:49:47 GMT",
+    "modified": "Fri, 16 Jul 2021 04:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
