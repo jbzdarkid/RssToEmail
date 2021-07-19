@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1626498000,
+    "last_updated": 1626584400,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -99,16 +99,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"10558241976d11713aa8e1ba0f936e18d9930f19d18768f575a872ae22d77ef2\"",
+    "etag": "W/\"952f63a63f51c4c98531f3f9d7e2ee2000c32f9c2274fb8c24d8364e40d4fb67\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 17 Jul 2021 08:50:46 GMT",
+    "modified": "Sun, 18 Jul 2021 21:05:43 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"53f135d8af2896433881e25c656ab32c74b89f0e6619fcff607b157437d5f972\"",
+    "etag": "W/\"f3fabcaa25e1bd48d87172dc0ef1ff73c0aa381482f4fabb395c224f50b3fe51\"",
     "last_updated": 1624982280,
-    "modified": "Sat, 17 Jul 2021 20:36:08 GMT",
+    "modified": "Sun, 18 Jul 2021 21:05:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -129,7 +129,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"01bd2fb7235c15d872343b5347d78e31-gzip\"",
     "last_updated": 1625418031,
-    "modified": "Sun, 04 Jul 2021 17:00:31 GMT",
+    "modified": "Sun, 18 Jul 2021 16:58:38 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -185,21 +185,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ece49611334a588072a2f1e32775e387\"",
+    "etag": "W/\"5d637bc909a1120f48731bb95581aece\"",
     "last_updated": 1624982439,
-    "modified": "Sat, 17 Jul 2021 15:00:26 GMT",
+    "modified": "Sun, 18 Jul 2021 15:00:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"ece49611334a588072a2f1e32775e387\"",
+    "etag": "W/\"5d637bc909a1120f48731bb95581aece\"",
     "last_updated": 1626278459,
-    "modified": "Sat, 17 Jul 2021 15:00:26 GMT",
+    "modified": "Sun, 18 Jul 2021 15:00:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:50ec81551c323c3e73a04ae41afd5546",
+    "etag": "cacheable:938a59e650c3bb2cbfed1226f221ef74",
     "last_updated": 1626195045,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -275,9 +275,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"5c5170d3f8b4e8568db41958b783723f\"",
+    "etag": "W/\"7e1112c051f6753135c6289de4844055\"",
     "last_updated": 1625760033,
-    "modified": "Sat, 17 Jul 2021 10:24:34 GMT",
+    "modified": "Sun, 18 Jul 2021 16:33:02 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -417,7 +417,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1626386944,
+    "last_updated": 1626648394,
     "name": "Proton Jon",
     "seen_entries": []
   },
