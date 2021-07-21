@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"360698b6354128f1c6e51f2505a97d28\"",
-    "last_updated": 1622765282,
-    "modified": "Tue, 20 Jul 2021 18:47:49 GMT",
+    "etag": "W/\"ecb159989fe062599230cd3d2abeeb36\"",
+    "last_updated": 1626887665,
+    "modified": "Wed, 21 Jul 2021 17:14:31 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -107,9 +107,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"cecad17d2a7b2358b9a1ecc400764b4d0e170dec2e16431ae80b1840f840bc9d\"",
+    "etag": "W/\"7c2858bcbc46c72d6d802bea996e51dece6743da5f263a5b46522f55cf04ad90\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 21 Jul 2021 11:02:54 GMT",
+    "modified": "Wed, 21 Jul 2021 15:07:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -169,7 +169,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1624838986,
+    "last_updated": 1626890274,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -186,21 +186,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"412404e03ba84f02c1a510315b94b1f1\"",
+    "etag": "W/\"b502440b002f6a97bd786d5c93078dc5\"",
     "last_updated": 1624982439,
-    "modified": "Tue, 20 Jul 2021 21:35:53 GMT",
+    "modified": "Wed, 21 Jul 2021 16:56:13 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"412404e03ba84f02c1a510315b94b1f1\"",
-    "last_updated": 1626278459,
-    "modified": "Tue, 20 Jul 2021 21:35:53 GMT",
+    "etag": "W/\"b502440b002f6a97bd786d5c93078dc5\"",
+    "last_updated": 1626883213,
+    "modified": "Wed, 21 Jul 2021 16:56:13 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d2771164687b458ff8f69961341ebe30",
+    "etag": "cacheable:26cd6db59e2b1f1aee030f86108ea4ed",
     "last_updated": 1626800199,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -443,7 +443,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1626406195,
+    "last_updated": 1626886812,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
