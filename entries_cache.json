@@ -100,16 +100,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3ceefbd314b9068d76f1dcf2c2b6265cea6a19ffd2cbf8a3eeca0a812ef1429d\"",
+    "etag": "W/\"729f110673c46964bfe89b2051524e90c50fc2c0b30e1c735f84f6adebd3a862\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 20 Jul 2021 10:07:02 GMT",
+    "modified": "Wed, 21 Jul 2021 04:10:18 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7f387deb1602d8fd35e3d050d4e6da1a2808b620f2e8783ef8c7dd1b8b87baf5\"",
+    "etag": "W/\"7ab42764672dffa635cd5376263b6f0d34f9bb6b67bb88c814519d622df00722\"",
     "last_updated": 1624982280,
-    "modified": "Tue, 20 Jul 2021 18:10:43 GMT",
+    "modified": "Wed, 21 Jul 2021 06:13:50 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -186,21 +186,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"53815fb6ad2d4ad5ffedf8c63cdcb5d4\"",
+    "etag": "W/\"412404e03ba84f02c1a510315b94b1f1\"",
     "last_updated": 1624982439,
-    "modified": "Tue, 20 Jul 2021 19:00:02 GMT",
+    "modified": "Tue, 20 Jul 2021 21:35:53 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"53815fb6ad2d4ad5ffedf8c63cdcb5d4\"",
+    "etag": "W/\"412404e03ba84f02c1a510315b94b1f1\"",
     "last_updated": 1626278459,
-    "modified": "Tue, 20 Jul 2021 19:00:02 GMT",
+    "modified": "Tue, 20 Jul 2021 21:35:53 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:27d375d2baad6993d146bc3a99699a91",
+    "etag": "cacheable:33094425bd87d9bd187e54428cc6089f",
     "last_updated": 1626800199,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -234,7 +234,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1626753600,
+    "last_updated": 1626840000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -293,7 +293,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1626665029,
+    "last_updated": 1626838297,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -458,9 +458,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60f638a1-94b\"",
+    "etag": "W/\"60f79bc7-94b\"",
     "last_updated": 1626667200,
-    "modified": "Tue, 20 Jul 2021 02:44:49 GMT",
+    "modified": "Wed, 21 Jul 2021 04:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
