@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"ecb159989fe062599230cd3d2abeeb36\"",
+    "etag": "W/\"38c0783aeba06795f19c003a9182db91\"",
     "last_updated": 1626887665,
-    "modified": "Wed, 21 Jul 2021 17:14:31 GMT",
+    "modified": "Thu, 22 Jul 2021 00:32:37 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -100,16 +100,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f50a2c060e601b46b682ba67f73aba4725af7b0b08fc922941a393aeeda7663f\"",
+    "etag": "W/\"d77f3ce1a7df1104124bc2421856aeedc00978920b44c33d368ddc4454b97e7d\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 21 Jul 2021 09:05:14 GMT",
+    "modified": "Thu, 22 Jul 2021 02:29:18 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7c2858bcbc46c72d6d802bea996e51dece6743da5f263a5b46522f55cf04ad90\"",
+    "etag": "W/\"f930ace3eaa36a9d705fc15efa250a8ad8b7ef71235114c3034da376f027ad8e\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 21 Jul 2021 15:07:08 GMT",
+    "modified": "Wed, 21 Jul 2021 23:17:21 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -130,7 +130,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"01bd2fb7235c15d872343b5347d78e31-gzip\"",
     "last_updated": 1625418031,
-    "modified": "Sun, 18 Jul 2021 16:58:38 GMT",
+    "modified": "Wed, 21 Jul 2021 18:58:09 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -186,21 +186,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b502440b002f6a97bd786d5c93078dc5\"",
+    "etag": "W/\"23f936ca821dd05118b835999c1a5292\"",
     "last_updated": 1624982439,
-    "modified": "Wed, 21 Jul 2021 16:56:13 GMT",
+    "modified": "Wed, 21 Jul 2021 21:39:56 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"b502440b002f6a97bd786d5c93078dc5\"",
+    "etag": "W/\"23f936ca821dd05118b835999c1a5292\"",
     "last_updated": 1626883213,
-    "modified": "Wed, 21 Jul 2021 16:56:13 GMT",
+    "modified": "Wed, 21 Jul 2021 21:39:56 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:26cd6db59e2b1f1aee030f86108ea4ed",
+    "etag": "cacheable:c07863d6d6e8dab13073fbf4f8fdc16b",
     "last_updated": 1626800199,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -276,9 +276,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"278dd3c96edb41ef24c57520204b7a8e\"",
+    "etag": "W/\"7104235c93e49655e85c304d281f665c\"",
     "last_updated": 1625760033,
-    "modified": "Wed, 21 Jul 2021 08:07:46 GMT",
+    "modified": "Wed, 21 Jul 2021 23:46:05 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -303,7 +303,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1626451247,
+    "last_updated": 1626922546,
     "name": "GDC",
     "seen_entries": []
   },
@@ -458,9 +458,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60f79bc7-94b\"",
-    "last_updated": 1626667200,
-    "modified": "Wed, 21 Jul 2021 04:00:07 GMT",
+    "etag": "W/\"60f8c66e-8f0\"",
+    "last_updated": 1626840000,
+    "modified": "Thu, 22 Jul 2021 01:14:22 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
