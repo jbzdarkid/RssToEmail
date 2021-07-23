@@ -56,7 +56,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1626930000,
+    "last_updated": 1627016400,
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -130,7 +130,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"01bd2fb7235c15d872343b5347d78e31-gzip\"",
     "last_updated": 1625418031,
-    "modified": "Wed, 21 Jul 2021 18:58:09 GMT",
+    "modified": "Fri, 23 Jul 2021 02:32:13 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e08563abe9913a14efca0670983aa578",
+    "etag": "cacheable:05401c6cdf3833bb2d1a2d708cd88d67",
     "last_updated": 1626800199,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -234,7 +234,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1626926400,
+    "last_updated": 1627012800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -293,7 +293,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1626838297,
+    "last_updated": 1627012521,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -458,9 +458,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"60f8c66e-8f0\"",
+    "etag": "W/\"60fa3ec7-8f0\"",
     "last_updated": 1626840000,
-    "modified": "Thu, 22 Jul 2021 01:14:22 GMT",
+    "modified": "Fri, 23 Jul 2021 04:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
