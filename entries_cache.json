@@ -100,16 +100,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"fdf9df2542868ccf65cd02bb9002501114a9b82aacea9b09271b5ef74d65d94c\"",
+    "etag": "W/\"ef4dbf74bbb57b40eb1710e3cca01c6083db42cfe1fac1bdb4195060b53784ed\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 24 Jul 2021 08:24:21 GMT",
+    "modified": "Sat, 24 Jul 2021 20:30:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6793ae75c1cb340a2ce88872ee92544f67ae49b1ff2a465cfe0687bca9aeeeb6\"",
+    "etag": "W/\"17c443d92fd49d124e31883a489d85aa80244e40ff0b3a2e7f68817dd04c1b7a\"",
     "last_updated": 1624982280,
-    "modified": "Sat, 24 Jul 2021 08:33:07 GMT",
+    "modified": "Sat, 24 Jul 2021 20:06:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -169,7 +169,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1626890274,
+    "last_updated": 1627151807,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -186,21 +186,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e8032f13d4b8f912563154829962aa32\"",
+    "etag": "W/\"88d392e91030db43b2631fbf34eeacc4\"",
     "last_updated": 1624982439,
-    "modified": "Sat, 24 Jul 2021 16:39:25 GMT",
+    "modified": "Sat, 24 Jul 2021 19:56:54 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"e8032f13d4b8f912563154829962aa32\"",
+    "etag": "W/\"88d392e91030db43b2631fbf34eeacc4\"",
     "last_updated": 1626883213,
-    "modified": "Sat, 24 Jul 2021 16:39:25 GMT",
+    "modified": "Sat, 24 Jul 2021 19:56:54 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:95e0198bf65204dc9954c82f9371fd84",
+    "etag": "cacheable:b30ab1003b83b2345186c1666f2e79e3",
     "last_updated": 1626800199,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -363,7 +363,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1626984003,
+    "last_updated": 1627156808,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -453,7 +453,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1625271262,
+    "last_updated": 1627155923,
     "name": "SourceRuns",
     "seen_entries": []
   },
