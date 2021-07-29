@@ -3,6 +3,7 @@ defusedxml.defuse_stdlib()
 
 import feedparser
 import sys
+from datetime import datetime
 from fileinput import input as fileinput
 from html import unescape
 from json import load, dump
@@ -147,9 +148,10 @@ if __name__ == '__main__':
             feed_url = line[:line.find('#')].strip()
             if feed_url == '':
                 continue
-            if 'deviantart' in feed_url:
-                continue # DeviantArt RSS is broken right now.
-            feeds.append(feed_url)
+            elif 'deviantart' in feed_url and datetime.now() < datetime(2021, 8, 1):
+                continue # DeviantArt RSS is broken right now. Disable until Oct 1.
+            else:
+                feeds.append(feed_url)
 
     for feed_url in feeds:
         try:
