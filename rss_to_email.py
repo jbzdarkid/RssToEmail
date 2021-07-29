@@ -107,32 +107,41 @@ def get_hearthstone_patch_notes():
 
 
 def handle_entries(entries, cache, email_server):
-    new_entries = 0
-    # Reversed so that older entries are first, that way we send emails in chronological order.
+    new_entries = []
+    # Reversed so that older entries are first, that way we send emails in chronological order,
+    # and send multiple emails if there we multiple entries since the last_updated time.
     for entry in reversed(entries):
         if entry.date:
             if entry.date > cache[entry.url]['last_updated']:
                 print(f'Found new entry for {entry.url} by date')
-                entry.send_email(email_server, cache[entry.url]['name'])
-                new_entries += 1
-
                 cache[entry.url]['last_updated'] = entry.date
-                with open('entries_cache.json', 'w') as f:
-                    dump(cache, f, sort_keys=True, indent=2)
-        else:
-            if entry.link not in cache[entry.url]['seen_entries']:
-                print(f'Found new entry for {entry.url} by link')
-                entry.send_email(email_server, cache[entry.url]['name'])
-                new_entries += 1
+                new_entries.append(entry)
+        elif entry.link not in cache[entry.url]['seen_entries']:
+            print(f'Found new entry for {entry.url} by link')
+            # Keep only the most recent 20 (OOTS sends only 10)
+            cache[entry.url]['seen_entries'] = cache[entry.url]['seen_entries'][-19:] + [entry.link]
+            new_entries.append(entry)
+    
+    # Special handling to discard youtube premiers
+    def is_youtube_premier(entry):
+        if 'youtube.com' not in entry.url:
+            return False
+        print(f'Making expensive HTTP call to {entry.link}')
+        data = request.urlopen(entry.link).read()
+        return b'<meta itemprop="isLiveBroadcast" content="True">' in data
 
-                cache[entry.url]['seen_entries'].append(entry.link)
-                # Keep only the most recent 20 (OOTS sends only 10)
-                cache[entry.url]['seen_entries'] = cache[entry.url]['seen_entries'][-20:]
+    # Python magic to filter the list without making a copy: https://stackoverflow.com/a/1207461
+    new_entries[:] = [entry for entry in new_entries if not is_youtube_premier(entry)]
 
-                with open('entries_cache.json', 'w') as f:
-                    dump(cache, f, sort_keys=True, indent=2)
+    print(f'Found {len(new_entries)} total new entries, sending emails')
 
-    print(f'Found {new_entries} total new entries')
+    for entry in new_entries:
+        entry.send_email(email_server, cache[entry.url]['name'])
+        
+    print('Done sending emails')
+    
+    with open('entries_cache.json', 'w') as f:
+        dump(cache, f, sort_keys=True, indent=2)
 
 
 if __name__ == '__main__':
@@ -167,7 +176,7 @@ if __name__ == '__main__':
 
     entries += get_hearthstone_patch_notes()
 
-    print(f'Found {len(entries)} entries')
+    print(f'Found {len(entries)} entries to process')
 
     email_server = SMTP(EMAIL_SERVER, 587)
     if SENDER_EMAIL:
