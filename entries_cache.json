@@ -100,16 +100,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9f34c2c0fd8d4615ece26ccb21b9f727113659228039ffe7ec447ae1026f3e11\"",
+    "etag": "W/\"f4af241399989741438ef641f7b2e1c429007eb9014442a0837c1b6a03cd61e3\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 30 Jul 2021 12:15:20 GMT",
+    "modified": "Fri, 30 Jul 2021 15:00:15 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"eadda742ad82df0f4ba7885965f00c5e368d3524fa1b9f522fcdfca3b72887bd\"",
+    "etag": "W/\"a89efc96f05c5b928b53969c18bf2cb9d11631847b1995801f92e3d964d49173\"",
     "last_updated": 1624982280,
-    "modified": "Fri, 30 Jul 2021 09:09:56 GMT",
+    "modified": "Fri, 30 Jul 2021 12:35:11 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -186,21 +186,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c2424699e39b5429e0903b34589b5602\"",
+    "etag": "W/\"a198b45c6ce4254b241081d0f59cbd02\"",
     "last_updated": 1627401638,
-    "modified": "Fri, 30 Jul 2021 02:39:46 GMT",
+    "modified": "Fri, 30 Jul 2021 15:00:15 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"c2424699e39b5429e0903b34589b5602\"",
+    "etag": "W/\"a198b45c6ce4254b241081d0f59cbd02\"",
     "last_updated": 1627488050,
-    "modified": "Fri, 30 Jul 2021 02:39:46 GMT",
+    "modified": "Fri, 30 Jul 2021 15:00:15 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a7416cb2d4fe40cc9c0dc652a0ae7514",
+    "etag": "cacheable:a87ca0dd6dab338dd65362c3f8d9f84e",
     "last_updated": 1627405161,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1627483282,
+    "last_updated": 1627657210,
     "name": "miracleofsound",
     "seen_entries": []
   },
@@ -458,9 +458,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61037947-825\"",
-    "last_updated": 1627444800,
-    "modified": "Fri, 30 Jul 2021 04:00:07 GMT",
+    "etag": "W/\"61040c67-825\"",
+    "last_updated": 1627617600,
+    "modified": "Fri, 30 Jul 2021 14:27:51 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
