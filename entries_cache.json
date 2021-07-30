@@ -25,9 +25,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"95ab96b3caf63a4d69e09c9390ebd932\"",
+    "etag": "W/\"e8d3dadf89b798591fa3fc16b59ac796\"",
     "last_updated": 1626887665,
-    "modified": "Thu, 29 Jul 2021 20:20:09 GMT",
+    "modified": "Thu, 29 Jul 2021 23:02:32 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -100,16 +100,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"32cbb8d45de5e03e66f5d2a8b58999896ae7d200ad794e41398f64c5133d3dbc\"",
+    "etag": "W/\"df53d7b267ae46fa21d544ab4f5bc466db66f7075da7365a92511c601fff37e7\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 29 Jul 2021 20:58:45 GMT",
+    "modified": "Fri, 30 Jul 2021 01:56:47 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d3907167bac2bb2ddfc4cc829c1455823b9dee385d23827327b20a4eb84af974\"",
+    "etag": "W/\"8a40a97cdf72db67b04c04bd51457f3b9543d3d63b4c77928a1d5648f1d83e8c\"",
     "last_updated": 1624982280,
-    "modified": "Thu, 29 Jul 2021 21:03:31 GMT",
+    "modified": "Thu, 29 Jul 2021 21:23:51 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -186,21 +186,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"379b64ed56a585222da641dc900fc700\"",
+    "etag": "W/\"c2424699e39b5429e0903b34589b5602\"",
     "last_updated": 1627401638,
-    "modified": "Thu, 29 Jul 2021 20:31:13 GMT",
+    "modified": "Fri, 30 Jul 2021 02:39:46 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"379b64ed56a585222da641dc900fc700\"",
+    "etag": "W/\"c2424699e39b5429e0903b34589b5602\"",
     "last_updated": 1627488050,
-    "modified": "Thu, 29 Jul 2021 20:31:13 GMT",
+    "modified": "Fri, 30 Jul 2021 02:39:46 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9e931000966b58986b765b0e1f863e68",
+    "etag": "cacheable:423667c3f009cb218fd99fca27bfca41",
     "last_updated": 1627405161,
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -443,7 +443,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1627164009,
+    "last_updated": 1627605755,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
