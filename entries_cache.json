@@ -21,14 +21,14 @@
   },
   "https://blizztrack.com/rss/overwatch/live": {
     "last_updated": 1626804000,
-    "modified": "Mon, 02 Aug 2021 18:17:26 GMT",
+    "modified": "Mon, 02 Aug 2021 21:12:38 GMT",
     "name": "Overwatch Live Patch Notes",
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"e8d3dadf89b798591fa3fc16b59ac796\"",
+    "etag": "W/\"876877dbe153cd86fd3e33bf9019d9fa\"",
     "last_updated": 1626887665,
-    "modified": "Thu, 29 Jul 2021 23:02:32 GMT",
+    "modified": "Mon, 02 Aug 2021 20:04:19 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -58,7 +58,7 @@
   },
   "https://explosm.net/rss.php": {
     "last_updated": 1627880400,
-    "modified": "Mon, 02 Aug 2021 18:17:29 GMT",
+    "modified": "Mon, 02 Aug 2021 21:12:41 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
   },
@@ -102,16 +102,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f202057afbfb4adc602da9ba5e7066fc5b227e9310aae310f4b87e6657fbee76\"",
+    "etag": "W/\"a729d49da73d3ad56add875938b8a17275f6598087e6caa94501b7d7410a3bed\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 02 Aug 2021 13:03:37 GMT",
+    "modified": "Mon, 02 Aug 2021 19:50:27 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1306688e510b1876cc905171e5c59f48fb275a1ed85030deae50ca13f639d22b\"",
+    "etag": "W/\"b12188ebc343c3bb079adc2a4a681dd410d53e64581e08d1c1e97f6c3a491074\"",
     "last_updated": 1624982280,
-    "modified": "Mon, 02 Aug 2021 08:29:25 GMT",
+    "modified": "Mon, 02 Aug 2021 19:55:53 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -160,9 +160,25 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Mon, 02 Aug 2021 17:21:05 GMT",
+    "modified": "Mon, 02 Aug 2021 21:01:35 GMT",
     "name": "Steam Database",
     "seen_entries": []
+  },
+  "https://w3techs.com/blogfeed/category/news": {
+    "last_updated": 0,
+    "name": "W3Techs.com - News Blog",
+    "seen_entries": [
+      "https://w3techs.com/blog/entry/new_surveys_on_the_usage_of_dns_server_providers",
+      "https://w3techs.com/blog/entry/new_surveys_on_email_server_providers",
+      "https://w3techs.com/blog/entry/web_technologies_of_the_year_2019",
+      "https://w3techs.com/blog/entry/extension_of_our_website_sample_set",
+      "https://w3techs.com/blog/entry/new_surveys_on_data_center_providers",
+      "https://w3techs.com/blog/entry/shopify_is_now_the_second_most_popular_content_management_system",
+      "https://w3techs.com/blog/entry/new_survey_on_web_panels",
+      "https://w3techs.com/blog/entry/web_technologies_of_the_year_2020",
+      "https://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress",
+      "https://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache"
+    ]
   },
   "https://what-if.xkcd.com/feed.atom": {
     "etag": "\"5b32ac27-f14c\"",
@@ -189,23 +205,23 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"acf08645145b2b9f60e74ba33d7ac0c3\"",
+    "etag": "W/\"c63345bebfef919564bc8c4ba5f5693f\"",
     "last_updated": 1627401638,
-    "modified": "Mon, 02 Aug 2021 18:04:06 GMT",
+    "modified": "Mon, 02 Aug 2021 18:04:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"865018ac450356d6c5b438d7d6aa4ed6\"",
+    "etag": "W/\"c63345bebfef919564bc8c4ba5f5693f\"",
     "last_updated": 1627488050,
-    "modified": "Mon, 02 Aug 2021 17:15:47 GMT",
+    "modified": "Mon, 02 Aug 2021 18:04:55 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7c4ca132d14654bdcf788868680ed191",
+    "etag": "cacheable:ee5dbfe1f9a5050af5694e1d1bc39445",
     "last_updated": 1627405161,
-    "modified": "Mon, 02 Aug 2021 18:17:29 GMT",
+    "modified": "Mon, 02 Aug 2021 21:12:41 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
@@ -257,7 +273,7 @@
   },
   "https://www.samandfuzzy.com/feed": {
     "last_updated": 1627887600,
-    "modified": "Mon, 02 Aug 2021 18:17:37 GMT",
+    "modified": "Mon, 02 Aug 2021 21:12:51 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
   },
