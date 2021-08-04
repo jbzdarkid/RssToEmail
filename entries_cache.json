@@ -102,9 +102,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f353d1a52dcc11e1770e6dcae42e87e2bde3d33d68421ad476ea2f30ac2e28c6\"",
+    "etag": "W/\"e2bcf5f54dc0be29df1dca2e8e5d11389459e1af9c06e63c71fbaeb71e0413a1\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 04 Aug 2021 03:06:27 GMT",
+    "modified": "Wed, 04 Aug 2021 13:20:05 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -188,7 +188,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1627207306,
+    "last_updated": 1628100985,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -205,21 +205,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c9f163dfbdf7d3f8625f70e827447756\"",
+    "etag": "W/\"1eb563297a2d083bee3ece1db663f394\"",
     "last_updated": 1627401638,
-    "modified": "Tue, 03 Aug 2021 19:25:03 GMT",
+    "modified": "Wed, 04 Aug 2021 17:58:56 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"c9f163dfbdf7d3f8625f70e827447756\"",
-    "last_updated": 1627488050,
-    "modified": "Tue, 03 Aug 2021 19:25:03 GMT",
+    "etag": "W/\"1eb563297a2d083bee3ece1db663f394\"",
+    "last_updated": 1628092828,
+    "modified": "Wed, 04 Aug 2021 17:58:56 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:705e250dc3002794e2bc9cb1b2a2e6e6",
+    "etag": "cacheable:69cc4586dbb3a83b89be30cc1497ae95",
     "last_updated": 1627942782,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -344,7 +344,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1627880075,
+    "last_updated": 1628098355,
     "name": "Team PLC",
     "seen_entries": []
   },
