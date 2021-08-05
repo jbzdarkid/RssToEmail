@@ -20,7 +20,7 @@
     "seen_entries": []
   },
   "https://blizztrack.com/rss/overwatch/live": {
-    "last_updated": 1626804000,
+    "last_updated": 1628186400,
     "modified": "Tue, 03 Aug 2021 09:15:09 GMT",
     "name": "Overwatch Live Patch Notes",
     "seen_entries": []
@@ -109,9 +109,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7619f3372f62848d5ba5138b8dc5ce87cc49a146b6e5a3c3de20335c3c01e979\"",
+    "etag": "W/\"3e2a30e3c57f35c6a7c624f24b05647b73268b88ae5dad0e3c6b089ff348a706\"",
     "last_updated": 1624982280,
-    "modified": "Thu, 05 Aug 2021 14:05:23 GMT",
+    "modified": "Thu, 05 Aug 2021 17:41:33 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -188,7 +188,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1628171117,
+    "last_updated": 1628195380,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -205,21 +205,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"751759a1f02f261f73aa6b4b56c81342\"",
+    "etag": "W/\"958481225d1c8df0b73266846305be36\"",
     "last_updated": 1627401638,
-    "modified": "Wed, 04 Aug 2021 19:42:15 GMT",
+    "modified": "Thu, 05 Aug 2021 19:14:07 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"751759a1f02f261f73aa6b4b56c81342\"",
+    "etag": "W/\"958481225d1c8df0b73266846305be36\"",
     "last_updated": 1628092828,
-    "modified": "Wed, 04 Aug 2021 19:42:15 GMT",
+    "modified": "Thu, 05 Aug 2021 19:14:07 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b0cd48385b277e2d8586a5d75ed3f1ae",
+    "etag": "cacheable:acfea1a09edefde2f28d958e16b40189",
     "last_updated": 1627942782,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -339,7 +339,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA": {
-    "last_updated": 1611794545,
+    "last_updated": 1628192800,
     "name": "Innuendo Studios",
     "seen_entries": []
   },
@@ -384,7 +384,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1628024406,
+    "last_updated": 1628197211,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -479,9 +479,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"610b35f0-87d\"",
+    "etag": "W/\"610c2f4d-87d\"",
     "last_updated": 1628049600,
-    "modified": "Thu, 05 Aug 2021 00:50:56 GMT",
+    "modified": "Thu, 05 Aug 2021 18:34:53 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
