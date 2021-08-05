@@ -188,7 +188,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1628106367,
+    "last_updated": 1628133298,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -219,7 +219,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0a63ab10b6b8d9789020768abc94d6d5",
+    "etag": "cacheable:68262e32493fa5d56407776dbc534d2d",
     "last_updated": 1627942782,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -479,9 +479,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"610a10ca-7d5\"",
-    "last_updated": 1627876800,
-    "modified": "Wed, 04 Aug 2021 04:00:10 GMT",
+    "etag": "W/\"610b35f0-87d\"",
+    "last_updated": 1628049600,
+    "modified": "Thu, 05 Aug 2021 00:50:56 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
