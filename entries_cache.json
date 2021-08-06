@@ -102,16 +102,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3350de4e1857b4c2597676834eb0f740f2f8ec9b375471bca2ec4521d41923b2\"",
+    "etag": "W/\"70347e25e30dd430de6af55c6ed721f79fc9f94f88a3d12eb5e5d118bf559f7e\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 05 Aug 2021 12:09:45 GMT",
+    "modified": "Thu, 05 Aug 2021 21:51:22 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3e2a30e3c57f35c6a7c624f24b05647b73268b88ae5dad0e3c6b089ff348a706\"",
+    "etag": "W/\"feff250599f46a21cd79a083cc15c6ad2cfd18e1db067946197046edc3b33ed7\"",
     "last_updated": 1624982280,
-    "modified": "Thu, 05 Aug 2021 17:41:33 GMT",
+    "modified": "Thu, 05 Aug 2021 21:59:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -219,7 +219,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:acfea1a09edefde2f28d958e16b40189",
+    "etag": "cacheable:a3d6c51904bf16ee772031b3c75b639e",
     "last_updated": 1627942782,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,7 +439,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1627857464,
+    "last_updated": 1628201459,
     "name": "Proton Jon",
     "seen_entries": []
   },
@@ -464,7 +464,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1628010017,
+    "last_updated": 1628210033,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -479,9 +479,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"610c2f4d-87d\"",
+    "etag": "W/\"610c801e-87d\"",
     "last_updated": 1628049600,
-    "modified": "Thu, 05 Aug 2021 18:34:53 GMT",
+    "modified": "Fri, 06 Aug 2021 00:19:42 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
