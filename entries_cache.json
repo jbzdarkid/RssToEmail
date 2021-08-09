@@ -109,9 +109,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0490dcff06cc2cd0411066098aca85657ae1aae96b395d3c28767ccd7d5014fe\"",
+    "etag": "W/\"ce87945b0a0d11b95041fc0bd154243d41919a8e38ff8de8bc94320debb74710\"",
     "last_updated": 1624982280,
-    "modified": "Mon, 09 Aug 2021 11:13:48 GMT",
+    "modified": "Mon, 09 Aug 2021 13:50:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -188,7 +188,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1628479693,
+    "last_updated": 1628521571,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -219,7 +219,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6da3fe37fff47088af149f35f5ee12be",
+    "etag": "cacheable:fc4381d9fb1e80a015a7601180fa90cb",
     "last_updated": 1627942782,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -479,9 +479,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6110a846-925\"",
-    "last_updated": 1628222400,
-    "modified": "Mon, 09 Aug 2021 04:00:06 GMT",
+    "etag": "W/\"61114655-98d\"",
+    "last_updated": 1628481600,
+    "modified": "Mon, 09 Aug 2021 15:14:29 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
