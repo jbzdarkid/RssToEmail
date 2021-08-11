@@ -20,7 +20,7 @@
     "seen_entries": []
   },
   "https://blizztrack.com/rss/overwatch/live": {
-    "last_updated": 1628186400,
+    "last_updated": 1628704800,
     "modified": "Tue, 03 Aug 2021 09:15:09 GMT",
     "name": "Overwatch Live Patch Notes",
     "seen_entries": []
@@ -93,7 +93,8 @@
       "https://twitter.com/BreachWizards/status/1408129994786705409",
       "https://twitter.com/BreachWizards/status/1408141962918518786",
       "https://twitter.com/BreachWizards/status/1415732625373757441",
-      "https://twitter.com/BreachWizards/status/1417197894013112325"
+      "https://twitter.com/BreachWizards/status/1417197894013112325",
+      "https://twitter.com/BreachWizards/status/1425174738373005312"
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
@@ -102,9 +103,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a0ad36a1e2ccc696ff7484ee51565b5adb5ce6ac326a8379e4c01480e30b2276\"",
+    "etag": "W/\"1833ba7562f353e3253be1f665ed6b89cb3793fdb8d4d0b4805308f162fa7a8b\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 11 Aug 2021 11:39:45 GMT",
+    "modified": "Wed, 11 Aug 2021 16:24:49 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -205,21 +206,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"58c167f4c07b56fb0140e24c3a464dc0\"",
+    "etag": "W/\"a047db56648020cb728edbb505bc2605\"",
     "last_updated": 1627401638,
-    "modified": "Tue, 10 Aug 2021 20:41:25 GMT",
+    "modified": "Wed, 11 Aug 2021 17:45:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"58c167f4c07b56fb0140e24c3a464dc0\"",
-    "last_updated": 1628092828,
-    "modified": "Tue, 10 Aug 2021 20:41:25 GMT",
+    "etag": "W/\"a047db56648020cb728edbb505bc2605\"",
+    "last_updated": 1628697600,
+    "modified": "Wed, 11 Aug 2021 17:45:14 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0c06464ed6b65623229d01e0a6deaf72",
+    "etag": "cacheable:8018ae58092fb6e70a75f0cd1b312e52",
     "last_updated": 1628614875,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -297,9 +298,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"7a75bc6cd2acfa542ecc301fd0e8a05f\"",
+    "etag": "W/\"a1916f6e274123ca6d7cf803728f0c5f\"",
     "last_updated": 1627920013,
-    "modified": "Wed, 11 Aug 2021 07:24:16 GMT",
+    "modified": "Wed, 11 Aug 2021 13:30:24 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -424,7 +425,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
-    "last_updated": 1627571028,
+    "last_updated": 1628699635,
     "name": "The Slow Mo Guys 2",
     "seen_entries": []
   },
@@ -464,7 +465,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1628372274,
+    "last_updated": 1628701233,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -479,9 +480,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61134b44-98d\"",
+    "etag": "W/\"6113f030-98d\"",
     "last_updated": 1628481600,
-    "modified": "Wed, 11 Aug 2021 04:00:04 GMT",
+    "modified": "Wed, 11 Aug 2021 15:43:44 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
