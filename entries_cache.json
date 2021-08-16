@@ -103,16 +103,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ae331b7337fe97459968978718caaeb09b80cb64f60c6712f0f7c34df916574b\"",
+    "etag": "W/\"01368ebb66dace12a78b3423e83d921e69158a5df3c62da84f20fefb8b3ea02f\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 15 Aug 2021 07:22:15 GMT",
+    "modified": "Sun, 15 Aug 2021 21:12:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"59bd9a41471214248ebb7772d1e4c0a066c0e28e585ba516045edea91d4e1c91\"",
+    "etag": "W/\"112f3cb1ab8c073f65039ffb872772a2113fd661f4ac9a853addfe0f59e3c91b\"",
     "last_updated": 1624982280,
-    "modified": "Sat, 14 Aug 2021 18:28:40 GMT",
+    "modified": "Sun, 15 Aug 2021 23:37:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -189,7 +189,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1628990712,
+    "last_updated": 1629066118,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -206,21 +206,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a84b1d5b5646d7dd4915e6a7f4deb7cc\"",
+    "etag": "W/\"4b7cb8df24f1de0ef4a72038634c906e\"",
     "last_updated": 1627401638,
-    "modified": "Sat, 14 Aug 2021 15:00:26 GMT",
+    "modified": "Sun, 15 Aug 2021 15:00:54 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"a84b1d5b5646d7dd4915e6a7f4deb7cc\"",
+    "etag": "W/\"4b7cb8df24f1de0ef4a72038634c906e\"",
     "last_updated": 1628697600,
-    "modified": "Sat, 14 Aug 2021 15:00:26 GMT",
+    "modified": "Sun, 15 Aug 2021 15:00:54 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7b3b6b8d7bb4ee7b96d19c74f40805a3",
+    "etag": "cacheable:ec0a03cf4f1ec6f702bf1a4f97401cfb",
     "last_updated": 1628614875,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -440,7 +440,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1628802446,
+    "last_updated": 1629064809,
     "name": "Proton Jon",
     "seen_entries": []
   },
