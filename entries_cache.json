@@ -103,16 +103,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0f90a997c04e4257b67cc2158dbb5dcc3b166dc2083aa3c34b6f8a61ed288b82\"",
+    "etag": "W/\"3f7f2faa557ea6dc624a5b67a0d27a3f94f49e38dd49bda7588b08605fa4f358\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 18 Aug 2021 13:32:01 GMT",
+    "modified": "Wed, 18 Aug 2021 20:56:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f1f2aa83ea78fc809957bfbafed5037c2bd483ec6f951a7659589abda15c7777\"",
+    "etag": "W/\"a6f5c50c09953cddb0f5c65532f3a0d148fb01e4b6affcea7dc1403f01866509\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 18 Aug 2021 16:27:18 GMT",
+    "modified": "Wed, 18 Aug 2021 19:54:03 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -206,21 +206,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1efafecceb0f4c53ce81c28001551af7\"",
+    "etag": "W/\"6ab33a4e8cb51de233408ba35d76fcc1\"",
     "last_updated": 1627401638,
-    "modified": "Wed, 18 Aug 2021 18:08:08 GMT",
+    "modified": "Wed, 18 Aug 2021 20:09:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"1efafecceb0f4c53ce81c28001551af7\"",
+    "etag": "W/\"6ab33a4e8cb51de233408ba35d76fcc1\"",
     "last_updated": 1629302433,
-    "modified": "Wed, 18 Aug 2021 18:08:08 GMT",
+    "modified": "Wed, 18 Aug 2021 20:09:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:46c6c683bb7d044150dfd1ff50329ff9",
+    "etag": "cacheable:e84bbbf8b251e673794d1f7890b60664",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -480,9 +480,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"611c85c4-9df\"",
-    "last_updated": 1629086400,
-    "modified": "Wed, 18 Aug 2021 04:00:04 GMT",
+    "etag": "W/\"611d6b94-9b3\"",
+    "last_updated": 1629259200,
+    "modified": "Wed, 18 Aug 2021 20:20:36 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
