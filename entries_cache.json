@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"43af3cc2ec79c7cd5e967754a2ec4fe4\"",
+    "etag": "W/\"656cf50a0e50591f1201a3be1e246e6a\"",
     "last_updated": 1628810794,
-    "modified": "Wed, 18 Aug 2021 01:53:41 GMT",
+    "modified": "Wed, 18 Aug 2021 14:53:52 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -103,9 +103,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5e39f25a9e1d7891be1e784cc8f896726428a43fe67fd6f3823862633badaed2\"",
+    "etag": "W/\"0f90a997c04e4257b67cc2158dbb5dcc3b166dc2083aa3c34b6f8a61ed288b82\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 18 Aug 2021 10:58:03 GMT",
+    "modified": "Wed, 18 Aug 2021 13:32:01 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -206,33 +206,32 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3ef33b549ff1015876c62bd21b1355aa\"",
+    "etag": "W/\"1df85a37e229e769e9832f1f5d76403a\"",
     "last_updated": 1627401638,
-    "modified": "Tue, 17 Aug 2021 17:44:20 GMT",
+    "modified": "Wed, 18 Aug 2021 14:14:02 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"3ef33b549ff1015876c62bd21b1355aa\"",
+    "etag": "W/\"1df85a37e229e769e9832f1f5d76403a\"",
     "last_updated": 1628697600,
-    "modified": "Tue, 17 Aug 2021 17:44:20 GMT",
+    "modified": "Wed, 18 Aug 2021 14:14:02 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3613059a7d72220595610c476bbba68a",
+    "etag": "cacheable:6cb2994d44d5d6e794a73085700b958d",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D95030F2411DF9\"",
+    "etag": "\"0x8D96247FDB99A41\"",
     "last_updated": 0,
-    "modified": "Mon, 26 Jul 2021 12:29:00 GMT",
+    "modified": "Wed, 18 Aug 2021 12:59:18 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1222.html",
       "http://www.giantitp.com/comics/oots1223.html",
       "http://www.giantitp.com/comics/oots1224.html",
       "http://www.giantitp.com/comics/oots1225.html",
@@ -251,7 +250,8 @@
       "http://www.giantitp.com/comics/oots1238.html",
       "http://www.giantitp.com/comics/oots1239.html",
       "http://www.giantitp.com/comics/oots1240.html",
-      "http://www.giantitp.com/comics/oots1241.html"
+      "http://www.giantitp.com/comics/oots1241.html",
+      "http://www.giantitp.com/comics/oots1242.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
