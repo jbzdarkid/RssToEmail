@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"756d332c744174b4f6503897af23165f\"",
+    "etag": "W/\"43af3cc2ec79c7cd5e967754a2ec4fe4\"",
     "last_updated": 1628810794,
-    "modified": "Tue, 17 Aug 2021 17:49:53 GMT",
+    "modified": "Wed, 18 Aug 2021 01:53:41 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -103,16 +103,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"d5d3c5a70f809d83145fe95c1edb3b563213f99633359500f569f932d1a05747\"",
+    "etag": "W/\"b42294e22b26e06f1ae5321fa75f3c7fed4b3bda26d4206e4ec5e6b503dceca9\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 17 Aug 2021 13:12:03 GMT",
+    "modified": "Wed, 18 Aug 2021 06:16:51 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f13d019022d23dc63619b9f2ffc1a366d80b653eeff590a35d626eb461df6125\"",
+    "etag": "W/\"7dabecd927562685d20eb140124d8ab9d03682f99612ba18cccf82dec16d95a9\"",
     "last_updated": 1624982280,
-    "modified": "Tue, 17 Aug 2021 12:26:26 GMT",
+    "modified": "Tue, 17 Aug 2021 23:21:50 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -220,7 +220,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1e5570bce50e26fb36bb5d56f349d40b",
+    "etag": "cacheable:50cd5df611657751c611e9bbef1f7fde",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -255,7 +255,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1629172800,
+    "last_updated": 1629259200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -315,7 +315,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1629089124,
+    "last_updated": 1629259567,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -480,9 +480,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"611a63cb-9df\"",
+    "etag": "W/\"611c85c4-9df\"",
     "last_updated": 1629086400,
-    "modified": "Mon, 16 Aug 2021 13:10:35 GMT",
+    "modified": "Wed, 18 Aug 2021 04:00:04 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
