@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1629176400,
+    "last_updated": 1629349200,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -110,9 +110,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a6f5c50c09953cddb0f5c65532f3a0d148fb01e4b6affcea7dc1403f01866509\"",
+    "etag": "W/\"b37654a02c05e568916b61c91196c017a55dbf52f14cf11ad6daddfbe0f7c74f\"",
     "last_updated": 1624982280,
-    "modified": "Wed, 18 Aug 2021 19:54:03 GMT",
+    "modified": "Thu, 19 Aug 2021 05:30:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -189,7 +189,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1629342545,
+    "last_updated": 1629343576,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -220,7 +220,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b42ac9903eef473aaa2c53090c74d224",
+    "etag": "cacheable:4b45432acf2e2465a632f903428b764b",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -255,7 +255,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1629259200,
+    "last_updated": 1629345600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
