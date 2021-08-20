@@ -103,16 +103,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"77dbd670f4a855ad4642c766a4f012a41cc8fa710635ed774925a524f039554c\"",
+    "etag": "W/\"210888e5b73c2f0046e613a69548f339983c0b777bc1066c9a5c8e6bda371ae7\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 20 Aug 2021 07:53:24 GMT",
+    "modified": "Fri, 20 Aug 2021 11:05:29 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"293e25e2ca47d71b8317a484fc584908a0ba828e6d3e4d8407c33362a2f158df\"",
+    "etag": "W/\"2a851cf6f4daff36a1316282681750a7cb646ca4a694adcce82c803ea9e56d09\"",
     "last_updated": 1629391020,
-    "modified": "Fri, 20 Aug 2021 07:58:45 GMT",
+    "modified": "Fri, 20 Aug 2021 12:10:06 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -196,7 +196,7 @@
     ]
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
-    "last_updated": 1629288050,
+    "last_updated": 1629460810,
     "name": "Atomic Robo",
     "seen_entries": []
   },
@@ -225,7 +225,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0f5ecf60654ff1ad0bc5d199317e7aa7",
+    "etag": "cacheable:b608ddc20987f6b1a1040aa3b51e5877",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"611f28c4-9b3\"",
-    "last_updated": 1629259200,
-    "modified": "Fri, 20 Aug 2021 04:00:04 GMT",
+    "etag": "W/\"611f98f0-9db\"",
+    "last_updated": 1629432000,
+    "modified": "Fri, 20 Aug 2021 11:58:40 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
