@@ -103,16 +103,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"781ef0bc4c1d9dde27a34bd60eb7a0ee722e8dd85f6ded645194ed680a97ac03\"",
+    "etag": "W/\"77dbd670f4a855ad4642c766a4f012a41cc8fa710635ed774925a524f039554c\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 19 Aug 2021 20:25:58 GMT",
+    "modified": "Fri, 20 Aug 2021 07:53:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"17545063f6cfc45abfe0c637be7b3e3b946909b51530a683dba5b3a2312790df\"",
+    "etag": "W/\"293e25e2ca47d71b8317a484fc584908a0ba828e6d3e4d8407c33362a2f158df\"",
     "last_updated": 1629391020,
-    "modified": "Thu, 19 Aug 2021 20:27:03 GMT",
+    "modified": "Fri, 20 Aug 2021 07:58:45 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -205,6 +205,11 @@
     "name": "Awkward Zombie",
     "seen_entries": []
   },
+  "https://www.doh.wa.gov/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=10785&ModuleID=33583&MaxCount=25": {
+    "last_updated": 1629414420,
+    "name": "Washington State Department of Health",
+    "seen_entries": []
+  },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
     "etag": "W/\"04ba80265c17ae77c3679610e20953af\"",
     "last_updated": 1627401638,
@@ -220,7 +225,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:474e6bd0f183bc9538fa207c81f225cb",
+    "etag": "cacheable:0f5ecf60654ff1ad0bc5d199317e7aa7",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -273,7 +278,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1629270000,
+    "last_updated": 1629442800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
