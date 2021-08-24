@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1629608400,
+    "last_updated": 1629694800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -110,9 +110,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a397ae555e694e19deee2bc51672071529e5071a590bd544f9e83aa5a12165cd\"",
+    "etag": "W/\"51ff5e807c00cd40cabd606d0c191673cb501e34b633ebc43a0738e9df15a9d6\"",
     "last_updated": 1629391020,
-    "modified": "Mon, 23 Aug 2021 20:53:22 GMT",
+    "modified": "Mon, 23 Aug 2021 22:29:16 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -189,7 +189,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1629722610,
+    "last_updated": 1629753237,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -211,21 +211,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"84931415285e959182a56d16e1152c8c\"",
+    "etag": "W/\"fbf4400953f73ec3b7dc59928ee3cf1e\"",
     "last_updated": 1627401638,
-    "modified": "Mon, 23 Aug 2021 19:00:12 GMT",
+    "modified": "Tue, 24 Aug 2021 00:13:06 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"84931415285e959182a56d16e1152c8c\"",
+    "etag": "W/\"fbf4400953f73ec3b7dc59928ee3cf1e\"",
     "last_updated": 1629302433,
-    "modified": "Mon, 23 Aug 2021 19:00:12 GMT",
+    "modified": "Tue, 24 Aug 2021 00:13:06 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:843fd610ac19a1871b879314596f4561",
+    "etag": "cacheable:c134584a57189721564444d0c86ee1e4",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61231d46-9db\"",
-    "last_updated": 1629432000,
-    "modified": "Mon, 23 Aug 2021 04:00:06 GMT",
+    "etag": "W/\"61242011-975\"",
+    "last_updated": 1629691200,
+    "modified": "Mon, 23 Aug 2021 22:24:17 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
