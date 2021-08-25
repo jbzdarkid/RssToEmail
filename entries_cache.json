@@ -110,9 +110,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ede28a1a4c85897fbb3ee00a1daf282aa0d2f306929aa229fe97738096a04033\"",
+    "etag": "W/\"3339156fadb9c99288447fbf4eda220a89be3f631f0d357a3e18293a704ad878\"",
     "last_updated": 1629391020,
-    "modified": "Wed, 25 Aug 2021 11:55:05 GMT",
+    "modified": "Wed, 25 Aug 2021 14:55:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -211,21 +211,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1213e04043960b564eb4f41b2726c7b6\"",
+    "etag": "W/\"f3c603b543e63f3ecc35d17595f0eee4\"",
     "last_updated": 1627401638,
-    "modified": "Tue, 24 Aug 2021 23:58:17 GMT",
+    "modified": "Wed, 25 Aug 2021 17:00:12 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"1213e04043960b564eb4f41b2726c7b6\"",
-    "last_updated": 1629302433,
-    "modified": "Tue, 24 Aug 2021 23:58:17 GMT",
+    "etag": "W/\"f3c603b543e63f3ecc35d17595f0eee4\"",
+    "last_updated": 1629907217,
+    "modified": "Wed, 25 Aug 2021 17:00:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:091a2c15e376a7181488930dfb8edb45",
+    "etag": "cacheable:1d637158d48bea9ef53bcd78da1b5ffa",
     "last_updated": 1629219587,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1629820802,
+    "last_updated": 1629907214,
     "name": "GDC",
     "seen_entries": []
   },
@@ -470,7 +470,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1629583211,
+    "last_updated": 1629910801,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6125c043-975\"",
-    "last_updated": 1629691200,
-    "modified": "Wed, 25 Aug 2021 04:00:03 GMT",
+    "etag": "W/\"6126664e-97d\"",
+    "last_updated": 1629864000,
+    "modified": "Wed, 25 Aug 2021 15:48:30 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
