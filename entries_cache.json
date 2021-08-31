@@ -110,9 +110,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"87d9f9b5422477566137c3764e509519a6957d7d49cc5122cda1869a6bb0c415\"",
+    "etag": "W/\"56820e9ed6a3f9a70398f1a573426814137339ca55a1099906d9586158d780b1\"",
     "last_updated": 1629391020,
-    "modified": "Tue, 31 Aug 2021 13:59:19 GMT",
+    "modified": "Tue, 31 Aug 2021 18:15:15 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -138,7 +138,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1628642627,
+    "last_updated": 1629316914,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -211,22 +211,22 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4ca727411f09d8dbc41f2f8540749bd8\"",
-    "last_updated": 1627401638,
-    "modified": "Tue, 31 Aug 2021 14:55:05 GMT",
+    "etag": "W/\"93a069a0a598afbcf8d5c4f82ae71a31\"",
+    "last_updated": 1630425621,
+    "modified": "Tue, 31 Aug 2021 17:10:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4ca727411f09d8dbc41f2f8540749bd8\"",
+    "etag": "W/\"93a069a0a598afbcf8d5c4f82ae71a31\"",
     "last_updated": 1629907217,
-    "modified": "Tue, 31 Aug 2021 14:55:05 GMT",
+    "modified": "Tue, 31 Aug 2021 17:10:55 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6f5de4612ca11d11ebd5b79a4659c342",
-    "last_updated": 1629219587,
+    "etag": "cacheable:addf3965e9e6a8df8b40f161eae3b6ac",
+    "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1630339217,
+    "last_updated": 1630425630,
     "name": "GDC",
     "seen_entries": []
   },
@@ -470,7 +470,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1630025424,
+    "last_updated": 1630431003,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
