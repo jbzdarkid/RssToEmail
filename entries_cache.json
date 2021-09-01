@@ -110,9 +110,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"56820e9ed6a3f9a70398f1a573426814137339ca55a1099906d9586158d780b1\"",
+    "etag": "W/\"82c84ff2e0789edad9122b722b71979d5b4400afecdd278126c553d16d215a51\"",
     "last_updated": 1629391020,
-    "modified": "Tue, 31 Aug 2021 18:15:15 GMT",
+    "modified": "Wed, 01 Sep 2021 05:39:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -218,14 +218,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"eb49c8cd3c2ff619f73eceae06b0ce49\"",
+    "etag": "W/\"c9152bff7b79131554e2fa63f592d9eb\"",
     "last_updated": 1629907217,
-    "modified": "Tue, 31 Aug 2021 21:00:22 GMT",
+    "modified": "Tue, 31 Aug 2021 21:00:38 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:943141eb41b3ac21e834ea372c55c92e",
+    "etag": "cacheable:10edf68a7c373e89360edb144b795cd3",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -260,7 +260,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1630382400,
+    "last_updated": 1630468800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -320,7 +320,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1630299174,
+    "last_updated": 1630470156,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"612d9087-959\"",
+    "etag": "W/\"612efac4-959\"",
     "last_updated": 1630296000,
-    "modified": "Tue, 31 Aug 2021 02:14:31 GMT",
+    "modified": "Wed, 01 Sep 2021 04:00:04 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
