@@ -110,9 +110,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5216d47f3863d5a88eec5d4c54756f1eadabc4951074bda459dd97deed405892\"",
+    "etag": "W/\"e0cbbf1d6cc35f774913d3ea9a3681ac3bb09f3858fc98295151e87b4cdcc485\"",
     "last_updated": 1629391020,
-    "modified": "Thu, 02 Sep 2021 10:29:27 GMT",
+    "modified": "Thu, 02 Sep 2021 20:32:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -161,7 +161,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Tue, 03 Aug 2021 08:18:53 GMT",
+    "modified": "Thu, 02 Sep 2021 09:55:35 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -211,21 +211,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"156e9c78913b61eccd159cfb5c72280c\"",
+    "etag": "W/\"0e10961fc32253a6d3386a58fc6650a6\"",
     "last_updated": 1630425621,
-    "modified": "Thu, 02 Sep 2021 17:30:06 GMT",
+    "modified": "Thu, 02 Sep 2021 19:12:32 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"156e9c78913b61eccd159cfb5c72280c\"",
+    "etag": "W/\"0e10961fc32253a6d3386a58fc6650a6\"",
     "last_updated": 1630512012,
-    "modified": "Thu, 02 Sep 2021 17:30:06 GMT",
+    "modified": "Thu, 02 Sep 2021 19:12:32 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:535b496ad1db70dbd3cab9023964a5ca",
+    "etag": "cacheable:cce0cb67f432ca8061c4044c2feb3b61",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -390,7 +390,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1630440001,
+    "last_updated": 1630612805,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
