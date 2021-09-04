@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1630645200,
+    "last_updated": 1630731600,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -111,9 +111,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"438fbfb9fc872c3bc9dcb1250bc9454b7baa76ae87f48e1c813167ce4c8996b3\"",
+    "etag": "W/\"cc9d62cb445405dd11f5be5b3ab790aeb97509beff4d288fb271c45df2564aa2\"",
     "last_updated": 1629391020,
-    "modified": "Fri, 03 Sep 2021 18:04:20 GMT",
+    "modified": "Fri, 03 Sep 2021 19:42:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -162,7 +162,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Fri, 03 Sep 2021 17:45:02 GMT",
+    "modified": "Sat, 04 Sep 2021 05:36:15 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -207,7 +207,7 @@
     "seen_entries": []
   },
   "https://www.doh.wa.gov/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=10785&ModuleID=33583&MaxCount=25": {
-    "last_updated": 1630627740,
+    "last_updated": 1630730700,
     "name": "Washington State Department of Health",
     "seen_entries": []
   },
@@ -226,7 +226,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a058f315b77cf06bb31c18ce98d543d6",
+    "etag": "cacheable:8765ccde40a42dbc7cfb2d14322d9ec1",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -486,9 +486,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61319dc3-99d\"",
-    "last_updated": 1630468800,
-    "modified": "Fri, 03 Sep 2021 04:00:03 GMT",
+    "etag": "W/\"6132ecf2-907\"",
+    "last_updated": 1630641600,
+    "modified": "Sat, 04 Sep 2021 03:50:10 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
