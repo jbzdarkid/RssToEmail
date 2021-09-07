@@ -112,9 +112,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9f2adfcc7f499334e4af261e4a8d3bf355b2712fb12e2ee6ae798c1a1fd02967\"",
+    "etag": "W/\"f3981a9cd7018145e5b443866fb85518d8774d6842b5b209023122cadf200ffb\"",
     "last_updated": 1629391020,
-    "modified": "Mon, 06 Sep 2021 10:38:51 GMT",
+    "modified": "Mon, 06 Sep 2021 22:15:29 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Mon, 06 Sep 2021 20:37:27 GMT",
+    "modified": "Tue, 07 Sep 2021 03:01:16 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -227,7 +227,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c9737660c9826afb37d60004f049198c",
+    "etag": "cacheable:11ea7f076a419382df8673c81a50364a",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -305,9 +305,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"0427a53f22eeabee40057f1491cd5227\"",
+    "etag": "W/\"f88cb8d24b690d6d22027e56c4794961\"",
     "last_updated": 1629993613,
-    "modified": "Sat, 04 Sep 2021 18:27:24 GMT",
+    "modified": "Tue, 07 Sep 2021 02:26:25 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -487,9 +487,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61359244-907\"",
-    "last_updated": 1630641600,
-    "modified": "Mon, 06 Sep 2021 04:00:04 GMT",
+    "etag": "W/\"6136d035-845\"",
+    "last_updated": 1630900800,
+    "modified": "Tue, 07 Sep 2021 02:36:37 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
