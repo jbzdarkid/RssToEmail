@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"a1cb6d435ce3098142d9d0f819f3b022\"",
+    "etag": "W/\"bfdaa1884ea6ba354cfe5ac0623940dc\"",
     "last_updated": 1628810794,
-    "modified": "Wed, 01 Sep 2021 20:56:06 GMT",
+    "modified": "Wed, 08 Sep 2021 17:13:15 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -105,16 +105,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e407480b5e4d395aa3af6f9b0c7a6a5253526098a1624fbaae5c125df71f2c40\"",
+    "etag": "W/\"bc4be79d4907349dd26c7d39e2dcb81ab004e90ee2a19da5aff832602c54be89\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 08 Sep 2021 11:12:03 GMT",
+    "modified": "Wed, 08 Sep 2021 20:23:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c670987c3b34f1ef8bf4067b5803d1e16b929dbad4d300d50021231e590f66e7\"",
+    "etag": "W/\"baaa927cf773c418e136da90e5b19f2e225b9cb01a23dafc6db8faad657cdfef\"",
     "last_updated": 1629391020,
-    "modified": "Wed, 08 Sep 2021 12:36:36 GMT",
+    "modified": "Wed, 08 Sep 2021 18:18:00 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -212,22 +212,22 @@
     "name": "Washington State Department of Health",
     "seen_entries": []
   },
-  "https://www.escapistmagazine.com/v2/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4841223ac763855229c2c051cf5fc48c\"",
+  "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
+    "etag": "W/\"e65e63839b84e6d8a0a253c4ac313f7a\"",
     "last_updated": 1630425621,
-    "modified": "Tue, 07 Sep 2021 18:52:39 GMT",
+    "modified": "Wed, 08 Sep 2021 20:30:49 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
-  "https://www.escapistmagazine.com/v2/category/zero-punctuation/feed/": {
-    "etag": "W/\"4841223ac763855229c2c051cf5fc48c\"",
-    "last_updated": 1630512012,
-    "modified": "Tue, 07 Sep 2021 18:52:39 GMT",
+  "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
+    "etag": "W/\"e65e63839b84e6d8a0a253c4ac313f7a\"",
+    "last_updated": 1631116807,
+    "modified": "Wed, 08 Sep 2021 20:30:49 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:10b7eafd3cab350b5be4080ad717e8a4",
+    "etag": "cacheable:f2a8fa742b0fa0aa2143a5c1db231505",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -332,7 +332,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1631108385,
+    "last_updated": 1631129720,
     "name": "GDC",
     "seen_entries": []
   },
@@ -472,7 +472,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1630947601,
+    "last_updated": 1631127612,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
