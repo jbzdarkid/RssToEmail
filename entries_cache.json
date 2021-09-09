@@ -105,16 +105,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a5e70912650da70c79b7042a052908095ee1ab7d8bbf51edbb667bbad06821a3\"",
+    "etag": "W/\"d9b956f987cb1cdec378a46086968cd5827d44731e5dc75221a73a71404b259c\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 09 Sep 2021 02:53:25 GMT",
+    "modified": "Thu, 09 Sep 2021 17:19:50 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"52d7c49d0583578cbc0c6d303a116099577103ec2b4cd17e14f90fb14abbdb3c\"",
+    "etag": "W/\"5c970fb184af8359a1564357ac5bcdf3477911fadf8b252deafc3ebaf7ed757f\"",
     "last_updated": 1629391020,
-    "modified": "Thu, 09 Sep 2021 06:12:35 GMT",
+    "modified": "Thu, 09 Sep 2021 17:53:37 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Thu, 09 Sep 2021 00:33:49 GMT",
+    "modified": "Thu, 09 Sep 2021 06:17:41 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -213,21 +213,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5ffc4e0fea7238a28d318ca217d6948f\"",
+    "etag": "W/\"ff5ccb68b40bb970188739cc0b459f52\"",
     "last_updated": 1630425621,
-    "modified": "Wed, 08 Sep 2021 20:32:56 GMT",
+    "modified": "Thu, 09 Sep 2021 17:00:11 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5ffc4e0fea7238a28d318ca217d6948f\"",
+    "etag": "W/\"ff5ccb68b40bb970188739cc0b459f52\"",
     "last_updated": 1631116807,
-    "modified": "Wed, 08 Sep 2021 20:32:56 GMT",
+    "modified": "Thu, 09 Sep 2021 17:00:11 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6cb9fe360366e8684e67d122571b3858",
+    "etag": "cacheable:e88bb69e88967ee53c54074a3960645b",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -305,9 +305,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"45bfa3f3381c4fefb435b03162f93cf2\"",
-    "last_updated": 1629993613,
-    "modified": "Thu, 09 Sep 2021 02:48:32 GMT",
+    "etag": "W/\"dc892a080238d782c1a3c9bfb5b1bed1\"",
+    "last_updated": 1631203257,
+    "modified": "Thu, 09 Sep 2021 16:02:31 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -332,7 +332,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1631129720,
+    "last_updated": 1631204344,
     "name": "GDC",
     "seen_entries": []
   },
