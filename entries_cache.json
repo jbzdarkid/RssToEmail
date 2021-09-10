@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"516c0bdf33fdddb0197e132f801958b5\"",
+    "etag": "W/\"20756d26f660972a14ec82a5dc24752c\"",
     "last_updated": 1631224662,
-    "modified": "Thu, 09 Sep 2021 22:11:58 GMT",
+    "modified": "Fri, 10 Sep 2021 17:08:23 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -105,9 +105,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"d2c93913c81ab98ade677566347ffda965d3268564d6ce7d54c664c1794b655a\"",
+    "etag": "W/\"91f39de8b3cb210b50432096834a5e37a50a652065fddfa0e5541db791de997e\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 10 Sep 2021 08:45:09 GMT",
+    "modified": "Fri, 10 Sep 2021 16:10:12 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Fri, 10 Sep 2021 11:54:20 GMT",
+    "modified": "Fri, 10 Sep 2021 18:12:21 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -191,7 +191,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1631087626,
+    "last_updated": 1631296026,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -213,21 +213,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8ef79780e1d920659a3d2d6c105a1503\"",
+    "etag": "W/\"695766e8cc86218238003720a859c541\"",
     "last_updated": 1630425621,
-    "modified": "Thu, 09 Sep 2021 22:58:29 GMT",
+    "modified": "Fri, 10 Sep 2021 16:42:30 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8ef79780e1d920659a3d2d6c105a1503\"",
+    "etag": "W/\"695766e8cc86218238003720a859c541\"",
     "last_updated": 1631116807,
-    "modified": "Thu, 09 Sep 2021 22:58:29 GMT",
+    "modified": "Fri, 10 Sep 2021 16:42:30 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f146fd964ba83d76c7eeee75932700c3",
+    "etag": "cacheable:320680c20a0e5c80c96ea9a97830cea0",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -332,7 +332,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1631204344,
+    "last_updated": 1631291709,
     "name": "GDC",
     "seen_entries": []
   },
