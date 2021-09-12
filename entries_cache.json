@@ -100,7 +100,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1631248701,
+    "last_updated": 1631430123,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -112,9 +112,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0521732fe89015715e1c773c19c54c4d71fbae814d1e8acb3f5252d30236028a\"",
+    "etag": "W/\"a87df59db0f1dce27e7b88fa5452f6a30f7271006ffb15062a8b5fd14aa72748\"",
     "last_updated": 1629391020,
-    "modified": "Sun, 12 Sep 2021 10:54:39 GMT",
+    "modified": "Sun, 12 Sep 2021 17:40:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -134,7 +134,7 @@
   },
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
-    "last_updated": 1628107012,
+    "last_updated": 1631395908,
     "modified": "Sat, 11 Sep 2021 22:45:16 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
@@ -191,7 +191,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1631296026,
+    "last_updated": 1631398658,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -213,21 +213,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"10f7207c358d98747fa72995b34dfbff\"",
+    "etag": "W/\"52c76318719fb2e1c18c18c74f38f113\"",
     "last_updated": 1630425621,
-    "modified": "Sat, 11 Sep 2021 21:10:19 GMT",
+    "modified": "Sun, 12 Sep 2021 15:00:44 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"10f7207c358d98747fa72995b34dfbff\"",
+    "etag": "W/\"52c76318719fb2e1c18c18c74f38f113\"",
     "last_updated": 1631116807,
-    "modified": "Sat, 11 Sep 2021 21:10:19 GMT",
+    "modified": "Sun, 12 Sep 2021 15:00:44 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c76c1ad5662a744620b3266758fdc8ac",
+    "etag": "cacheable:eedd11f6037abe1ddcd3a3d7ec30d248",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -264,6 +264,13 @@
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
     "last_updated": 1631246400,
     "name": "Go Get a Roomie!",
+    "seen_entries": []
+  },
+  "https://www.hearthstonetopdecks.com/category/qa/feed/": {
+    "etag": "\"fde7683bf4ab50e9d8180c80533b91f4\"",
+    "last_updated": 1631471448,
+    "modified": "Sun, 12 Sep 2021 18:27:53 GMT",
+    "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
   "https://www.l4d.com/blog/rss.xml": {
@@ -352,13 +359,18 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1629746502,
+    "last_updated": 1631385314,
     "name": "Team PLC",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
     "last_updated": 1583086687,
     "name": "roberttiso",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCFb3g4C4wVdWut2BkgccgDQ": {
+    "last_updated": 1631471456,
+    "name": "RGLgg",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCHCph-_jLba_9atyCZJPLQQ": {
