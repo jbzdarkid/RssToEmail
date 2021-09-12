@@ -105,16 +105,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7a524c09a9ea1196da08eb78b307df53f3770838802502b382904aee919ba5ea\"",
+    "etag": "W/\"92e63284a3f99f1f0fa3187ed7301967f89988fe79933da0c8b4ddb5737432d4\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 11 Sep 2021 08:54:17 GMT",
+    "modified": "Sun, 12 Sep 2021 08:30:44 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1e493c4c96d21fd6d3ee1d2cab207e2c31db434d5fd90a9a0bac64b6fd011920\"",
+    "etag": "W/\"0521732fe89015715e1c773c19c54c4d71fbae814d1e8acb3f5252d30236028a\"",
     "last_updated": 1629391020,
-    "modified": "Sat, 11 Sep 2021 08:53:06 GMT",
+    "modified": "Sun, 12 Sep 2021 10:54:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -135,7 +135,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1628107012,
-    "modified": "Wed, 01 Sep 2021 20:43:53 GMT",
+    "modified": "Sat, 11 Sep 2021 22:45:16 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Sat, 11 Sep 2021 08:57:29 GMT",
+    "modified": "Sun, 12 Sep 2021 15:10:42 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -213,21 +213,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"695766e8cc86218238003720a859c541\"",
+    "etag": "W/\"10f7207c358d98747fa72995b34dfbff\"",
     "last_updated": 1630425621,
-    "modified": "Fri, 10 Sep 2021 16:42:30 GMT",
+    "modified": "Sat, 11 Sep 2021 21:10:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"695766e8cc86218238003720a859c541\"",
+    "etag": "W/\"10f7207c358d98747fa72995b34dfbff\"",
     "last_updated": 1631116807,
-    "modified": "Fri, 10 Sep 2021 16:42:30 GMT",
+    "modified": "Sat, 11 Sep 2021 21:10:19 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9ee76013ba51c6512b0fb1467a8ce15d",
+    "etag": "cacheable:c76c1ad5662a744620b3266758fdc8ac",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -305,9 +305,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e5f55cb60ca9c8da5366022de73e3b38\"",
+    "etag": "W/\"4bba6e034b55d46d43a29faa7df14e59\"",
     "last_updated": 1631203257,
-    "modified": "Thu, 09 Sep 2021 21:51:37 GMT",
+    "modified": "Sat, 11 Sep 2021 17:12:32 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -361,6 +361,21 @@
     "name": "roberttiso",
     "seen_entries": []
   },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCFb3g4C4wVdWut2BkgccgDQ": {
+    "last_updated": [
+      2021,
+      9,
+      12,
+      15,
+      15,
+      0,
+      6,
+      255,
+      0
+    ],
+    "name": "RGLgg",
+    "seen_entries": []
+  },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCHCph-_jLba_9atyCZJPLQQ": {
     "last_updated": 1623776419,
     "name": "How It Should Have Ended",
@@ -392,7 +407,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1631217601,
+    "last_updated": 1631390408,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
