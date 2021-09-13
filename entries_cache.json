@@ -105,9 +105,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"92e63284a3f99f1f0fa3187ed7301967f89988fe79933da0c8b4ddb5737432d4\"",
+    "etag": "W/\"b56f01322134fb4dfd0010538fe4806ac192d4a42595d7b2f963d879fddb7172\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 12 Sep 2021 08:30:44 GMT",
+    "modified": "Mon, 13 Sep 2021 05:47:21 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -203,7 +203,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1630900800,
+    "last_updated": 1631505600,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -227,7 +227,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d5be95bfd105043454bca168c9757906",
+    "etag": "cacheable:612a112ce213c1a0102de988397a75d9",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -262,7 +262,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1631246400,
+    "last_updated": 1631505600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -499,9 +499,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"613c21da-895\"",
+    "etag": "W/\"613eccd3-895\"",
     "last_updated": 1631246400,
-    "modified": "Sat, 11 Sep 2021 03:26:18 GMT",
+    "modified": "Mon, 13 Sep 2021 04:00:19 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
