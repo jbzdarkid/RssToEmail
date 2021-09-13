@@ -135,7 +135,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1631395908,
-    "modified": "Sat, 11 Sep 2021 22:45:16 GMT",
+    "modified": "Mon, 13 Sep 2021 02:05:13 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Mon, 13 Sep 2021 00:20:56 GMT",
+    "modified": "Mon, 13 Sep 2021 02:51:37 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -227,7 +227,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8637154c87c0888e6edd030d461022dc",
+    "etag": "cacheable:d5be95bfd105043454bca168c9757906",
     "last_updated": 1630429622,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -267,9 +267,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ec31a2ef9a2f1a3380a13863b04e5b0a\"",
+    "etag": "\"976e010ad6f2479b5a32541d34a15c65\"",
     "last_updated": 1631471448,
-    "modified": "Sun, 12 Sep 2021 20:52:46 GMT",
+    "modified": "Mon, 13 Sep 2021 02:10:33 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -459,7 +459,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1630620738,
+    "last_updated": 1631495136,
     "name": "Proton Jon",
     "seen_entries": []
   },
