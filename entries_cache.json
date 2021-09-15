@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1631595600,
+    "last_updated": 1631682000,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -112,9 +112,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7b72faf67161502fcc20f98363c455ddf7fe12a91f14eb6831f52ec176dc6c64\"",
+    "etag": "W/\"8b16babf4640a06a02e5d1c4ef4fbad93077b0b28244a79b518fba304c18ba02\"",
     "last_updated": 1631639640,
-    "modified": "Tue, 14 Sep 2021 17:14:36 GMT",
+    "modified": "Wed, 15 Sep 2021 04:20:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Tue, 14 Sep 2021 20:00:44 GMT",
+    "modified": "Wed, 15 Sep 2021 06:06:46 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -227,7 +227,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f2bcd47ee36717d264309100cbf4d55d",
+    "etag": "cacheable:b6525ae057d357c97466b5c01733350a",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -262,14 +262,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1631592000,
+    "last_updated": 1631678402,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c8c86d9467b393ebf1c2a23f7e762f96\"",
+    "etag": "\"8c52a9fed76be38df9a29da416aa4559\"",
     "last_updated": 1631471448,
-    "modified": "Tue, 14 Sep 2021 19:52:03 GMT",
+    "modified": "Wed, 15 Sep 2021 01:28:36 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -312,9 +312,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ef7540e4ddba7750c3ff3cb2503c6cc8\"",
+    "etag": "W/\"a218f04e1931c2cd9361c6b271254284\"",
     "last_updated": 1631203257,
-    "modified": "Tue, 14 Sep 2021 07:01:45 GMT",
+    "modified": "Wed, 15 Sep 2021 04:50:13 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -329,7 +329,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1631515551,
+    "last_updated": 1631682333,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -499,9 +499,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61407f36-9bb\"",
+    "etag": "W/\"61416fcb-9bb\"",
     "last_updated": 1631505600,
-    "modified": "Tue, 14 Sep 2021 10:53:42 GMT",
+    "modified": "Wed, 15 Sep 2021 04:00:11 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
