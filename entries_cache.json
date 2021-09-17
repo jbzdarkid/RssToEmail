@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1631682000,
+    "last_updated": 1631854800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -105,9 +105,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7bef2632786d4c9e27ad117332ba1f7dd5446ec94f85d3c39608c942019cb629\"",
+    "etag": "W/\"d119043e80b7d4c9e2a0f36a893c96f5f8d988056fac51107b6b94778c6b90fd\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 16 Sep 2021 10:51:45 GMT",
+    "modified": "Fri, 17 Sep 2021 06:06:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Fri, 17 Sep 2021 02:31:38 GMT",
+    "modified": "Fri, 17 Sep 2021 05:31:41 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -227,7 +227,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:83061836e5383b9b07e4f5e26c2f6693",
+    "etag": "cacheable:ef687cfdb521bb7ef7a67a2a81fc7249",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -262,7 +262,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1631764800,
+    "last_updated": 1631851200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -329,7 +329,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1631682333,
+    "last_updated": 1631855122,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -499,9 +499,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61428ec9-96d\"",
+    "etag": "W/\"614412c7-96d\"",
     "last_updated": 1631678400,
-    "modified": "Thu, 16 Sep 2021 00:24:41 GMT",
+    "modified": "Fri, 17 Sep 2021 04:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
