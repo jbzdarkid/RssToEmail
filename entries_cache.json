@@ -105,16 +105,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5f3b49814c4845039252355c5ae4bc9885e8eea526e29687f5e7f83efaff3a01\"",
+    "etag": "W/\"eab497829ee66c5690571a5ecaa7971329113e745bbc4dbe1f7f5e9a5081f24d\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 19 Sep 2021 09:30:29 GMT",
+    "modified": "Mon, 20 Sep 2021 04:05:48 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"938d737921a4b8e0538fe5b0cacf9498feab875577caaaed5ea40db59236793f\"",
+    "etag": "W/\"471ab375c58bd49891717da5afc85015fd39873a6521f4bbf12fc970ca0ac93f\"",
     "last_updated": 1631639640,
-    "modified": "Sun, 19 Sep 2021 21:31:39 GMT",
+    "modified": "Mon, 20 Sep 2021 05:20:46 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Mon, 20 Sep 2021 00:20:03 GMT",
+    "modified": "Mon, 20 Sep 2021 05:26:30 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -203,7 +203,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1631505600,
+    "last_updated": 1632110400,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -227,7 +227,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:811c7c92bfa93d439943c8562bb99d9a",
+    "etag": "cacheable:f1158ffc8edff7463e7ce095ab5b9ed5",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -262,14 +262,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1631851200,
+    "last_updated": 1632110400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b588d7e0f3c8fc2b1552cb8f22beeb06\"",
+    "etag": "\"a43031cd0457166a72796f5d4ffbd480\"",
     "last_updated": 1631984105,
-    "modified": "Sun, 19 Sep 2021 20:14:04 GMT",
+    "modified": "Mon, 20 Sep 2021 02:07:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -329,7 +329,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1631855122,
+    "last_updated": 1632113822,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -499,9 +499,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"614546d6-931\"",
+    "etag": "W/\"61480748-931\"",
     "last_updated": 1631851200,
-    "modified": "Sat, 18 Sep 2021 01:54:30 GMT",
+    "modified": "Mon, 20 Sep 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
