@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"8c19a938383069bf7d40be74ccfd1551\"",
+    "etag": "W/\"4b11fe1d92c030b92e855f65cca04544\"",
     "last_updated": 1632275935,
-    "modified": "Fri, 24 Sep 2021 15:07:53 GMT",
+    "modified": "Fri, 24 Sep 2021 23:52:25 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1626369099,
-    "modified": "Fri, 24 Sep 2021 20:23:45 GMT",
+    "modified": "Sat, 25 Sep 2021 00:25:13 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:57fe01b436a38b6b7f513e4353e2d098",
+    "etag": "cacheable:d59cba8e1bad625b86921d6408af08a3",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -301,8 +301,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1631920020,
-    "modified": "Fri, 17 Sep 2021 23:07:00 +0000",
+    "last_updated": 1632530040,
+    "modified": "Sat, 25 Sep 2021 00:34:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -370,7 +370,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFb3g4C4wVdWut2BkgccgDQ": {
-    "last_updated": 1632355217,
+    "last_updated": 1632524413,
     "name": "RGLgg",
     "seen_entries": []
   },
