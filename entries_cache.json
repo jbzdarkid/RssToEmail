@@ -5,12 +5,12 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:SanePerson": {
-    "last_updated": 1622042052,
+    "last_updated": 1630662889,
     "name": "DeviantArt: SanePerson's gallery",
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1622042052,
+    "last_updated": 1632564931,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6ae5529d8af611063af0c6e2d90d2faf182f7b90947e85cc0a4f31af01ef374a\"",
+    "etag": "W/\"ba13b761f3d5efb41e8ae9c2b1cfaa3278e8ab966b834720c4d467715c38a27d\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 25 Sep 2021 10:55:18 GMT",
+    "modified": "Sat, 25 Sep 2021 21:21:54 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e7dee9468633d950cf92d26e413784339c62db76d3309eb2f92da72363497a05\"",
+    "etag": "W/\"a7d6c30b4296499be5f7b8b9b40c1fc1fa4d04a4addd2602e842af61aeede520\"",
     "last_updated": 1631639640,
-    "modified": "Sat, 25 Sep 2021 08:25:44 GMT",
+    "modified": "Sat, 25 Sep 2021 21:42:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Sat, 25 Sep 2021 20:34:07 GMT",
+    "modified": "Sun, 26 Sep 2021 02:38:53 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5fb103feeb08560caeb6fa72aba4063c",
+    "etag": "cacheable:fc183d8b9dbd1cc83987f36dfd23b581",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"56679d7b38f85052b0ffd9b70fef4008\"",
+    "etag": "\"bafba542695613710437b2009614c513\"",
     "last_updated": 1632175407,
-    "modified": "Sat, 25 Sep 2021 21:04:52 GMT",
+    "modified": "Sun, 26 Sep 2021 02:37:08 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -362,6 +362,11 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
     "last_updated": 1631385314,
     "name": "Team PLC",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w": {
+    "last_updated": 1632626112,
+    "name": "boburnham",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
