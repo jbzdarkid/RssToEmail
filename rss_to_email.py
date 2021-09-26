@@ -8,7 +8,7 @@ from fileinput import input as fileinput
 from html import unescape
 from json import load, dump
 from smtplib import SMTP, SMTPException
-from time import mktime
+from time import mktime, time
 from traceback import format_exc, print_exc, print_exception
 from urllib import request
 from urllib.error import URLError
@@ -29,7 +29,7 @@ def parse_feeds(cache, feed_url):
     if feed_url not in cache:
         cache[feed_url] = {
             'name': d['feed']['title'],
-            'last_updated': 0,
+            'last_updated': int(time()),
             'seen_entries': [],
         }
 
