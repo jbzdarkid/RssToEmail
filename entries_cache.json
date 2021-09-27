@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7639954a7015e476854c802e7b55d3d2097251a7050b84c46d4b9a843614b027\"",
+    "etag": "W/\"737262d13588e9e93391864e63351ac3008749b04019362995c0c6d6b40ed62e\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 26 Sep 2021 19:53:44 GMT",
+    "modified": "Mon, 27 Sep 2021 05:57:33 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9daf7f36eacbb2efe73cf9a9659ae117fc45a5f4474f48c12f66038a95088743\"",
+    "etag": "W/\"caf3d3de97c605038adec152ee12f6d0ea7e941d4f88180b51664c639c384c2a\"",
     "last_updated": 1631639640,
-    "modified": "Sun, 26 Sep 2021 19:54:52 GMT",
+    "modified": "Mon, 27 Sep 2021 04:57:52 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Mon, 27 Sep 2021 02:50:59 GMT",
+    "modified": "Mon, 27 Sep 2021 05:52:27 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -204,7 +204,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1632110400,
+    "last_updated": 1632715200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ce1609fb71d69363ee731dd8dcaef202",
+    "etag": "cacheable:c2a9e75cd31c06bf417f0569f62b806a",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,7 +263,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1632456000,
+    "last_updated": 1632715200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1632458199,
+    "last_updated": 1632717995,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"614e2c31-921\"",
+    "etag": "W/\"615141c5-921\"",
     "last_updated": 1632456000,
-    "modified": "Fri, 24 Sep 2021 19:51:13 GMT",
+    "modified": "Mon, 27 Sep 2021 04:00:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
