@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8f1fd644712f0dc5cb1dd8730255bf8aeecdae1ef8be8b88af50bcff9f2784ff\"",
+    "etag": "W/\"fea70fb12b68b5acf418665211b193aac42660d70343fb71c9ec0b7d2e2766e6\"",
     "last_updated": 1631639640,
-    "modified": "Mon, 27 Sep 2021 20:42:09 GMT",
+    "modified": "Tue, 28 Sep 2021 03:20:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Tue, 28 Sep 2021 02:02:29 GMT",
+    "modified": "Tue, 28 Sep 2021 06:04:29 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1632755399,
+    "last_updated": 1632800247,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:cb3d9cbc55a957f01fa8f44fb7132157",
+    "etag": "cacheable:b9f12c122967acc88f9ac17e205b46e7",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,7 +263,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1632715200,
+    "last_updated": 1632801600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"4be51c111fda483ca69e6f99321d6144\"",
+    "etag": "W/\"7936219abb8278a797cad9261033bc07\"",
     "last_updated": 1631808044,
-    "modified": "Sat, 25 Sep 2021 15:48:17 GMT",
+    "modified": "Tue, 28 Sep 2021 05:27:35 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -465,7 +465,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1632448132,
+    "last_updated": 1632805601,
     "name": "Proton Jon",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"615141c5-921\"",
-    "last_updated": 1632456000,
-    "modified": "Mon, 27 Sep 2021 04:00:05 GMT",
+    "etag": "W/\"61528b17-94f\"",
+    "last_updated": 1632715200,
+    "modified": "Tue, 28 Sep 2021 03:25:11 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
