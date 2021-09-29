@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"07e17861d12c60ce711c682ce820a3762bb1ee0070061a4241f539598313a0e9\"",
+    "etag": "W/\"bc7e3a82dcbbd2b77e68090822397aeb3d83a6a8fd6a36030c8c49a288c43683\"",
     "last_updated": 1631639640,
-    "modified": "Wed, 29 Sep 2021 10:30:36 GMT",
+    "modified": "Wed, 29 Sep 2021 13:08:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -136,7 +136,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1631395908,
-    "modified": "Sat, 25 Sep 2021 07:49:49 GMT",
+    "modified": "Wed, 29 Sep 2021 12:39:23 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 29 Sep 2021 12:18:42 GMT",
+    "modified": "Wed, 29 Sep 2021 13:19:18 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1632891574,
+    "last_updated": 1632924963,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3d6d26a755364c275ca3e2a504166a88",
+    "etag": "cacheable:7a3bae382f9525ce0b4d72d42f40e795",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d12d39fd0b4c45e5476c8696150eb658\"",
+    "etag": "\"8d18cad660d41e10ae6088c66ef8ffed\"",
     "last_updated": 1632175407,
-    "modified": "Wed, 29 Sep 2021 12:16:03 GMT",
+    "modified": "Wed, 29 Sep 2021 13:40:21 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1632835481,
+    "last_updated": 1632927959,
     "name": "GDC",
     "seen_entries": []
   },
