@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1632564931,
+    "last_updated": 1632914655,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"446a3235920d22bd3f663121d9e3ad1b80bbffe7e820f72e7622b8806ba90f59\"",
+    "etag": "W/\"5ad39098d7c6b3f86565aaab90a9cf231fa7e424c7178ee45929b8fcef30dd75\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 29 Sep 2021 09:12:20 GMT",
+    "modified": "Wed, 29 Sep 2021 10:59:28 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6742ef1b4cf323157f9f853ba6836d7424a4403d078212329acb7ca91af43c65\"",
+    "etag": "W/\"07e17861d12c60ce711c682ce820a3762bb1ee0070061a4241f539598313a0e9\"",
     "last_updated": 1631639640,
-    "modified": "Wed, 29 Sep 2021 09:12:36 GMT",
+    "modified": "Wed, 29 Sep 2021 10:30:36 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 29 Sep 2021 08:17:34 GMT",
+    "modified": "Wed, 29 Sep 2021 12:18:42 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
     ]
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
-    "last_updated": 1632740459,
+    "last_updated": 1632913241,
     "name": "Atomic Robo",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ecd40ac945c725bb3144e78963e4b8ff",
+    "etag": "cacheable:3d6d26a755364c275ca3e2a504166a88",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b30c97bcb2705fd07b4258e1a29a8923\"",
+    "etag": "\"d12d39fd0b4c45e5476c8696150eb658\"",
     "last_updated": 1632175407,
-    "modified": "Wed, 29 Sep 2021 08:53:51 GMT",
+    "modified": "Wed, 29 Sep 2021 12:16:03 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
