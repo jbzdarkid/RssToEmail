@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"d014d5f382a976399c882fec5b80946362d6cfbb51f71a4e80b491965efd64c7\"",
+    "etag": "W/\"a94301d35eb51ff4dcbc965acc63973c025009babf6ffdf7237f04af2d7b466f\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 28 Sep 2021 13:02:48 GMT",
+    "modified": "Wed, 29 Sep 2021 04:14:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f9822aa0eaafba89cb2bd0f06034c6c627919457eae9e4de28927166a3c0a220\"",
+    "etag": "W/\"6affe7e8958b6c65c4d63f3bc48635f2383592bba1e21f4cf404f7aa2d393b73\"",
     "last_updated": 1631639640,
-    "modified": "Tue, 28 Sep 2021 23:35:38 GMT",
+    "modified": "Wed, 29 Sep 2021 03:42:47 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 29 Sep 2021 02:14:30 GMT",
+    "modified": "Wed, 29 Sep 2021 06:16:34 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1632881285,
+    "last_updated": 1632891574,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:61cd8827bbe2de7c1b20069de0036817",
+    "etag": "cacheable:53a0d16617b639487896fc415478e29d",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,14 +263,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1632801600,
+    "last_updated": 1632888000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4fd08cb6eb3b89d772f4fb0581e8269b\"",
+    "etag": "\"a65e4496c6b6b5270dfd2445ac5eb8f1\"",
     "last_updated": 1632175407,
-    "modified": "Wed, 29 Sep 2021 01:10:16 GMT",
+    "modified": "Wed, 29 Sep 2021 05:57:15 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ae95768df54162fd06266101d4b75609\"",
+    "etag": "W/\"61ba846f49ae240e3efa3f7466002a17\"",
     "last_updated": 1631808044,
-    "modified": "Tue, 28 Sep 2021 07:52:09 GMT",
+    "modified": "Wed, 29 Sep 2021 05:48:23 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1632717995,
+    "last_updated": 1632891146,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61528b17-94f\"",
+    "etag": "W/\"6153e4c5-94f\"",
     "last_updated": 1632715200,
-    "modified": "Tue, 28 Sep 2021 03:25:11 GMT",
+    "modified": "Wed, 29 Sep 2021 04:00:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
