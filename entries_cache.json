@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1632805200,
+    "last_updated": 1632891600,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 30 Sep 2021 00:24:35 GMT",
+    "modified": "Thu, 30 Sep 2021 02:26:39 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ff7e538a072ad44a0d887c14f7d39017",
+    "etag": "cacheable:55ce58332112a2c75787d2b391fa1ebe",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5c57415a91a60fb8f236c7d02568f923\"",
+    "etag": "\"93f2629c099576481690e1dd18c56639\"",
     "last_updated": 1632175407,
-    "modified": "Thu, 30 Sep 2021 00:47:56 GMT",
+    "modified": "Thu, 30 Sep 2021 03:01:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ff0ff6d1ea82bf569de6a1bd25bb2807\"",
+    "etag": "W/\"1d3c1170a096c715447fad95ab2df74c\"",
     "last_updated": 1631808044,
-    "modified": "Thu, 30 Sep 2021 00:49:58 GMT",
+    "modified": "Thu, 30 Sep 2021 01:43:07 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6153e4c5-94f\"",
-    "last_updated": 1632715200,
-    "modified": "Wed, 29 Sep 2021 04:00:05 GMT",
+    "etag": "W/\"61551468-931\"",
+    "last_updated": 1632888000,
+    "modified": "Thu, 30 Sep 2021 01:35:36 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
