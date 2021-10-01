@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1632891600,
+    "last_updated": 1633064400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f94f93faf4ab3ad42c1f9a4d19a32ecad38205623c984237ace12e08f91a98bf\"",
+    "etag": "W/\"08f1b3c7e36a8933ae3f2f0134f764d53d2dbba2b48755e0d93142a2af0b799b\"",
     "last_updated": 1631639640,
-    "modified": "Fri, 01 Oct 2021 02:26:22 GMT",
+    "modified": "Fri, 01 Oct 2021 06:05:47 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Fri, 01 Oct 2021 01:35:27 GMT",
+    "modified": "Fri, 01 Oct 2021 05:38:24 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1633051524,
+    "last_updated": 1633063071,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e7a81ea8d6ecab37c6e33760a7c72c31",
+    "etag": "cacheable:767190903ac19a96ecc58fb79bcab441",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,14 +263,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1632974400,
+    "last_updated": 1633060800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ddc78a17c1c37e4458b7782f8e9d0117\"",
+    "etag": "\"5c545261f8022d140c5092ca07ba2545\"",
     "last_updated": 1632175407,
-    "modified": "Fri, 01 Oct 2021 01:27:30 GMT",
+    "modified": "Fri, 01 Oct 2021 04:35:32 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61551468-931\"",
+    "etag": "W/\"615687c7-931\"",
     "last_updated": 1632888000,
-    "modified": "Thu, 30 Sep 2021 01:35:36 GMT",
+    "modified": "Fri, 01 Oct 2021 04:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
