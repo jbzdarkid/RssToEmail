@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1667311c6a1913a0069f7a76ab2fb4e8c389b018087a3e7b052f76d0a12477fb\"",
+    "etag": "W/\"f94f93faf4ab3ad42c1f9a4d19a32ecad38205623c984237ace12e08f91a98bf\"",
     "last_updated": 1631639640,
-    "modified": "Fri, 01 Oct 2021 00:07:07 GMT",
+    "modified": "Fri, 01 Oct 2021 02:26:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 30 Sep 2021 23:34:48 GMT",
+    "modified": "Fri, 01 Oct 2021 01:35:27 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1632924963,
+    "last_updated": 1633051524,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fd46d319d8aa31172ce9b87d78bdc901",
+    "etag": "cacheable:e7a81ea8d6ecab37c6e33760a7c72c31",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4c310d3e564cf34a3e8951dbd0cabe0d\"",
+    "etag": "\"ddc78a17c1c37e4458b7782f8e9d0117\"",
     "last_updated": 1632175407,
-    "modified": "Thu, 30 Sep 2021 22:07:25 GMT",
+    "modified": "Fri, 01 Oct 2021 01:27:30 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1632704840,
+    "last_updated": 1633054237,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -495,7 +495,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1633021215,
+    "last_updated": 1633051337,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
