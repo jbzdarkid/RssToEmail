@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1633237200,
+    "last_updated": 1633323600,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a471619b173b55d7e4a6e02629a387cb3bb4429283dc2dd86b10449dd6fe9814\"",
+    "etag": "W/\"da5ec857661d21f708dd3b7aebc0d36b33df500b7ac3e0626863bfcba67dd18f\"",
     "last_updated": 1631639640,
-    "modified": "Sun, 03 Oct 2021 23:55:05 GMT",
+    "modified": "Mon, 04 Oct 2021 05:00:00 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Mon, 04 Oct 2021 02:00:35 GMT",
+    "modified": "Mon, 04 Oct 2021 05:01:08 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -204,7 +204,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1632715200,
+    "last_updated": 1633320000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:79aa9dd0c2ab0f7e015e3df91f2567ee",
+    "etag": "cacheable:d2b46447c9906c56935d8b6a8ce21400",
     "last_updated": 1631641687,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,14 +263,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1633060800,
+    "last_updated": 1633320000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"70583b90a8174f10cee6080f4e5fea7a\"",
+    "etag": "\"1ecd56f3130591d5ea88a7a2b07f4a4e\"",
     "last_updated": 1633185451,
-    "modified": "Mon, 04 Oct 2021 02:40:53 GMT",
+    "modified": "Mon, 04 Oct 2021 05:43:32 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1633232970,
+    "last_updated": 1633322366,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61575963-86d\"",
+    "etag": "W/\"615a7c44-86d\"",
     "last_updated": 1633060800,
-    "modified": "Fri, 01 Oct 2021 18:54:27 GMT",
+    "modified": "Mon, 04 Oct 2021 04:00:04 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
