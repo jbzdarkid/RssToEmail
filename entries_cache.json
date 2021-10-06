@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 06 Oct 2021 03:04:58 GMT",
+    "modified": "Wed, 06 Oct 2021 05:05:10 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9aafdc1dcafb4ec46a28c56a796dbc02",
+    "etag": "cacheable:11eec742c424b2bd8761d5928d0800dc",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,14 +263,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1633406400,
+    "last_updated": 1633492800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3670d0f4cac1c2867d3bf00f10426285\"",
+    "etag": "\"01646f2b44014dbb13df1271785abda2\"",
     "last_updated": 1633185451,
-    "modified": "Wed, 06 Oct 2021 02:52:17 GMT",
+    "modified": "Wed, 06 Oct 2021 05:54:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"615bc0fa-8ad\"",
+    "etag": "W/\"615d1f48-8ad\"",
     "last_updated": 1633320000,
-    "modified": "Tue, 05 Oct 2021 03:05:30 GMT",
+    "modified": "Wed, 06 Oct 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
