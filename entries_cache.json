@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2abf78c0d77630e7c1930724317d49cbaeb2271425d0ef630076220b068b2f3d\"",
+    "etag": "W/\"bd47f1c443ec8a11af434b83103648a4c0afb735ea6bad62e4ae5509acfc44ab\"",
     "last_updated": 1631639640,
-    "modified": "Thu, 07 Oct 2021 08:45:06 GMT",
+    "modified": "Thu, 07 Oct 2021 12:57:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 07 Oct 2021 11:08:19 GMT",
+    "modified": "Thu, 07 Oct 2021 15:08:29 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1633599138,
+    "last_updated": 1633616415,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3a34b3d0a53fc50149e0df5a15117859",
+    "etag": "cacheable:14157558a6855d53bdd0b1efa2920f39",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"fbcd2b3b0c66bee6b3b5a9e2d3e0720c\"",
+    "etag": "\"63566dc2cdc55680e062ef72c9b5c3b9\"",
     "last_updated": 1633185451,
-    "modified": "Thu, 07 Oct 2021 07:51:37 GMT",
+    "modified": "Thu, 07 Oct 2021 15:04:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
