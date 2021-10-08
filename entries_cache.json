@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Fri, 08 Oct 2021 14:29:25 GMT",
+    "modified": "Fri, 08 Oct 2021 17:30:20 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"76c04f215c2ebb8c04c96faf646c1e02\"",
+    "etag": "W/\"dc904e9baf6f93113a867016eee06eed\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 08 Oct 2021 15:00:03 GMT",
+    "modified": "Fri, 08 Oct 2021 17:00:52 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"76c04f215c2ebb8c04c96faf646c1e02\"",
+    "etag": "W/\"dc904e9baf6f93113a867016eee06eed\"",
     "last_updated": 1633536050,
-    "modified": "Fri, 08 Oct 2021 15:00:03 GMT",
+    "modified": "Fri, 08 Oct 2021 17:00:52 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5191a7557cc729752d971ae76b91f17f",
+    "etag": "cacheable:f279d09060277ff5865e87982aeefa82",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c18e2c18a2402cfdc3493c2360c50653\"",
+    "etag": "\"19c625d70e3512df8bf34901f6f4b2a1\"",
     "last_updated": 1633185451,
-    "modified": "Fri, 08 Oct 2021 14:41:35 GMT",
+    "modified": "Fri, 08 Oct 2021 17:38:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"615fc248-949\"",
-    "last_updated": 1633492800,
-    "modified": "Fri, 08 Oct 2021 04:00:08 GMT",
+    "etag": "W/\"61608091-93f\"",
+    "last_updated": 1633665600,
+    "modified": "Fri, 08 Oct 2021 17:32:01 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
