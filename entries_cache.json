@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Tue, 12 Oct 2021 11:16:55 GMT",
+    "modified": "Tue, 12 Oct 2021 14:17:01 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1633881982,
+    "last_updated": 1634043280,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:eaf906eec95f4f7345edd7b06a2d0285",
+    "etag": "cacheable:22a4bb0ccae01210ea0977f8abd6e6db",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"aa6e191d67a91853653f1d68c7a8751a\"",
+    "etag": "\"c2cba459338233aa1900adb6b511539f\"",
     "last_updated": 1633807240,
-    "modified": "Tue, 12 Oct 2021 12:23:09 GMT",
+    "modified": "Tue, 12 Oct 2021 14:15:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1633699214,
+    "last_updated": 1634047807,
     "name": "GDC",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1633815352,
+    "last_updated": 1634050242,
     "name": "Team PLC",
     "seen_entries": []
   },
