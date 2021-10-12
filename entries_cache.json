@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Tue, 12 Oct 2021 00:16:15 GMT",
+    "modified": "Tue, 12 Oct 2021 02:16:26 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f40ce417bd4d83f2651bf3f9eb9f2c6d\"",
+    "etag": "W/\"36bd0b197d124d0ec4c4d4485fab90f5\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 11 Oct 2021 20:00:45 GMT",
+    "modified": "Tue, 12 Oct 2021 01:32:09 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"f40ce417bd4d83f2651bf3f9eb9f2c6d\"",
+    "etag": "W/\"36bd0b197d124d0ec4c4d4485fab90f5\"",
     "last_updated": 1633536050,
-    "modified": "Mon, 11 Oct 2021 20:00:45 GMT",
+    "modified": "Tue, 12 Oct 2021 01:32:09 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9d69b87988a230a3e6391ed2fecee4ec",
+    "etag": "cacheable:9231dbe7cb38bfc1d5ed718f5a1e4150",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -301,8 +301,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1633734120,
-    "modified": "Fri, 08 Oct 2021 23:02:00 +0000",
+    "last_updated": 1633999920,
+    "modified": "Tue, 12 Oct 2021 00:52:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6163b6d0-93f\"",
-    "last_updated": 1633665600,
-    "modified": "Mon, 11 Oct 2021 04:00:16 GMT",
+    "etag": "W/\"6164e6fe-8a1\"",
+    "last_updated": 1633924800,
+    "modified": "Tue, 12 Oct 2021 01:38:06 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
