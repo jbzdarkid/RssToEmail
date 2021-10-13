@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6cf9b09f1ea12dcf04e4576a3b67d7cf4adc3d357e42d3190c2eef71a0611d52\"",
+    "etag": "W/\"e0ee1289f828d49e44cfdc0dcbf3ca583814245a2442ab116aa46e288989723a\"",
     "last_updated": 1631639640,
-    "modified": "Tue, 12 Oct 2021 23:25:57 GMT",
+    "modified": "Wed, 13 Oct 2021 06:05:32 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 13 Oct 2021 02:19:32 GMT",
+    "modified": "Wed, 13 Oct 2021 05:22:21 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:33433c844378eebc58f695473341f7e5",
+    "etag": "cacheable:e8101b478364da718662fbc691829d94",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,14 +263,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1634011200,
+    "last_updated": 1634097600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d95a8460fa39e1fb5d0ebdecc8a58692\"",
+    "etag": "\"245f1a7d128a4412f96247fd4b00b45c\"",
     "last_updated": 1633807240,
-    "modified": "Wed, 13 Oct 2021 02:07:43 GMT",
+    "modified": "Wed, 13 Oct 2021 05:30:07 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6164e6fe-8a1\"",
+    "etag": "W/\"616659c8-8a1\"",
     "last_updated": 1633924800,
-    "modified": "Tue, 12 Oct 2021 01:38:06 GMT",
+    "modified": "Wed, 13 Oct 2021 04:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
