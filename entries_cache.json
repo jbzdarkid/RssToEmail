@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7a5a37af8b61967f4bff256fd872c35300d39b50e388c4a36f6dc5386c588f31\"",
+    "etag": "W/\"a05cf47102a4db74df305a018bc6ae6b09d5b483481fee3e678433619251baa6\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 12 Oct 2021 11:00:17 GMT",
+    "modified": "Tue, 12 Oct 2021 23:20:48 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"95209c912d2d422eee157783790758d626c2a29b581c9e14275ea7a47c372271\"",
+    "etag": "W/\"6cf9b09f1ea12dcf04e4576a3b67d7cf4adc3d357e42d3190c2eef71a0611d52\"",
     "last_updated": 1631639640,
-    "modified": "Tue, 12 Oct 2021 18:52:32 GMT",
+    "modified": "Tue, 12 Oct 2021 23:25:57 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Tue, 12 Oct 2021 20:17:25 GMT",
+    "modified": "Wed, 13 Oct 2021 00:17:44 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a7e7c5a6f8ccfe7ab415fc192a74c311\"",
+    "etag": "W/\"867409fd5df1bbfa7a4cb562a67edbdb\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 12 Oct 2021 19:06:38 GMT",
+    "modified": "Tue, 12 Oct 2021 20:56:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a7e7c5a6f8ccfe7ab415fc192a74c311\"",
+    "etag": "W/\"867409fd5df1bbfa7a4cb562a67edbdb\"",
     "last_updated": 1633536050,
-    "modified": "Tue, 12 Oct 2021 19:06:38 GMT",
+    "modified": "Tue, 12 Oct 2021 20:56:19 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:14a003c443f28c2df7563fa441640611",
+    "etag": "cacheable:37e5c59df61acae27999e61c53a98dce",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3450fa658614ffa825ae5405241837ac\"",
+    "etag": "\"6091188d8abe695eb8aaa4a0e8e63003\"",
     "last_updated": 1633807240,
-    "modified": "Tue, 12 Oct 2021 20:17:49 GMT",
+    "modified": "Wed, 13 Oct 2021 00:50:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1634069364,
+    "last_updated": 1634078889,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -375,7 +375,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFb3g4C4wVdWut2BkgccgDQ": {
-    "last_updated": 1633977688,
+    "last_updated": 1634079611,
     "name": "RGLgg",
     "seen_entries": []
   },
