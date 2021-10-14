@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"33ec28f4218e7095247e6b85382195884075ab33ed9bb78ff6960539c419243c\"",
+    "etag": "W/\"6bae8b4545fa4ff919e35f7558b69d5c3ea0476645953a5715d7c5475c23b3e9\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 14 Oct 2021 10:29:58 GMT",
+    "modified": "Thu, 14 Oct 2021 13:53:20 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1a5f3aa0feb17a4f42d2a1e34ad0a358511ee3b16a3918c5a74d9c03da291aad\"",
+    "etag": "W/\"d885aa25acaa6ec580190ed076715be67e9f1500c2fdc0f9aaebb6aa76bfd288\"",
     "last_updated": 1631639640,
-    "modified": "Thu, 14 Oct 2021 09:43:56 GMT",
+    "modified": "Thu, 14 Oct 2021 14:05:18 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 14 Oct 2021 11:40:17 GMT",
+    "modified": "Thu, 14 Oct 2021 14:43:35 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,19 +228,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:873e904148ebc5c381ad03c528b0a711",
+    "etag": "cacheable:15c0dcc9ae3221246d72cad3f5f987f2",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D98F0C5BE38F14\"",
+    "etag": "\"0x8D98F11EB257F9B\"",
     "last_updated": 0,
-    "modified": "Thu, 14 Oct 2021 12:15:49 GMT",
+    "modified": "Thu, 14 Oct 2021 12:55:37 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1226.html",
       "http://www.giantitp.com/comics/oots1227.html",
       "http://www.giantitp.com/comics/oots1228.html",
       "http://www.giantitp.com/comics/oots1229.html",
@@ -259,7 +258,8 @@
       "http://www.giantitp.com/comics/oots1242.html",
       "http://www.giantitp.com/comics/oots1243.html",
       "http://www.giantitp.com/comics/oots1244.html",
-      "http://www.giantitp.com/comics/oots1245.html"
+      "http://www.giantitp.com/comics/oots1245.html",
+      "http://www.giantitp.com/comics/oots1246.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1634139979,
+    "last_updated": 1634219315,
     "name": "GDC",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1634202749,
+    "last_updated": 1634216708,
     "name": "Team PLC",
     "seen_entries": []
   },
