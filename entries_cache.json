@@ -106,9 +106,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"957c729d2a3f627eda7cb311776b9f12bc7ed19e5325691030ef858663f9dcc9\"",
+    "etag": "W/\"8345d89741a9678072f3232728338a56071748ffd3704fd7e1c6288ce61f6d1c\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 13 Oct 2021 13:41:37 GMT",
+    "modified": "Thu, 14 Oct 2021 02:42:37 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 13 Oct 2021 23:31:16 GMT",
+    "modified": "Thu, 14 Oct 2021 02:34:00 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,16 +228,16 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fc7a062a294706b6e99b607c3c0e8bc0",
+    "etag": "cacheable:679898482606f0a1e9db3c32ad617439",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D9878D813BAF19\"",
+    "etag": "\"0x8D98EB9739AE952\"",
     "last_updated": 0,
-    "modified": "Mon, 04 Oct 2021 23:20:07 GMT",
+    "modified": "Thu, 14 Oct 2021 02:22:20 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
       "http://www.giantitp.com/comics/oots1226.html",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4c9b4e4d6aeafebf64307099977b4338\"",
+    "etag": "\"2d00d592f7e3c29a69187c36089402c7\"",
     "last_updated": 1633807240,
-    "modified": "Wed, 13 Oct 2021 21:16:23 GMT",
+    "modified": "Thu, 14 Oct 2021 02:56:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"616659c8-8a1\"",
-    "last_updated": 1633924800,
-    "modified": "Wed, 13 Oct 2021 04:00:08 GMT",
+    "etag": "W/\"616787a2-847\"",
+    "last_updated": 1634097600,
+    "modified": "Thu, 14 Oct 2021 01:28:02 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
