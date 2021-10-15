@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Fri, 15 Oct 2021 02:51:52 GMT",
+    "modified": "Fri, 15 Oct 2021 04:52:06 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4deda6159bbb36aaf133a27244516c5a",
+    "etag": "cacheable:d7614c54b24b13fe337b8428d28ce533",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,7 +263,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1634184000,
+    "last_updated": 1634270400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"616787a2-847\"",
+    "etag": "W/\"6168fcc5-847\"",
     "last_updated": 1634097600,
-    "modified": "Thu, 14 Oct 2021 01:28:02 GMT",
+    "modified": "Fri, 15 Oct 2021 04:00:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
