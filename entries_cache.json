@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1634274000,
+    "last_updated": 1634360400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6ca8ca099a8f6ccccf3ff0e9df84285bcb38ec930cf2fcbec7aa8dcaf7c507a3\"",
+    "etag": "W/\"d35de04b45b8de3797eb0d82ee95b9e0b107ae6c1475b1e8e9d0c9f2bf2b6deb\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 16 Oct 2021 02:10:46 GMT",
+    "modified": "Sat, 16 Oct 2021 04:57:16 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"eba36ea4f13b475d97fcd7774977c70fb652161efd2f51afc24c670172bde116\"",
+    "etag": "W/\"a21c8b144b8c716b025eacd38a7aa52601d96433a2ffab02a4b2d244e5d7cb51\"",
     "last_updated": 1631639640,
-    "modified": "Fri, 15 Oct 2021 23:28:23 GMT",
+    "modified": "Sat, 16 Oct 2021 06:04:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Sat, 16 Oct 2021 02:54:50 GMT",
+    "modified": "Sat, 16 Oct 2021 04:55:02 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:eaed3a033a4f23f5f583b0d1e1c6f5a3",
+    "etag": "cacheable:7a783e829059cc78f2ce112ebcd9f3a9",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"5372bffe42814857b33638debd8cefe4\"",
+    "etag": "W/\"497562d5d9003bd24c3791b78f994540\"",
     "last_updated": 1634227259,
-    "modified": "Thu, 14 Oct 2021 17:19:21 GMT",
+    "modified": "Sat, 16 Oct 2021 05:47:48 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6168fcc5-847\"",
-    "last_updated": 1634097600,
-    "modified": "Fri, 15 Oct 2021 04:00:05 GMT",
+    "etag": "W/\"616a46e3-849\"",
+    "last_updated": 1634270400,
+    "modified": "Sat, 16 Oct 2021 03:28:35 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
