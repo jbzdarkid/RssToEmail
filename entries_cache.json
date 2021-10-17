@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f128751b7f6f162586b955ad3bbacaf19b8df51b38db75afbed7dd42c9716652\"",
+    "etag": "W/\"56667006b20da77e69d5bd5ccfd8453e8815cc12bdfd6ca5bd9edcd86a1f1392\"",
     "last_updated": 1631639640,
-    "modified": "Sun, 17 Oct 2021 08:51:57 GMT",
+    "modified": "Sun, 17 Oct 2021 16:53:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Sun, 17 Oct 2021 13:59:32 GMT",
+    "modified": "Sun, 17 Oct 2021 16:59:43 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1634259485,
+    "last_updated": 1634486407,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5120894be592f845d78c5a4b30bb342e\"",
+    "etag": "W/\"e6dfc13648a5457bb997912c6fc30814\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 16 Oct 2021 21:00:19 GMT",
+    "modified": "Sun, 17 Oct 2021 15:00:40 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5120894be592f845d78c5a4b30bb342e\"",
+    "etag": "W/\"e6dfc13648a5457bb997912c6fc30814\"",
     "last_updated": 1634140808,
-    "modified": "Sat, 16 Oct 2021 21:00:19 GMT",
+    "modified": "Sun, 17 Oct 2021 15:00:40 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:92815c15354564729e06503972099bac",
+    "etag": "cacheable:57e73fbf0fd0733966558f855a70f183",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ddfe0f6957cb882df33160aa414c82e5\"",
+    "etag": "W/\"803244260d0ad5362f533250cbd14616\"",
     "last_updated": 1634227259,
-    "modified": "Sat, 16 Oct 2021 23:17:07 GMT",
+    "modified": "Sun, 17 Oct 2021 18:03:57 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -430,7 +430,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
-    "last_updated": 1630436415,
+    "last_updated": 1634486431,
     "name": "Harry101UK",
     "seen_entries": []
   },
