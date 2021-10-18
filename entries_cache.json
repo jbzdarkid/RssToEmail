@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1634446800,
+    "last_updated": 1634533200,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Mon, 18 Oct 2021 14:01:28 GMT",
+    "modified": "Mon, 18 Oct 2021 18:01:51 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"0dcd1b9a70cb06257957aa3edbd2f4d5\"",
+    "etag": "W/\"a2cbb47c061d1e6349d24243d1c4ebdf\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 17 Oct 2021 20:39:44 GMT",
+    "modified": "Mon, 18 Oct 2021 16:30:41 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"0dcd1b9a70cb06257957aa3edbd2f4d5\"",
+    "etag": "W/\"a2cbb47c061d1e6349d24243d1c4ebdf\"",
     "last_updated": 1634140808,
-    "modified": "Sun, 17 Oct 2021 20:39:44 GMT",
+    "modified": "Mon, 18 Oct 2021 16:30:41 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ae594c9fb69f5babaeba3e1f7ad9000b",
+    "etag": "cacheable:9142021af495d6e6bc7f1e25fe1994ec",
     "last_updated": 1633453070,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a40d64339c8e368b4eb4508acfa40ddd\"",
+    "etag": "\"dcdb114c52a18d900b740a6736d05fa1\"",
     "last_updated": 1634402903,
-    "modified": "Mon, 18 Oct 2021 13:39:43 GMT",
+    "modified": "Mon, 18 Oct 2021 17:42:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -301,8 +301,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1634251080,
-    "modified": "Thu, 14 Oct 2021 22:38:00 +0000",
+    "last_updated": 1634579520,
+    "modified": "Mon, 18 Oct 2021 17:52:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -420,7 +420,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1626368463,
+    "last_updated": 1634580173,
     "name": "Steamworks Development",
     "seen_entries": []
   },
