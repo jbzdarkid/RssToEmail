@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3dd8dd199c1a11d3b0a7799525f2a88cf473a17b4666edf2d1b6ad7d779349c6\"",
-    "last_updated": 1631639640,
-    "modified": "Tue, 19 Oct 2021 11:17:46 GMT",
+    "etag": "W/\"a14d5e608776a378f90efbdc780a678893dadcc2c7a68cb0a005de6144d6d696\"",
+    "last_updated": 1634659680,
+    "modified": "Tue, 19 Oct 2021 17:18:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Tue, 19 Oct 2021 14:03:51 GMT",
+    "modified": "Tue, 19 Oct 2021 17:04:12 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,22 +214,22 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"bdc5580d4de0f61cb5412fe893030db7\"",
+    "etag": "W/\"9d872dc3e96a0292bf512880e0d9cc4b\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 19 Oct 2021 15:00:58 GMT",
+    "modified": "Tue, 19 Oct 2021 17:10:33 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"bdc5580d4de0f61cb5412fe893030db7\"",
+    "etag": "W/\"9d872dc3e96a0292bf512880e0d9cc4b\"",
     "last_updated": 1634140808,
-    "modified": "Tue, 19 Oct 2021 15:00:58 GMT",
+    "modified": "Tue, 19 Oct 2021 17:10:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a0004f59bbe78108f50887731be24032",
-    "last_updated": 1633453070,
+    "etag": "cacheable:f154a2a4b0819124678f2317201b6c40",
+    "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5545ee8c2f2c5a62af255b003bd6b93b\"",
+    "etag": "\"229be14e7e6e8645136d3c1e13de3fe6\"",
     "last_updated": 1634402903,
-    "modified": "Tue, 19 Oct 2021 14:23:40 GMT",
+    "modified": "Tue, 19 Oct 2021 17:38:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
