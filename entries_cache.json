@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"171d10e8d5edb05df4b9d3f84085fc78b8925bebb63ea4db56cd9481e8933e4b\"",
+    "etag": "W/\"c8448ffcb462999199b9dec91ca07623896d795b1daf04640187ca5d0f60797a\"",
     "last_updated": 1634659680,
-    "modified": "Wed, 20 Oct 2021 12:09:25 GMT",
+    "modified": "Wed, 20 Oct 2021 12:31:11 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 20 Oct 2021 11:06:10 GMT",
+    "modified": "Wed, 20 Oct 2021 14:06:26 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e437e624edd9892a9be416a27a02e35e\"",
+    "etag": "W/\"893e0db7f641de5e2010d48fa739dcc9\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 19 Oct 2021 18:47:23 GMT",
+    "modified": "Wed, 20 Oct 2021 14:13:33 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e437e624edd9892a9be416a27a02e35e\"",
+    "etag": "W/\"893e0db7f641de5e2010d48fa739dcc9\"",
     "last_updated": 1634140808,
-    "modified": "Tue, 19 Oct 2021 18:47:23 GMT",
+    "modified": "Wed, 20 Oct 2021 14:13:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8c0cea94ccbf30a3b30eb2e5ba0a5f4f",
+    "etag": "cacheable:672f61486d5f35c285032dcb7a1f3cfb",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1634649573,
+    "last_updated": 1634735600,
     "name": "GDC",
     "seen_entries": []
   },
