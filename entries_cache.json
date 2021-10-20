@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"bc221f775edde2a46b17cc1a03549217fc23f180ccffa350a5f70985372b1719\"",
+    "etag": "W/\"1b96217105cd67b0620060c934a3c296f83f4e64cf7dff5e922aa4d489208b22\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 20 Oct 2021 12:17:19 GMT",
+    "modified": "Wed, 20 Oct 2021 15:41:50 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c8448ffcb462999199b9dec91ca07623896d795b1daf04640187ca5d0f60797a\"",
+    "etag": "W/\"f1ed9ecdc2caeb63112453e2bb3ac02ae099cc038ec27d85eebb533b1c8539a9\"",
     "last_updated": 1634659680,
-    "modified": "Wed, 20 Oct 2021 12:31:11 GMT",
+    "modified": "Wed, 20 Oct 2021 16:38:07 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 20 Oct 2021 14:06:26 GMT",
+    "modified": "Wed, 20 Oct 2021 18:07:00 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1634725480,
+    "last_updated": 1634744621,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"893e0db7f641de5e2010d48fa739dcc9\"",
+    "etag": "W/\"b7ccb40f239d142c1b8a6800c2eafdb7\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 20 Oct 2021 14:13:33 GMT",
+    "modified": "Wed, 20 Oct 2021 17:02:23 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"893e0db7f641de5e2010d48fa739dcc9\"",
-    "last_updated": 1634140808,
-    "modified": "Wed, 20 Oct 2021 14:13:33 GMT",
+    "etag": "W/\"b7ccb40f239d142c1b8a6800c2eafdb7\"",
+    "last_updated": 1634745615,
+    "modified": "Wed, 20 Oct 2021 17:02:23 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:672f61486d5f35c285032dcb7a1f3cfb",
+    "etag": "cacheable:77ac2d2ce304ebd846fe3b022ef7a966",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7aabd5573c4427e1cab1f8803cc41afd\"",
+    "etag": "\"865b2e6454b3cfac87e38f3c7623cd96\"",
     "last_updated": 1634402903,
-    "modified": "Wed, 20 Oct 2021 00:18:06 GMT",
+    "modified": "Wed, 20 Oct 2021 18:09:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -450,7 +450,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
-    "last_updated": 1629543954,
+    "last_updated": 1634747590,
     "name": "The Slow Mo Guys 2",
     "seen_entries": []
   },
