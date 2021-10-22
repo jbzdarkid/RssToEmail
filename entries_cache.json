@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"0afec9a1a3f98204f9dcbd69fbbda114\"",
-    "last_updated": 1633654245,
-    "modified": "Tue, 19 Oct 2021 22:29:45 GMT",
+    "etag": "W/\"3b05836f59754fdc5eb9272f8c4846d8\"",
+    "last_updated": 1634863403,
+    "modified": "Fri, 22 Oct 2021 02:29:01 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"915e3ef9e96f72ffc0d5d47aef6a00971efd326fa528be6ccb97731665fa09bb\"",
+    "etag": "W/\"d311360655b5b4db8c20e1f301ea7270fab6c36bc1cd22664385e87005740984\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 20 Oct 2021 21:31:38 GMT",
+    "modified": "Thu, 21 Oct 2021 18:59:34 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c065a482f0316daad8a2f4d52acdbe425dc094b275cd1157ca5851a06bd904e0\"",
-    "last_updated": 1634659680,
-    "modified": "Thu, 21 Oct 2021 04:52:43 GMT",
+    "etag": "W/\"3bf285e78bae1e8e6d2a5b2f04a5a14703090cf43187298c07d3083d5a166b9a\"",
+    "last_updated": 1634747880,
+    "modified": "Thu, 21 Oct 2021 22:53:05 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -141,7 +141,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1633545086,
+    "last_updated": 1634597474,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 21 Oct 2021 05:08:18 GMT",
+    "modified": "Fri, 22 Oct 2021 02:10:03 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"aec33bdb947de4a31bc182989baee933\"",
+    "etag": "W/\"1cfbf176c3a615644d15a89c0e033f92\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 20 Oct 2021 23:09:55 GMT",
+    "modified": "Thu, 21 Oct 2021 21:21:31 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"aec33bdb947de4a31bc182989baee933\"",
+    "etag": "W/\"1cfbf176c3a615644d15a89c0e033f92\"",
     "last_updated": 1634745615,
-    "modified": "Wed, 20 Oct 2021 23:09:55 GMT",
+    "modified": "Thu, 21 Oct 2021 21:21:31 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9602bd181d9324891499da53244907f0",
+    "etag": "cacheable:9a5fdbbf311a0d31bac4a9c781755720",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2e63882adbb3dc4036b935fe985c044d\"",
+    "etag": "\"053cc6b971641a0ee5be846a0887d817\"",
     "last_updated": 1634402903,
-    "modified": "Thu, 21 Oct 2021 01:14:17 GMT",
+    "modified": "Thu, 21 Oct 2021 20:48:06 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"8a0194e8b372cdc10382452998aaab32\"",
-    "last_updated": 1634227259,
-    "modified": "Thu, 21 Oct 2021 00:08:18 GMT",
+    "etag": "W/\"8bc066df15f284b7e8cdb8b6e05f36cc\"",
+    "last_updated": 1634832052,
+    "modified": "Thu, 21 Oct 2021 16:00:52 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1634735600,
+    "last_updated": 1634825326,
     "name": "GDC",
     "seen_entries": []
   },
@@ -410,7 +410,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1634673618,
+    "last_updated": 1634846402,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
