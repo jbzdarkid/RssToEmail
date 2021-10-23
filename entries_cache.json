@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c68a306c3ca87265fda314d6d3d127420b010615e843d7761a24971572102191\"",
+    "etag": "W/\"a9a8cd65527d59ae11bde49b7e7ae390e487d9b658bc462fcdcfe5dfc419c9f3\"",
     "last_updated": 1634747880,
-    "modified": "Sat, 23 Oct 2021 17:34:31 GMT",
+    "modified": "Sat, 23 Oct 2021 20:27:33 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -135,8 +135,8 @@
   },
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
-    "last_updated": 1632949172,
-    "modified": "Sun, 10 Oct 2021 21:01:01 GMT",
+    "last_updated": 1635017079,
+    "modified": "Sat, 23 Oct 2021 19:24:39 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Sat, 23 Oct 2021 18:14:05 GMT",
+    "modified": "Sat, 23 Oct 2021 20:14:17 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ee79ca6860ccd9a4f0c29e92e9c48f04\"",
+    "etag": "W/\"a06761c33669d1104791b21c5f8d9038\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 23 Oct 2021 15:00:31 GMT",
+    "modified": "Sat, 23 Oct 2021 18:24:01 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ee79ca6860ccd9a4f0c29e92e9c48f04\"",
+    "etag": "W/\"a06761c33669d1104791b21c5f8d9038\"",
     "last_updated": 1634745615,
-    "modified": "Sat, 23 Oct 2021 15:00:31 GMT",
+    "modified": "Sat, 23 Oct 2021 18:24:01 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4ad601d63d28e79ff20ba4fba44f187a",
+    "etag": "cacheable:15872e4dc4343dd77799dc352c808c67",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -410,7 +410,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1634846402,
+    "last_updated": 1635019203,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
