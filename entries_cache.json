@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"136937326caea788b63349e34e9892e5045ddc8c75c69cf0abeefeefda9915ca\"",
+    "etag": "W/\"03f06ca898be6f4ad3116ba6ba9832b5d886d1da35ec0dfff991cf19fb1b368d\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 26 Oct 2021 09:16:06 GMT",
+    "modified": "Wed, 27 Oct 2021 05:54:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"cb00cc0fe2d1f9d6c57d814452f2e051cd5314aa784eb58dc7d86df6668ba33c\"",
+    "etag": "W/\"d5348df9259412b82797d523351415ffbbad794967d28f1b6b01cdeb96c045ef\"",
     "last_updated": 1634747880,
-    "modified": "Tue, 26 Oct 2021 18:42:40 GMT",
+    "modified": "Wed, 27 Oct 2021 04:40:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 27 Oct 2021 01:34:59 GMT",
+    "modified": "Wed, 27 Oct 2021 04:36:33 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1634744621,
+    "last_updated": 1635312625,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3f99990b1662ea008509e7e8e0b033db",
+    "etag": "cacheable:f3ca7cf8321aa4b09c07d7907e435b08",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,7 +263,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1635220800,
+    "last_updated": 1635307200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -288,7 +288,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1635145200,
+    "last_updated": 1635231600,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1635133093,
+    "last_updated": 1635310823,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6177692c-957\"",
+    "etag": "W/\"6178cec7-957\"",
     "last_updated": 1635134400,
-    "modified": "Tue, 26 Oct 2021 02:34:20 GMT",
+    "modified": "Wed, 27 Oct 2021 04:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
