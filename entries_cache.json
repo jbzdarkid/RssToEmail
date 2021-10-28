@@ -106,9 +106,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"bb88cac7822489a05af17e4db0c26f4edd807785e5bd6007134f2048a77f0e0d\"",
+    "etag": "W/\"6a056d5aebf3d04a2f23089a01dba29c5f3bcf6b82ba7b37db794667d62af7c6\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 28 Oct 2021 08:58:26 GMT",
+    "modified": "Thu, 28 Oct 2021 20:37:10 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 28 Oct 2021 18:02:11 GMT",
+    "modified": "Thu, 28 Oct 2021 20:02:45 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1635440626,
+    "last_updated": 1635452711,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"49bd114d3643254c63294d3b4e4662e2\"",
+    "etag": "W/\"055d4fcc02ec3de5cc4e2132aabccf3f\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 28 Oct 2021 17:24:23 GMT",
+    "modified": "Thu, 28 Oct 2021 17:43:17 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"49bd114d3643254c63294d3b4e4662e2\"",
+    "etag": "W/\"055d4fcc02ec3de5cc4e2132aabccf3f\"",
     "last_updated": 1635350425,
-    "modified": "Thu, 28 Oct 2021 17:24:23 GMT",
+    "modified": "Thu, 28 Oct 2021 17:43:17 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9be2c2103da2d954e7ec301b19649b4e",
+    "etag": "cacheable:8296100b6c8c98c6deb3b75ed677a763",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"38ef5bca07bf24091480a66aaedea0cb\"",
+    "etag": "\"820a60aa5f662ee57ae6627d7c1b53ef\"",
     "last_updated": 1635008953,
-    "modified": "Thu, 28 Oct 2021 18:17:19 GMT",
+    "modified": "Thu, 28 Oct 2021 19:48:47 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -410,7 +410,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1635278403,
+    "last_updated": 1635451204,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -485,7 +485,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1634320803,
+    "last_updated": 1635444873,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
