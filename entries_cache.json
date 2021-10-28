@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1635224400,
+    "last_updated": 1635310800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"04dd3e9ffcc3845ef42876c13cd60cf36ec79e61a407822b25798c08ef583d0d\"",
+    "etag": "W/\"0cb79dee8a94a3938dec8b74b42127856d3757610892427b1fc169b3528ea888\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 27 Oct 2021 12:14:57 GMT",
+    "modified": "Wed, 27 Oct 2021 22:19:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5029bd92df9097a2c70fd46b4ff935e123c5d2725fd8795f7d36bf13f0c77d6e\"",
+    "etag": "W/\"c7660818778b32f22cac2e98b0f7af623df7570dc4a96078934451dcaa4ecc5f\"",
     "last_updated": 1634747880,
-    "modified": "Wed, 27 Oct 2021 18:31:33 GMT",
+    "modified": "Wed, 27 Oct 2021 22:23:07 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 27 Oct 2021 20:46:37 GMT",
+    "modified": "Wed, 27 Oct 2021 23:51:57 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"236262c1b7b49f8a21e3ff6d7e85c497\"",
+    "etag": "W/\"645799ecdd32f17f19f67be3c6e6f535\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 27 Oct 2021 19:43:08 GMT",
+    "modified": "Wed, 27 Oct 2021 22:41:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"236262c1b7b49f8a21e3ff6d7e85c497\"",
+    "etag": "W/\"645799ecdd32f17f19f67be3c6e6f535\"",
     "last_updated": 1635350425,
-    "modified": "Wed, 27 Oct 2021 19:43:08 GMT",
+    "modified": "Wed, 27 Oct 2021 22:41:20 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:02e22039048b5a3773f702aa85e6f782",
+    "etag": "cacheable:3a49773e635f4bb17b1a4abd7f2cd601",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b9d240fb690fd455fe46a90ad9ac1fbe\"",
+    "etag": "\"d9d3d5017e39d72100e2c3ddc2a847ea\"",
     "last_updated": 1635008953,
-    "modified": "Wed, 27 Oct 2021 18:56:44 GMT",
+    "modified": "Wed, 27 Oct 2021 22:42:12 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -301,8 +301,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1634942040,
-    "modified": "Fri, 22 Oct 2021 22:34:00 +0000",
+    "last_updated": 1635378540,
+    "modified": "Wed, 27 Oct 2021 23:49:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -415,7 +415,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1628786476,
+    "last_updated": 1635369228,
     "name": "miracleofsound",
     "seen_entries": []
   },
