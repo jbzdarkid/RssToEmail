@@ -141,7 +141,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1634597474,
+    "last_updated": 1634856396,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 28 Oct 2021 14:00:13 GMT",
+    "modified": "Thu, 28 Oct 2021 18:02:11 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1635416703,
+    "last_updated": 1635440626,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"645799ecdd32f17f19f67be3c6e6f535\"",
+    "etag": "W/\"49bd114d3643254c63294d3b4e4662e2\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 27 Oct 2021 22:41:20 GMT",
+    "modified": "Thu, 28 Oct 2021 17:24:23 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"645799ecdd32f17f19f67be3c6e6f535\"",
+    "etag": "W/\"49bd114d3643254c63294d3b4e4662e2\"",
     "last_updated": 1635350425,
-    "modified": "Wed, 27 Oct 2021 22:41:20 GMT",
+    "modified": "Thu, 28 Oct 2021 17:24:23 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c56b5366764093092a6fb1b578599ad5",
+    "etag": "cacheable:9be2c2103da2d954e7ec301b19649b4e",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"afe16bdce03acbed08bc1f83f9adacc6\"",
+    "etag": "\"38ef5bca07bf24091480a66aaedea0cb\"",
     "last_updated": 1635008953,
-    "modified": "Thu, 28 Oct 2021 15:00:22 GMT",
+    "modified": "Thu, 28 Oct 2021 18:17:19 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"d60d2aabc18ccea2e1424fed258ab4bc\"",
-    "last_updated": 1634832052,
-    "modified": "Thu, 28 Oct 2021 07:06:44 GMT",
+    "etag": "W/\"5fc5c06b27599f1708181a65030977b0\"",
+    "last_updated": 1635436824,
+    "modified": "Thu, 28 Oct 2021 16:21:01 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
