@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1635310800,
+    "last_updated": 1635483600,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -113,9 +113,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5b32cd2e275b481834814d38ec7afd656d71a05b8f7e67643d1233dda2616be6\"",
+    "etag": "W/\"90d2f46d32aac91a653cf58366412b04670a4399e59788dd17fe26f0deb45fad\"",
     "last_updated": 1634747880,
-    "modified": "Thu, 28 Oct 2021 21:54:54 GMT",
+    "modified": "Fri, 29 Oct 2021 05:32:51 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Fri, 29 Oct 2021 02:09:42 GMT",
+    "modified": "Fri, 29 Oct 2021 06:13:08 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:93c5b997ef746e99ac7660e4349f1d86",
+    "etag": "cacheable:d0df98830479de5ac323e7d7843bb31a",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,7 +263,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1635393600,
+    "last_updated": 1635480000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1635310823,
+    "last_updated": 1635483628,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -360,7 +360,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1635403165,
+    "last_updated": 1635487924,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"617a0c9d-911\"",
+    "etag": "W/\"617b71c6-911\"",
     "last_updated": 1635307200,
-    "modified": "Thu, 28 Oct 2021 02:36:13 GMT",
+    "modified": "Fri, 29 Oct 2021 04:00:06 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
