@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"92a12cc351312aca60ed08e3b411641d\"",
+    "etag": "W/\"b99772266375500f620baf398674779c\"",
     "last_updated": 1635204171,
-    "modified": "Wed, 27 Oct 2021 20:00:43 GMT",
+    "modified": "Thu, 28 Oct 2021 23:30:39 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6a056d5aebf3d04a2f23089a01dba29c5f3bcf6b82ba7b37db794667d62af7c6\"",
+    "etag": "W/\"f6302608bc00485a24d716b06b82e3cc7dad79306fa1a5652a58689c53c6df52\"",
     "last_updated": 1605573900,
-    "modified": "Thu, 28 Oct 2021 20:37:10 GMT",
+    "modified": "Thu, 28 Oct 2021 21:53:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a2ca809e82f182267b5af46c86dd36f308b1276b0e6caf0d560c9f485093dd69\"",
+    "etag": "W/\"5b32cd2e275b481834814d38ec7afd656d71a05b8f7e67643d1233dda2616be6\"",
     "last_updated": 1634747880,
-    "modified": "Thu, 28 Oct 2021 11:53:07 GMT",
+    "modified": "Thu, 28 Oct 2021 21:54:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Thu, 28 Oct 2021 20:02:45 GMT",
+    "modified": "Fri, 29 Oct 2021 00:04:52 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1635452711,
+    "last_updated": 1635455760,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"055d4fcc02ec3de5cc4e2132aabccf3f\"",
+    "etag": "W/\"290a708eb6f60779bd3754b135634cd2\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 28 Oct 2021 17:43:17 GMT",
+    "modified": "Thu, 28 Oct 2021 21:30:02 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"055d4fcc02ec3de5cc4e2132aabccf3f\"",
+    "etag": "W/\"290a708eb6f60779bd3754b135634cd2\"",
     "last_updated": 1635350425,
-    "modified": "Thu, 28 Oct 2021 17:43:17 GMT",
+    "modified": "Thu, 28 Oct 2021 21:30:02 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8296100b6c8c98c6deb3b75ed677a763",
+    "etag": "cacheable:f9de2c79bc45f78f7d9ddf18a0df3c5d",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -301,8 +301,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1635378540,
-    "modified": "Wed, 27 Oct 2021 23:49:00 +0000",
+    "last_updated": 1635460860,
+    "modified": "Thu, 28 Oct 2021 22:41:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"5fc5c06b27599f1708181a65030977b0\"",
+    "etag": "W/\"191f2f39135885631b025f086def03ce\"",
     "last_updated": 1635436824,
-    "modified": "Thu, 28 Oct 2021 16:21:01 GMT",
+    "modified": "Thu, 28 Oct 2021 20:54:45 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -325,7 +325,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/punderworld/rss?title_no=312584": {
-    "last_updated": 1624299670,
+    "last_updated": 1635461667,
     "name": "Punderworld",
     "seen_entries": []
   },
