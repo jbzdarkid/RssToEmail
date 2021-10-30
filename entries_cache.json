@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Sat, 30 Oct 2021 14:27:11 GMT",
+    "modified": "Sat, 30 Oct 2021 17:30:15 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -192,7 +192,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1635488478,
+    "last_updated": 1635615610,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -214,21 +214,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"49307932c4dbf3a1f4febf11eed1d5e6\"",
+    "etag": "W/\"17bf751df76c69e6d6fdd74d57b43025\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 30 Oct 2021 15:00:04 GMT",
+    "modified": "Sat, 30 Oct 2021 16:14:30 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"49307932c4dbf3a1f4febf11eed1d5e6\"",
+    "etag": "W/\"17bf751df76c69e6d6fdd74d57b43025\"",
     "last_updated": 1635350425,
-    "modified": "Sat, 30 Oct 2021 15:00:04 GMT",
+    "modified": "Sat, 30 Oct 2021 16:14:30 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:01cf8458cfb08edac59ac1ce2247d117",
+    "etag": "cacheable:ac04f0f2f21d4f423153fb6ade176a10",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,9 +268,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d73908dc118d9cdd493b79653edbedb0\"",
+    "etag": "\"9a5eb71001fe0a8d0fd75ddcc40d8681\"",
     "last_updated": 1635008953,
-    "modified": "Sat, 30 Oct 2021 09:35:56 GMT",
+    "modified": "Sat, 30 Oct 2021 17:19:37 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -313,9 +313,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"191f2f39135885631b025f086def03ce\"",
+    "etag": "W/\"f3167432ad59d02814affaa2f12bff7a\"",
     "last_updated": 1635436824,
-    "modified": "Thu, 28 Oct 2021 20:54:45 GMT",
+    "modified": "Sat, 30 Oct 2021 17:07:47 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
