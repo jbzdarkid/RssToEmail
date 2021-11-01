@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Mon, 01 Nov 2021 10:34:38 GMT",
+    "modified": "Mon, 01 Nov 2021 14:35:12 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
     ]
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
-    "last_updated": 1635505207,
+    "last_updated": 1635764438,
     "name": "Atomic Robo",
     "seen_entries": []
   },
@@ -228,19 +228,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:adcc8fba270be544fc3a68b42265f1e2",
+    "etag": "cacheable:25744a3896537665fe7e62c2f66fbf2d",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D98F11EB257F9B\"",
+    "etag": "\"0x8D99D37BC957F03\"",
     "last_updated": 0,
-    "modified": "Thu, 14 Oct 2021 12:55:37 GMT",
+    "modified": "Mon, 01 Nov 2021 13:01:36 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1227.html",
       "http://www.giantitp.com/comics/oots1228.html",
       "http://www.giantitp.com/comics/oots1229.html",
       "http://www.giantitp.com/comics/oots1230.html",
@@ -259,7 +258,8 @@
       "http://www.giantitp.com/comics/oots1243.html",
       "http://www.giantitp.com/comics/oots1244.html",
       "http://www.giantitp.com/comics/oots1245.html",
-      "http://www.giantitp.com/comics/oots1246.html"
+      "http://www.giantitp.com/comics/oots1246.html",
+      "http://www.giantitp.com/comics/oots1247.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1635515597,
+    "last_updated": 1635774817,
     "name": "GDC",
     "seen_entries": []
   },
