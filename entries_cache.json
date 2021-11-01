@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1635656400,
+    "last_updated": 1635742800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -106,16 +106,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"920ded4246b9b1ca7a5c9dfa98c53e1847c595314853cb9eaae971f69252b574\"",
+    "etag": "W/\"c72cc1ebdb6ccdfad5f5b72842afeec553385dd8c8f5491d29d16d9506a49d29\"",
     "last_updated": 1605573900,
-    "modified": "Sun, 31 Oct 2021 19:34:57 GMT",
+    "modified": "Mon, 01 Nov 2021 05:48:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f02a73efc806e82fb9b18fe53c1cf41175e96d336768214508363a0e0f131f10\"",
+    "etag": "W/\"a8d92c823d468d374607f4644ff8b78c182e2659347eef7be782e2c485b9a219\"",
     "last_updated": 1634747880,
-    "modified": "Sun, 31 Oct 2021 19:35:02 GMT",
+    "modified": "Mon, 01 Nov 2021 05:52:09 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Mon, 01 Nov 2021 02:34:04 GMT",
+    "modified": "Mon, 01 Nov 2021 05:34:19 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -228,7 +228,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6c5f56410dd99aa831efc6528f72d901",
+    "etag": "cacheable:e0fe31a5fcb1fa30e7076fdd0f343678",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -263,14 +263,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1635566400,
+    "last_updated": 1635739200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b5e7bade6f6c5dab19939873475d89c0\"",
+    "etag": "\"c4f044ea13869a7cf03484c2b202b5f1\"",
     "last_updated": 1635008953,
-    "modified": "Mon, 01 Nov 2021 03:10:17 GMT",
+    "modified": "Mon, 01 Nov 2021 04:46:06 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1635483628,
+    "last_updated": 1635742574,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -510,9 +510,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"617c5467-8cb\"",
+    "etag": "W/\"617f6649-8cb\"",
     "last_updated": 1635480000,
-    "modified": "Fri, 29 Oct 2021 20:07:03 GMT",
+    "modified": "Mon, 01 Nov 2021 04:00:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
