@@ -165,7 +165,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Wed, 03 Nov 2021 14:39:36 GMT",
+    "modified": "Wed, 03 Nov 2021 16:39:43 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1635866525,
+    "last_updated": 1635960673,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -215,21 +215,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"03b45dbfc2df19782effc8d7f942a965\"",
+    "etag": "W/\"5d7b667d2f470ecb4cdbb7f184d34be3\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 02 Nov 2021 22:14:02 GMT",
+    "modified": "Wed, 03 Nov 2021 17:10:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"03b45dbfc2df19782effc8d7f942a965\"",
-    "last_updated": 1635350425,
-    "modified": "Tue, 02 Nov 2021 22:14:02 GMT",
+    "etag": "W/\"5d7b667d2f470ecb4cdbb7f184d34be3\"",
+    "last_updated": 1635955230,
+    "modified": "Wed, 03 Nov 2021 17:10:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4ccb3c46f91ac46ceea7da0df8880c2f",
+    "etag": "cacheable:6714548a536ce2e90eee4fd702e2efaa",
     "last_updated": 1634662957,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4bb06144289f64fc185778d260587c3c\"",
+    "etag": "\"b85bbd68c215f1b45a031566c62e6f4b\"",
     "last_updated": 1635008953,
-    "modified": "Wed, 03 Nov 2021 14:28:47 GMT",
+    "modified": "Wed, 03 Nov 2021 17:58:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
