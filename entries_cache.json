@@ -114,9 +114,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"975a74d565c53d4a49746ed384c0131492ddd00317663a4354eaf524ff86ba34\"",
+    "etag": "W/\"8353f1c5e3984ca8dc58f83daaf73059fd6330eb099547246162878859ea7d07\"",
     "last_updated": 1634747880,
-    "modified": "Fri, 05 Nov 2021 11:46:17 GMT",
+    "modified": "Fri, 05 Nov 2021 15:22:26 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -165,7 +165,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Fri, 05 Nov 2021 13:39:18 GMT",
+    "modified": "Fri, 05 Nov 2021 17:41:21 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1635970004,
+    "last_updated": 1636126672,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -215,21 +215,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2031973840702efc1356a29e6441d379\"",
+    "etag": "W/\"e93c3f77c7cd91396058dfcd8057f59d\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 04 Nov 2021 21:52:34 GMT",
+    "modified": "Fri, 05 Nov 2021 16:53:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"2031973840702efc1356a29e6441d379\"",
+    "etag": "W/\"e93c3f77c7cd91396058dfcd8057f59d\"",
     "last_updated": 1635955230,
-    "modified": "Thu, 04 Nov 2021 21:52:34 GMT",
+    "modified": "Fri, 05 Nov 2021 16:53:59 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9f7ebe8ecdc9a6d5d4712647da7274fc",
+    "etag": "cacheable:76a8c6ba4e3fa5b2340bc4697f2438ca",
     "last_updated": 1636044884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"92bbbe65d207398b3ecbce49fd67f5cf\"",
+    "etag": "\"cba4db812d9c92fa980716acd9318e2a\"",
     "last_updated": 1635008953,
-    "modified": "Fri, 05 Nov 2021 13:35:41 GMT",
+    "modified": "Fri, 05 Nov 2021 17:47:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -289,7 +289,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1635922800,
+    "last_updated": 1636095600,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -416,7 +416,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1635369228,
+    "last_updated": 1636131613,
     "name": "miracleofsound",
     "seen_entries": []
   },
