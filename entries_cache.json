@@ -165,7 +165,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Sat, 06 Nov 2021 16:46:36 GMT",
+    "modified": "Sat, 06 Nov 2021 20:46:46 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1636148063,
+    "last_updated": 1636228529,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -215,21 +215,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9bd2c034cb896fef54ec55331670077d\"",
+    "etag": "W/\"118fa14afa911e0058d374b9ed61a9b3\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 05 Nov 2021 20:39:44 GMT",
+    "modified": "Sat, 06 Nov 2021 18:12:42 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"9bd2c034cb896fef54ec55331670077d\"",
+    "etag": "W/\"118fa14afa911e0058d374b9ed61a9b3\"",
     "last_updated": 1635955230,
-    "modified": "Fri, 05 Nov 2021 20:39:44 GMT",
+    "modified": "Sat, 06 Nov 2021 18:12:42 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9691cc7690d41eb43f53483d59787ee5",
+    "etag": "cacheable:f3f4f8aa3059c5cd7f49dcc9991536ff",
     "last_updated": 1636044884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"047f58b6dd67e0ececc7db86c7ae4765\"",
+    "etag": "\"45d0632c29961a7b1cd1647510dcd21f\"",
     "last_updated": 1635008953,
-    "modified": "Sat, 06 Nov 2021 18:03:26 GMT",
+    "modified": "Sat, 06 Nov 2021 19:35:34 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1636056000,
+    "last_updated": 1636228813,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
