@@ -5,7 +5,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:SanePerson": {
-    "last_updated": 1634337492,
+    "last_updated": 1636153733,
     "name": "DeviantArt: SanePerson's gallery",
     "seen_entries": []
   },
@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"c9da5e959c644177819cbb3ee3aa5d74\"",
+    "etag": "W/\"979ed6a7a988fe6d75afa67c4d5dee47\"",
     "last_updated": 1635980949,
-    "modified": "Fri, 05 Nov 2021 14:52:38 GMT",
+    "modified": "Fri, 05 Nov 2021 21:18:29 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -107,16 +107,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"af172fa4cbd04a043e572ec14ce858525cb3e8d336af49657c65d24de241de00\"",
+    "etag": "W/\"a2ddfeb2e61f1625d3b8ed10a8260c76dfd60b42d733aa7aceffabe2626b93ab\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 05 Nov 2021 14:53:28 GMT",
+    "modified": "Fri, 05 Nov 2021 22:38:06 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1df5839cd16b9f108fe8b1674fbe57ab2aef59a2e793af32c52db86dd7062813\"",
+    "etag": "W/\"054014e80e38cc923e29c3da5833fc7f21bf329132616f217afd8e5e20a47608\"",
     "last_updated": 1634747880,
-    "modified": "Fri, 05 Nov 2021 20:51:59 GMT",
+    "modified": "Fri, 05 Nov 2021 22:38:10 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -165,7 +165,7 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1632591204,
-    "modified": "Fri, 05 Nov 2021 20:43:42 GMT",
+    "modified": "Fri, 05 Nov 2021 23:44:34 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1636126672,
+    "last_updated": 1636148063,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -229,7 +229,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1715ebd8c1ba4d231b551c55cbca6c9d",
+    "etag": "cacheable:71c69a3fdd6079c63bcde4e64bb561c0",
     "last_updated": 1636044884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
