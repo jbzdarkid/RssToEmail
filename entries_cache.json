@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"fbf67993de44bef4cbdd4d1fd805481c\"",
+    "etag": "W/\"6d38b411c95d3b7d7fa885867992630f\"",
     "last_updated": 1636506686,
-    "modified": "Wed, 10 Nov 2021 01:36:35 GMT",
+    "modified": "Wed, 10 Nov 2021 16:11:33 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1636545380,
+    "last_updated": 1636557938,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -215,21 +215,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6d6db7bcd7bea10bc184ef884dd4b551\"",
+    "etag": "W/\"8d848ee5b97be34e5e6e840398463583\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 09 Nov 2021 21:38:30 GMT",
+    "modified": "Wed, 10 Nov 2021 17:00:48 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"6d6db7bcd7bea10bc184ef884dd4b551\"",
-    "last_updated": 1635955230,
-    "modified": "Tue, 09 Nov 2021 21:38:30 GMT",
+    "etag": "W/\"8d848ee5b97be34e5e6e840398463583\"",
+    "last_updated": 1636563648,
+    "modified": "Wed, 10 Nov 2021 17:00:48 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c2dc67a8f451ffb16ca62587bf1d9821",
+    "etag": "cacheable:59d4563f1c2f362f5b3ebe284682cdbf",
     "last_updated": 1636044884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d936e508faa8fb50ce18da504c8c3713\"",
+    "etag": "\"308ada8ad7e08069f1c62b50f5abcb28\"",
     "last_updated": 1635008953,
-    "modified": "Wed, 10 Nov 2021 12:41:58 GMT",
+    "modified": "Wed, 10 Nov 2021 18:07:26 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1636398024,
+    "last_updated": 1636567215,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
