@@ -107,16 +107,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3d6c0c605a46d4adba1d314b5882e667ee5b3328638b8f96894d861cf6e944d9\"",
+    "etag": "W/\"7602927fa36721d95762ffc01924eec889185459f3e53e49407da5edebd0a144\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 09 Nov 2021 19:59:12 GMT",
+    "modified": "Wed, 10 Nov 2021 04:06:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d702594ec9dfc8f44f48ec06caf505dc8b04ea7bd53466ffcac8bcabb0c681a4\"",
+    "etag": "W/\"0a9e39762ba05c7026c5de01d5c5d3374138efd119d9d3cfef1d6f37723a4520\"",
     "last_updated": 1634747880,
-    "modified": "Tue, 09 Nov 2021 17:39:44 GMT",
+    "modified": "Wed, 10 Nov 2021 05:51:47 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -229,7 +229,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:133c945b30fa5ddc0d848fbbf866da74",
+    "etag": "cacheable:90d2767b71b47391908b318e2074eb85",
     "last_updated": 1636044884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -264,7 +264,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1636434000,
+    "last_updated": 1636520400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -337,7 +337,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1636351197,
+    "last_updated": 1636523882,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -517,9 +517,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6189d4b1-9d7\"",
+    "etag": "W/\"618b51d7-9d7\"",
     "last_updated": 1636347600,
-    "modified": "Tue, 09 Nov 2021 01:53:53 GMT",
+    "modified": "Wed, 10 Nov 2021 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
