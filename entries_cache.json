@@ -107,9 +107,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4ee70bfeb25e23309c63e87c7d66ac2b8e405a73e3a8aaa5f6a2ebf0f14049be\"",
+    "etag": "W/\"906bd124829ab9d78ca60042cfc1055cfa2d62c2cbe4176152965dab2f05017a\"",
     "last_updated": 1605573900,
-    "modified": "Tue, 16 Nov 2021 12:14:51 GMT",
+    "modified": "Tue, 16 Nov 2021 12:56:33 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -229,19 +229,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6ff7c2d2ebfd1a7510687557fec6d7d3",
+    "etag": "cacheable:2b295771b9a32d6b7e27844e42cb91eb",
     "last_updated": 1636996754,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D99D37BC957F03\"",
+    "etag": "\"0x8D9A908C02B193A\"",
     "last_updated": 0,
-    "modified": "Mon, 01 Nov 2021 13:01:36 GMT",
+    "modified": "Tue, 16 Nov 2021 13:55:29 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1228.html",
       "http://www.giantitp.com/comics/oots1229.html",
       "http://www.giantitp.com/comics/oots1230.html",
       "http://www.giantitp.com/comics/oots1231.html",
@@ -260,7 +259,8 @@
       "http://www.giantitp.com/comics/oots1244.html",
       "http://www.giantitp.com/comics/oots1245.html",
       "http://www.giantitp.com/comics/oots1246.html",
-      "http://www.giantitp.com/comics/oots1247.html"
+      "http://www.giantitp.com/comics/oots1247.html",
+      "http://www.giantitp.com/comics/oots1248.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"675c78de92af1cc145156b2e57981dc6\"",
+    "etag": "\"48404d17310a78e4a9607d331fc92043\"",
     "last_updated": 1635008953,
-    "modified": "Tue, 16 Nov 2021 12:08:38 GMT",
+    "modified": "Tue, 16 Nov 2021 12:52:40 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -354,7 +354,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1636987826,
+    "last_updated": 1637072639,
     "name": "GDC",
     "seen_entries": []
   },
