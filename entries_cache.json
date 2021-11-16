@@ -107,16 +107,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"645f6c7a26a2b789678ccb461b2349ff6f7766bec5dbe3334ee52bd6c8f88151\"",
+    "etag": "W/\"099511b298e19941c995c9d7209abeb7ea715afd4d71c3d3d2a44ea0b00e081e\"",
     "last_updated": 1605573900,
-    "modified": "Mon, 15 Nov 2021 08:10:12 GMT",
+    "modified": "Mon, 15 Nov 2021 21:57:02 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8b67a71e7827542c0650344943bc49601f4f026e13d51b26a13e49c6975d8240\"",
+    "etag": "W/\"735c1adebb58fd0499270d27ded97321367a5e9866cd429394eccba73552af31\"",
     "last_updated": 1634747880,
-    "modified": "Mon, 15 Nov 2021 11:44:31 GMT",
+    "modified": "Mon, 15 Nov 2021 21:58:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -215,21 +215,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f9a8801c06f32edac83e6f3525ccc94f\"",
+    "etag": "W/\"c58e3d0d8bb6b6344ef20c8250d1f793\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 15 Nov 2021 19:23:00 GMT",
+    "modified": "Mon, 15 Nov 2021 22:56:43 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"f9a8801c06f32edac83e6f3525ccc94f\"",
+    "etag": "W/\"c58e3d0d8bb6b6344ef20c8250d1f793\"",
     "last_updated": 1636563648,
-    "modified": "Mon, 15 Nov 2021 19:23:00 GMT",
+    "modified": "Mon, 15 Nov 2021 22:56:43 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3ffae9df89d0930e044e437cb6a8dfdb",
+    "etag": "cacheable:780310b8c8649fc776d933f0b3c6192a",
     "last_updated": 1636996754,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9d778b9bd20115905e60a3874f9973b6\"",
+    "etag": "\"4a8267074862e4404469a7e4071a9bc1\"",
     "last_updated": 1635008953,
-    "modified": "Mon, 15 Nov 2021 18:18:51 GMT",
+    "modified": "Tue, 16 Nov 2021 00:50:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -308,8 +308,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1635460860,
-    "modified": "Thu, 28 Oct 2021 22:41:00 +0000",
+    "last_updated": 1637016600,
+    "modified": "Mon, 15 Nov 2021 22:50:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -524,9 +524,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6191e956-881\"",
-    "last_updated": 1636693200,
-    "modified": "Mon, 15 Nov 2021 05:00:06 GMT",
+    "etag": "W/\"6192dc9d-881\"",
+    "last_updated": 1636952400,
+    "modified": "Mon, 15 Nov 2021 22:18:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
