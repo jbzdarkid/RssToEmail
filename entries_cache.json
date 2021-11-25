@@ -107,16 +107,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6210c44c5a670d37fd869738c48645254bc89e17e51f97576bbae677566077fe\"",
+    "etag": "W/\"826e89d8850f26897de36f209349f94e43ac6117b0d29d3c3c1a2a62b0e51a0a\"",
     "last_updated": 1605573900,
-    "modified": "Wed, 24 Nov 2021 15:50:17 GMT",
+    "modified": "Thu, 25 Nov 2021 06:18:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3ccb068c2acfe3e4a956c5a179e6dad9aff4c633a2518a4e0ad3a4d9f78e732a\"",
+    "etag": "W/\"69246c66861635a907d79fa0329538c307cb148687bd4c89e69a0c034ab6384d\"",
     "last_updated": 1634747880,
-    "modified": "Thu, 25 Nov 2021 00:25:44 GMT",
+    "modified": "Thu, 25 Nov 2021 05:14:45 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -229,7 +229,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e3d823037418daaea9812bd68cae46ac",
+    "etag": "cacheable:895a6154fd735b92e7ccca95f57684c1",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -264,14 +264,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1637730000,
+    "last_updated": 1637816400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"21a5f0138cd54a20986a3f4e4740c99e\"",
+    "etag": "\"97df1caec681a3cb6a3840691097fb61\"",
     "last_updated": 1635008953,
-    "modified": "Thu, 25 Nov 2021 03:03:24 GMT",
+    "modified": "Thu, 25 Nov 2021 06:07:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -524,9 +524,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"619dc6d8-82a\"",
-    "last_updated": 1637557200,
-    "modified": "Wed, 24 Nov 2021 05:00:08 GMT",
+    "etag": "W/\"619f0d70-7f8\"",
+    "last_updated": 1637730000,
+    "modified": "Thu, 25 Nov 2021 04:13:36 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
