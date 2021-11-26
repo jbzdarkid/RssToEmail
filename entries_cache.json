@@ -107,16 +107,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"219fecd88352ce2a36e0684b03d0943deaabda3673de0806b7afb02eb6f02acb\"",
+    "etag": "W/\"2a614138d7ff1130cdea8c198c79dc048d6d21b4b05674b4e9bea5dd45861279\"",
     "last_updated": 1605573900,
-    "modified": "Fri, 26 Nov 2021 10:32:39 GMT",
+    "modified": "Fri, 26 Nov 2021 13:14:23 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8a1e3150b52ebdeaa05059ad37df47610b65b9a91a8a70c5bac7d8b69b546c24\"",
+    "etag": "W/\"a4cabaa66190a157dfb1ac537c53db8f220ef1fac8c7df360de96ea5a26c9d0a\"",
     "last_updated": 1634747880,
-    "modified": "Fri, 26 Nov 2021 12:07:48 GMT",
+    "modified": "Fri, 26 Nov 2021 13:50:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -229,19 +229,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:50ba71a10b300f6d6b72088ab3773a5b",
+    "etag": "cacheable:d6bfa9ff677260d0f9146e360a036e4c",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D9A908C02B193A\"",
+    "etag": "\"0x8D9B0EAF28F6E1D\"",
     "last_updated": 0,
-    "modified": "Tue, 16 Nov 2021 13:55:29 GMT",
+    "modified": "Fri, 26 Nov 2021 14:42:18 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1229.html",
       "http://www.giantitp.com/comics/oots1230.html",
       "http://www.giantitp.com/comics/oots1231.html",
       "http://www.giantitp.com/comics/oots1232.html",
@@ -260,7 +259,8 @@
       "http://www.giantitp.com/comics/oots1245.html",
       "http://www.giantitp.com/comics/oots1246.html",
       "http://www.giantitp.com/comics/oots1247.html",
-      "http://www.giantitp.com/comics/oots1248.html"
+      "http://www.giantitp.com/comics/oots1248.html",
+      "http://www.giantitp.com/comics/oots1249.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"bbd81e18224469382acc10ee321fe7ff\"",
+    "etag": "\"855c28601d3dfa60e6826e8b9d0e004a\"",
     "last_updated": 1635008953,
-    "modified": "Fri, 26 Nov 2021 12:10:44 GMT",
+    "modified": "Fri, 26 Nov 2021 15:13:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
