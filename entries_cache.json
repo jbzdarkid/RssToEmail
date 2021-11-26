@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "last_updated": 1637733600,
+    "last_updated": 1637906400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
     "seen_entries": []
@@ -114,9 +114,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6eb146a2f819cd420af98e83ee42d5bade572eaf7d8a6f80df3901cc6ff1f917\"",
+    "etag": "W/\"c6cc4b25c22ce04075b40e1094d99847f1a3411edcf56855ea874a61a29627d7\"",
     "last_updated": 1634747880,
-    "modified": "Thu, 25 Nov 2021 22:34:19 GMT",
+    "modified": "Fri, 26 Nov 2021 05:55:00 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -229,7 +229,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:cc231e8cd827cfb3ce35331e24ae9951",
+    "etag": "cacheable:506acee1d6d7ee724626f3d8d8ed20b6",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -264,14 +264,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1637816400,
+    "last_updated": 1637902800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5efddd589bc4b87b6f5b4227b41e39a7\"",
+    "etag": "\"f88860fc6614bf59bc5e69c0f02a85e9\"",
     "last_updated": 1635008953,
-    "modified": "Fri, 26 Nov 2021 02:17:07 GMT",
+    "modified": "Fri, 26 Nov 2021 04:35:27 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -524,9 +524,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"619f0d70-7f8\"",
+    "etag": "W/\"61a069d7-7f8\"",
     "last_updated": 1637730000,
-    "modified": "Thu, 25 Nov 2021 04:13:36 GMT",
+    "modified": "Fri, 26 Nov 2021 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
