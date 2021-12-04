@@ -107,9 +107,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f9f2475c1cef5f483dbdb6b08aa279cc97303f559a000542dc683eea2f4bcc3e\"",
+    "etag": "W/\"88922d92d6ad580697370d8e51f390c4c2e928ff24631b6193cd8d17547a53ea\"",
     "last_updated": 1605573900,
-    "modified": "Sat, 04 Dec 2021 10:07:39 GMT",
+    "modified": "Sat, 04 Dec 2021 18:07:21 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1638630047,
+    "last_updated": 1638631400,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -229,7 +229,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5f32d884ebb95e77827ec95e33f9acbd",
+    "etag": "cacheable:d8d899b996e0449f5ce72b4011f0cd22",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -269,9 +269,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4e2c3f1ab13cc6cef3323a7540cff69e\"",
+    "etag": "\"1f4196f7386f67fb2f240aff875603e3\"",
     "last_updated": 1638450379,
-    "modified": "Sat, 04 Dec 2021 15:13:32 GMT",
+    "modified": "Sat, 04 Dec 2021 18:12:07 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -320,16 +320,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"31aaa18f648bdb403ffa169c94c8e226\"",
-    "last_updated": 1637859602,
-    "modified": "Sat, 04 Dec 2021 05:53:16 GMT",
+    "etag": "W/\"614f7e0d6362bb09589dccffdff5fabc\"",
+    "last_updated": 1638637251,
+    "modified": "Sat, 04 Dec 2021 17:03:21 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"31aaa18f648bdb403ffa169c94c8e226\"",
+    "etag": "W/\"614f7e0d6362bb09589dccffdff5fabc\"",
     "last_updated": 1636751602,
-    "modified": "Sat, 04 Dec 2021 05:53:16 GMT",
+    "modified": "Sat, 04 Dec 2021 17:03:21 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
