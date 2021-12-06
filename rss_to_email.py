@@ -2,8 +2,9 @@ import defusedxml
 defusedxml.defuse_stdlib()
 
 import feedparser
+import ssl
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from fileinput import input as fileinput
 from html import unescape
 from json import load, dump
@@ -15,6 +16,15 @@ from urllib.error import URLError
 from xml.sax import SAXException
 
 from entry import *
+
+
+# Disable SSL verification, because many of these websites are run by small developers who don't care about https
+# https://stackoverflow.com/q/28282797
+try:
+    ssl._create_default_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+
 
 def parse_feeds(cache, feed_url):
     etag = None
@@ -37,8 +47,8 @@ def parse_feeds(cache, feed_url):
     if d['bozo'] == 1:
         if (isinstance(d['bozo_exception'], URLError) # Network error
          or isinstance(d['bozo_exception'], SAXException)): # XML Parsing error
-            print(f'URLError while parsing feed: {feed_url}\n')
-            print_exception(d['bozo_exception'], None, None, chain=False)
+            print(f'URLError while parsing feed: {feed_url}')
+            print_exception(None, d['bozo_exception'], None, chain=False)
             return [] # These two errors are indicative of a critical parse failure, so there's no value in continuing.
 
     if d['status'] == 304: # etag / modified indicates no new data
@@ -121,25 +131,35 @@ def handle_entries(entries, cache, email_server):
             # Keep only the most recent 20 (OOTS sends only 10)
             cache[entry.url]['seen_entries'] = cache[entry.url]['seen_entries'][-19:] + [entry.link]
             new_entries.append(entry)
-    
-    # Special handling to discard youtube premiers
-    def is_youtube_premier(entry):
-        if 'youtube.com' not in entry.url:
-            return False
-        print(f'Making expensive HTTP call to {entry.link}')
-        data = request.urlopen(entry.link).read()
-        return b'<meta itemprop="isLiveBroadcast" content="True">' in data
 
-    # Python magic to filter the list without making a copy: https://stackoverflow.com/a/1207461
-    new_entries[:] = [entry for entry in new_entries if not is_youtube_premier(entry)]
+    # Special handling to discard youtube premiers
+    def is_valid_entry(entry):
+        if 'youtube.com' in entry.url:
+            data = request.urlopen(entry.link).read().decode('utf-8', errors='surrogateescape')
+
+            # "Live Broadcast" means premier
+            if '<meta itemprop="isLiveBroadcast" content="True">' in data:
+                start_date_idx = data.find('<meta itemprop="startDate" content="')
+                if start_date_idx == -1:
+                    return False
+                start_date_str = data[start_date_idx+36:start_date_idx+36+25]
+                start_date = datetime.strptime(start_date_str, '%Y-%m-%dT%H:%M:%S%z')
+
+                return start_date <= datetime.now(timezone.utc)
+
+        # Not from youtube, not a youtube premier
+        return True
+
+
+    new_entries[:] = [entry for entry in new_entries if is_valid_entry(entry)]
 
     print(f'Found {len(new_entries)} total new entries, sending emails')
 
     for entry in new_entries:
         entry.send_email(email_server, cache[entry.url]['name'])
-        
+
     print('Done sending emails')
-    
+
     with open('entries_cache.json', 'w') as f:
         dump(cache, f, sort_keys=True, indent=2)
 
