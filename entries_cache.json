@@ -114,9 +114,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"fa064c2cce76e8d4310ed45fed970f6f7d4c977709fc1fdd8700d5f962ca48a5\"",
+    "etag": "W/\"742cf6c0ef75a5c8c29f148dcecade3fdcfdb8e5872311b3acaa2f8cd23c4ecc\"",
     "last_updated": 1638383880,
-    "modified": "Sun, 05 Dec 2021 22:05:08 GMT",
+    "modified": "Mon, 06 Dec 2021 03:43:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -205,7 +205,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1638162000,
+    "last_updated": 1638766800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -215,21 +215,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"79f1fc3ddddb9573de3975ee182bf9fb\"",
+    "etag": "W/\"54e019ec1ab40560b5d64e266eeea19e\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 05 Dec 2021 18:47:59 GMT",
+    "modified": "Mon, 06 Dec 2021 05:15:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"79f1fc3ddddb9573de3975ee182bf9fb\"",
+    "etag": "W/\"54e019ec1ab40560b5d64e266eeea19e\"",
     "last_updated": 1638378036,
-    "modified": "Sun, 05 Dec 2021 18:47:59 GMT",
+    "modified": "Mon, 06 Dec 2021 05:15:59 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:85e6269edac6f6924669b66849d997eb",
+    "etag": "cacheable:679cb728af0e21f9cec90536a50a4750",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -264,14 +264,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1638507600,
+    "last_updated": 1638766800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"88fd9f1a36bde77b3fb8ce7f62f6e519\"",
+    "etag": "\"7710672cbdb771f5b8e64cc3bbf3911a\"",
     "last_updated": 1638450379,
-    "modified": "Sun, 05 Dec 2021 23:14:00 GMT",
+    "modified": "Mon, 06 Dec 2021 06:14:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -344,7 +344,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1638508919,
+    "last_updated": 1638770144,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -524,9 +524,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61aaeb3b-971\"",
+    "etag": "W/\"61ad98d7-971\"",
     "last_updated": 1638507600,
-    "modified": "Sat, 04 Dec 2021 04:14:51 GMT",
+    "modified": "Mon, 06 Dec 2021 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
