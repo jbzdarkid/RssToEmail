@@ -115,9 +115,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"56815286207538b9fad5a06e1f3c271ada408a7e9f2d46fbe6b3483e30110e82\"",
+    "etag": "W/\"0fee838fd3de39db30aca6b9d088664a10d6d9c5b9b3bdb87d2b55785382ce70\"",
     "last_updated": 1638383880,
-    "modified": "Thu, 09 Dec 2021 20:37:03 GMT",
+    "modified": "Thu, 09 Dec 2021 23:47:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -194,7 +194,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1638736718,
+    "last_updated": 1639091229,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -216,21 +216,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"71ab89d2496e7b2f57b7370191b546b2\"",
+    "etag": "W/\"fdfab0c19fbb28ca592dba0b0ed38670\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 09 Dec 2021 17:00:09 GMT",
+    "modified": "Thu, 09 Dec 2021 23:50:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"71ab89d2496e7b2f57b7370191b546b2\"",
+    "etag": "W/\"fdfab0c19fbb28ca592dba0b0ed38670\"",
     "last_updated": 1638982858,
-    "modified": "Thu, 09 Dec 2021 17:00:09 GMT",
+    "modified": "Thu, 09 Dec 2021 23:50:20 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3f547b0bdb405c600c014f5403994699",
+    "etag": "cacheable:22052c3e871d684ccb238733e62adfe0",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -270,9 +270,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1c41e0cc0da2e992268ea23a05bf60cd\"",
+    "etag": "\"709bd1f5bc570e3b72f9acf7fd113086\"",
     "last_updated": 1638792647,
-    "modified": "Thu, 09 Dec 2021 21:10:32 GMT",
+    "modified": "Fri, 10 Dec 2021 00:48:05 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -309,8 +309,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1639000020,
-    "modified": "Wed, 08 Dec 2021 21:47:00 +0000",
+    "last_updated": 1639080600,
+    "modified": "Thu, 09 Dec 2021 20:10:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -425,7 +425,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1638910826,
+    "last_updated": 1639083615,
     "name": "TheRunawayGuys",
     "seen_entries": []
   },
@@ -510,7 +510,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1639074676,
+    "last_updated": 1639091418,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
