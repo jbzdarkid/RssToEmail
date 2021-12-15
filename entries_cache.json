@@ -116,9 +116,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b3b939d168b9086275585f4f5b2d8185c60fe3cb3bfeedaf48c7feca54cb404c\"",
+    "etag": "W/\"653574d7a660427238fbd73ff81c23a596ff78b6b261f84e46197673f77b709d\"",
     "last_updated": 1638383880,
-    "modified": "Tue, 14 Dec 2021 19:55:37 GMT",
+    "modified": "Wed, 15 Dec 2021 04:07:24 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -231,7 +231,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:94f73eef4c3ba6d5bc5db26e22bebd80",
+    "etag": "cacheable:15e16c2d0eb474b9b89c499ebc1faf2c",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -266,7 +266,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1639458000,
+    "last_updated": 1639544400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -346,7 +346,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1639379432,
+    "last_updated": 1639548194,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -356,7 +356,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1639458031,
+    "last_updated": 1639544410,
     "name": "GDC",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61b7648c-8dd\"",
+    "etag": "W/\"61b97658-8dd\"",
     "last_updated": 1639371600,
-    "modified": "Mon, 13 Dec 2021 15:19:40 GMT",
+    "modified": "Wed, 15 Dec 2021 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
