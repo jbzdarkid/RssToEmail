@@ -109,16 +109,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c037ab062567db2acc5ef78be36ffade8bf204825b95ac31852b256d61148b90\"",
+    "etag": "W/\"229287feed59a909f378cefa2cd3f6b0aae436d02e931f9659355eb687839ca5\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 15 Dec 2021 22:53:07 GMT",
+    "modified": "Thu, 16 Dec 2021 05:40:25 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"69fddbffc35b4e559f16648c498dc1ddb2688a8b94d58bdd0d354080d265c6d2\"",
+    "etag": "W/\"6c54f8ac45fcdbf9ed72ca23574834c442b7534b90bd00c2ba5d68ada9fd0969\"",
     "last_updated": 1639587600,
-    "modified": "Thu, 16 Dec 2021 02:12:34 GMT",
+    "modified": "Thu, 16 Dec 2021 05:49:13 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -231,7 +231,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:827df2f98b04700393b73a6716f55f3d",
+    "etag": "cacheable:00aec7f90c76cf84d91dedab97548361",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -266,7 +266,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1639544400,
+    "last_updated": 1639630800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -356,7 +356,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1639544410,
+    "last_updated": 1639630800,
     "name": "GDC",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61b97658-8dd\"",
-    "last_updated": 1639371600,
-    "modified": "Wed, 15 Dec 2021 05:00:08 GMT",
+    "etag": "W/\"61bac8e1-89f\"",
+    "last_updated": 1639544400,
+    "modified": "Thu, 16 Dec 2021 05:04:33 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
