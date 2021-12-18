@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1639692996,
+    "last_updated": 1639782001,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -109,16 +109,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"81aa4f1cf498c08ba8959a979d55a8d8653c14dd26292e8164e0a4f83746f7cb\"",
+    "etag": "W/\"fc8439f80cb3d88749eca334dcbb038f6ef0e56f19b80946e882372b137ec7ce\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 17 Dec 2021 19:55:51 GMT",
+    "modified": "Fri, 17 Dec 2021 23:21:49 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"fa10b18e7933b1f71dde87b24b573e0a8b1b38e1a062a06411b32cc61e4079d1\"",
+    "etag": "W/\"fa39b147436abc327c9f6955b6d05892e466a8bb41ab1affa65fe2a3d35dfe00\"",
     "last_updated": 1639587600,
-    "modified": "Fri, 17 Dec 2021 20:46:23 GMT",
+    "modified": "Fri, 17 Dec 2021 23:20:04 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -231,7 +231,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:cbcce8162a24f6f73503551997253cc2",
+    "etag": "cacheable:e49e7cb8e9507c36e950ece39dcfa624",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -271,9 +271,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d5ffe9badd4e841a819d408ac2bc9281\"",
+    "etag": "\"e986f05c13d265e8ca0b82b67e1b715d\"",
     "last_updated": 1639588582,
-    "modified": "Fri, 17 Dec 2021 20:52:25 GMT",
+    "modified": "Fri, 17 Dec 2021 23:52:10 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61bc1957-89f\"",
-    "last_updated": 1639544400,
-    "modified": "Fri, 17 Dec 2021 05:00:07 GMT",
+    "etag": "W/\"61bd09bc-8e5\"",
+    "last_updated": 1639717200,
+    "modified": "Fri, 17 Dec 2021 22:05:48 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
