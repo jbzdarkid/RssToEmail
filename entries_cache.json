@@ -116,9 +116,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e7558360de189a1ed251afcc00af2b4c5cdbae0df83f2543af48c77e08e5725a\"",
+    "etag": "W/\"544dde78255a1338f6b7cc010ed040829d22bebfe07423211f278f8955645479\"",
     "last_updated": 1639587600,
-    "modified": "Mon, 20 Dec 2021 17:39:41 GMT",
+    "modified": "Mon, 20 Dec 2021 20:02:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -217,21 +217,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"aec66d55f0835323c942e9d125e47354\"",
+    "etag": "W/\"b52cf173e44c279f788a889e59de5f38\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 20 Dec 2021 17:12:15 GMT",
+    "modified": "Mon, 20 Dec 2021 20:09:36 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"aec66d55f0835323c942e9d125e47354\"",
+    "etag": "W/\"b52cf173e44c279f788a889e59de5f38\"",
     "last_updated": 1639587640,
-    "modified": "Mon, 20 Dec 2021 17:12:15 GMT",
+    "modified": "Mon, 20 Dec 2021 20:09:36 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fa3ea5e0e4e9a119f10f8ff1f47ad540",
+    "etag": "cacheable:19548c85d660981ae72f75aebfbdda3c",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -271,9 +271,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"367a1a6d92166af4634a9f366d3cbb2a\"",
+    "etag": "\"94f971cbcafa72cf8ad48bc63e412dc2\"",
     "last_updated": 1639588582,
-    "modified": "Mon, 20 Dec 2021 17:51:23 GMT",
+    "modified": "Mon, 20 Dec 2021 21:08:18 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -511,7 +511,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1639698506,
+    "last_updated": 1640032785,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61c094ca-8e5\"",
-    "last_updated": 1639717200,
-    "modified": "Mon, 20 Dec 2021 14:35:54 GMT",
+    "etag": "W/\"61c0dbfc-9f1\"",
+    "last_updated": 1639976400,
+    "modified": "Mon, 20 Dec 2021 19:39:40 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
