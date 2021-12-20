@@ -109,16 +109,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"83e44f481a27e616e82913b0b0f243c353214fe395742707b4450190ca0f1fb0\"",
+    "etag": "W/\"e13abf546bdc7df5f87f3463c9fb02a2b25e3f0344d331a68cbca8b72d521f2f\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 19 Dec 2021 21:16:30 GMT",
+    "modified": "Mon, 20 Dec 2021 03:29:20 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1f594aaf4787d5baada585707d8967f6e6e8516e26c1d71381bca8dbba552e4d\"",
+    "etag": "W/\"7a637d975cdd87d4d45fb8cc9256af2da9b9909429b0816368d90762b89f3e58\"",
     "last_updated": 1639587600,
-    "modified": "Sun, 19 Dec 2021 23:50:26 GMT",
+    "modified": "Mon, 20 Dec 2021 05:20:50 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -207,7 +207,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1639371600,
+    "last_updated": 1639976400,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -231,7 +231,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:87fde467a520ff24d0407f3bc8c835a6",
+    "etag": "cacheable:4c8bef1d0dbf8500988e316cbbece61c",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -346,7 +346,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1639720856,
+    "last_updated": 1639980590,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61bd09bc-8e5\"",
+    "etag": "W/\"61c00dd7-8e5\"",
     "last_updated": 1639717200,
-    "modified": "Fri, 17 Dec 2021 22:05:48 GMT",
+    "modified": "Mon, 20 Dec 2021 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
