@@ -57,7 +57,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f45-27cBqQ+aTv6NQPmUUKAUMs+GUXs-df\"",
+    "etag": "\"8f45-akfn+FGO54cxVTaoIkZ0T9zA8ho-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -219,21 +219,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"86db5f0b96e0cb943ea5b8d87b0325a5\"",
+    "etag": "W/\"48b3c23438b6fa5ba154c9c83bccee9e\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 06 Jan 2022 21:54:17 GMT",
+    "modified": "Fri, 07 Jan 2022 02:54:10 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"86db5f0b96e0cb943ea5b8d87b0325a5\"",
+    "etag": "W/\"48b3c23438b6fa5ba154c9c83bccee9e\"",
     "last_updated": 1641402046,
-    "modified": "Thu, 06 Jan 2022 21:54:17 GMT",
+    "modified": "Fri, 07 Jan 2022 02:54:10 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:956742c926d94ab5a15be40b64771466",
+    "etag": "cacheable:06b9495bef2dd0068b03ef320ec02179",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -268,7 +268,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1641445200,
+    "last_updated": 1641531600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -348,7 +348,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1641362396,
+    "last_updated": 1641535115,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -528,9 +528,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61d5afe7-82b\"",
+    "etag": "W/\"61d7c8d8-82b\"",
     "last_updated": 1641358800,
-    "modified": "Wed, 05 Jan 2022 14:49:11 GMT",
+    "modified": "Fri, 07 Jan 2022 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
