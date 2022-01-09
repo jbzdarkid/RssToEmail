@@ -117,9 +117,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3e548d342d6848a6575df449af55f5652ec8217ab9b754dce62d958093fb8fb4\"",
+    "etag": "W/\"9153ab832c22d4fb6d1782e3126f44e7a2d4a1cbccf0147a1d7de326fcaefcb7\"",
     "last_updated": 1639587600,
-    "modified": "Sat, 08 Jan 2022 20:48:30 GMT",
+    "modified": "Sat, 08 Jan 2022 21:22:59 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -219,21 +219,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6d08ebb3ed63bcbd6fbb293536991310\"",
+    "etag": "W/\"044f00eae06c9008622a500336a34d19\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 08 Jan 2022 18:43:54 GMT",
+    "modified": "Sat, 08 Jan 2022 23:27:27 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"6d08ebb3ed63bcbd6fbb293536991310\"",
+    "etag": "W/\"044f00eae06c9008622a500336a34d19\"",
     "last_updated": 1641402046,
-    "modified": "Sat, 08 Jan 2022 18:43:54 GMT",
+    "modified": "Sat, 08 Jan 2022 23:27:27 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4ec7033b5c7dd333446cde3a9ceed04f",
+    "etag": "cacheable:f96aa80009d89968dc8b9e772cafcad9",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -273,9 +273,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"84d4907626fdd20af9c9e698d2cb5b82\"",
+    "etag": "\"fc6a04a459c5f2a30a73750a66e326f6\"",
     "last_updated": 1639588582,
-    "modified": "Sat, 08 Jan 2022 19:16:09 GMT",
+    "modified": "Sun, 09 Jan 2022 00:35:37 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -513,7 +513,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1641603286,
+    "last_updated": 1641682119,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -528,9 +528,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61d9153f-819\"",
+    "etag": "W/\"61da0180-819\"",
     "last_updated": 1641531600,
-    "modified": "Sat, 08 Jan 2022 04:38:23 GMT",
+    "modified": "Sat, 08 Jan 2022 21:26:24 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
