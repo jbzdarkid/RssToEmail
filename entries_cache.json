@@ -145,7 +145,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Thu, 13 Jan 2022 14:13:46 GMT",
+    "modified": "Thu, 13 Jan 2022 17:17:41 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -224,21 +224,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f6e866507578a64f56caaaea946b0fd7\"",
+    "etag": "W/\"548157aabf300c6c5eae7fb47bdb6c60\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 12 Jan 2022 22:03:51 GMT",
+    "modified": "Thu, 13 Jan 2022 17:00:35 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"f6e866507578a64f56caaaea946b0fd7\"",
+    "etag": "W/\"548157aabf300c6c5eae7fb47bdb6c60\"",
     "last_updated": 1642006811,
-    "modified": "Wed, 12 Jan 2022 22:03:51 GMT",
+    "modified": "Thu, 13 Jan 2022 17:00:35 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c0ee3b0e7d0e8299e4254def748d5edc",
+    "etag": "cacheable:328d7333fe96663b223b00425b0ccd0c",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -278,9 +278,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"bbce49cede0e510eaff332e14994db86\"",
+    "etag": "\"003abbbb6183c756bc6d8e732ea5ed89\"",
     "last_updated": 1641918652,
-    "modified": "Thu, 13 Jan 2022 14:38:50 GMT",
+    "modified": "Thu, 13 Jan 2022 18:13:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -329,16 +329,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f07d512d001054f51ac87f6c5183aa37\"",
-    "last_updated": 1641488449,
-    "modified": "Thu, 13 Jan 2022 11:12:22 GMT",
+    "etag": "W/\"fa03f9b9294619fa169928371b2bbdb7\"",
+    "last_updated": 1642093234,
+    "modified": "Thu, 13 Jan 2022 17:00:34 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f07d512d001054f51ac87f6c5183aa37\"",
+    "etag": "W/\"fa03f9b9294619fa169928371b2bbdb7\"",
     "last_updated": 1636751602,
-    "modified": "Thu, 13 Jan 2022 11:12:22 GMT",
+    "modified": "Thu, 13 Jan 2022 17:00:34 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -508,7 +508,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1640105505,
+    "last_updated": 1642093379,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
