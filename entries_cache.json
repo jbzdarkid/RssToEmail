@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"c36c62c3be415824a10a702ab31c7d7e\"",
+    "etag": "W/\"5ce7ca48bc51b2bb4eeff329dce5ad23\"",
     "last_updated": 1640665793,
-    "modified": "Tue, 11 Jan 2022 23:33:54 GMT",
+    "modified": "Wed, 12 Jan 2022 21:34:39 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=rss": {
-    "last_updated": 1641945600,
+    "last_updated": 1642032000,
     "name": "Wikipedia featured articles feed",
     "seen_entries": []
   },
@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-w/Ioi+uviZwVLZrhv0aeWzv9vjo-df\"",
+    "etag": "\"8f45-lWMQTSgliUM7K8zLL9cNUM3UfQs-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -115,16 +115,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0d68511495c39c250f2f99371efbc747e3c772df4423b40b819be55b29972797\"",
+    "etag": "W/\"9d647822142c12e5421898ae644f4eeb8c4f3ef2ff28848ae57cb060d5d66912\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 12 Jan 2022 19:29:30 GMT",
+    "modified": "Wed, 12 Jan 2022 21:53:34 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a4a7cc6268cf879b009e0a15bc963f0ecaa2ddc38fbba7fa0a68cf074606786f\"",
+    "etag": "W/\"ac42e6e8980f536d924e5b8fc274815148b7e8fd8903cbea77eaeb67c1fd26dc\"",
     "last_updated": 1639587600,
-    "modified": "Wed, 12 Jan 2022 10:02:01 GMT",
+    "modified": "Wed, 12 Jan 2022 23:10:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -224,21 +224,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"51895508bacd659f4cfd803e7c44ce49\"",
+    "etag": "W/\"f6e866507578a64f56caaaea946b0fd7\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 12 Jan 2022 19:00:37 GMT",
+    "modified": "Wed, 12 Jan 2022 22:03:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"51895508bacd659f4cfd803e7c44ce49\"",
+    "etag": "W/\"f6e866507578a64f56caaaea946b0fd7\"",
     "last_updated": 1642006811,
-    "modified": "Wed, 12 Jan 2022 19:00:37 GMT",
+    "modified": "Wed, 12 Jan 2022 22:03:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ea0444cb698bf41c67a3eda73b5e3e0a",
+    "etag": "cacheable:35db7e0b81fce61539c8c8789f0d3f3d",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -278,9 +278,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"62dfb9a0a6fd3f3923bed5c28d26d57f\"",
+    "etag": "\"99ef3e0ea1a58b814ca51f92d28d2fae\"",
     "last_updated": 1641918652,
-    "modified": "Wed, 12 Jan 2022 19:21:02 GMT",
+    "modified": "Thu, 13 Jan 2022 00:23:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -329,16 +329,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"293b7affa624fd571a4f7a2860701359\"",
+    "etag": "W/\"86fe2958558ab8ea937ff53aee2455bf\"",
     "last_updated": 1641488449,
-    "modified": "Wed, 12 Jan 2022 09:33:44 GMT",
+    "modified": "Wed, 12 Jan 2022 23:47:49 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"293b7affa624fd571a4f7a2860701359\"",
+    "etag": "W/\"75ee9fa0c44add61c5d0c16c8238b0b1\"",
     "last_updated": 1636751602,
-    "modified": "Wed, 12 Jan 2022 09:33:44 GMT",
+    "modified": "Thu, 13 Jan 2022 00:45:40 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
