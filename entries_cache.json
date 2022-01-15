@@ -51,7 +51,7 @@
     "seen_entries": []
   },
   "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=rss": {
-    "last_updated": 1642118400,
+    "last_updated": 1642204800,
     "name": "Wikipedia featured articles feed",
     "seen_entries": []
   },
@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-aDK2wO3ntgumE0jnhwGrp8lcJXw-df\"",
+    "etag": "\"b01b-02OWRTiKAxXHB7BJxlsyHKoCMoA-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -239,7 +239,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e4a4c5141cc0a0218479fb1724e1ded9",
+    "etag": "cacheable:10c5b1c670d08e288faa0312454afeb6",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -279,9 +279,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e60b61bc6b3baed99d9e47b7e07d3fe0\"",
+    "etag": "\"05c41d98231e7a8df6adae9d88f2254e\"",
     "last_updated": 1641918652,
-    "modified": "Fri, 14 Jan 2022 21:11:18 GMT",
+    "modified": "Fri, 14 Jan 2022 23:40:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
