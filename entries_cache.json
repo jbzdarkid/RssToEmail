@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-LdU4jB62mY7IPM+c6qQqtWpt+uo-df\"",
+    "etag": "\"bdab-iIwRI8NnQvkDKvDjJ9eDDebUu08-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -111,7 +111,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1642406606,
+    "last_updated": 1642570467,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -123,9 +123,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"cc2d75bc335fe53c2defa2d1e182068ac1bd2923a2315d83a59e7787f6719571\"",
+    "etag": "W/\"ebaac6043c751c189e1ec2f4baf9bfbe22b8ad6bd3fe37bf2599aca9a2025660\"",
     "last_updated": 1642526880,
-    "modified": "Tue, 18 Jan 2022 21:52:37 GMT",
+    "modified": "Wed, 19 Jan 2022 05:52:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -225,21 +225,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a2586e9cce84a5de5e6a6eaaf8379c79\"",
+    "etag": "W/\"5704a11435ede6c9819cd610734c0bd1\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 18 Jan 2022 22:42:40 GMT",
+    "modified": "Wed, 19 Jan 2022 04:55:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a2586e9cce84a5de5e6a6eaaf8379c79\"",
+    "etag": "W/\"5704a11435ede6c9819cd610734c0bd1\"",
     "last_updated": 1642006811,
-    "modified": "Tue, 18 Jan 2022 22:42:40 GMT",
+    "modified": "Wed, 19 Jan 2022 04:55:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ae018f6b90f278b71c6653ebb2d79401",
+    "etag": "cacheable:e086080e03b50b12ec6b226671d758f3",
     "last_updated": 1637774390,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -274,7 +274,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1642482000,
+    "last_updated": 1642568400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -354,7 +354,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1642399559,
+    "last_updated": 1642565700,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -534,9 +534,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61e647c9-aef\"",
+    "etag": "W/\"61e79ad8-aef\"",
     "last_updated": 1642395600,
-    "modified": "Tue, 18 Jan 2022 04:53:29 GMT",
+    "modified": "Wed, 19 Jan 2022 05:00:08 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
