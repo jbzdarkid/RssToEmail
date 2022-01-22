@@ -123,9 +123,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ade97823a0e8f618820500676798756aa790ab2ceb950e52ed0403c6e5ad0b56\"",
+    "etag": "W/\"d618f5924080aa1c607d641ca267770a2cf570aa7cf4d9ed489037bdf060f2c1\"",
     "last_updated": 1642526880,
-    "modified": "Sat, 22 Jan 2022 10:24:35 GMT",
+    "modified": "Sat, 22 Jan 2022 14:28:06 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -239,19 +239,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:efed028c25fce59429033b932d08efde",
+    "etag": "cacheable:8577ad2f10eed14edd501d10141f9c31",
     "last_updated": 1642610747,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8D9D1E7C25286BF\"",
+    "etag": "\"0x8D9DDA7A7507ADC\"",
     "last_updated": 0,
-    "modified": "Fri, 07 Jan 2022 14:12:37 GMT",
+    "modified": "Sat, 22 Jan 2022 13:03:58 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1232.html",
       "http://www.giantitp.com/comics/oots1233.html",
       "http://www.giantitp.com/comics/oots1234.html",
       "http://www.giantitp.com/comics/oots1235.html",
@@ -270,7 +269,8 @@
       "http://www.giantitp.com/comics/oots1248.html",
       "http://www.giantitp.com/comics/oots1249.html",
       "http://www.giantitp.com/comics/oots1250.html",
-      "http://www.giantitp.com/comics/oots1251.html"
+      "http://www.giantitp.com/comics/oots1251.html",
+      "http://www.giantitp.com/comics/oots1252.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
