@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-MQhMyig95Xws5zpNR/kR0VBFdQw-df\"",
+    "etag": "\"8f42-uMiMMUAT9pXn90YNFoQN5gerDGA-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -116,9 +116,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"908bbaa934eac81e740cc9cc113e9dde4e08c2186eb50a35e918e83ebdc91707\"",
+    "etag": "W/\"41e15e71d9d71ea72704cd8fa5b3e235d968d8a5b245a5d47c3abbf7d842e8d5\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 26 Jan 2022 03:10:43 GMT",
+    "modified": "Wed, 26 Jan 2022 06:12:12 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Tue, 25 Jan 2022 20:43:21 GMT",
+    "modified": "Wed, 26 Jan 2022 05:19:21 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -239,7 +239,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:62c1ab2d45db3453f8eb234ad5a62b4d",
+    "etag": "cacheable:655c3e1b934e325f4c50671b31a91667",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -274,7 +274,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1643086800,
+    "last_updated": 1643173200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -354,7 +354,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1643003618,
+    "last_updated": 1643173124,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -534,9 +534,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61efabc4-99d\"",
+    "etag": "W/\"61f0d557-99d\"",
     "last_updated": 1643000400,
-    "modified": "Tue, 25 Jan 2022 07:50:28 GMT",
+    "modified": "Wed, 26 Jan 2022 05:00:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
