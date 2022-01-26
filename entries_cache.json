@@ -116,16 +116,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9e184ef92668db7be898d970e6417e93cee79ae70158eaa3632931b0fbb198dd\"",
+    "etag": "W/\"e3eafec97b36b2a6c319b8d3b477e012f1bef633e2e0eb110d2ff1467f2fd27d\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 26 Jan 2022 10:26:53 GMT",
+    "modified": "Wed, 26 Jan 2022 14:06:38 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"4f62b4de96e588a15d3c69ee1c6af17436a8da39e1392186f872f3cac0c9ec04\"",
+    "etag": "W/\"2e7756ae891c52ad79d924ba8795f85804497f6fe4de93a2acf5c20f0444508d\"",
     "last_updated": 1642526880,
-    "modified": "Wed, 26 Jan 2022 09:43:51 GMT",
+    "modified": "Wed, 26 Jan 2022 15:01:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Wed, 26 Jan 2022 09:38:21 GMT",
+    "modified": "Wed, 26 Jan 2022 13:07:38 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -232,14 +232,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"18db3609cbee4a2e1bf5d745b5f7b9a8\"",
+    "etag": "W/\"8d12598ed803b90dc016380de6e2bc81\"",
     "last_updated": 1642006811,
-    "modified": "Tue, 25 Jan 2022 22:51:04 GMT",
+    "modified": "Wed, 26 Jan 2022 15:04:16 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:937746f6842ae40c16745f77c470f188",
+    "etag": "cacheable:faa636b73764b486c0e919d795a78970",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -279,9 +279,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ed38013bea91bee32246c80a19ccf4ae\"",
+    "etag": "\"1b0fdd073880bcc283399c10397f947a\"",
     "last_updated": 1642991288,
-    "modified": "Wed, 26 Jan 2022 11:14:49 GMT",
+    "modified": "Wed, 26 Jan 2022 15:13:59 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -364,7 +364,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1643119900,
+    "last_updated": 1643206235,
     "name": "GDC",
     "seen_entries": []
   },
@@ -509,7 +509,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1642093379,
+    "last_updated": 1643120123,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
