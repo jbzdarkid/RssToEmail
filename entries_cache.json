@@ -225,21 +225,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"18db3609cbee4a2e1bf5d745b5f7b9a8\"",
+    "etag": "W/\"a11bb7c82a75b9acfcc8e6f2eb77eae8\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 25 Jan 2022 22:51:04 GMT",
+    "modified": "Wed, 26 Jan 2022 18:03:57 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8d12598ed803b90dc016380de6e2bc81\"",
-    "last_updated": 1642006811,
-    "modified": "Wed, 26 Jan 2022 15:04:16 GMT",
+    "etag": "W/\"a11bb7c82a75b9acfcc8e6f2eb77eae8\"",
+    "last_updated": 1643216443,
+    "modified": "Wed, 26 Jan 2022 18:03:57 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:faa636b73764b486c0e919d795a78970",
+    "etag": "cacheable:0d4f687d19279707575d042d4f798c26",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -279,9 +279,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1b0fdd073880bcc283399c10397f947a\"",
+    "etag": "\"bef8de915270cc2f618406d8dec7efbc\"",
     "last_updated": 1642991288,
-    "modified": "Wed, 26 Jan 2022 15:13:59 GMT",
+    "modified": "Wed, 26 Jan 2022 17:47:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -509,7 +509,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1643120123,
+    "last_updated": 1643220016,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
@@ -534,9 +534,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61f0d557-99d\"",
-    "last_updated": 1643000400,
-    "modified": "Wed, 26 Jan 2022 05:00:07 GMT",
+    "etag": "W/\"61f18b63-9fd\"",
+    "last_updated": 1643173200,
+    "modified": "Wed, 26 Jan 2022 17:56:51 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
