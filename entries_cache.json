@@ -123,9 +123,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"07a2f5d5c6b70942ca10e8b76f96df721ddc4bc8ff067ebb58d8c2112ad1513a\"",
+    "etag": "W/\"b6538166af645de8f2a84c9ec482a04a377b05c313cd2733fb809b80956b092e\"",
     "last_updated": 1642526880,
-    "modified": "Sun, 30 Jan 2022 12:21:51 GMT",
+    "modified": "Sun, 30 Jan 2022 13:42:29 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Sun, 30 Jan 2022 01:05:20 GMT",
+    "modified": "Sun, 30 Jan 2022 14:14:22 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -239,7 +239,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4ec3e13d9cd53071eedc63082c6ed3bb",
+    "etag": "cacheable:ad1530f89912d3cbd003a3c1a4fc939f",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -279,9 +279,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"03564ca3eac97083546be5f2d3c48b21\"",
+    "etag": "\"53ed7f3230dffdfa390d47dc42210ae1\"",
     "last_updated": 1642991288,
-    "modified": "Sun, 30 Jan 2022 03:58:25 GMT",
+    "modified": "Sun, 30 Jan 2022 13:51:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -514,7 +514,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1632185584,
+    "last_updated": 1643554707,
     "name": "Retro Game Mechanics Explained",
     "seen_entries": []
   },
