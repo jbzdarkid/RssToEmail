@@ -5,7 +5,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:SanePerson": {
-    "last_updated": 1643029825,
+    "last_updated": 1643578974,
     "name": "DeviantArt: SanePerson's gallery",
     "seen_entries": []
   },
@@ -116,16 +116,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3ed8f95356982fd035bff58a30f39ca38d7db7f75bfaf38f4c876993c66d3ec9\"",
+    "etag": "W/\"fe25d492f1cd2332ba374939acf361ccc3a2f7a3579046295fe8f87f2d411675\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 30 Jan 2022 09:03:14 GMT",
+    "modified": "Sun, 30 Jan 2022 22:26:45 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b0724b26869417a0011918817aa3b7f8adacf6f013715505c49030d0c0a8eed8\"",
+    "etag": "W/\"fc9754f8ebac0ea694bcc834d37d5e0c449f09c709e4e18ba566f989700e83a9\"",
     "last_updated": 1642526880,
-    "modified": "Sun, 30 Jan 2022 20:26:50 GMT",
+    "modified": "Sun, 30 Jan 2022 22:26:30 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -225,21 +225,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ec7ac241489bbfed467b4f18b32a1145\"",
+    "etag": "W/\"a6354973e6b8a864d21f7c2109caf4dc\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 30 Jan 2022 16:00:54 GMT",
+    "modified": "Sun, 30 Jan 2022 21:33:03 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ec7ac241489bbfed467b4f18b32a1145\"",
+    "etag": "W/\"a6354973e6b8a864d21f7c2109caf4dc\"",
     "last_updated": 1643216443,
-    "modified": "Sun, 30 Jan 2022 16:00:54 GMT",
+    "modified": "Sun, 30 Jan 2022 21:33:03 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4bc86d37a1231af2f55b901e3d7578af",
+    "etag": "cacheable:a8092def7dd2e6740abd72804f9c4a59",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -344,7 +344,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/blood-stain/rss?title_no=166806": {
-    "last_updated": 1640572347,
+    "last_updated": 1643587234,
     "name": "Blood Stain",
     "seen_entries": []
   },
@@ -534,9 +534,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61f5cd84-a07\"",
+    "etag": "W/\"61f72f8d-a07\"",
     "last_updated": 1643346000,
-    "modified": "Sat, 29 Jan 2022 23:28:04 GMT",
+    "modified": "Mon, 31 Jan 2022 00:38:37 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
