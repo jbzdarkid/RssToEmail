@@ -45,8 +45,8 @@
     "seen_entries": []
   },
   "https://blog.xkcd.com/feed/": {
-    "last_updated": 1569436417,
-    "modified": "Sat, 25 Sep 2021 13:51:02 GMT",
+    "last_updated": 1643641534,
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -196,9 +196,9 @@
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
-    "etag": "\"5b32ac27-f14c\"",
+    "etag": "\"61f7f19d-ee37\"",
     "last_updated": 1526860800,
-    "modified": "Tue, 26 Jun 2018 21:12:07 GMT",
+    "modified": "Mon, 31 Jan 2022 14:26:37 GMT",
     "name": "XKCD What If?",
     "seen_entries": []
   },
@@ -239,7 +239,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0f27e1d1a208c4a7712cec82f4cd16f5",
+    "etag": "cacheable:683235c9a767c3bf56e60fcca186ae7f",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -364,7 +364,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1643379752,
+    "last_updated": 1643638002,
     "name": "GDC",
     "seen_entries": []
   },
@@ -534,9 +534,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61f7690e-a07\"",
-    "last_updated": 1643346000,
-    "modified": "Mon, 31 Jan 2022 04:43:58 GMT",
+    "etag": "W/\"61f7f949-9be\"",
+    "last_updated": 1643605200,
+    "modified": "Mon, 31 Jan 2022 14:59:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
