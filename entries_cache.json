@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f45-AfkDiP8XDLeAth3MuTu+oCj+1Vc-df\"",
+    "etag": "\"c758-lHE44ayl28OJsGLAdi0Fw/YA81k-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -107,7 +107,9 @@
       "https://twitter.com/BreachWizards/status/1455258033475383296",
       "https://twitter.com/BreachWizards/status/1468789778736762882",
       "https://twitter.com/BreachWizards/status/1469411312060878851",
-      "https://twitter.com/BreachWizards/status/1481766490579767296"
+      "https://twitter.com/BreachWizards/status/1481766490579767296",
+      "https://twitter.com/BreachWizards/status/1488910855299166212",
+      "https://twitter.com/BreachWizards/status/1488979137884684290"
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
@@ -123,9 +125,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1104bfad88f8c51a571e0aaf7b36cd2c96122b23c597ea502519e8d5b6f592a1\"",
+    "etag": "W/\"d586381c4f0fe54d9459262474bcac2ea98786ecae7c68428a4be432336c38ad\"",
     "last_updated": 1642526880,
-    "modified": "Thu, 03 Feb 2022 14:43:01 GMT",
+    "modified": "Thu, 03 Feb 2022 15:18:48 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -225,21 +227,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"94ed7c1e125b98348bf398a7f325407e\"",
+    "etag": "W/\"18348783481f543d476b99e9bf2abd63\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 02 Feb 2022 18:54:08 GMT",
+    "modified": "Thu, 03 Feb 2022 17:00:39 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"94ed7c1e125b98348bf398a7f325407e\"",
+    "etag": "W/\"18348783481f543d476b99e9bf2abd63\"",
     "last_updated": 1643821203,
-    "modified": "Wed, 02 Feb 2022 18:54:08 GMT",
+    "modified": "Thu, 03 Feb 2022 17:00:39 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c3c0e0eeca10c7055b9eec23d0556b6b",
+    "etag": "cacheable:d8f2cf9d20ebbc2c0dfadfa1df10faf8",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -279,9 +281,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"59472936c2ea3b0b0b6b3838bb1d547d\"",
+    "etag": "\"f24ad2dc4ee723ad2b96d4f5f31bb04c\"",
     "last_updated": 1642991288,
-    "modified": "Thu, 03 Feb 2022 14:37:11 GMT",
+    "modified": "Thu, 03 Feb 2022 18:11:32 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -330,16 +332,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"4906b7c056915b355c5517ba8404e1cf\"",
-    "last_updated": 1642698041,
-    "modified": "Thu, 03 Feb 2022 03:55:17 GMT",
+    "etag": "W/\"bb8b93b8bfe11bdd23c1921b9c5354ec\"",
+    "last_updated": 1643907620,
+    "modified": "Thu, 03 Feb 2022 17:00:20 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"4906b7c056915b355c5517ba8404e1cf\"",
+    "etag": "W/\"bb8b93b8bfe11bdd23c1921b9c5354ec\"",
     "last_updated": 1642957200,
-    "modified": "Thu, 03 Feb 2022 03:55:17 GMT",
+    "modified": "Thu, 03 Feb 2022 17:00:20 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -364,7 +366,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1643815522,
+    "last_updated": 1643901175,
     "name": "GDC",
     "seen_entries": []
   },
@@ -524,7 +526,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw": {
-    "last_updated": 1636396226,
+    "last_updated": 1643907691,
     "name": "New Frame Plus",
     "seen_entries": []
   },
