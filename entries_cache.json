@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-fYdKT+CIf0QOg4gbOoSPjcJ3WcY-df\"",
+    "etag": "\"8f42-1onMRrgAaN25GZzTb54dhUwZUvc-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -205,7 +205,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1644021783,
+    "last_updated": 1644022730,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -241,7 +241,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c8e7ece28e1c8b171878ee0cb5913107",
+    "etag": "cacheable:6f65348e0a9a8b96ce612cf9b734c88b",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -536,9 +536,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"61fcb2d5-99c\"",
-    "last_updated": 1643778000,
-    "modified": "Fri, 04 Feb 2022 05:00:05 GMT",
+    "etag": "W/\"61fdd666-90e\"",
+    "last_updated": 1643950800,
+    "modified": "Sat, 05 Feb 2022 01:44:06 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
