@@ -125,9 +125,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b19e05a8429380d52988852d326aeb73354ed35f35482019e7bbabbf06581982\"",
+    "etag": "W/\"9f080fc7b3eab710fd64eb1dd56c9c3fddba47aafc32be0084dfdd077e029ce2\"",
     "last_updated": 1642526880,
-    "modified": "Wed, 09 Feb 2022 06:05:05 GMT",
+    "modified": "Wed, 09 Feb 2022 07:56:24 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -148,7 +148,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Tue, 08 Feb 2022 11:42:24 GMT",
+    "modified": "Wed, 09 Feb 2022 08:41:34 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -241,7 +241,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6955249c4aba9c4e06a3eb377e9b83d6",
+    "etag": "cacheable:9d2da5965f903706843cc18e7ce24c2d",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -307,7 +307,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1644220800,
+    "last_updated": 1644393600,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -332,16 +332,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"338a5cad67668208e4b11f1b15664827\"",
+    "etag": "W/\"577a889a139f9143422d072b08b9667a\"",
     "last_updated": 1643907620,
-    "modified": "Tue, 08 Feb 2022 08:22:14 GMT",
+    "modified": "Wed, 09 Feb 2022 07:43:05 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"338a5cad67668208e4b11f1b15664827\"",
+    "etag": "W/\"577a889a139f9143422d072b08b9667a\"",
     "last_updated": 1642957200,
-    "modified": "Tue, 08 Feb 2022 08:22:14 GMT",
+    "modified": "Wed, 09 Feb 2022 07:43:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -356,7 +356,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1644213661,
+    "last_updated": 1644391727,
     "name": "Wilde Life",
     "seen_entries": []
   },
