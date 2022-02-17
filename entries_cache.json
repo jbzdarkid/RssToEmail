@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-lDsZEsVDbRJrQ9QxdW/EhzBGmd8-df\"",
+    "etag": "\"af5c-J7WzJbCOazwYo5HyCDRWKI7oluw-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -125,9 +125,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"35f95559380d417e703435b2fa0f23de082e017dab5beadecd2d95845459ece4\"",
+    "etag": "W/\"838255122e0919852ae22f1ad93c81aa01c31dce301adab747e3cac087c72b13\"",
     "last_updated": 1644512280,
-    "modified": "Wed, 16 Feb 2022 21:40:43 GMT",
+    "modified": "Thu, 17 Feb 2022 05:36:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -205,7 +205,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1644748514,
+    "last_updated": 1645076690,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -241,7 +241,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:dde00849a86ac8571835bce6f9b62fec",
+    "etag": "cacheable:8af1d03d2d188b1952e4b7fd6dedf3dc",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -276,14 +276,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1644987600,
+    "last_updated": 1645074000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6ee9f207f810367cf15b8d729a702627\"",
+    "etag": "\"239eafbb81cc456fc166e59ffdc2e22a\"",
     "last_updated": 1642991288,
-    "modified": "Thu, 17 Feb 2022 02:32:56 GMT",
+    "modified": "Thu, 17 Feb 2022 05:11:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -536,9 +536,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"620c84d9-967\"",
-    "last_updated": 1644814800,
-    "modified": "Wed, 16 Feb 2022 05:00:09 GMT",
+    "etag": "W/\"620dd87a-99f\"",
+    "last_updated": 1644987600,
+    "modified": "Thu, 17 Feb 2022 05:09:14 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
