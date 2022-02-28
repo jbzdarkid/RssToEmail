@@ -132,16 +132,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5e96477021ba94f54dfb845badd24807b558a325ebc8921171319b48903259ba\"",
+    "etag": "W/\"44f77e8eb3f31c16235505ee6c74f60fd8ef1151612d3569b2ed992284be2b90\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 27 Feb 2022 19:32:39 GMT",
+    "modified": "Sun, 27 Feb 2022 21:11:51 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d00ba817db6259af25fc7152ac34195fe2663c410c3b9a4ee6813f8381403a95\"",
+    "etag": "W/\"e809a1776c045001c5a5bdc8a4ba775431bdd4533e2b7ce07ffc651a989a545a\"",
     "last_updated": 1644512280,
-    "modified": "Sun, 27 Feb 2022 09:14:59 GMT",
+    "modified": "Sun, 27 Feb 2022 21:12:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -192,6 +192,12 @@
     "last_updated": 1632591204,
     "modified": "Mon, 08 Nov 2021 17:49:45 GMT",
     "name": "Steam Database",
+    "seen_entries": []
+  },
+  "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
+    "last_updated": 1646007240,
+    "modified": "Mon, 28 Feb 2022 00:12:00 GMT",
+    "name": "648800 RSS Feed",
     "seen_entries": []
   },
   "https://w3techs.com/blogfeed/category/news": {
@@ -255,7 +261,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fada55404e154f4e550e25fd0a56043f",
+    "etag": "cacheable:d2d9de0e988d9892deab57f251049422",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
