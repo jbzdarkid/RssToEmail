@@ -132,16 +132,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0db7f8f4c123ce019774b10691729ef41e84b7ae91df0e68355443ca030579ec\"",
+    "etag": "W/\"374aa680d67689619d3a9f3cf00e9415334a045eacc0e021943a88e89850a73a\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 28 Feb 2022 20:40:51 GMT",
+    "modified": "Mon, 28 Feb 2022 22:30:19 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"fe0acd7ee67e9b6b09f2041410dd818fcc574536799a1d390bc3ae20870ce3a8\"",
+    "etag": "W/\"e4945464dca7000a0389d81488a65d4b415e0fccd169a85d1bab5cc9dcaafd5a\"",
     "last_updated": 1644512280,
-    "modified": "Mon, 28 Feb 2022 18:22:39 GMT",
+    "modified": "Mon, 28 Feb 2022 23:38:40 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -196,7 +196,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Mon, 28 Feb 2022 21:04:00 GMT",
+    "modified": "Tue, 01 Mar 2022 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -247,21 +247,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e20efd5af370b5c2e9ab7da28fc3ae75\"",
+    "etag": "W/\"8646f2ccb38fac9fef87dbef65368e3d\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 28 Feb 2022 19:32:19 GMT",
+    "modified": "Mon, 28 Feb 2022 22:00:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e20efd5af370b5c2e9ab7da28fc3ae75\"",
+    "etag": "W/\"8646f2ccb38fac9fef87dbef65368e3d\"",
     "last_updated": 1645635638,
-    "modified": "Mon, 28 Feb 2022 19:32:19 GMT",
+    "modified": "Mon, 28 Feb 2022 22:00:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:88dcbab01c1a227e574e19381619742a",
+    "etag": "cacheable:17bb0e5183a2081b782c96123a94d859",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -366,7 +366,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/blood-stain/rss?title_no=166806": {
-    "last_updated": 1644883238,
+    "last_updated": 1646092839,
     "name": "Blood Stain",
     "seen_entries": []
   },
@@ -541,7 +541,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1645387122,
+    "last_updated": 1646089816,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -556,9 +556,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"621c56d9-8f5\"",
-    "last_updated": 1645765200,
-    "modified": "Mon, 28 Feb 2022 05:00:09 GMT",
+    "etag": "W/\"621d490d-915\"",
+    "last_updated": 1646024400,
+    "modified": "Mon, 28 Feb 2022 22:13:33 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
