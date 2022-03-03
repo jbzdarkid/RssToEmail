@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"be31-92Otz5pqnBh226Jr1afxcVAZ9yg-df\"",
+    "etag": "\"98a2-p+2M1cLzTHQwNzCfmiFNlbEliUA-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Thu, 03 Mar 2022 15:04:00 GMT",
+    "modified": "Thu, 03 Mar 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -218,7 +218,8 @@
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2020",
       "https://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress",
       "https://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache",
-      "https://w3techs.com/blog/entry/web_technologies_of_the_year_2021"
+      "https://w3techs.com/blog/entry/web_technologies_of_the_year_2021",
+      "https://w3techs.com/blog/entry/new_survey_on_css_frameworks"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -251,21 +252,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5f684d4257171acb8608005d074800c2\"",
+    "etag": "W/\"78a6b806bc592ce42e972e31cfef9309\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 02 Mar 2022 21:53:42 GMT",
+    "modified": "Thu, 03 Mar 2022 17:00:41 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5f684d4257171acb8608005d074800c2\"",
+    "etag": "W/\"78a6b806bc592ce42e972e31cfef9309\"",
     "last_updated": 1646240413,
-    "modified": "Wed, 02 Mar 2022 21:53:42 GMT",
+    "modified": "Thu, 03 Mar 2022 17:00:41 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:26bea6b45e74b88410953460f4f0a495",
+    "etag": "cacheable:0ac9476b728f1589d9e5bc6791cc166b",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -356,16 +357,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"767663fd1c78b470ec3c83824b5975bc-gzip\"",
-    "last_updated": 1645722004,
-    "modified": "Thu, 03 Mar 2022 11:50:51 GMT",
+    "etag": "W/\"5c43733d2bea864017d25e0aa0ed8f7a-gzip\"",
+    "last_updated": 1646326857,
+    "modified": "Thu, 03 Mar 2022 17:00:57 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"767663fd1c78b470ec3c83824b5975bc-gzip\"",
+    "etag": "W/\"5c43733d2bea864017d25e0aa0ed8f7a-gzip\"",
     "last_updated": 1642957200,
-    "modified": "Thu, 03 Mar 2022 12:10:55 GMT",
+    "modified": "Thu, 03 Mar 2022 17:00:57 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
