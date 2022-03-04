@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"c83c-U90CaZm5lOuU4Hdrd68VqYj+TtY-df\"",
+    "etag": "\"af29-QZUQ3YfOOLD9oahzioiLDLljODM-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -136,9 +136,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"74c8ce6bd2bf89def291e13a949e0e4d46e3546eff9672fb87bf979fa5a11a5d\"",
+    "etag": "W/\"e1c29bcc9429267be2339a61926b3c6929747fb52747f2e15f5a45d04e0d163e\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 04 Mar 2022 00:13:23 GMT",
+    "modified": "Fri, 04 Mar 2022 06:05:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 04 Mar 2022 03:04:00 GMT",
+    "modified": "Fri, 04 Mar 2022 06:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:25e2aeddab3dba70eab1e9be288ab778",
+    "etag": "cacheable:9bacb3b7297e55a9e95cbeff2020b267",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -301,7 +301,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1646283600,
+    "last_updated": 1646370000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -359,14 +359,14 @@
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
     "etag": "W/\"fdbba3785d2dab8feb17ae81e4868ff3-gzip\"",
     "last_updated": 1646326857,
-    "modified": "Fri, 04 Mar 2022 01:55:41 GMT",
+    "modified": "Fri, 04 Mar 2022 03:11:07 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
     "etag": "W/\"fdbba3785d2dab8feb17ae81e4868ff3-gzip\"",
     "last_updated": 1642957200,
-    "modified": "Fri, 04 Mar 2022 01:55:46 GMT",
+    "modified": "Fri, 04 Mar 2022 03:11:06 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -561,9 +561,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"621ff54c-9e1\"",
+    "etag": "W/\"62219cda-9e1\"",
     "last_updated": 1646197200,
-    "modified": "Wed, 02 Mar 2022 22:53:00 GMT",
+    "modified": "Fri, 04 Mar 2022 05:00:10 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
