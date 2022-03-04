@@ -143,9 +143,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ffa371948def1dbd11d9754f8a96f9e4598bf4772327b8a23aeeca9af35cb947\"",
+    "etag": "W/\"584f1a65a69dbf38cb144dc4b4939819ebbe6d026409bbf305dc469f15726436\"",
     "last_updated": 1644512280,
-    "modified": "Fri, 04 Mar 2022 10:56:21 GMT",
+    "modified": "Fri, 04 Mar 2022 14:51:26 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 04 Mar 2022 12:04:00 GMT",
+    "modified": "Fri, 04 Mar 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -252,21 +252,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"05532ca858981b3973e42f81587eff97\"",
+    "etag": "W/\"30461b2fddf4f472f4d5e8c7b95eecc1\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 03 Mar 2022 22:25:17 GMT",
+    "modified": "Fri, 04 Mar 2022 14:09:46 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"05532ca858981b3973e42f81587eff97\"",
+    "etag": "W/\"30461b2fddf4f472f4d5e8c7b95eecc1\"",
     "last_updated": 1646240413,
-    "modified": "Thu, 03 Mar 2022 22:25:17 GMT",
+    "modified": "Fri, 04 Mar 2022 14:09:46 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:67f0912bf4a72db2c1411d735807982f",
+    "etag": "cacheable:0c96ba71ab29e52b50f43df338140a88",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -359,14 +359,14 @@
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
     "etag": "W/\"fdbba3785d2dab8feb17ae81e4868ff3-gzip\"",
     "last_updated": 1646326857,
-    "modified": "Fri, 04 Mar 2022 01:55:46 GMT",
+    "modified": "Fri, 04 Mar 2022 12:11:07 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
     "etag": "W/\"fdbba3785d2dab8feb17ae81e4868ff3-gzip\"",
     "last_updated": 1642957200,
-    "modified": "Fri, 04 Mar 2022 01:55:48 GMT",
+    "modified": "Fri, 04 Mar 2022 09:12:21 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -391,7 +391,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1646316473,
+    "last_updated": 1646403768,
     "name": "GDC",
     "seen_entries": []
   },
@@ -541,7 +541,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1643554707,
+    "last_updated": 1646403714,
     "name": "Retro Game Mechanics Explained",
     "seen_entries": []
   },
