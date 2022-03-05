@@ -26,9 +26,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"6985ea85ad48bebb4760d0d3ad1c3e9d\"",
+    "etag": "W/\"a24bd434e308fbbae1793a1afcaaeddf\"",
     "last_updated": 1645486137,
-    "modified": "Fri, 04 Mar 2022 00:10:39 GMT",
+    "modified": "Sat, 05 Mar 2022 00:16:23 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Sat, 05 Mar 2022 00:12:00 GMT",
+    "modified": "Sat, 05 Mar 2022 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -230,7 +230,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1645663172,
+    "last_updated": 1646448158,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -252,21 +252,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"42e8bfb021f19689f68c5639919d112f\"",
+    "etag": "W/\"b50e7be92b07ad43ff873ced74611a00\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 04 Mar 2022 23:34:27 GMT",
+    "modified": "Sat, 05 Mar 2022 00:21:10 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"42e8bfb021f19689f68c5639919d112f\"",
+    "etag": "W/\"b50e7be92b07ad43ff873ced74611a00\"",
     "last_updated": 1646240413,
-    "modified": "Fri, 04 Mar 2022 23:34:27 GMT",
+    "modified": "Sat, 05 Mar 2022 00:21:10 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e001795384c592bd7430180b6230f42e",
+    "etag": "cacheable:1e5082ac85e52dabbe65983381a5c60a",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -359,14 +359,14 @@
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
     "etag": "W/\"fdbba3785d2dab8feb17ae81e4868ff3-gzip\"",
     "last_updated": 1646326857,
-    "modified": "Fri, 04 Mar 2022 22:11:02 GMT",
+    "modified": "Fri, 04 Mar 2022 01:55:41 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
     "etag": "W/\"fdbba3785d2dab8feb17ae81e4868ff3-gzip\"",
     "last_updated": 1642957200,
-    "modified": "Fri, 04 Mar 2022 23:11:03 GMT",
+    "modified": "Fri, 04 Mar 2022 21:10:59 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
