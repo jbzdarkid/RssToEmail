@@ -143,9 +143,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"715c7ab48f4f3257308a15186c91277604268569a0388612e14b1c0c25cc1689\"",
+    "etag": "W/\"c21537ee147f71bac56e38311a600c4d764a9757b7485a6c16e77dcc68ac45b6\"",
     "last_updated": 1644512280,
-    "modified": "Wed, 09 Mar 2022 10:36:18 GMT",
+    "modified": "Wed, 09 Mar 2022 12:23:46 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 09 Mar 2022 12:04:00 GMT",
+    "modified": "Wed, 09 Mar 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -252,9 +252,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"60b13697ccfd25fd8c78d47721d1968a\"",
+    "etag": "W/\"0788cd5309411636f17ccfb32e53918c\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 09 Mar 2022 01:52:02 GMT",
+    "modified": "Wed, 09 Mar 2022 14:38:44 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:382ebd2a0824d8298800d99e74e10ed3",
+    "etag": "cacheable:fe074bc41a3d591392c71208b0196748",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -306,9 +306,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b224dfe5ce935948c6d8b3829895f4ac\"",
+    "etag": "\"38c3648f33afdcade1f515659a344bfb\"",
     "last_updated": 1642991288,
-    "modified": "Wed, 09 Mar 2022 11:39:20 GMT",
+    "modified": "Wed, 09 Mar 2022 14:02:20 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -357,16 +357,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"5d20e996296d3d721e24cfc5de551063\"",
+    "etag": "W/\"da88cd215ae6f112d065186b590b2884\"",
     "last_updated": 1646326857,
-    "modified": "Wed, 09 Mar 2022 09:38:29 GMT",
+    "modified": "Wed, 09 Mar 2022 13:49:21 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"5d20e996296d3d721e24cfc5de551063\"",
+    "etag": "W/\"da88cd215ae6f112d065186b590b2884\"",
     "last_updated": 1642957200,
-    "modified": "Wed, 09 Mar 2022 09:38:29 GMT",
+    "modified": "Wed, 09 Mar 2022 13:49:21 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -391,7 +391,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1646748999,
+    "last_updated": 1646835174,
     "name": "GDC",
     "seen_entries": []
   },
@@ -561,9 +561,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62264c5a-afc\"",
-    "last_updated": 1646629200,
-    "modified": "Mon, 07 Mar 2022 18:18:02 GMT",
+    "etag": "W/\"6228b736-9d0\"",
+    "last_updated": 1646802000,
+    "modified": "Wed, 09 Mar 2022 14:18:30 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
