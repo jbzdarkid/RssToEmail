@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"af14-rovFwstnSxVMsOD+0Wt8Ci66Pvg-df\"",
+    "etag": "\"af14-8STrqQ2YCi1yWPhQSaceGBVMiT4-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Thu, 10 Mar 2022 03:06:00 GMT",
+    "modified": "Thu, 10 Mar 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -230,7 +230,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1646448158,
+    "last_updated": 1646889396,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -266,7 +266,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:25e593f61b68dec8d7777a8eb481f352",
+    "etag": "cacheable:49bd44395d3724a4e2c0bcb0103ce949",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -301,14 +301,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1646802000,
+    "last_updated": 1646888400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ee66f4dea96ed5be1ef81b20950fdc7c\"",
+    "etag": "\"e46ff78404eb304606e97df7edfb6228\"",
     "last_updated": 1642991288,
-    "modified": "Thu, 10 Mar 2022 00:28:53 GMT",
+    "modified": "Thu, 10 Mar 2022 03:50:28 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -357,16 +357,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"a2e015677387f9be5c813d27e8fb137f\"",
+    "etag": "W/\"cb19bc26ac8adc95c531821e238cb16a\"",
     "last_updated": 1646326857,
-    "modified": "Wed, 09 Mar 2022 23:32:31 GMT",
+    "modified": "Thu, 10 Mar 2022 03:45:37 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a2e015677387f9be5c813d27e8fb137f\"",
+    "etag": "W/\"cb19bc26ac8adc95c531821e238cb16a\"",
     "last_updated": 1642957200,
-    "modified": "Wed, 09 Mar 2022 23:32:31 GMT",
+    "modified": "Thu, 10 Mar 2022 03:45:37 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
