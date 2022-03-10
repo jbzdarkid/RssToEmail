@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1646708534,
+    "last_updated": 1646862009,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"af14-ifHrn2VTu78kGJ2F0KTi+a6yU1Y-df\"",
+    "etag": "\"af14-WvtAkFW+FdtM+rTmEQm0KJYq5QU-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -136,16 +136,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5769b0cac2762073cf100768b2f760899c436fc480aff1b2fea309ebc4333ec0\"",
+    "etag": "W/\"d0eab38247cc7c341b06abf3c2c0231b02784211842d5463584729755edde420\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 09 Mar 2022 10:36:01 GMT",
+    "modified": "Wed, 09 Mar 2022 22:29:34 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c21537ee147f71bac56e38311a600c4d764a9757b7485a6c16e77dcc68ac45b6\"",
+    "etag": "W/\"6c34db893d81f0a46f5bc0c30c95f725dd20638a9b94e6efc9df553efb81c353\"",
     "last_updated": 1644512280,
-    "modified": "Wed, 09 Mar 2022 12:23:46 GMT",
+    "modified": "Wed, 09 Mar 2022 22:28:28 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 09 Mar 2022 21:04:00 GMT",
+    "modified": "Thu, 10 Mar 2022 00:10:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -252,21 +252,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ce9868517d5736800794bed735cce42a\"",
+    "etag": "W/\"fec3232cf3d4baad11b47086266daf56\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 09 Mar 2022 19:58:31 GMT",
+    "modified": "Wed, 09 Mar 2022 23:30:22 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ce9868517d5736800794bed735cce42a\"",
+    "etag": "W/\"fec3232cf3d4baad11b47086266daf56\"",
     "last_updated": 1646845236,
-    "modified": "Wed, 09 Mar 2022 19:58:31 GMT",
+    "modified": "Wed, 09 Mar 2022 23:30:22 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6918a05fbb6425e08914fc0df9ab50e2",
+    "etag": "cacheable:3b2d8508e81cf1b7564013efe3eab41d",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -306,9 +306,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5d48dce99dbf7736d5f0deca47a0321d\"",
+    "etag": "\"63856511d28521e0cc6c64c10ce32fc7\"",
     "last_updated": 1642991288,
-    "modified": "Wed, 09 Mar 2022 19:08:34 GMT",
+    "modified": "Wed, 09 Mar 2022 22:33:59 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -357,16 +357,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"da88cd215ae6f112d065186b590b2884\"",
+    "etag": "W/\"a2e015677387f9be5c813d27e8fb137f\"",
     "last_updated": 1646326857,
-    "modified": "Wed, 09 Mar 2022 13:49:21 GMT",
+    "modified": "Wed, 09 Mar 2022 23:32:31 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"da88cd215ae6f112d065186b590b2884\"",
+    "etag": "W/\"a2e015677387f9be5c813d27e8fb137f\"",
     "last_updated": 1642957200,
-    "modified": "Wed, 09 Mar 2022 13:49:21 GMT",
+    "modified": "Wed, 09 Mar 2022 23:32:31 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
