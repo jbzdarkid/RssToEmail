@@ -5,7 +5,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:SanePerson": {
-    "last_updated": 1643578974,
+    "last_updated": 1647466046,
     "name": "DeviantArt: SanePerson's gallery",
     "seen_entries": []
   },
@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-DgnCVf9hvc4/XaseH54BY348mvc-df\"",
+    "etag": "\"bed5-hakERlll6z4Fef3S1CT6CBlvN0w-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -137,16 +137,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1f00b374b1d5b6391b42f866bea851a5170e34a14a7728cbaed0ecdde0dc1528\"",
+    "etag": "W/\"280ead14e1040c863e622fe88494f8a0b97b7b9be872027fe32ee2472fd636fa\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 16 Mar 2022 17:32:54 GMT",
+    "modified": "Wed, 16 Mar 2022 21:39:25 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0c89f47450ed258649e5972865cdc9c412c287a18dbeec1cd35ad8c04e4c8cc8\"",
+    "etag": "W/\"16e01965b370a11fbf98b7e93bf0239781298146c449532045b42c9536eaaa38\"",
     "last_updated": 1644512280,
-    "modified": "Wed, 16 Mar 2022 17:16:36 GMT",
+    "modified": "Wed, 16 Mar 2022 21:31:35 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 16 Mar 2022 21:04:00 GMT",
+    "modified": "Thu, 17 Mar 2022 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -253,33 +253,32 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"acc16930b229a45c0b34080b18cf7c77\"",
+    "etag": "W/\"8db631c43d5e593a17ab32e9c06613aa\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 16 Mar 2022 19:51:53 GMT",
+    "modified": "Wed, 16 Mar 2022 23:01:33 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"acc16930b229a45c0b34080b18cf7c77\"",
+    "etag": "W/\"8db631c43d5e593a17ab32e9c06613aa\"",
     "last_updated": 1647446422,
-    "modified": "Wed, 16 Mar 2022 19:51:53 GMT",
+    "modified": "Wed, 16 Mar 2022 23:01:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1370106b5cdd043c559c5c8c5bb49fa4",
+    "etag": "cacheable:e795a03809f96fb3ef939f856e440ae9",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8D9F2E35D7723DC\"",
+    "etag": "W/\"0x8DA07AA488F3804\"",
     "last_updated": 0,
-    "modified": "Fri, 18 Feb 2022 13:34:18 GMT",
+    "modified": "Thu, 17 Mar 2022 00:08:36 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1234.html",
       "http://www.giantitp.com/comics/oots1235.html",
       "http://www.giantitp.com/comics/oots1236.html",
       "http://www.giantitp.com/comics/oots1237.html",
@@ -298,7 +297,8 @@
       "http://www.giantitp.com/comics/oots1250.html",
       "http://www.giantitp.com/comics/oots1251.html",
       "http://www.giantitp.com/comics/oots1252.html",
-      "http://www.giantitp.com/comics/oots1253.html"
+      "http://www.giantitp.com/comics/oots1253.html",
+      "http://www.giantitp.com/comics/oots1254.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -307,9 +307,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"23a6216829ac84ee3736e363e42902f5\"",
+    "etag": "\"201d9c2a1f9f45c0ae4455ee386f6e8b\"",
     "last_updated": 1647180288,
-    "modified": "Wed, 16 Mar 2022 20:50:36 GMT",
+    "modified": "Thu, 17 Mar 2022 00:00:26 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -358,16 +358,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"db6a0494283323c894b681cfc64a1ba9\"",
+    "etag": "W/\"68deef46713c44eca4c809ea2174facb\"",
     "last_updated": 1646931612,
-    "modified": "Wed, 16 Mar 2022 09:34:50 GMT",
+    "modified": "Wed, 16 Mar 2022 23:23:28 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"db6a0494283323c894b681cfc64a1ba9\"",
+    "etag": "W/\"68deef46713c44eca4c809ea2174facb\"",
     "last_updated": 1642957200,
-    "modified": "Wed, 16 Mar 2022 09:34:50 GMT",
+    "modified": "Wed, 16 Mar 2022 23:23:28 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
