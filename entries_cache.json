@@ -137,9 +137,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"872efaaacf37cb5b4216bd6b1c402bdbae07cccb1421f0d7903b1c2f64056b19\"",
+    "etag": "W/\"89311deff53f0d92d8ec4738e9f76a5844486cb39509e5857467869e5e61f358\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 23 Mar 2022 13:51:51 GMT",
+    "modified": "Wed, 23 Mar 2022 23:05:27 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -167,7 +167,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Wed, 23 Mar 2022 20:50:37 GMT",
+    "modified": "Wed, 23 Mar 2022 23:54:30 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 23 Mar 2022 21:04:00 GMT",
+    "modified": "Thu, 24 Mar 2022 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:072e602685fa54b8db20736a93642e0f",
+    "etag": "cacheable:bb0c4ce2a0ed7ed0f0b84706baabd7b6",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"57627a5bfdb45ecfc709d23c53dad725\"",
+    "etag": "\"bba325e4df3982a5938114bb61ef4e68\"",
     "last_updated": 1647180288,
-    "modified": "Wed, 23 Mar 2022 20:59:31 GMT",
+    "modified": "Wed, 23 Mar 2022 21:24:53 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -563,9 +563,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62393b23-8eb\"",
-    "last_updated": 1647835200,
-    "modified": "Tue, 22 Mar 2022 02:57:39 GMT",
+    "etag": "W/\"623b9f96-97d\"",
+    "last_updated": 1648008000,
+    "modified": "Wed, 23 Mar 2022 22:30:46 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
