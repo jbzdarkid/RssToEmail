@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-uiU5M3rz0P91x39YiD2lhMVMVGw-df\"",
+    "etag": "\"8f42-uELQM/ZZvejvPVDHNHSjmw6Nx9g-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 01 Apr 2022 18:02:00 GMT",
+    "modified": "Fri, 01 Apr 2022 21:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e5574dc555496a8803e1da91c65b02fc",
+    "etag": "cacheable:f2ca42743373615befeb9e1516d7d153",
     "last_updated": 1643129833,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"103f59a393cfc88bbca72a9be2aa885f\"",
+    "etag": "\"674d0c9dd5ee99cf46e9b056371a86ee\"",
     "last_updated": 1648262670,
-    "modified": "Fri, 01 Apr 2022 17:56:05 GMT",
+    "modified": "Fri, 01 Apr 2022 20:04:01 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -558,14 +558,14 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1648825363,
+    "last_updated": 1648836265,
     "name": "SourceRuns",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6244b31a-a7b\"",
-    "last_updated": 1648612800,
-    "modified": "Wed, 30 Mar 2022 19:44:26 GMT",
+    "etag": "W/\"624763db-9a9\"",
+    "last_updated": 1648785600,
+    "modified": "Fri, 01 Apr 2022 20:43:07 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
