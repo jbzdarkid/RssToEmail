@@ -10,7 +10,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1649048335,
+    "last_updated": 1649346890,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"8f42-a9Ut9x8hmitJO5CH2sAH/95BoWk-df\"",
+    "etag": "\"bf02-ZUsQdOg/xfif2XuQZ4uGHe5LSU8-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -137,16 +137,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a7131a5400550e5cbfa2a50199dbbf6fe9335dd8417a27442fd463a3a50101e1\"",
+    "etag": "W/\"c8ab03e58b460fa454a9c284385a13226b11cf64e74a5eb5f1c1eb8c7be8a2bb\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 07 Apr 2022 07:19:21 GMT",
+    "modified": "Thu, 07 Apr 2022 16:43:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"02c1178198fbaf5d8eb5ac384e07dfaf21a5989431416e9f1aa71ef3bbf95123\"",
-    "last_updated": 1648742400,
-    "modified": "Thu, 07 Apr 2022 14:32:24 GMT",
+    "etag": "W/\"2fab8da56a8dbc12c2d39ae44ff29c87678ae507a15592372c8df56837ae4514\"",
+    "last_updated": 1649347680,
+    "modified": "Thu, 07 Apr 2022 16:43:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Thu, 07 Apr 2022 15:04:00 GMT",
+    "modified": "Thu, 07 Apr 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -232,7 +232,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1649321511,
+    "last_updated": 1649352241,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -254,21 +254,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4ad5e3fd5b5ac7e1c0d7907aece8674b\"",
+    "etag": "W/\"6dd5dac24ce7d69644116b6db3a1e93e\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 07 Apr 2022 02:19:54 GMT",
+    "modified": "Thu, 07 Apr 2022 16:53:25 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"4ad5e3fd5b5ac7e1c0d7907aece8674b\"",
+    "etag": "W/\"6dd5dac24ce7d69644116b6db3a1e93e\"",
     "last_updated": 1649260819,
-    "modified": "Thu, 07 Apr 2022 02:19:54 GMT",
+    "modified": "Thu, 07 Apr 2022 16:53:25 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:25a4dd3d2ebfcc50554956bf1bf4c251",
+    "etag": "cacheable:0d968987b727b36338d5d01abd75df25",
     "last_updated": 1649094881,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"facf7164d67f7e09feedda6b12cf84c2\"",
+    "etag": "\"09f29cbc7fa8b24b510893a0873bd81c\"",
     "last_updated": 1648262670,
-    "modified": "Thu, 07 Apr 2022 15:04:13 GMT",
+    "modified": "Thu, 07 Apr 2022 18:00:09 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -498,7 +498,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
-    "last_updated": 1646096247,
+    "last_updated": 1649353837,
     "name": "Valve",
     "seen_entries": []
   },
