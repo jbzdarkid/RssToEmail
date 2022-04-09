@@ -144,9 +144,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5e10d631d03de82b2c7b5ebc4e5c705b2f0958db3d4560361d0aaac4cf6d39d6\"",
+    "etag": "W/\"052bc66ad22bc7135413f01b78f7078507a89e6a611576d3a5a6e96e9fb87fce\"",
     "last_updated": 1649347680,
-    "modified": "Sat, 09 Apr 2022 11:41:23 GMT",
+    "modified": "Sat, 09 Apr 2022 14:49:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Sat, 09 Apr 2022 12:04:00 GMT",
+    "modified": "Sat, 09 Apr 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:250952251aef5fc66f7f08f403f52993",
+    "etag": "cacheable:e79c6c4c557f966aa5ae1071bc7f99fa",
     "last_updated": 1649094881,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"536ac6e95eb08d2318a8619867abec2c\"",
+    "etag": "\"3d629e54cad200950cd25db4cd515213\"",
     "last_updated": 1648262670,
-    "modified": "Sat, 09 Apr 2022 11:29:22 GMT",
+    "modified": "Sat, 09 Apr 2022 15:02:07 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -359,16 +359,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"4b98f3a56efbe2eda233f42dd52915cc\"",
+    "etag": "W/\"b907f058466220000db481fd00352290\"",
     "last_updated": 1648742352,
-    "modified": "Sat, 09 Apr 2022 10:50:39 GMT",
+    "modified": "Sat, 09 Apr 2022 14:31:36 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"4b98f3a56efbe2eda233f42dd52915cc\"",
+    "etag": "W/\"b907f058466220000db481fd00352290\"",
     "last_updated": 1647791985,
-    "modified": "Sat, 09 Apr 2022 10:50:39 GMT",
+    "modified": "Sat, 09 Apr 2022 14:31:36 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
