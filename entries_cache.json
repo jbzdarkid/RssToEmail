@@ -144,9 +144,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1ea0aae86f0fd9989b774dc7cbbde5eef8143deda60915c8b15c321404f88a6c\"",
+    "etag": "W/\"ed9425aff882c4a3ad7a8a0561b84f9f1c993d9deaa56749058f60f02d6054c5\"",
     "last_updated": 1649347680,
-    "modified": "Tue, 12 Apr 2022 10:12:07 GMT",
+    "modified": "Tue, 12 Apr 2022 17:48:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Tue, 12 Apr 2022 15:04:00 GMT",
+    "modified": "Tue, 12 Apr 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -254,22 +254,22 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"11701c8cb943b06555f73cc63c932041\"",
+    "etag": "W/\"31c62a2682168b2f6e445eb083848a9a\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 12 Apr 2022 15:00:03 GMT",
+    "modified": "Tue, 12 Apr 2022 17:46:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"11701c8cb943b06555f73cc63c932041\"",
+    "etag": "W/\"31c62a2682168b2f6e445eb083848a9a\"",
     "last_updated": 1649260819,
-    "modified": "Tue, 12 Apr 2022 15:00:03 GMT",
+    "modified": "Tue, 12 Apr 2022 17:46:14 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c4be4a321909b07b215f75e92395a3c5",
-    "last_updated": 1649094881,
+    "etag": "cacheable:064228600aa843bd4c935a4408b6e31a",
+    "last_updated": 1649782613,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"43f8dd41965ebc6ccb30b7520e695737\"",
+    "etag": "\"2c56191d69a51287ad0c81dbce600a4c\"",
     "last_updated": 1649592941,
-    "modified": "Tue, 12 Apr 2022 15:04:25 GMT",
+    "modified": "Tue, 12 Apr 2022 18:02:04 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
