@@ -57,12 +57,12 @@
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
     "last_updated": 1609259209,
-    "modified": "Fri, 08 Apr 2022 09:00:43 GMT",
+    "modified": "Tue, 12 Apr 2022 16:52:17 GMT",
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"ae6a-qCRTOcU/d+QROjgTs3zyHC/MtOY-df\"",
+    "etag": "\"8f42-EThH/B3+RKLh2w0qHv03HA49yHg-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -93,7 +93,6 @@
     "last_updated": 0,
     "name": "@breachwizards on Twitter",
     "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1404490143763865611",
       "https://twitter.com/BreachWizards/status/1405955930450132994",
       "https://twitter.com/BreachWizards/status/1408129994786705409",
       "https://twitter.com/BreachWizards/status/1408141962918518786",
@@ -112,7 +111,8 @@
       "https://twitter.com/BreachWizards/status/1497358523679662080",
       "https://twitter.com/BreachWizards/status/1498726476115431425",
       "https://twitter.com/BreachWizards/status/1501985255200153600",
-      "https://twitter.com/BreachWizards/status/1512576190950772737"
+      "https://twitter.com/BreachWizards/status/1512576190950772737",
+      "https://twitter.com/BreachWizards/status/1513960374185340932"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
@@ -137,9 +137,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"71ebf350e9d7a3c5607023ae466c6e1bb027cafcd23a07435ce84d24801902d0\"",
+    "etag": "W/\"10f6fd5af53cab744bd3d73d0490f0709b4ad5483e72642cca2901b72afb7d67\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 13 Apr 2022 03:51:20 GMT",
+    "modified": "Wed, 13 Apr 2022 06:14:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 13 Apr 2022 06:04:00 GMT",
+    "modified": "Wed, 13 Apr 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0c83f161615f902b8003046fea504e2c",
+    "etag": "cacheable:f905f459211eb04d4850ea614acaac4a",
     "last_updated": 1649782613,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"107d37cd45599af76e2c68828b86a700\"",
+    "etag": "\"c341be2a7b4a2309ec140ed8b35df0c2\"",
     "last_updated": 1649592941,
-    "modified": "Wed, 13 Apr 2022 05:58:24 GMT",
+    "modified": "Wed, 13 Apr 2022 08:46:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -334,7 +334,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1649660400,
+    "last_updated": 1649833200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
