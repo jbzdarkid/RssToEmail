@@ -62,7 +62,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.php": {
-    "etag": "\"bff6-DwiT/GfnvHTQatxQvrcgnRnA4Lk-df\"",
+    "etag": "\"98c0-Th8ee4QZM5dIpurrmDXx0dUb9Es-df\"",
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
@@ -137,16 +137,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a67905dec2ed0f209c90bb385bf3784165389afe1f7c56be64f3a8ea948191c1\"",
+    "etag": "W/\"e6d4e0d678070135b652929b4fcfa038d5d0aee24f16efb117d0be4a644f4a68\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 27 Apr 2022 05:45:11 GMT",
+    "modified": "Wed, 27 Apr 2022 07:05:38 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"730faa8f64f373870d91acd77a4f0d9d34abba819e06923dfd94b7066ec355cf\"",
+    "etag": "W/\"aad3c5368a2d3e475be64cb7a8e6b83f0b394b66b29fdcae67c3e8310a2c6cf4\"",
     "last_updated": 1650384360,
-    "modified": "Wed, 27 Apr 2022 05:09:35 GMT",
+    "modified": "Wed, 27 Apr 2022 07:15:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 27 Apr 2022 06:04:00 GMT",
+    "modified": "Wed, 27 Apr 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,28 +268,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c55b281a52115e4746848b9619498266",
+    "etag": "cacheable:754e8cacfcdaf4c1a59f3f985c330927",
     "last_updated": 1650992173,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DA278CC072069A\"",
+    "etag": "W/\"0x8DA282410C622D2\"",
     "last_updated": 0,
-    "modified": "Tue, 26 Apr 2022 13:57:50 GMT",
+    "modified": "Wed, 27 Apr 2022 08:00:59 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1237.html",
-      "http://www.giantitp.com/comics/oots1238.html",
-      "http://www.giantitp.com/comics/oots1239.html",
-      "http://www.giantitp.com/comics/oots1240.html",
-      "http://www.giantitp.com/comics/oots1241.html",
-      "http://www.giantitp.com/comics/oots1242.html",
-      "http://www.giantitp.com/comics/oots1243.html",
-      "http://www.giantitp.com/comics/oots1244.html",
-      "http://www.giantitp.com/comics/oots1245.html",
-      "http://www.giantitp.com/comics/oots1246.html",
       "http://www.giantitp.com/comics/oots1247.html",
       "http://www.giantitp.com/comics/oots1248.html",
       "http://www.giantitp.com/comics/oots1249.html",
@@ -299,7 +289,17 @@
       "http://www.giantitp.com/comics/oots1253.html",
       "http://www.giantitp.com/comics/oots1254.html",
       "http://www.giantitp.com/comics/oots1255.html",
-      "http://www.giantitp.com/comics/oots1256.html"
+      "http://www.giantitp.com/comics/oots1256.html",
+      "https://www.giantitp.com/comics/oots1247.html",
+      "https://www.giantitp.com/comics/oots1248.html",
+      "https://www.giantitp.com/comics/oots1249.html",
+      "https://www.giantitp.com/comics/oots1250.html",
+      "https://www.giantitp.com/comics/oots1251.html",
+      "https://www.giantitp.com/comics/oots1252.html",
+      "https://www.giantitp.com/comics/oots1253.html",
+      "https://www.giantitp.com/comics/oots1254.html",
+      "https://www.giantitp.com/comics/oots1255.html",
+      "https://www.giantitp.com/comics/oots1256.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"279ac1171a72ed89d77114b80583d306\"",
+    "etag": "\"e215caef572eb99a8240f9896b11e648\"",
     "last_updated": 1649592941,
-    "modified": "Wed, 27 Apr 2022 05:26:35 GMT",
+    "modified": "Wed, 27 Apr 2022 09:02:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
