@@ -167,7 +167,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Mon, 02 May 2022 12:55:15 GMT",
+    "modified": "Tue, 03 May 2022 19:26:47 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Tue, 03 May 2022 18:04:00 GMT",
+    "modified": "Tue, 03 May 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -225,9 +225,9 @@
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
-    "etag": "\"61f7f19d-ee37\"",
+    "etag": "W/\"0-dfd7\"",
     "last_updated": 1526860800,
-    "modified": "Mon, 31 Jan 2022 14:26:37 GMT",
+    "modified": "Thu, 01 Jan 1970 00:00:00 GMT",
     "name": "XKCD What If?",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a599e3426a1f8dc1a0e3148530aa4205\"",
+    "etag": "W/\"7ff533edc573fcceaac5e210c65b7a1d\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 03 May 2022 16:15:48 GMT",
+    "modified": "Tue, 03 May 2022 19:31:23 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a599e3426a1f8dc1a0e3148530aa4205\"",
+    "etag": "W/\"7ff533edc573fcceaac5e210c65b7a1d\"",
     "last_updated": 1651075238,
-    "modified": "Tue, 03 May 2022 16:15:48 GMT",
+    "modified": "Tue, 03 May 2022 19:31:23 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:805ee9dcb0310f1505e0b6e40aff4086",
+    "etag": "cacheable:63110eec238e685ee6d5c6d9e9443267",
     "last_updated": 1650992173,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2bce8ff999a0ae1a89139e22de2d6028\"",
+    "etag": "\"eb9b7727edcc0b63b4078f303178180d\"",
     "last_updated": 1651526292,
-    "modified": "Tue, 03 May 2022 17:54:15 GMT",
+    "modified": "Tue, 03 May 2022 20:57:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -359,16 +359,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"b012f76996e27fb6ca9ce9749625e534\"",
+    "etag": "W/\"f46c03da70319331de099f9a7be08153\"",
     "last_updated": 1650556748,
-    "modified": "Tue, 03 May 2022 16:41:13 GMT",
+    "modified": "Tue, 03 May 2022 18:29:44 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"b012f76996e27fb6ca9ce9749625e534\"",
+    "etag": "W/\"f46c03da70319331de099f9a7be08153\"",
     "last_updated": 1647791985,
-    "modified": "Tue, 03 May 2022 16:41:13 GMT",
+    "modified": "Tue, 03 May 2022 18:29:44 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
