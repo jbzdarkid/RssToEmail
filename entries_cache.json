@@ -144,9 +144,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"759ae980c43ea1a5dfd206525c20ced8a521c9b1c0c88d88f2079405f79c8213\"",
+    "etag": "W/\"c511c4c4625d39b1f7f2a9110c4564b5aa2098ce5f29f79aa49fcf4a4efe7a72\"",
     "last_updated": 1650384360,
-    "modified": "Wed, 04 May 2022 15:21:05 GMT",
+    "modified": "Wed, 04 May 2022 20:40:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 04 May 2022 18:04:00 GMT",
+    "modified": "Wed, 04 May 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6f3b5241c34fe524f3919b21bdc4c005",
+    "etag": "cacheable:b4991d50514fff378e605b83d47596f4",
     "last_updated": 1650992173,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"0206cd76a837e49e8ac4b4d89aa8a348\"",
+    "etag": "\"778400c78cd3178028cdb479f869ea45\"",
     "last_updated": 1651526292,
-    "modified": "Wed, 04 May 2022 17:39:06 GMT",
+    "modified": "Wed, 04 May 2022 20:54:04 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -560,6 +560,11 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
     "last_updated": 1648836265,
     "name": "SourceRuns",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S": {
+    "last_updated": 1651698267,
+    "name": "HELLUVA BOSS",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
