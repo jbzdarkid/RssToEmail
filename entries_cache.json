@@ -137,16 +137,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"066d5393e04f6f9b383fa4a6970e2264b455be9f1dfcb741370aa9d9e657e2de\"",
+    "etag": "W/\"b2e29bfc21b69c7b091021576708fba07889dbbc08c5050ab069d00c68db9bf2\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 09 May 2022 17:55:44 GMT",
+    "modified": "Mon, 09 May 2022 23:06:17 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0d2c6c214285169d3ca482c1d8431bfdd03f929e2837d0233f9cd845e7691a73\"",
+    "etag": "W/\"b3b914e2b5e5052341669897dae1bbec0e5f0ad8aafedea93e9d4a9cb205877b\"",
     "last_updated": 1650384360,
-    "modified": "Mon, 09 May 2022 18:29:22 GMT",
+    "modified": "Mon, 09 May 2022 23:05:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -172,7 +172,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1648079018,
+    "last_updated": 1650062409,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Mon, 09 May 2022 21:04:00 GMT",
+    "modified": "Tue, 10 May 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ba9162c925758268e56a91c05ad3b516",
+    "etag": "cacheable:e8203532b90fad58fc0b1486362ff3d1",
     "last_updated": 1650992173,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -308,9 +308,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9fbd85ffae48e6cc749c387c94049f1c\"",
+    "etag": "\"55fc1466e520abce97142d35e8c2c082\"",
     "last_updated": 1651526292,
-    "modified": "Mon, 09 May 2022 19:55:00 GMT",
+    "modified": "Mon, 09 May 2022 23:22:18 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -334,7 +334,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1651647600,
+    "last_updated": 1652079600,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -553,7 +553,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1651795482,
+    "last_updated": 1652134866,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
