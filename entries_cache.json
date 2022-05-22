@@ -39,6 +39,12 @@
     "name": "Dota 2",
     "seen_entries": []
   },
+  "https://blog.momentum-mod.org/index.xml": {
+    "etag": "W/\"0cc08d4d8f30736b98024496027b88a8\"",
+    "last_updated": 1653253459,
+    "name": "Momentum Mod Dev Blog",
+    "seen_entries": []
+  },
   "https://blog.momentum-mod.org/rss": {
     "last_updated": 1638052522,
     "name": "Momentum Mod Dev Blog",
@@ -57,7 +63,7 @@
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
     "last_updated": 1609259209,
-    "modified": "Tue, 17 May 2022 16:05:40 GMT",
+    "modified": "Sun, 22 May 2022 11:32:41 GMT",
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
@@ -66,6 +72,12 @@
     "last_updated": 1640066400,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Cyanide and Happiness",
+    "seen_entries": []
+  },
+  "https://explosm.net/rss.xml": {
+    "etag": "\"0f601258fca15de8e5e72eb58386e479-ssl-df\"",
+    "last_updated": 1653253460,
+    "name": "Explosm.net",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/jonathancoulton": {
@@ -138,16 +150,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"89ac65fc177d8c2a33ab295b9dd032537c01d26520490e97fbd58ec038cbc874\"",
+    "etag": "W/\"21d0da6e25754b9ee9650494482208036e865237f3ddb634cdafe97dab6e5d0e\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 22 May 2022 09:31:31 GMT",
+    "modified": "Sun, 22 May 2022 17:02:16 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8baf09ed597778e2ea392431cb18f8db88aef2617e3b8ae8c1f8380d589ecdb1\"",
+    "etag": "W/\"27ceb1f4ee4670e0b645361794c670beb0e907e2de5c4715791b62aeed7b721c\"",
     "last_updated": 1652209200,
-    "modified": "Sun, 22 May 2022 09:29:46 GMT",
+    "modified": "Sun, 22 May 2022 17:56:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -168,7 +180,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Sun, 22 May 2022 12:41:20 GMT",
+    "modified": "Sun, 22 May 2022 19:07:28 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -202,7 +214,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Sun, 22 May 2022 15:04:00 GMT",
+    "modified": "Sun, 22 May 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -269,7 +281,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:bc3cff328df8f60c1d25bbe22e4a58c0",
+    "etag": "cacheable:ddf352805658882c432a6d4dbd240aee",
     "last_updated": 1652806745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -309,9 +321,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8c790321c6b0ecd1f63aaa860c7f2db6\"",
+    "etag": "\"6f7d71d407233fc7022eb66c108ddbbe\"",
     "last_updated": 1652551024,
-    "modified": "Sun, 22 May 2022 13:19:09 GMT",
+    "modified": "Sun, 22 May 2022 20:52:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -360,16 +372,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e71ba2c165f5ea1721cb0f1e99518ffa\"",
+    "etag": "W/\"d7364ef66fe51efa3139423e2aab04aa\"",
     "last_updated": 1652371192,
-    "modified": "Tue, 17 May 2022 11:36:15 GMT",
+    "modified": "Sun, 22 May 2022 17:27:04 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"e71ba2c165f5ea1721cb0f1e99518ffa\"",
+    "etag": "W/\"d7364ef66fe51efa3139423e2aab04aa\"",
     "last_updated": 1647791985,
-    "modified": "Tue, 17 May 2022 11:36:15 GMT",
+    "modified": "Sun, 22 May 2022 17:27:04 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -484,7 +496,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
-    "last_updated": 1651849939,
+    "last_updated": 1653249613,
     "name": "Harry101UK",
     "seen_entries": []
   },
