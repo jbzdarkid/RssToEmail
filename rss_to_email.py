@@ -7,6 +7,7 @@ import sys
 from datetime import datetime, timezone
 from fileinput import input as fileinput
 from html import unescape
+from http.client import responses as http_codes
 from json import load, dump
 from smtplib import SMTP, SMTPException
 from time import mktime, time
@@ -43,6 +44,27 @@ def parse_feeds(cache, feed_url):
             'seen_entries': [],
         }
 
+    if d['status'] == 304: # etag / modified indicates no new data
+        return []
+    elif d['status'] == 301:
+        print(f'Feed {feed_url} has permanently moved to {d.href}')
+        for line in fileinput('feed_list.txt', inplace=True):
+            print(line.replace(feed_url, d.href), end='')
+        cache[d.href] = cache[feed_url]
+        del cache[feed_url]
+        feed_url = d.href
+    elif d['status'] in (410, 404):
+        print(f'Feed {feed_url} has been deleted')
+        code = d['status']
+        for line in fileinput('feed_list.txt', inplace=True):
+            if feed_url not in line:
+                print(line, end='')
+                continue
+
+            print(f'# {code} {http_codes[code].upper()}')
+            print('# ' + line, end='')
+        return []
+
     # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I don't own these feeds, there's no need to report this.
     if d['bozo'] == 1:
         if (isinstance(d['bozo_exception'], URLError) # Network error
@@ -51,25 +73,6 @@ def parse_feeds(cache, feed_url):
             print_exception(None, d['bozo_exception'], None, chain=False)
             return [] # These two errors are indicative of a critical parse failure, so there's no value in continuing.
 
-    if d['status'] == 304: # etag / modified indicates no new data
-        return []
-    if d['status'] == 301:
-        print(f'Feed {feed_url} has permanently moved to {d.href}')
-        for line in fileinput('feed_list.txt', inplace=True):
-            print(line.replace(feed_url, d.href), end='')
-        cache[d.href] = cache[feed_url]
-        del cache[feed_url]
-        feed_url = d.href
-    if d['status'] == 410:
-        print(f'Feed {feed_url} has been permanently deleted')
-        for line in fileinput('feed_list.txt', inplace=True):
-            if feed_url not in line:
-                print(line, end='')
-                continue
-
-            print('# (Permanently deleted)')
-            print('# ' + line, end='')
-        return []
 
     if 'etag' in d:
         cache[feed_url]['etag'] = d.etag
