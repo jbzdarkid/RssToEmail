@@ -75,7 +75,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0f601258fca15de8e5e72eb58386e479-ssl-df\"",
+    "etag": "\"0f601258fca15de8e5e72eb58386e479-ssl\"",
     "last_updated": 1653253460,
     "name": "Explosm.net",
     "seen_entries": []
@@ -157,9 +157,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"27ceb1f4ee4670e0b645361794c670beb0e907e2de5c4715791b62aeed7b721c\"",
+    "etag": "W/\"125bbe5612d7d775c0e54c6036d6c93e104d98a84c128e5cce5f1e8abd6e7479\"",
     "last_updated": 1652209200,
-    "modified": "Sun, 22 May 2022 17:56:41 GMT",
+    "modified": "Sun, 22 May 2022 21:22:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -214,7 +214,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Sun, 22 May 2022 21:04:00 GMT",
+    "modified": "Mon, 23 May 2022 00:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -281,7 +281,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ddf352805658882c432a6d4dbd240aee",
+    "etag": "cacheable:86129c68868e95a52e53ab1db3598bdd",
     "last_updated": 1652806745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -321,9 +321,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6f7d71d407233fc7022eb66c108ddbbe\"",
+    "etag": "\"0cdb17486ec9b1c53699f3c9ab71a04c\"",
     "last_updated": 1652551024,
-    "modified": "Sun, 22 May 2022 20:52:51 GMT",
+    "modified": "Sun, 22 May 2022 22:24:32 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
