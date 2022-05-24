@@ -75,7 +75,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"5e4f77ce6b023ebf2b7069d2e021769f-ssl-df\"",
+    "etag": "\"5e4f77ce6b023ebf2b7069d2e021769f-ssl\"",
     "last_updated": 1653300332,
     "name": "Explosm.net",
     "seen_entries": []
@@ -151,9 +151,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"88a839a19dc37b61aa3dbff67b5598eacd00a0eb8fa738ce560906c4780e134a\"",
+    "etag": "W/\"2333b83d063b8989082f40cbba703a322959992e6920b72f3aa714fb3e57b43f\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 24 May 2022 02:31:51 GMT",
+    "modified": "Tue, 24 May 2022 04:59:13 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -215,7 +215,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Tue, 24 May 2022 03:30:00 GMT",
+    "modified": "Tue, 24 May 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:80058ed2f341eb11f5a1b986884dd67d",
+    "etag": "cacheable:ae79dadd5df820509b699eb3da43e9ec",
     "last_updated": 1652806745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -317,14 +317,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1653278400,
+    "last_updated": 1653364800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"aa4bde030cf5d5fbc18e949bb08aba20\"",
+    "etag": "\"5eb270ea6998b01e9f126119b4bdad65\"",
     "last_updated": 1652551024,
-    "modified": "Mon, 23 May 2022 20:52:51 GMT",
+    "modified": "Tue, 24 May 2022 04:18:25 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -380,9 +380,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"d7364ef66fe51efa3139423e2aab04aa\"",
+    "etag": "W/\"d6bbdf04199122483eba1626b02378bf\"",
     "last_updated": 1647791985,
-    "modified": "Sun, 22 May 2022 17:27:04 GMT",
+    "modified": "Tue, 24 May 2022 06:00:26 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
