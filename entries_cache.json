@@ -75,7 +75,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"24bab7ae0d23421be07071d4628de7be-ssl-df\"",
+    "etag": "\"24bab7ae0d23421be07071d4628de7be-ssl\"",
     "last_updated": 1653480969,
     "name": "Explosm.net",
     "seen_entries": []
@@ -151,9 +151,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"68466c3febaace21ceab97e61447e069233a8bfa3773ee8753f4a38650cb7115\"",
+    "etag": "W/\"c5d3f21584f37bcc3c609019335377b79edb1be81f40059095502c91717a30f6\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 27 May 2022 11:32:56 GMT",
+    "modified": "Fri, 27 May 2022 13:30:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -215,7 +215,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 27 May 2022 12:04:00 GMT",
+    "modified": "Fri, 27 May 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:800cc3dd8c8f1c873cfa0db53e5d5b6e",
+    "etag": "cacheable:fbf359df3c00002d57676e90820f4f12",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -407,7 +407,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1653570875,
+    "last_updated": 1653657640,
     "name": "GDC",
     "seen_entries": []
   },
@@ -592,9 +592,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"628e5e03-be3\"",
-    "last_updated": 1653451200,
-    "modified": "Wed, 25 May 2022 16:49:07 GMT",
+    "etag": "W/\"6290c39e-b03\"",
+    "last_updated": 1653624000,
+    "modified": "Fri, 27 May 2022 12:27:10 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
