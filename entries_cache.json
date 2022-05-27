@@ -40,8 +40,8 @@
     "seen_entries": []
   },
   "https://blog.momentum-mod.org/index.xml": {
-    "etag": "W/\"0cc08d4d8f30736b98024496027b88a8\"",
-    "last_updated": 1653253459,
+    "etag": "W/\"06bede004b153ac93605c407f8d3153e\"",
+    "last_updated": 1653536975,
     "name": "Momentum Mod Dev Blog",
     "seen_entries": []
   },
@@ -75,7 +75,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"24bab7ae0d23421be07071d4628de7be-ssl\"",
+    "etag": "\"24bab7ae0d23421be07071d4628de7be-ssl-df\"",
     "last_updated": 1653480969,
     "name": "Explosm.net",
     "seen_entries": []
@@ -146,21 +146,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1653464266,
+    "last_updated": 1653639501,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6fd4b40485f6cb5832e3fe1828d70f0087ef87a5b011370e5d0cbcffc3d85a74\"",
+    "etag": "W/\"68466c3febaace21ceab97e61447e069233a8bfa3773ee8753f4a38650cb7115\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 27 May 2022 07:27:07 GMT",
+    "modified": "Fri, 27 May 2022 11:32:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2df85f79d45c53495a483abadd100b31b3cdf311198bc1d80b3aac89c7f983b5\"",
+    "etag": "W/\"cb50f8303da993a4dcdc52b205c1bf7574c5a193eccdb4c40255d555da511b79\"",
     "last_updated": 1652209200,
-    "modified": "Fri, 27 May 2022 07:33:38 GMT",
+    "modified": "Fri, 27 May 2022 12:03:53 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -215,7 +215,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 27 May 2022 09:04:00 GMT",
+    "modified": "Fri, 27 May 2022 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:bd9519f398a7e6ec68e3f3b89ebec21a",
+    "etag": "cacheable:800cc3dd8c8f1c873cfa0db53e5d5b6e",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
