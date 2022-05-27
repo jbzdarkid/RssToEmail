@@ -75,7 +75,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"92090129655c0447b93fbe9000c40065-ssl-df\"",
+    "etag": "\"92090129655c0447b93fbe9000c40065-ssl\"",
     "last_updated": 1653648427,
     "name": "Explosm.net",
     "seen_entries": []
@@ -105,7 +105,6 @@
     "last_updated": 0,
     "name": "@breachwizards on Twitter",
     "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1408129994786705409",
       "https://twitter.com/BreachWizards/status/1408141962918518786",
       "https://twitter.com/BreachWizards/status/1415732625373757441",
       "https://twitter.com/BreachWizards/status/1417197894013112325",
@@ -124,7 +123,8 @@
       "https://twitter.com/BreachWizards/status/1501985255200153600",
       "https://twitter.com/BreachWizards/status/1512576190950772737",
       "https://twitter.com/BreachWizards/status/1513960374185340932",
-      "https://twitter.com/BreachWizards/status/1519424470171017216"
+      "https://twitter.com/BreachWizards/status/1519424470171017216",
+      "https://twitter.com/BreachWizards/status/1530252517057081344"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
@@ -142,7 +142,8 @@
       "https://twitter.com/valvesoftware/status/1498723452596867073",
       "https://twitter.com/valvesoftware/status/1498723467880898564",
       "https://twitter.com/valvesoftware/status/1528210086899855360",
-      "https://twitter.com/valvesoftware/status/1528432806388375552"
+      "https://twitter.com/valvesoftware/status/1528432806388375552",
+      "https://twitter.com/valvesoftware/status/1529940735310540800"
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
@@ -215,7 +216,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 27 May 2022 18:04:00 GMT",
+    "modified": "Fri, 27 May 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -268,21 +269,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"41e0ee320f7809f4e20b5f2a211d5b1f\"",
+    "etag": "W/\"9e0b20ed42c9b67bd1169370d09e70c5\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 27 May 2022 17:00:19 GMT",
+    "modified": "Fri, 27 May 2022 18:59:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"41e0ee320f7809f4e20b5f2a211d5b1f\"",
+    "etag": "W/\"9e0b20ed42c9b67bd1169370d09e70c5\"",
     "last_updated": 1653494446,
-    "modified": "Fri, 27 May 2022 17:00:19 GMT",
+    "modified": "Fri, 27 May 2022 18:59:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f7fb2d10a8ba2cb65572ea38151af9ec",
+    "etag": "cacheable:6e9749bd8b16c76991a3dc01525998cd",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -322,9 +323,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b664ffb9637666e89928a3402425dc5e\"",
+    "etag": "\"06d896d903cfc3999e137cea4ed7888f\"",
     "last_updated": 1652551024,
-    "modified": "Fri, 27 May 2022 18:03:18 GMT",
+    "modified": "Fri, 27 May 2022 20:38:10 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
