@@ -1,4 +1,32 @@
 {
+  "http://feeds.sydv.net/latest-bash-quotes": {
+    "etag": "JSPVI23guDa98RtiQqyV23v1bxM",
+    "last_updated": 1653944659,
+    "modified": "Mon, 30 May 2022 20:10:58 GMT",
+    "name": "Latest Bash.org QDB Quotes",
+    "seen_entries": [
+      "http://bash.org/?965959",
+      "http://bash.org/?966109",
+      "http://bash.org/?966114",
+      "http://bash.org/?966166",
+      "http://bash.org/?966181",
+      "http://bash.org/?966182",
+      "http://bash.org/?966184",
+      "http://bash.org/?966216",
+      "http://bash.org/?966218",
+      "http://bash.org/?966225",
+      "http://bash.org/?966228",
+      "http://bash.org/?966229",
+      "http://bash.org/?966243",
+      "http://bash.org/?966262",
+      "http://bash.org/?966357",
+      "http://bash.org/?966447",
+      "http://bash.org/?966452",
+      "http://bash.org/?966453",
+      "http://bash.org/?966459",
+      "http://bash.org/?966506"
+    ]
+  },
   "https://backend.deviantart.com/rss.xml?q=gallery:DrFaustusAU": {
     "last_updated": 1622042007,
     "name": "DeviantArt: DrFaustusAU's gallery",
@@ -75,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"2bf415c016b6d6dce2ed62f7bf8dcc0a-ssl\"",
+    "etag": "\"2bf415c016b6d6dce2ed62f7bf8dcc0a-ssl-df\"",
     "last_updated": 1653903381,
     "name": "Explosm.net",
     "seen_entries": []
@@ -146,15 +174,37 @@
       "https://twitter.com/valvesoftware/status/1529940735310540800"
     ]
   },
+  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
+    "last_updated": 1653944660,
+    "name": "AFK - YouTube",
+    "seen_entries": [
+      "https://www.youtube.com/watch?v=hpS9-kKu1Co",
+      "https://www.youtube.com/watch?v=hSntzpqD3Hs",
+      "https://www.youtube.com/watch?v=Y7uL53UMu7M",
+      "https://www.youtube.com/watch?v=qI5OryrOmwY",
+      "https://www.youtube.com/watch?v=WJEEwonBNNI"
+    ]
+  },
+  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950866c31d8a36990a8932.atom": {
+    "last_updated": 1653944659,
+    "name": "HAZBIN HOTEL (PILOT) \"That's Entertainment\" - YouTube",
+    "seen_entries": [
+      "https://www.youtube.com/watch?v=0OxnM9Mpvg0",
+      "https://www.youtube.com/watch?v=R33zrbWKWEY",
+      "https://www.youtube.com/watch?v=yfYbf5fADyY",
+      "https://www.youtube.com/watch?v=r_YRZSluMGg",
+      "https://www.youtube.com/watch?v=Zlmswo0S0e0"
+    ]
+  },
   "https://foxes-in-love.tumblr.com/rss": {
     "last_updated": 1653809698,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"669f92453229864677351bc8eb1f71c0864d8c8aea854573012141a2bb9e7ab9\"",
+    "etag": "W/\"c77d8475fea30dbe2ff645605690c96085e40d8e3a3a09d11698175daf3d7747\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 30 May 2022 17:10:28 GMT",
+    "modified": "Mon, 30 May 2022 18:55:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -216,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Mon, 30 May 2022 18:04:00 GMT",
+    "modified": "Mon, 30 May 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -283,7 +333,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:94594101da20e85dc7e740186fc4e785",
+    "etag": "cacheable:4c002ece47caf2abaad5f445bf301d13",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -323,9 +373,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1569360fca9dd2537dfdb12038df52bc\"",
+    "etag": "\"9d124bae3e117844159b069c5442d76c\"",
     "last_updated": 1652551024,
-    "modified": "Mon, 30 May 2022 18:03:23 GMT",
+    "modified": "Mon, 30 May 2022 21:01:27 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
