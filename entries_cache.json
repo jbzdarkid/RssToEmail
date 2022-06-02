@@ -209,9 +209,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f71a9d4c4cfdb0749021bc22b46f77a915fd14ca9a9972410dc59d3732d4ea73\"",
+    "etag": "W/\"cfe7a99ffd2066fc10bbb9040c421efc803372dbf93eb828ca6d31b19ea4cfa2\"",
     "last_updated": 1652209200,
-    "modified": "Thu, 02 Jun 2022 11:28:23 GMT",
+    "modified": "Thu, 02 Jun 2022 20:20:37 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Thu, 02 Jun 2022 18:04:00 GMT",
+    "modified": "Thu, 02 Jun 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -319,21 +319,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5e04433f289d0002e268254aee8f44ab\"",
+    "etag": "W/\"9645e36b89640f1094d122da5f93e842\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 02 Jun 2022 16:00:29 GMT",
+    "modified": "Thu, 02 Jun 2022 18:07:13 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5e04433f289d0002e268254aee8f44ab\"",
+    "etag": "W/\"9645e36b89640f1094d122da5f93e842\"",
     "last_updated": 1654099252,
-    "modified": "Thu, 02 Jun 2022 16:00:29 GMT",
+    "modified": "Thu, 02 Jun 2022 18:07:13 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:de1e6bca866bc84d53d2f2f11340deb0",
+    "etag": "cacheable:8ffbc1a114e971287c1edb1e7d944933",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -373,9 +373,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7ff9bd0bbaa2ec97f09ab21792afadc0\"",
+    "etag": "\"6cd0c4d34293ca200c42dfbc71ac065f\"",
     "last_updated": 1652551024,
-    "modified": "Thu, 02 Jun 2022 18:00:14 GMT",
+    "modified": "Thu, 02 Jun 2022 20:09:30 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -568,7 +568,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
-    "last_updated": 1649353837,
+    "last_updated": 1654199042,
     "name": "Valve",
     "seen_entries": []
   },
@@ -628,7 +628,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1652646886,
+    "last_updated": 1654200839,
     "name": "SourceRuns",
     "seen_entries": []
   },
