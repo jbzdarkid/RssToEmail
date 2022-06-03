@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ad7ddb6773f12a0bfbf0bd3a5de3b4d1-ssl-df\"",
+    "etag": "\"ad7ddb6773f12a0bfbf0bd3a5de3b4d1-ssl\"",
     "last_updated": 1654097260,
     "name": "Explosm.net",
     "seen_entries": []
@@ -209,9 +209,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2989ca585efb36d97e136c2f9ddddf580d21f550765b3838518e489651f5dd8c\"",
+    "etag": "W/\"c9100da39f5a7a1ec78d851fc2f13ee155f068768a6ec844604aaa501db43947\"",
     "last_updated": 1652209200,
-    "modified": "Fri, 03 Jun 2022 01:30:07 GMT",
+    "modified": "Fri, 03 Jun 2022 05:13:48 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 03 Jun 2022 03:24:00 GMT",
+    "modified": "Fri, 03 Jun 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,7 +333,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2d64f9116cbe89a9d90bc8b66a6a4a9b",
+    "etag": "cacheable:fb89b6c9c3ed1c7b30a892a7920fc236",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -368,7 +368,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1654142400,
+    "last_updated": 1654228800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -448,7 +448,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1654060706,
+    "last_updated": 1654231673,
     "name": "Wilde Life",
     "seen_entries": []
   },
