@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"19c45ef57d6c98592e615776c74b929b-ssl\"",
+    "etag": "\"19c45ef57d6c98592e615776c74b929b-ssl-df\"",
     "last_updated": 1654560046,
     "name": "Explosm.net",
     "seen_entries": []
@@ -202,9 +202,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"109f22ce0496f7823805392d0a81facae5d85dff54450ac49744c6584e5177c4\"",
+    "etag": "W/\"0d3483e2488bdde903f37e31569cfdaddcd6511054a1a13d58dbd619e286e2ca\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 08 Jun 2022 03:22:12 GMT",
+    "modified": "Wed, 08 Jun 2022 05:44:26 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 08 Jun 2022 03:30:00 GMT",
+    "modified": "Wed, 08 Jun 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,7 +333,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:abe2065b072b30975e98308a9017a1be",
+    "etag": "cacheable:b4ea6791f752a00d48489c6b3575478d",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -368,7 +368,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1654574400,
+    "last_updated": 1654660800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -448,7 +448,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1654491718,
+    "last_updated": 1654667211,
     "name": "Wilde Life",
     "seen_entries": []
   },
