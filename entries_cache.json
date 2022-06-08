@@ -202,9 +202,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"66836a939338bcece1dc0794e4f5117d0ccc6d78d35e2b3f32ea781765ffb38d\"",
+    "etag": "W/\"55ae3b53f148e24ab68ddea8409553d669743fce8bcfbd15f3f2b8c84ef53cf4\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 08 Jun 2022 11:03:38 GMT",
+    "modified": "Wed, 08 Jun 2022 14:55:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Wed, 08 Jun 2022 12:04:00 GMT",
+    "modified": "Wed, 08 Jun 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -319,33 +319,32 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"097d0d96349088ddddcd3bd2e59ddbc2\"",
+    "etag": "W/\"f9d79397dc8489033610d05aa11c38fa\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 08 Jun 2022 01:08:05 GMT",
+    "modified": "Wed, 08 Jun 2022 14:17:40 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"097d0d96349088ddddcd3bd2e59ddbc2\"",
+    "etag": "W/\"f9d79397dc8489033610d05aa11c38fa\"",
     "last_updated": 1654099252,
-    "modified": "Wed, 08 Jun 2022 01:08:05 GMT",
+    "modified": "Wed, 08 Jun 2022 14:17:40 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:38b07adf5f7808b77e0f1b7f705ae23a",
+    "etag": "cacheable:13f1740f2d4ee47e8814ad72037b8477",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DA3E569DB9B758\"",
+    "etag": "W/\"0x8DA4956BD3A9C2C\"",
     "last_updated": 0,
-    "modified": "Wed, 25 May 2022 13:58:16 GMT",
+    "modified": "Wed, 08 Jun 2022 13:56:51 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1249.html",
       "http://www.giantitp.com/comics/oots1250.html",
       "http://www.giantitp.com/comics/oots1251.html",
       "http://www.giantitp.com/comics/oots1252.html",
@@ -364,7 +363,8 @@
       "https://www.giantitp.com/comics/oots1255.html",
       "https://www.giantitp.com/comics/oots1256.html",
       "https://www.giantitp.com/comics/oots1257.html",
-      "https://www.giantitp.com/comics/oots1258.html"
+      "https://www.giantitp.com/comics/oots1258.html",
+      "https://www.giantitp.com/comics/oots1259.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -373,9 +373,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ec1338f5fe2eff51af2fbfc2bf71b8d2\"",
+    "etag": "\"1c6a0107a32a43e3790c2afe57aaf3cc\"",
     "last_updated": 1652551024,
-    "modified": "Wed, 08 Jun 2022 11:23:37 GMT",
+    "modified": "Wed, 08 Jun 2022 14:18:31 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -424,16 +424,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"6078cfb718eb95277261d47558603fe1\"",
+    "etag": "W/\"5dfb77ebe860f98235bbdc693d835b12\"",
     "last_updated": 1653580844,
-    "modified": "Wed, 08 Jun 2022 10:55:13 GMT",
+    "modified": "Wed, 08 Jun 2022 12:14:09 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"6078cfb718eb95277261d47558603fe1\"",
+    "etag": "W/\"5dfb77ebe860f98235bbdc693d835b12\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 08 Jun 2022 10:55:13 GMT",
+    "modified": "Wed, 08 Jun 2022 12:14:09 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -458,7 +458,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1654517434,
+    "last_updated": 1654695888,
     "name": "GDC",
     "seen_entries": []
   },
@@ -643,9 +643,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"629ee25e-839\"",
-    "last_updated": 1654488000,
-    "modified": "Tue, 07 Jun 2022 05:30:06 GMT",
+    "etag": "W/\"62a09dd8-7f9\"",
+    "last_updated": 1654660800,
+    "modified": "Wed, 08 Jun 2022 13:02:16 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
