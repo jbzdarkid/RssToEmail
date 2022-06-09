@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0b187cd4514e78228f42f50bcf7954bc-ssl-df\"",
+    "etag": "\"0b187cd4514e78228f42f50bcf7954bc-ssl\"",
     "last_updated": 1654712612,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Thu, 09 Jun 2022 03:30:00 GMT",
+    "modified": "Thu, 09 Jun 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,7 +333,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5f084bc9c55de75331190c7c88f3294c",
+    "etag": "cacheable:196c326e0e63a828565b31551643ca45",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -368,14 +368,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1654660800,
+    "last_updated": 1654747200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1c31e85ee19020059ec7385ff3efce8d\"",
+    "etag": "\"1d9163e13250b67740d1c77e6fd00d83\"",
     "last_updated": 1652551024,
-    "modified": "Thu, 09 Jun 2022 03:25:52 GMT",
+    "modified": "Thu, 09 Jun 2022 05:28:46 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
