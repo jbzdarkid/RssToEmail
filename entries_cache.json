@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0b187cd4514e78228f42f50bcf7954bc-ssl-df\"",
+    "etag": "\"0b187cd4514e78228f42f50bcf7954bc-ssl\"",
     "last_updated": 1654712612,
     "name": "Explosm.net",
     "seen_entries": []
@@ -202,9 +202,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6c9b2523df7b042d23be7bfb21264a5da7246a8861ab5cf8c555f094a7060b07\"",
+    "etag": "W/\"3179e3e035c6b6cf2ebd5f68a610bb171373252f14eab2bd4d7e8c7407132c0c\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 10 Jun 2022 03:44:21 GMT",
+    "modified": "Fri, 10 Jun 2022 08:49:16 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -266,7 +266,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Fri, 10 Jun 2022 06:04:00 GMT",
+    "modified": "Fri, 10 Jun 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,7 +333,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:139014577543ab8e7d0ee6c73cab2505",
+    "etag": "cacheable:3c33635c0eb0362288c3f724678edb18",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -373,9 +373,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"531b83caef90c61ffc0da13901190b19\"",
+    "etag": "\"be91f5baebf04f4c87483bc63884f4ac\"",
     "last_updated": 1652551024,
-    "modified": "Thu, 09 Jun 2022 23:38:53 GMT",
+    "modified": "Fri, 10 Jun 2022 08:48:26 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -399,7 +399,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1654671600,
+    "last_updated": 1654844400,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -478,7 +478,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1641300619,
+    "last_updated": 1654841290,
     "name": "Team PLC",
     "seen_entries": []
   },
