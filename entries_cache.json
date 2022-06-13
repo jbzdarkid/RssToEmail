@@ -133,8 +133,6 @@
     "last_updated": 0,
     "name": "@breachwizards on Twitter",
     "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1415732625373757441",
-      "https://twitter.com/BreachWizards/status/1417197894013112325",
       "https://twitter.com/BreachWizards/status/1425174738373005312",
       "https://twitter.com/BreachWizards/status/1433491538030460932",
       "https://twitter.com/BreachWizards/status/1433876420749520897",
@@ -152,7 +150,9 @@
       "https://twitter.com/BreachWizards/status/1513960374185340932",
       "https://twitter.com/BreachWizards/status/1519424470171017216",
       "https://twitter.com/BreachWizards/status/1530252517057081344",
-      "https://twitter.com/BreachWizards/status/1534964813020860416"
+      "https://twitter.com/BreachWizards/status/1534964813020860416",
+      "https://twitter.com/BreachWizards/status/1536038119341838336",
+      "https://twitter.com/BreachWizards/status/1536070504695549952"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
@@ -267,7 +267,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Sun, 12 Jun 2022 21:02:00 GMT",
+    "modified": "Mon, 13 Jun 2022 00:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -320,21 +320,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ba80a282d1d1f1d72f4058a0f82cce8e\"",
+    "etag": "W/\"2fbb97d737e021a5ea133eb685df4770\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 12 Jun 2022 20:13:37 GMT",
+    "modified": "Sun, 12 Jun 2022 23:20:04 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ba80a282d1d1f1d72f4058a0f82cce8e\"",
+    "etag": "W/\"e6a5f206c307f77b313d065fe3790939\"",
     "last_updated": 1654704036,
-    "modified": "Sun, 12 Jun 2022 20:13:37 GMT",
+    "modified": "Sun, 12 Jun 2022 21:51:04 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2fc9c13cb10b567f1ab902092df6c7e3",
+    "etag": "cacheable:90b1790289093c5954bb4b7178ddeae6",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
