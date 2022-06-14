@@ -103,8 +103,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"fbb528e17d5f24216d8866069011adb9-ssl\"",
-    "last_updated": 1655103532,
+    "etag": "\"83b01c435474675ed6cadd45f94b78f9-ssl-df\"",
+    "last_updated": 1655167247,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1655017859,
+    "last_updated": 1655188529,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -211,9 +211,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3c923fea46a80d3732fe08e8d908f67647eaebe2003b5e14d3c325bfce34e7db\"",
+    "etag": "W/\"873423ff6f3f61885ab8eef3910c1c71cacc48d557232cf7412bd081de62be4d\"",
     "last_updated": 1652209200,
-    "modified": "Tue, 14 Jun 2022 04:51:46 GMT",
+    "modified": "Tue, 14 Jun 2022 08:35:40 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1646007240,
-    "modified": "Tue, 14 Jun 2022 06:04:00 GMT",
+    "modified": "Tue, 14 Jun 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:55a5e65cb329062f6ad9777bd576900f",
+    "etag": "cacheable:5a91e4d1df7d1e889955e1a077b8c777",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
