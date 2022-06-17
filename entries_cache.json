@@ -211,9 +211,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a5100cf30899f12bf9ae77cf22892324cf0a30c4d6011db428b9a541808ceb41\"",
+    "etag": "W/\"e2b1ba29ccb52fc712fa0e0c6ae0cab868648872a6c48321646e353fcae901d5\"",
     "last_updated": 1655222400,
-    "modified": "Fri, 17 Jun 2022 03:12:31 GMT",
+    "modified": "Fri, 17 Jun 2022 05:52:07 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -268,7 +268,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1655301716,
-    "modified": "Fri, 17 Jun 2022 03:30:00 GMT",
+    "modified": "Fri, 17 Jun 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -321,21 +321,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7fd656c7c6cf54c47ebf392fca5aaff7\"",
+    "etag": "W/\"ff745c2087cef6bcaf664a275b710bf3\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 17 Jun 2022 01:01:18 GMT",
+    "modified": "Fri, 17 Jun 2022 03:06:28 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"7fd656c7c6cf54c47ebf392fca5aaff7\"",
+    "etag": "W/\"ff745c2087cef6bcaf664a275b710bf3\"",
     "last_updated": 1655308817,
-    "modified": "Fri, 17 Jun 2022 01:01:18 GMT",
+    "modified": "Fri, 17 Jun 2022 03:06:28 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a603fbdcafe9db42d26f590463b2d247",
+    "etag": "cacheable:275a30bca6983862ee75303e8957e90a",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -370,7 +370,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1655352000,
+    "last_updated": 1655438400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -450,7 +450,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1655274984,
+    "last_updated": 1655442454,
     "name": "Wilde Life",
     "seen_entries": []
   },
