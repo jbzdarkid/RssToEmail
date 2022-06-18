@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f1d09c568df7277a34c1a227e07e416f-ssl\"",
+    "etag": "\"f1d09c568df7277a34c1a227e07e416f-ssl-df\"",
     "last_updated": 1655424014,
     "name": "Explosm.net",
     "seen_entries": []
@@ -269,7 +269,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1655301716,
-    "modified": "Sat, 18 Jun 2022 00:16:00 GMT",
+    "modified": "Sat, 18 Jun 2022 03:28:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -336,7 +336,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0c6cb229c6d026330c1649acf2fc6080",
+    "etag": "cacheable:77945b0fef67083eb745cd3ff3e72682",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -415,8 +415,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1650394020,
-    "modified": "Tue, 19 Apr 2022 18:47:00 +0000",
+    "last_updated": 1655511780,
+    "modified": "Sat, 18 Jun 2022 00:23:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
