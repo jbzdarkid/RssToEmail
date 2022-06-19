@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"58a468a76e4adb09cf9d7ee49b5095d1-ssl-df\"",
+    "etag": "\"58a468a76e4adb09cf9d7ee49b5095d1-ssl\"",
     "last_updated": 1655515728,
     "name": "Explosm.net",
     "seen_entries": []
@@ -133,7 +133,6 @@
     "last_updated": 0,
     "name": "@breachwizards on Twitter",
     "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1433491538030460932",
       "https://twitter.com/BreachWizards/status/1433876420749520897",
       "https://twitter.com/BreachWizards/status/1440004396889219073",
       "https://twitter.com/BreachWizards/status/1455258033475383296",
@@ -152,7 +151,8 @@
       "https://twitter.com/BreachWizards/status/1534964813020860416",
       "https://twitter.com/BreachWizards/status/1536038119341838336",
       "https://twitter.com/BreachWizards/status/1536070504695549952",
-      "https://twitter.com/BreachWizards/status/1536795116689498112"
+      "https://twitter.com/BreachWizards/status/1536795116689498112",
+      "https://twitter.com/BreachWizards/status/1538198269524049921"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
@@ -269,7 +269,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1655301716,
-    "modified": "Sun, 19 Jun 2022 03:32:00 GMT",
+    "modified": "Sun, 19 Jun 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -336,7 +336,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8f2e63fa52b2d5c99e2663b14f4a42e5",
+    "etag": "cacheable:2754f297ff9989c0edd030f2347fc69f",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
