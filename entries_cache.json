@@ -213,9 +213,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7c67da30dab00ab235a3a8e57e43d9f1bdc99515faf57c0a688ce6088ee91002\"",
+    "etag": "W/\"a6d1f08d90584a5c8f888629019380684adeb6884e71f1e25ae60b139ec427e1\"",
     "last_updated": 1655222400,
-    "modified": "Mon, 20 Jun 2022 22:14:10 GMT",
+    "modified": "Tue, 21 Jun 2022 05:27:30 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -236,7 +236,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Fri, 17 Jun 2022 15:38:25 GMT",
+    "modified": "Tue, 21 Jun 2022 05:31:57 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -270,7 +270,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1655744257,
-    "modified": "Tue, 21 Jun 2022 03:32:00 GMT",
+    "modified": "Tue, 21 Jun 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -337,7 +337,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7ecb4c05ff86a32a016a3511848251f9",
+    "etag": "cacheable:aa81dc20999c8ffa61d1f8ab2de2e13d",
     "last_updated": 1653411012,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -372,7 +372,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1655697600,
+    "last_updated": 1655784000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -428,16 +428,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"45dde2491f1ca7e3ee0d203566d46d70\"",
+    "etag": "W/\"94e491fe8398345b27f721c3d1c3f339\"",
     "last_updated": 1655395214,
-    "modified": "Mon, 20 Jun 2022 23:59:28 GMT",
+    "modified": "Tue, 21 Jun 2022 05:59:49 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"45dde2491f1ca7e3ee0d203566d46d70\"",
+    "etag": "W/\"94e491fe8398345b27f721c3d1c3f339\"",
     "last_updated": 1647791985,
-    "modified": "Mon, 20 Jun 2022 23:59:28 GMT",
+    "modified": "Tue, 21 Jun 2022 05:59:49 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -647,9 +647,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62ad47a6-9c5\"",
-    "last_updated": 1655438400,
-    "modified": "Sat, 18 Jun 2022 03:33:58 GMT",
+    "etag": "W/\"62b15943-95f\"",
+    "last_updated": 1655697600,
+    "modified": "Tue, 21 Jun 2022 05:38:11 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
