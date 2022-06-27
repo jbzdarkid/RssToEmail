@@ -214,9 +214,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"04b755ae5f1fc0d3297fe20bceff2a9e0009c359b167189d00d4027753653e15\"",
+    "etag": "W/\"126ef75ac00dc8e9bd06e042a3bb646b7b781d71c9f1a616ad6df286e57414f5\"",
     "last_updated": 1656000060,
-    "modified": "Mon, 27 Jun 2022 05:25:07 GMT",
+    "modified": "Mon, 27 Jun 2022 07:51:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -237,7 +237,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Tue, 21 Jun 2022 05:31:57 GMT",
+    "modified": "Mon, 27 Jun 2022 09:03:40 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -271,7 +271,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1655919279,
-    "modified": "Mon, 27 Jun 2022 06:04:00 GMT",
+    "modified": "Mon, 27 Jun 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -338,7 +338,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:aa8eef633d35409f1dbbb9dbc46b3931",
+    "etag": "cacheable:29a12e96244ef65de27931aec42221f6",
     "last_updated": 1655914931,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -404,7 +404,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1656054000,
+    "last_updated": 1656313200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
