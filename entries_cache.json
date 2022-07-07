@@ -273,7 +273,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657122796,
-    "modified": "Thu, 07 Jul 2022 03:38:00 GMT",
+    "modified": "Thu, 07 Jul 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -340,7 +340,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:58c8dbe3e03d47434d38ac5f9dcfef50",
+    "etag": "cacheable:44431b18061b0b3f647ab92eedba4ce6",
     "last_updated": 1656435598,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -375,14 +375,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1657080000,
+    "last_updated": 1657166400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ae608731f7f656d08629911f5ee26a59\"",
+    "etag": "\"ac7d0e3083e66ce1a0b42028599b26ef\"",
     "last_updated": 1655652084,
-    "modified": "Thu, 07 Jul 2022 01:08:13 GMT",
+    "modified": "Thu, 07 Jul 2022 05:54:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -438,9 +438,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"c8360fd1c76891f442fbd36c0f5f5de8\"",
+    "etag": "W/\"fd9ccc35151146c3fd2f11cfc2a1f071\"",
     "last_updated": 1647791985,
-    "modified": "Thu, 07 Jul 2022 00:44:05 GMT",
+    "modified": "Thu, 07 Jul 2022 06:03:17 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -650,9 +650,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62c64530-abb\"",
-    "last_updated": 1656907200,
-    "modified": "Thu, 07 Jul 2022 02:30:08 GMT",
+    "etag": "W/\"62c65b83-a03\"",
+    "last_updated": 1657080000,
+    "modified": "Thu, 07 Jul 2022 04:05:23 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
