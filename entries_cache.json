@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"15a8fe57343998d45fe55be108098257-ssl\"",
+    "etag": "\"15a8fe57343998d45fe55be108098257-ssl-df\"",
     "last_updated": 1658273367,
     "name": "Explosm.net",
     "seen_entries": []
@@ -219,9 +219,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c582e2037df548b739c2ca47abeece67c34bb3e445dadfdc4ec4f65523f88313\"",
+    "etag": "W/\"e25877d5017e9429e974ebd8af369527d91665563e427bc9acfdb9821e19beb6\"",
     "last_updated": 1656594000,
-    "modified": "Thu, 21 Jul 2022 11:02:13 GMT",
+    "modified": "Thu, 21 Jul 2022 16:48:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -276,7 +276,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 21 Jul 2022 15:04:00 GMT",
+    "modified": "Thu, 21 Jul 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -329,21 +329,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2e02623ed05de45fd555fd013b73b1a8\"",
+    "etag": "W/\"b4671ef93d9e453448cc17aaae2ce0b4\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 20 Jul 2022 21:04:21 GMT",
+    "modified": "Thu, 21 Jul 2022 17:08:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"2e02623ed05de45fd555fd013b73b1a8\"",
+    "etag": "W/\"b4671ef93d9e453448cc17aaae2ce0b4\"",
     "last_updated": 1658332800,
-    "modified": "Wed, 20 Jul 2022 21:04:21 GMT",
+    "modified": "Thu, 21 Jul 2022 17:08:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:945db952b1eef142ec3faf418d06502c",
+    "etag": "cacheable:54a4aecbb47cd40772d1d9653ffcb0fa",
     "last_updated": 1657644965,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -383,9 +383,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c5e143801860c0d256cfaa2cd676d22a\"",
+    "etag": "\"4d4d2033a9787783da864eaab00520e4\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 21 Jul 2022 14:50:35 GMT",
+    "modified": "Thu, 21 Jul 2022 18:03:00 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -434,16 +434,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f2bdd8094a34d3564ea01bcd244a2f0f\"",
-    "last_updated": 1657814406,
-    "modified": "Wed, 20 Jul 2022 23:53:14 GMT",
+    "etag": "W/\"f9dd083370e31dac348615e18735823d\"",
+    "last_updated": 1658419222,
+    "modified": "Thu, 21 Jul 2022 16:00:22 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f2bdd8094a34d3564ea01bcd244a2f0f\"",
+    "etag": "W/\"f9dd083370e31dac348615e18735823d\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 20 Jul 2022 23:53:14 GMT",
+    "modified": "Thu, 21 Jul 2022 16:00:22 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
