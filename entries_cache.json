@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"fe36e9c0d1946a2d7f1aa0bf4d65c226-ssl-df\"",
+    "etag": "\"fe36e9c0d1946a2d7f1aa0bf4d65c226-ssl\"",
     "last_updated": 1658743323,
     "name": "Explosm.net",
     "seen_entries": []
@@ -212,9 +212,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4e6bb9365608612750b46f692a33656c980a5faad57198c0db367c0b561f4541\"",
+    "etag": "W/\"116979087ee7b28c4eeefda76a4c76b6123cde7e411a4a2068a5b40b9117bde2\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 25 Jul 2022 11:33:34 GMT",
+    "modified": "Tue, 26 Jul 2022 04:37:06 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -276,7 +276,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 26 Jul 2022 03:48:00 GMT",
+    "modified": "Tue, 26 Jul 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -343,7 +343,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ccb5bf194cb6e25fe2b1809c2bba3cd8",
+    "etag": "cacheable:6449ef8c30e12968c388ad2c0c541d9e",
     "last_updated": 1657644965,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -378,14 +378,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1658721600,
+    "last_updated": 1658808000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6219d2cff3f5275d964c76331add3575\"",
+    "etag": "\"75667478f82d51468b16f180ce53a56e\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 26 Jul 2022 03:40:14 GMT",
+    "modified": "Tue, 26 Jul 2022 05:59:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -658,9 +658,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62daef55-933\"",
-    "last_updated": 1658462400,
-    "modified": "Fri, 22 Jul 2022 18:41:25 GMT",
+    "etag": "W/\"62df6d21-9af\"",
+    "last_updated": 1658721600,
+    "modified": "Tue, 26 Jul 2022 04:27:13 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
