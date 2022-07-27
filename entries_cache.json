@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"7224bc109d466cec982f029f6566520d-ssl\"",
+    "etag": "\"7224bc109d466cec982f029f6566520d-ssl-df\"",
     "last_updated": 1658793638,
     "name": "Explosm.net",
     "seen_entries": []
@@ -276,7 +276,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 27 Jul 2022 00:20:00 GMT",
+    "modified": "Wed, 27 Jul 2022 03:38:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -329,21 +329,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a42619feb1af96f6920eb22deb12eaf1\"",
+    "etag": "W/\"759c1995df94c998b7eaf2acc657cc95\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 26 Jul 2022 22:02:41 GMT",
+    "modified": "Wed, 27 Jul 2022 02:03:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a42619feb1af96f6920eb22deb12eaf1\"",
+    "etag": "W/\"759c1995df94c998b7eaf2acc657cc95\"",
     "last_updated": 1658332800,
-    "modified": "Tue, 26 Jul 2022 22:02:41 GMT",
+    "modified": "Wed, 27 Jul 2022 02:03:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5281d34705006a9f891ce7834e0309c3",
+    "etag": "cacheable:c2aacda8ab86dc42e52dd053bb41d267",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -383,9 +383,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"44dbcc16914027261b6c0d6fd0366fef\"",
+    "etag": "\"0c623c326a222e732f73b6b2630eb5a9\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 26 Jul 2022 23:26:47 GMT",
+    "modified": "Wed, 27 Jul 2022 03:23:06 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -458,7 +458,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1658734102,
+    "last_updated": 1658890800,
     "name": "Wilde Life",
     "seen_entries": []
   },
