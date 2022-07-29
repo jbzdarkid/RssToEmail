@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"095d9663041b680c6e1eebf4e37aecb4-ssl\"",
+    "etag": "\"095d9663041b680c6e1eebf4e37aecb4-ssl-df\"",
     "last_updated": 1659064895,
     "name": "Explosm.net",
     "seen_entries": []
@@ -219,9 +219,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5fc651261a1d0f12d1d40cb2fefcec0e5d5e2d5ea0a22774ebc278c9d54e3816\"",
+    "etag": "W/\"26ff0c92988362ad6295200fb55e6249623d676faa92bff8e93e8e0dd609c8b8\"",
     "last_updated": 1656594000,
-    "modified": "Fri, 29 Jul 2022 16:09:06 GMT",
+    "modified": "Fri, 29 Jul 2022 18:28:28 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -276,7 +276,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 29 Jul 2022 18:04:00 GMT",
+    "modified": "Fri, 29 Jul 2022 21:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -329,9 +329,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6245746456c906cce59a09b8e408da86\"",
+    "etag": "W/\"fe5aaf0713d914b8757360335545661d\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 29 Jul 2022 15:52:18 GMT",
+    "modified": "Fri, 29 Jul 2022 17:05:10 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -343,7 +343,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:23c772b238661ee892d0bc1062ae23ae",
+    "etag": "cacheable:3e87857240dc7315c757751ac1e8654c",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -383,9 +383,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7d45c60483ee850861b596a975bab4a7\"",
+    "etag": "\"0302a7db8710375ef8dc6225d9612493\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 29 Jul 2022 16:27:24 GMT",
+    "modified": "Fri, 29 Jul 2022 20:57:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -422,8 +422,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1658331900,
-    "modified": "Wed, 20 Jul 2022 15:45:00 +0000",
+    "last_updated": 1659119520,
+    "modified": "Fri, 29 Jul 2022 18:32:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
