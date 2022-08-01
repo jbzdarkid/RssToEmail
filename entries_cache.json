@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4de3ed12ad64f0651195eeed0905ee9e-ssl-df\"",
+    "etag": "\"4de3ed12ad64f0651195eeed0905ee9e-ssl\"",
     "last_updated": 1659138318,
     "name": "Explosm.net",
     "seen_entries": []
@@ -219,9 +219,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e6da69ed7851875beefdbe9faf3dace16f45f7d2ba9a5536bc36ee499772c3bd\"",
+    "etag": "W/\"cec5f21162dfd4c9717cd1eecb8d9ef93be3bfa65754b4320e517f1141e1b491\"",
     "last_updated": 1656594000,
-    "modified": "Mon, 01 Aug 2022 05:35:02 GMT",
+    "modified": "Mon, 01 Aug 2022 08:17:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -276,7 +276,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 01 Aug 2022 06:14:00 GMT",
+    "modified": "Mon, 01 Aug 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -343,7 +343,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:dd3a934009023d15f6d71e8a7a97d4ed",
+    "etag": "cacheable:d74e2abc08c7d75342652bca06639a75",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -383,9 +383,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"02c1babef089071af2ee628bd183df8b\"",
+    "etag": "\"b08ddabef04e5cdfb6444d13833762b0\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 01 Aug 2022 03:46:40 GMT",
+    "modified": "Mon, 01 Aug 2022 08:46:50 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -409,7 +409,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1659078000,
+    "last_updated": 1659337200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -434,16 +434,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"5197585523db82a77807591528c51513\"",
+    "etag": "W/\"975503686f314b9d3f0b2d0c3858ae20\"",
     "last_updated": 1659196836,
-    "modified": "Mon, 01 Aug 2022 05:04:29 GMT",
+    "modified": "Mon, 01 Aug 2022 08:29:33 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"5197585523db82a77807591528c51513\"",
+    "etag": "W/\"975503686f314b9d3f0b2d0c3858ae20\"",
     "last_updated": 1647791985,
-    "modified": "Mon, 01 Aug 2022 05:04:29 GMT",
+    "modified": "Mon, 01 Aug 2022 08:29:33 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -458,7 +458,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1659075430,
+    "last_updated": 1659339551,
     "name": "Wilde Life",
     "seen_entries": []
   },
