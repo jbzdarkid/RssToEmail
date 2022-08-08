@@ -38,7 +38,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1659814351,
+    "last_updated": 1659984388,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f2e6d7113f374393d01fa06960026d64-ssl-df\"",
+    "etag": "\"f2e6d7113f374393d01fa06960026d64-ssl\"",
     "last_updated": 1659947748,
     "name": "Explosm.net",
     "seen_entries": []
@@ -277,7 +277,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 08 Aug 2022 18:04:00 GMT",
+    "modified": "Mon, 08 Aug 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -344,7 +344,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0b6449206f31f7728dfbf67b3e7f051d",
+    "etag": "cacheable:afde6b9bb1ec4c59dfda7258f71b9982",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -384,9 +384,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b183ac446596ea47c251d23e2766bc3d\"",
+    "etag": "\"4c7af9b7d400305309e263e39d50cf05\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 08 Aug 2022 17:51:49 GMT",
+    "modified": "Mon, 08 Aug 2022 20:46:00 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -484,7 +484,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1659978004,
+    "last_updated": 1659988803,
     "name": "LRR Videogames",
     "seen_entries": []
   },
