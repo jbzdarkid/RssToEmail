@@ -277,7 +277,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 11 Aug 2022 15:04:00 GMT",
+    "modified": "Thu, 11 Aug 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -330,21 +330,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8bd54661b43b9e55e91712c877e645dc\"",
+    "etag": "W/\"3c1e629e1202913c34c39d356a64317f\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 10 Aug 2022 20:05:20 GMT",
+    "modified": "Thu, 11 Aug 2022 17:20:13 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8bd54661b43b9e55e91712c877e645dc\"",
+    "etag": "W/\"3c1e629e1202913c34c39d356a64317f\"",
     "last_updated": 1660147240,
-    "modified": "Wed, 10 Aug 2022 20:05:20 GMT",
+    "modified": "Thu, 11 Aug 2022 17:20:13 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:60bfa05b2137a55f53c2528a8e9e9cbb",
+    "etag": "cacheable:d9b54d0905de7307c90cd0a3f454095b",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -384,9 +384,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"304b5a8c45b1d8b2dd0b1c29f1a0997c\"",
+    "etag": "\"5aef3629d3a38ed8db0659ad356e49f7\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 11 Aug 2022 14:42:06 GMT",
+    "modified": "Thu, 11 Aug 2022 17:59:56 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -435,16 +435,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"893a23f88f1346d7626b87431abc5934\"",
-    "last_updated": 1659369639,
-    "modified": "Thu, 11 Aug 2022 12:49:07 GMT",
+    "etag": "W/\"cfd632c9ee94947c4dd6ecd4046a40cb\"",
+    "last_updated": 1660233614,
+    "modified": "Thu, 11 Aug 2022 16:11:59 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"893a23f88f1346d7626b87431abc5934\"",
+    "etag": "W/\"cfd632c9ee94947c4dd6ecd4046a40cb\"",
     "last_updated": 1647791985,
-    "modified": "Thu, 11 Aug 2022 12:49:07 GMT",
+    "modified": "Thu, 11 Aug 2022 16:11:59 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -559,7 +559,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU4Ffbehftics2IPq46_w": {
-    "last_updated": 1632038336,
+    "last_updated": 1660237030,
     "name": "TheSuperSNES",
     "seen_entries": []
   },
