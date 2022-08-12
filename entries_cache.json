@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"093ceba7fad150b9168565ef59a176af-ssl\"",
+    "etag": "\"093ceba7fad150b9168565ef59a176af-ssl-df\"",
     "last_updated": 1660129887,
     "name": "Explosm.net",
     "seen_entries": []
@@ -220,9 +220,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e654e0047338590fcc6cb6e464e9d8438a4b470bc8c69353c3a6971454006291\"",
+    "etag": "W/\"6f86b4fb17c1330facd166682cca03eace3fb6c606dd58bf16995944ec46ff26\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 11 Aug 2022 14:26:56 GMT",
+    "modified": "Thu, 11 Aug 2022 22:24:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -277,7 +277,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 11 Aug 2022 21:04:00 GMT",
+    "modified": "Fri, 12 Aug 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -330,21 +330,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e7e079606ad06a579a75a3f04731bbd7\"",
+    "etag": "W/\"6b7fa9ca0f709872d79f5de12be2783d\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 11 Aug 2022 19:06:20 GMT",
+    "modified": "Thu, 11 Aug 2022 22:16:48 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e7e079606ad06a579a75a3f04731bbd7\"",
+    "etag": "W/\"6b7fa9ca0f709872d79f5de12be2783d\"",
     "last_updated": 1660147240,
-    "modified": "Thu, 11 Aug 2022 19:06:20 GMT",
+    "modified": "Thu, 11 Aug 2022 22:16:48 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:92e746f8e1b259384d3d7a85e9184d0a",
+    "etag": "cacheable:eaaddeb8ef6013c406b9edfeed1931be",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -423,8 +423,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1659663960,
-    "modified": "Fri, 05 Aug 2022 01:46:00 +0000",
+    "last_updated": 1660258860,
+    "modified": "Thu, 11 Aug 2022 23:01:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -484,7 +484,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1660150840,
+    "last_updated": 1660260961,
     "name": "LRR Videogames",
     "seen_entries": []
   },
