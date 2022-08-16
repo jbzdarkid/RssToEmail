@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"67c99bc1340b54229db7cec17959b6c4-ssl-df\"",
+    "etag": "\"67c99bc1340b54229db7cec17959b6c4-ssl\"",
     "last_updated": 1660613422,
     "name": "Explosm.net",
     "seen_entries": []
@@ -278,7 +278,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 16 Aug 2022 12:04:00 GMT",
+    "modified": "Tue, 16 Aug 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -345,7 +345,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:94bd7d0a63b5bcd28946a3aab55dddb4",
+    "etag": "cacheable:124af489bac855b071b82631d9ada763",
     "last_updated": 1658854510,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -385,9 +385,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e33eeac80bc7223c48182ae7faeb0db0\"",
+    "etag": "\"ddfa747c9f46e3a0006630154ca04f3c\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 16 Aug 2022 11:36:45 GMT",
+    "modified": "Tue, 16 Aug 2022 12:56:17 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -470,7 +470,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1660569735,
+    "last_updated": 1660655575,
     "name": "GDC",
     "seen_entries": []
   },
@@ -660,9 +660,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62fb3c91-80b\"",
+    "etag": "W/\"62fbae92-80b\"",
     "last_updated": 1660536000,
-    "modified": "Tue, 16 Aug 2022 06:43:29 GMT",
+    "modified": "Tue, 16 Aug 2022 14:49:54 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
