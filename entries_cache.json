@@ -103,7 +103,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"67c99bc1340b54229db7cec17959b6c4-ssl\"",
+    "etag": "\"67c99bc1340b54229db7cec17959b6c4-ssl-df\"",
     "last_updated": 1660613422,
     "name": "Explosm.net",
     "seen_entries": []
@@ -221,9 +221,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"76dff5243996a7b356aac24f34aa6891911ae5ad15d7535eec55946422bb88bb\"",
+    "etag": "W/\"b9e4e667d94df86c95fb0c68a9b085c96b88f5d434fed63a1cadc6ddfebb206d\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 16 Aug 2022 11:32:11 GMT",
+    "modified": "Tue, 16 Aug 2022 17:27:52 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -249,7 +249,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1658265905,
+    "last_updated": 1660263640,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -278,7 +278,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 16 Aug 2022 15:04:00 GMT",
+    "modified": "Tue, 16 Aug 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -331,22 +331,22 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"518bcac91a149ab96d4515ac6f361612\"",
+    "etag": "W/\"3af8999ae8de033082266c0648a69623\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 15 Aug 2022 19:57:40 GMT",
+    "modified": "Tue, 16 Aug 2022 16:19:40 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"518bcac91a149ab96d4515ac6f361612\"",
+    "etag": "W/\"3af8999ae8de033082266c0648a69623\"",
     "last_updated": 1660147240,
-    "modified": "Mon, 15 Aug 2022 19:57:40 GMT",
+    "modified": "Tue, 16 Aug 2022 16:19:40 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:124af489bac855b071b82631d9ada763",
-    "last_updated": 1658854510,
+    "etag": "cacheable:4e9282cb2d1e04ddd101a8d9020776c7",
+    "last_updated": 1660668911,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -385,9 +385,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ddfa747c9f46e3a0006630154ca04f3c\"",
+    "etag": "\"c3894ff3ca2e75965ea993f48bf51282\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 16 Aug 2022 12:56:17 GMT",
+    "modified": "Tue, 16 Aug 2022 17:20:33 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -635,7 +635,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1660064417,
+    "last_updated": 1660669219,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -660,9 +660,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"62fbae92-80b\"",
+    "etag": "W/\"62fbc4de-80b\"",
     "last_updated": 1660536000,
-    "modified": "Tue, 16 Aug 2022 14:49:54 GMT",
+    "modified": "Tue, 16 Aug 2022 16:25:02 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
