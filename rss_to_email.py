@@ -34,7 +34,10 @@ def parse_feeds(cache, feed_url):
         etag = cache_data.get('etag', None)
         modified = cache_data.get('modified', None)
 
-    d = feedparser.parse(feed_url, etag=etag, modified=modified)
+    try:
+        d = feedparser.parse(feed_url, etag=etag, modified=modified)
+    except ConnectionError as e:
+        d = {'status': 500, 'bozo': 1, 'bozo_exception': e, 'entries': []}
 
     # In the future, this probably moves out into main scope. Or something.
     if feed_url not in cache:
@@ -65,7 +68,7 @@ def parse_feeds(cache, feed_url):
             print('# ' + line, end='')
         return []
 
-    # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I don't own these feeds, there's no need to report this.
+    # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I dEon't own these feeds, there's no need to report this.
     if d['bozo'] == 1:
         if (isinstance(d['bozo_exception'], URLError) # Network error
          or isinstance(d['bozo_exception'], SAXException)): # XML Parsing error
