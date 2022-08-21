@@ -47,6 +47,7 @@ def parse_feeds(cache, feed_url):
             'seen_entries': [],
         }
 
+    print(d)
     if d['status'] == 304: # etag / modified indicates no new data
         return []
     elif d['status'] == 301:
