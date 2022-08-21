@@ -47,7 +47,14 @@ def parse_feeds(cache, feed_url):
             'seen_entries': [],
         }
 
-    print(d)
+    # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I dEon't own these feeds, there's no need to report this.
+    if d['bozo'] == 1:
+        if (isinstance(d['bozo_exception'], URLError) # Network error
+         or isinstance(d['bozo_exception'], SAXException)): # XML Parsing error
+            print(f'URLError while parsing feed: {feed_url}')
+            print_exception(None, d['bozo_exception'], None, chain=False)
+            return [] # These two errors are indicative of a critical parse failure, so there's no value in continuing.
+
     if d['status'] == 304: # etag / modified indicates no new data
         return []
     elif d['status'] == 301:
@@ -68,15 +75,6 @@ def parse_feeds(cache, feed_url):
             print(f'# {code} {http_codes[code].upper()}')
             print('# ' + line, end='')
         return []
-
-    # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I dEon't own these feeds, there's no need to report this.
-    if d['bozo'] == 1:
-        if (isinstance(d['bozo_exception'], URLError) # Network error
-         or isinstance(d['bozo_exception'], SAXException)): # XML Parsing error
-            print(f'URLError while parsing feed: {feed_url}')
-            print_exception(None, d['bozo_exception'], None, chain=False)
-            return [] # These two errors are indicative of a critical parse failure, so there's no value in continuing.
-
 
     if 'etag' in d:
         cache[feed_url]['etag'] = d.etag
