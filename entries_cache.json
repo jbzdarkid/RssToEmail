@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"a5a4c955ad9cb33c5546d72e58bfa2d1-ssl-df\"",
+    "etag": "\"a5a4c955ad9cb33c5546d72e58bfa2d1-ssl\"",
     "last_updated": 1661108352,
     "name": "Explosm.net",
     "seen_entries": []
@@ -216,16 +216,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"762c8c020722c182448d2c6f3ffcbc806dfad637ff129a46b3366417ed07e0d1\"",
+    "etag": "W/\"0383a4be2035f8120d896366c6523b47ed5586f1a3d541198436457d0921fd15\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 21 Aug 2022 21:25:41 GMT",
+    "modified": "Mon, 22 Aug 2022 05:14:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"4eff099843e08316a3f65189c5d8dfc7ad2009e7e10b5e6334856657bc3531cc\"",
+    "etag": "W/\"5523088fe3625f45a19be4b0f223122008621314e3a76a9e3df24668c80ace61\"",
     "last_updated": 1660172400,
-    "modified": "Sun, 21 Aug 2022 21:25:51 GMT",
+    "modified": "Mon, 22 Aug 2022 06:00:00 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -246,7 +246,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Sun, 21 Aug 2022 13:11:29 GMT",
+    "modified": "Mon, 22 Aug 2022 06:02:59 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 22 Aug 2022 03:44:00 GMT",
+    "modified": "Mon, 22 Aug 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1660536000,
+    "last_updated": 1661140800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a3100cac3c38f64e2b0cd1cce2a6f883",
+    "etag": "cacheable:817ff8969ce96d5d3e2ea036b64be4a6",
     "last_updated": 1660668911,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -382,14 +382,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1660881600,
+    "last_updated": 1661140800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e8ac4756a7b909e271c270fb3e6ad2d0\"",
+    "etag": "\"30de47a45de97d854c50cb008fecb9d0\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 22 Aug 2022 03:35:34 GMT",
+    "modified": "Mon, 22 Aug 2022 04:47:01 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
