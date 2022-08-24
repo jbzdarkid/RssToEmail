@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -216,16 +216,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8d6b1ca2e8db2b78155080fc947665f439f67600b3a714ad02beb85206ba76a1\"",
+    "etag": "W/\"f091ca5be0e393354bfcd7d3774dec20d439e3236a39b6b46080344f025d85da\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 24 Aug 2022 08:45:39 GMT",
+    "modified": "Wed, 24 Aug 2022 11:57:37 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1218d282eee784b41ae9af2a2de193850d76e6032aca91a1e7fc96aef70e317a\"",
+    "etag": "W/\"5695d289e53412835842da6fe5cffffd28c6bbefbae951188b82f766ba83068f\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 24 Aug 2022 07:06:43 GMT",
+    "modified": "Wed, 24 Aug 2022 11:06:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 24 Aug 2022 09:04:00 GMT",
+    "modified": "Wed, 24 Aug 2022 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:567e1c8945770c63c1dbd67f0d2187cc",
+    "etag": "cacheable:4e8844c0e605b2bce4bd6ea9cff2d24a",
     "last_updated": 1661273583,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -438,16 +438,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"d9fbd047b34cde0249c7bd78a93f0f58\"",
+    "etag": "W/\"b82b73589341f05a2cd73b80410cc0ac\"",
     "last_updated": 1660233614,
-    "modified": "Wed, 24 Aug 2022 08:45:01 GMT",
+    "modified": "Wed, 24 Aug 2022 11:29:19 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"d9fbd047b34cde0249c7bd78a93f0f58\"",
+    "etag": "W/\"b82b73589341f05a2cd73b80410cc0ac\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 24 Aug 2022 08:45:01 GMT",
+    "modified": "Wed, 24 Aug 2022 11:29:19 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
