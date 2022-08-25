@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"cd7d4599ff5e6b63fba7d31288c79be1-ssl\"",
+    "etag": "\"cd7d4599ff5e6b63fba7d31288c79be1-ssl-df\"",
     "last_updated": 1661335049,
     "name": "Explosm.net",
     "seen_entries": []
@@ -216,16 +216,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f091ca5be0e393354bfcd7d3774dec20d439e3236a39b6b46080344f025d85da\"",
+    "etag": "W/\"53a007735f262a8d60814cfedf8b3f576deea04000a69a533326b1699de8e35e\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 24 Aug 2022 11:57:37 GMT",
+    "modified": "Wed, 24 Aug 2022 23:58:37 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2c8ba747a215d3c8edc267cfdd17fd5b666c35e217ef3ff5541e880c80758dad\"",
+    "etag": "W/\"7d61f71dffbfa573ee39e7eeabb623c0c78dc0d9d03f7c383fd12b2d71563951\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 24 Aug 2022 19:08:48 GMT",
+    "modified": "Thu, 25 Aug 2022 00:02:16 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -246,7 +246,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Tue, 23 Aug 2022 20:14:33 GMT",
+    "modified": "Wed, 24 Aug 2022 21:24:23 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 24 Aug 2022 21:04:00 GMT",
+    "modified": "Thu, 25 Aug 2022 00:18:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,21 +333,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1790ae23f438f2fcefe952a8a820455b\"",
+    "etag": "W/\"e9eab9f37a8ef2552c8659ee2e5fa438\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 24 Aug 2022 20:00:27 GMT",
+    "modified": "Wed, 24 Aug 2022 23:19:50 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"1790ae23f438f2fcefe952a8a820455b\"",
+    "etag": "W/\"e9eab9f37a8ef2552c8659ee2e5fa438\"",
     "last_updated": 1661356858,
-    "modified": "Wed, 24 Aug 2022 20:00:27 GMT",
+    "modified": "Wed, 24 Aug 2022 23:19:50 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:45e328ab76ef8997bc0f983405ad2ee7",
+    "etag": "cacheable:73144fcaccaf59c40e6dfd63ac791c6b",
     "last_updated": 1661273583,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -438,16 +438,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"02c39fee5b0ee16a13e82249f183d4f0\"",
+    "etag": "W/\"8c7c43dd36367318299c3a040fd1da72\"",
     "last_updated": 1660233614,
-    "modified": "Wed, 24 Aug 2022 15:47:54 GMT",
+    "modified": "Wed, 24 Aug 2022 23:24:47 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"02c39fee5b0ee16a13e82249f183d4f0\"",
+    "etag": "W/\"8c7c43dd36367318299c3a040fd1da72\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 24 Aug 2022 15:47:54 GMT",
+    "modified": "Wed, 24 Aug 2022 23:24:47 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
