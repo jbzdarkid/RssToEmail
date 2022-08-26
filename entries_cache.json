@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -216,16 +216,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"bc3a1026d7af7acc5998e3cda51e8b6eed1529c3048534cfcd6494a0dfc5fe53\"",
+    "etag": "W/\"13cc308ed9ae50e03713d66143b40e1f147945385841877d017f6a8d7d64fb56\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 25 Aug 2022 11:43:04 GMT",
+    "modified": "Fri, 26 Aug 2022 08:34:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"91ac3ff5ceae0de9e07728e0cc9b17fb6128add0ba1b057763af28b0c9be4c62\"",
+    "etag": "W/\"5dbf97f55966fe1e8b5357099df2ce51bc7785396b38196419c526ad950252a4\"",
     "last_updated": 1660172400,
-    "modified": "Fri, 26 Aug 2022 04:41:18 GMT",
+    "modified": "Fri, 26 Aug 2022 08:47:42 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 26 Aug 2022 06:16:00 GMT",
+    "modified": "Fri, 26 Aug 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d8c5dfba7be583b7b669750662e86240",
+    "etag": "cacheable:817f033ee5d7af40fc8ac63d53b06cef",
     "last_updated": 1661273583,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -387,9 +387,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b4e2b69ba6dad841397585411844877c\"",
+    "etag": "\"03616cca6079df5e8a74292660dc33c7\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 26 Aug 2022 04:54:37 GMT",
+    "modified": "Fri, 26 Aug 2022 09:00:45 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -462,7 +462,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1661321118,
+    "last_updated": 1661495944,
     "name": "Wilde Life",
     "seen_entries": []
   },
