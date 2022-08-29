@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f62fdd397936096060c3974691b13a63-ssl-df\"",
+    "etag": "\"f62fdd397936096060c3974691b13a63-ssl\"",
     "last_updated": 1661644800,
     "name": "Explosm.net",
     "seen_entries": []
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 29 Aug 2022 03:48:00 GMT",
+    "modified": "Mon, 29 Aug 2022 06:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,21 +333,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"541e103aad7a3f8d56b4a0b0691f449d\"",
+    "etag": "W/\"c68ef8b354fc6131a9d0d01523388cdc\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 29 Aug 2022 02:00:08 GMT",
+    "modified": "Mon, 29 Aug 2022 05:01:12 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"541e103aad7a3f8d56b4a0b0691f449d\"",
+    "etag": "W/\"c68ef8b354fc6131a9d0d01523388cdc\"",
     "last_updated": 1661356858,
-    "modified": "Mon, 29 Aug 2022 02:00:08 GMT",
+    "modified": "Mon, 29 Aug 2022 05:01:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:00495b1ccd2621b0905fc101c7277d99",
+    "etag": "cacheable:2bc2e7a237a5a6d2e10d9c3750cbc7eb",
     "last_updated": 1661273583,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -382,7 +382,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1661486400,
+    "last_updated": 1661745600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
