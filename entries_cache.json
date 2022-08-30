@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e2a9b1db633e4d60ed6d277decaf8b64-ssl-df\"",
+    "etag": "\"e2a9b1db633e4d60ed6d277decaf8b64-ssl\"",
     "last_updated": 1661755032,
     "name": "Explosm.net",
     "seen_entries": []
@@ -126,7 +126,7 @@
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
     "etag": "IQUMdUSZTdiZo7nDZZPMFih1pZ4",
     "last_updated": 1537863120,
-    "modified": "Fri, 29 Apr 2022 09:01:24 GMT",
+    "modified": "Fri, 19 Aug 2022 17:04:14 GMT",
     "name": "Strong Female Protagonist",
     "seen_entries": []
   },
@@ -223,9 +223,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ffcfe7d3f18d5ff67057b928ec59240e02beb874879263035d1d04da8e172ab5\"",
+    "etag": "W/\"d40dbfeaf5063dff74813711ee96f5e8ee7070f2c399482c0e02f35ae9beb33f\"",
     "last_updated": 1660172400,
-    "modified": "Mon, 29 Aug 2022 18:06:30 GMT",
+    "modified": "Mon, 29 Aug 2022 22:34:57 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -246,7 +246,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Mon, 29 Aug 2022 20:53:09 GMT",
+    "modified": "Mon, 29 Aug 2022 21:33:23 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 29 Aug 2022 21:04:00 GMT",
+    "modified": "Tue, 30 Aug 2022 00:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,21 +333,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"347b654c72ad6fa61b2e0fd2e1c5624c\"",
+    "etag": "W/\"36ff0289d1b24536ca4a574dfc905cfe\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 29 Aug 2022 20:37:59 GMT",
+    "modified": "Mon, 29 Aug 2022 21:35:23 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"347b654c72ad6fa61b2e0fd2e1c5624c\"",
+    "etag": "W/\"36ff0289d1b24536ca4a574dfc905cfe\"",
     "last_updated": 1661356858,
-    "modified": "Mon, 29 Aug 2022 20:37:59 GMT",
+    "modified": "Mon, 29 Aug 2022 21:35:23 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:cebfc8b902dddfea94a0cbc8e1d02fa5",
+    "etag": "cacheable:06e4a33dc5910fc726a9761a50f55c3c",
     "last_updated": 1661273583,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
