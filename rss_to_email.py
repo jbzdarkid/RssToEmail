@@ -4,13 +4,14 @@ defusedxml.defuse_stdlib()
 import feedparser
 import ssl
 import sys
+from calendar import timegm
 from datetime import datetime, timezone
 from fileinput import input as fileinput
 from html import unescape
 from http.client import responses as http_codes
 from json import load, dump
 from smtplib import SMTP, SMTPException
-from time import mktime, time
+from time import time
 from traceback import format_exc, print_exc, print_exception
 from urllib import request
 from urllib.error import URLError
@@ -88,7 +89,7 @@ def parse_feeds(cache, feed_url):
         entry.link = row['link']
         entry.url = feed_url
         if 'published_parsed' in row: # Not all entries have a date
-            entry.date = int(mktime(row['published_parsed']))
+            entry.date = int(timegm(row['published_parsed']))
         if 'description' in row:
             entry.content = row['description']
         elif 'content' in row:

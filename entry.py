@@ -35,3 +35,7 @@ class Entry:
         if SENDER_EMAIL and TARGET_EMAIL:
             email_server.sendmail(SENDER_EMAIL, TARGET_EMAIL, msg.as_string())
             sleep(5) # Avoid hitting throttling limits
+        else:
+            print(f'{feed_title}: {self.title}')
+            print(self.content)
+            print()
