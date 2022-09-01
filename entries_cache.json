@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"370654238f842458cc699d03d3d8c048-ssl\"",
+    "etag": "\"370654238f842458cc699d03d3d8c048-ssl-df\"",
     "last_updated": 1661940975,
     "name": "Explosm.net",
     "seen_entries": []
@@ -216,16 +216,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ba1a45e624a9effacdadcb7d129333507fcce0070e99f3cbca9b980d7cbd337f\"",
+    "etag": "W/\"4da8b637ddb8e8b1b3422d6ee370210d1c6e8c379bdea755d67fa61eb8c04c3c\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 01 Sep 2022 11:43:13 GMT",
+    "modified": "Thu, 01 Sep 2022 15:44:38 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"53bbeea7dd60c290a8ac57b6f2ecab7c01f6dcbbdf5a9d17a1698cd6f8039120\"",
+    "etag": "W/\"b98ef7dbc62d1aa0767dbab537dfb06b0ae3fa9ebe64d63e9ce82b0626aace9c\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 01 Sep 2022 13:47:25 GMT",
+    "modified": "Thu, 01 Sep 2022 15:44:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 01 Sep 2022 15:04:00 GMT",
+    "modified": "Thu, 01 Sep 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -333,21 +333,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b9541c23a7ef76eed85ceb0fae6f113b\"",
+    "etag": "W/\"f403c2a4007516e3f8db13f9a01992c7\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 31 Aug 2022 22:59:41 GMT",
+    "modified": "Thu, 01 Sep 2022 17:30:22 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"b9541c23a7ef76eed85ceb0fae6f113b\"",
+    "etag": "W/\"daf6a50adf08a1dd0ac3fa7467b0944d\"",
     "last_updated": 1661961609,
-    "modified": "Wed, 31 Aug 2022 22:59:41 GMT",
+    "modified": "Thu, 01 Sep 2022 16:09:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2c31c39cab6a70456b04102efaa49a97",
+    "etag": "cacheable:1ab51ecf63031820feecd71d53734031",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -387,9 +387,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"fc28b9d86aef4bdf9cd241737bdc55a5\"",
+    "etag": "\"2819d9418db92d13601abe806dfb273d\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 01 Sep 2022 10:33:32 GMT",
+    "modified": "Thu, 01 Sep 2022 17:10:20 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -438,16 +438,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1e3ed3868a3f3f1b3640242356bd704a\"",
-    "last_updated": 1661443235,
-    "modified": "Thu, 01 Sep 2022 08:28:54 GMT",
+    "etag": "W/\"6cbe48f3e0048e92b2087f1bed4934cc\"",
+    "last_updated": 1662048012,
+    "modified": "Thu, 01 Sep 2022 16:01:20 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1e3ed3868a3f3f1b3640242356bd704a\"",
+    "etag": "W/\"6cbe48f3e0048e92b2087f1bed4934cc\"",
     "last_updated": 1647791985,
-    "modified": "Thu, 01 Sep 2022 08:28:54 GMT",
+    "modified": "Thu, 01 Sep 2022 16:01:20 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -662,7 +662,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
-    "last_updated": 1661439885,
+    "last_updated": 1662044423,
     "name": "Arcane | League of Legends",
     "seen_entries": []
   },
