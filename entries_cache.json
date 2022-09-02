@@ -104,8 +104,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"370654238f842458cc699d03d3d8c048-ssl-df\"",
-    "last_updated": 1661940975,
+    "etag": "\"a522db0195a7359664209f878a682486-ssl-df\"",
+    "last_updated": 1662076856,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -216,16 +216,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7acf25c4cbc3ac4ebc65eb566edfb90aafe85edcf51c9d0b59b861fd8e14ca9e\"",
+    "etag": "W/\"48e5f66b70c50c932ce504cfc930146a23365a1c6c2409a2ace98fa6f2a3dbeb\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 02 Sep 2022 02:30:03 GMT",
+    "modified": "Fri, 02 Sep 2022 04:02:26 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"272384c35e795e61dd4846986a1e410ca46ca0bba0846c013f387198f7b6ba5f\"",
+    "etag": "W/\"2f176149f1f30aa1de43af5ad5abd8f1d2a16bbfac2cf0336fc8f596d65601bb\"",
     "last_updated": 1660172400,
-    "modified": "Fri, 02 Sep 2022 02:30:36 GMT",
+    "modified": "Fri, 02 Sep 2022 04:34:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 02 Sep 2022 03:52:00 GMT",
+    "modified": "Fri, 02 Sep 2022 06:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fbd36f82fbb59fe2d72f8c071f47cd4c",
+    "etag": "cacheable:cf2d9efc968e0c0346b4b92ab1068040",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -382,7 +382,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1662004800,
+    "last_updated": 1662091200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -462,7 +462,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1661924070,
+    "last_updated": 1662098052,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -584,6 +584,11 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
     "last_updated": 1610745075,
     "name": "shadyparadox",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
+    "last_updated": 1662099621,
+    "name": "LRR Tabletop",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
