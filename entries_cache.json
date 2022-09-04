@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -211,7 +211,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1662101621,
+    "last_updated": 1662272371,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -223,9 +223,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"489f67cca48ffdd198b908e94565bdfae5f6375f9910e8e807b440e6a6a7cdca\"",
+    "etag": "W/\"e4161d3d4d5e1741128ed9c8525008d08e31cc72069e396920da859d66a8f568\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 03 Sep 2022 23:09:50 GMT",
+    "modified": "Sun, 04 Sep 2022 07:53:28 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sun, 04 Sep 2022 06:04:00 GMT",
+    "modified": "Sun, 04 Sep 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9c6572c629dab0eb84b008b2e4611907",
+    "etag": "cacheable:30fdbb6b9b26747ce683b64fcd60a00a",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -387,9 +387,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"add629090978d2016641e541a0e9ea9b\"",
+    "etag": "\"40e0947ac7a83e690f71e463d1219b9f\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 03 Sep 2022 22:28:05 GMT",
+    "modified": "Sun, 04 Sep 2022 08:03:42 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
