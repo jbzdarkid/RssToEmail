@@ -223,9 +223,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"82b14876289307bf62072ec8da034efe5cdd3da617c745219e13332a2d257579\"",
+    "etag": "W/\"ecc89f10513bcff488231d9c8c7c8c5b58c16f50a7822237ddd3cec7a647723d\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 06 Sep 2022 11:55:46 GMT",
+    "modified": "Tue, 06 Sep 2022 13:12:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -246,7 +246,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Tue, 06 Sep 2022 08:25:34 GMT",
+    "modified": "Tue, 06 Sep 2022 14:48:42 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 06 Sep 2022 12:04:00 GMT",
+    "modified": "Tue, 06 Sep 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -347,28 +347,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:48ffd3a55a48b2a7a02e46eb78a24dfb",
+    "etag": "cacheable:ff72bf05ab26c99d1d12afe90a91a7a3",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DA89C8A7DB644B\"",
+    "etag": "\"0x8DA901448410B91\"",
     "last_updated": 0,
-    "modified": "Mon, 29 Aug 2022 14:13:32 GMT",
+    "modified": "Tue, 06 Sep 2022 14:30:01 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "https://www.giantitp.com/comics/oots1247.html",
-      "https://www.giantitp.com/comics/oots1248.html",
-      "https://www.giantitp.com/comics/oots1249.html",
-      "https://www.giantitp.com/comics/oots1250.html",
-      "https://www.giantitp.com/comics/oots1251.html",
-      "https://www.giantitp.com/comics/oots1252.html",
-      "https://www.giantitp.com/comics/oots1253.html",
-      "https://www.giantitp.com/comics/oots1254.html",
-      "https://www.giantitp.com/comics/oots1255.html",
-      "https://www.giantitp.com/comics/oots1256.html",
       "https://www.giantitp.com/comics/oots1257.html",
       "https://www.giantitp.com/comics/oots1258.html",
       "https://www.giantitp.com/comics/oots1259.html",
@@ -378,7 +368,17 @@
       "https://www.giantitp.com/comics/oots1263.html",
       "https://www.giantitp.com/comics/oots1264.html",
       "https://www.giantitp.com/comics/oots1265.html",
-      "https://www.giantitp.com/comics/oots1266.html"
+      "https://www.giantitp.com/comics/oots1266.html",
+      "http://www.giantitp.com/comics/oots1258.html",
+      "http://www.giantitp.com/comics/oots1259.html",
+      "http://www.giantitp.com/comics/oots1260.html",
+      "http://www.giantitp.com/comics/oots1261.html",
+      "http://www.giantitp.com/comics/oots1262.html",
+      "http://www.giantitp.com/comics/oots1263.html",
+      "http://www.giantitp.com/comics/oots1264.html",
+      "http://www.giantitp.com/comics/oots1265.html",
+      "http://www.giantitp.com/comics/oots1266.html",
+      "http://www.giantitp.com/comics/oots1267.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -387,9 +387,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1b430a26c4afbc06504fc62775754c6a\"",
+    "etag": "\"bda4df72518632c4ca4254966d683351\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 06 Sep 2022 11:09:26 GMT",
+    "modified": "Tue, 06 Sep 2022 14:18:20 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -472,7 +472,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1662123943,
+    "last_updated": 1662471659,
     "name": "GDC",
     "seen_entries": []
   },
