@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"154ffe4da39fd376e0728977852a8b57-ssl\"",
+    "etag": "\"154ffe4da39fd376e0728977852a8b57-ssl-df\"",
     "last_updated": 1662425211,
     "name": "Explosm.net",
     "seen_entries": []
@@ -123,6 +123,18 @@
     "name": "Polls and Surveys about Health Policy from the Kaiser Family Foundation",
     "seen_entries": []
   },
+  "https://feeds.feedburner.com/nerfnow/full": {
+    "last_updated": 1662541484,
+    "modified": "Tue, 6 Sep 2022 05:53:34 GMT",
+    "name": "Nerf NOW!!",
+    "seen_entries": [
+      "http://www.nerfnow.com/comic/3091",
+      "http://www.nerfnow.com/comic/3092",
+      "http://www.nerfnow.com/comic/3093",
+      "http://www.nerfnow.com/comic/3094",
+      "http://www.nerfnow.com/comic/3095"
+    ]
+  },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
     "etag": "IQUMdUSZTdiZo7nDZZPMFih1pZ4",
     "last_updated": 1537863120,
@@ -134,11 +146,6 @@
     "last_updated": 0,
     "name": "@breachwizards on Twitter",
     "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1455258033475383296",
-      "https://twitter.com/BreachWizards/status/1468789778736762882",
-      "https://twitter.com/BreachWizards/status/1469411312060878851",
-      "https://twitter.com/BreachWizards/status/1481766490579767296",
-      "https://twitter.com/BreachWizards/status/1488910855299166212",
       "https://twitter.com/BreachWizards/status/1488979137884684290",
       "https://twitter.com/BreachWizards/status/1497358523679662080",
       "https://twitter.com/BreachWizards/status/1498726476115431425",
@@ -153,17 +160,18 @@
       "https://twitter.com/BreachWizards/status/1536795116689498112",
       "https://twitter.com/BreachWizards/status/1538198269524049921",
       "https://twitter.com/BreachWizards/status/1547302245313572864",
-      "https://twitter.com/BreachWizards/status/1555364632344539136"
+      "https://twitter.com/BreachWizards/status/1555364632344539136",
+      "http://twitter.com/BreachWizards/status/1536070504695549952",
+      "http://twitter.com/BreachWizards/status/1536795116689498112",
+      "http://twitter.com/BreachWizards/status/1538198269524049921",
+      "http://twitter.com/BreachWizards/status/1547302245313572864",
+      "http://twitter.com/BreachWizards/status/1555364632344539136"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
     "last_updated": 1645466654,
     "name": "@valvesoftware on Twitter",
     "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1448804989405581313",
-      "https://twitter.com/valvesoftware/status/1449396851346530305",
-      "https://twitter.com/valvesoftware/status/1471222347969429506",
-      "https://twitter.com/valvesoftware/status/1486456104296927233",
       "https://twitter.com/valvesoftware/status/1491538656984588291",
       "https://twitter.com/valvesoftware/status/1497276494015447040",
       "https://twitter.com/valvesoftware/status/1497276515632893954",
@@ -178,7 +186,12 @@
       "https://twitter.com/valvesoftware/status/1541801177213304832",
       "https://twitter.com/valvesoftware/status/1555447590367272960",
       "https://twitter.com/valvesoftware/status/1558531865367158786",
-      "https://twitter.com/valvesoftware/status/1559670297124515840"
+      "https://twitter.com/valvesoftware/status/1559670297124515840",
+      "http://twitter.com/valvesoftware/status/1540019375712808961",
+      "http://twitter.com/valvesoftware/status/1541801177213304832",
+      "http://twitter.com/valvesoftware/status/1555447590367272960",
+      "http://twitter.com/valvesoftware/status/1558531865367158786",
+      "http://twitter.com/valvesoftware/status/1559670297124515840"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
@@ -196,7 +209,12 @@
       "https://www.youtube.com/watch?v=nth6xbpmxfA",
       "https://www.youtube.com/watch?v=7FEuE-jkxnU",
       "https://www.youtube.com/watch?v=L3_YNXvD11U",
-      "https://www.youtube.com/watch?v=fxeochlR4pU"
+      "https://www.youtube.com/watch?v=fxeochlR4pU",
+      "http://www.youtube.com/watch?v=7FEuE-jkxnU",
+      "http://www.youtube.com/watch?v=L3_YNXvD11U",
+      "http://www.youtube.com/watch?v=fxeochlR4pU",
+      "http://www.youtube.com/watch?v=hpS9-kKu1Co",
+      "http://www.youtube.com/watch?v=hSntzpqD3Hs"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950866c31d8a36990a8932.atom": {
@@ -207,7 +225,12 @@
       "https://www.youtube.com/watch?v=R33zrbWKWEY",
       "https://www.youtube.com/watch?v=yfYbf5fADyY",
       "https://www.youtube.com/watch?v=r_YRZSluMGg",
-      "https://www.youtube.com/watch?v=Zlmswo0S0e0"
+      "https://www.youtube.com/watch?v=Zlmswo0S0e0",
+      "http://www.youtube.com/watch?v=0OxnM9Mpvg0",
+      "http://www.youtube.com/watch?v=R33zrbWKWEY",
+      "http://www.youtube.com/watch?v=yfYbf5fADyY",
+      "http://www.youtube.com/watch?v=r_YRZSluMGg",
+      "http://www.youtube.com/watch?v=Zlmswo0S0e0"
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
@@ -216,16 +239,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3d077291e79207cf56ca6b80d7f1046e103b325a46e3b47720b5e64ab40c6819\"",
+    "etag": "W/\"99d9c412a7139a98178d7a9df0d719bc23af94d9f5583d8c537618760c0f8293\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 06 Sep 2022 22:40:47 GMT",
+    "modified": "Wed, 07 Sep 2022 07:41:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0d3e4cea1ff93fcb567afe5b1b97dda8418a3ef67dd997a043750f9f0f3ec311\"",
+    "etag": "W/\"fc0a9597fca485b8eadf71c021a550242b2ae4f8255eb7188b8b48c6bc71a62c\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 06 Sep 2022 22:47:57 GMT",
+    "modified": "Wed, 07 Sep 2022 06:14:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -280,7 +303,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 07 Sep 2022 03:56:00 GMT",
+    "modified": "Wed, 07 Sep 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -288,9 +311,6 @@
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
     "seen_entries": [
-      "https://w3techs.com/blog/entry/new_surveys_on_the_usage_of_dns_server_providers",
-      "https://w3techs.com/blog/entry/new_surveys_on_email_server_providers",
-      "https://w3techs.com/blog/entry/web_technologies_of_the_year_2019",
       "https://w3techs.com/blog/entry/extension_of_our_website_sample_set",
       "https://w3techs.com/blog/entry/new_surveys_on_data_center_providers",
       "https://w3techs.com/blog/entry/shopify_is_now_the_second_most_popular_content_management_system",
@@ -300,7 +320,17 @@
       "https://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache",
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2021",
       "https://w3techs.com/blog/entry/new_survey_on_css_frameworks",
-      "https://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022"
+      "https://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022",
+      "http://w3techs.com/blog/entry/extension_of_our_website_sample_set",
+      "http://w3techs.com/blog/entry/new_surveys_on_data_center_providers",
+      "http://w3techs.com/blog/entry/shopify_is_now_the_second_most_popular_content_management_system",
+      "http://w3techs.com/blog/entry/new_survey_on_web_panels",
+      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2020",
+      "http://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress",
+      "http://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache",
+      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2021",
+      "http://w3techs.com/blog/entry/new_survey_on_css_frameworks",
+      "http://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -347,7 +377,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:03a2d11aaf94eede4d9e2724b53d7415",
+    "etag": "cacheable:418bdfd6bba5aae95381fb75f7a62c9f",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -382,14 +412,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1662447600,
+    "last_updated": 1662523200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c2a2747b32809c24a885c4190097f694\"",
+    "etag": "\"94b4cd6bb20a6fb584f749367ce88cb7\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 06 Sep 2022 23:56:02 GMT",
+    "modified": "Wed, 07 Sep 2022 08:35:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -413,7 +443,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1662361200,
+    "last_updated": 1662534000,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -462,7 +492,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1662364563,
+    "last_updated": 1662532754,
     "name": "Wilde Life",
     "seen_entries": []
   },
