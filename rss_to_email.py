@@ -114,7 +114,6 @@ def get_hearthstone_patch_notes():
         entry = Entry()
         entry.title = row['title']
         entry.link = row['defaultUrl']
-        entry.cache_key = entry.link.replace('https://', 'http://')
         entry.url = feed_url
         entry.date = row['created'] // 1000
         entry.content = row['content']
@@ -133,11 +132,13 @@ def handle_entries(entries, cache, email_server):
                 print(f'Found new entry for {entry.url} by date')
                 cache[entry.url]['last_updated'] = entry.date
                 new_entries.append(entry)
-        elif entry.cache_key not in cache[entry.url]['seen_entries']:
-            print(f'Found new entry for {entry.url} by link')
-            # Keep only the most recent 20 (OOTS sends only 10)
-            cache[entry.url]['seen_entries'] = cache[entry.url]['seen_entries'][-19:] + [entry.cache_key]
-            new_entries.append(entry)
+        else:
+            cache_key = entry.link.replace('https://', 'http://')
+            if cache_key not in cache[entry.url]['seen_entries']:
+                print(f'Found new entry for {entry.url} by link')
+                # Keep only the most recent 20 (OOTS sends only 10)
+                cache[entry.url]['seen_entries'] = cache[entry.url]['seen_entries'][-19:] + [cache_key]
+                new_entries.append(entry)
 
     # Special handling to discard youtube premiers
     def is_valid_entry(entry):
