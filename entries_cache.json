@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"154ffe4da39fd376e0728977852a8b57-ssl-df\"",
+    "etag": "\"154ffe4da39fd376e0728977852a8b57-ssl\"",
     "last_updated": 1662425211,
     "name": "Explosm.net",
     "seen_entries": []
@@ -280,7 +280,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 07 Sep 2022 00:18:00 GMT",
+    "modified": "Wed, 07 Sep 2022 03:56:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -304,8 +304,8 @@
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
-    "etag": "W/\"0-e02a\"",
-    "last_updated": 1657065600,
+    "etag": "W/\"0-e83e\"",
+    "last_updated": 1662422400,
     "modified": "Thu, 01 Jan 1970 00:00:00 GMT",
     "name": "XKCD What If?",
     "seen_entries": []
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:72929eb02e55ca553e9d6262e9c0fd2e",
+    "etag": "cacheable:03a2d11aaf94eede4d9e2724b53d7415",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -677,9 +677,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63165d49-847\"",
+    "etag": "W/\"6317ee58-847\"",
     "last_updated": 1662350400,
-    "modified": "Mon, 05 Sep 2022 20:34:17 GMT",
+    "modified": "Wed, 07 Sep 2022 01:05:28 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
