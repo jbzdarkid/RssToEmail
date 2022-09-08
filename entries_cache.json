@@ -38,7 +38,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1662284894,
+    "last_updated": 1662644705,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -240,16 +240,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"27fde29ac2816dddffe859f5367724edc942fbe964c8d5ee2befa0888c583c2f\"",
+    "etag": "W/\"986a56a1a3dd2f6d31f3aacb6db584c5ad42f412a83248bdfd6b65f01d1d0a00\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 08 Sep 2022 12:03:07 GMT",
+    "modified": "Thu, 08 Sep 2022 14:40:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"88cb40fcbfcbe5b61c7389894df8e0baa2abb3b9ea04d08dd3aa8f58de781400\"",
+    "etag": "W/\"b36f670d8cbe04e5715c24deda5cdfb245d775f02488ee06a7621f6c5444e125\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 08 Sep 2022 11:10:16 GMT",
+    "modified": "Thu, 08 Sep 2022 14:28:46 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 08 Sep 2022 12:04:00 GMT",
+    "modified": "Thu, 08 Sep 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -342,7 +342,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1662299791,
+    "last_updated": 1662644921,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -378,7 +378,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4316976d025d4b02dbb99d3b8892c834",
+    "etag": "cacheable:d023f52d3732c36628af2375a4ef422a",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -503,7 +503,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1662555548,
+    "last_updated": 1662643137,
     "name": "GDC",
     "seen_entries": []
   },
