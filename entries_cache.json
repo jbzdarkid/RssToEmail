@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -125,14 +125,15 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Tue, 6 Sep 2022 05:53:34 GMT",
+    "modified": "Thu, 8 Sep 2022 06:04:57 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
       "http://www.nerfnow.com/comic/3091",
       "http://www.nerfnow.com/comic/3092",
       "http://www.nerfnow.com/comic/3093",
       "http://www.nerfnow.com/comic/3094",
-      "http://www.nerfnow.com/comic/3095"
+      "http://www.nerfnow.com/comic/3095",
+      "http://www.nerfnow.com/comic/3096"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -303,7 +304,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 08 Sep 2022 03:48:00 GMT",
+    "modified": "Thu, 08 Sep 2022 06:18:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -377,7 +378,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:087c8e94abb1603db7e45c857dd8f0c9",
+    "etag": "cacheable:b268adba3916785a3eff9c74e02390b5",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -412,7 +413,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1662523200,
+    "last_updated": 1662609600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
