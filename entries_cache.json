@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -235,21 +235,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1662446334,
+    "last_updated": 1662621595,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0bc85f935da5f9b4ff1e60a72f1bde52f31fe4abafd2f440e1b55ee48df74532\"",
+    "etag": "W/\"27fde29ac2816dddffe859f5367724edc942fbe964c8d5ee2befa0888c583c2f\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 08 Sep 2022 08:39:26 GMT",
+    "modified": "Thu, 08 Sep 2022 12:03:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"dbba53bf9459d8c82e5a48879124f2558d1d7f0ff87f2f8706dae206ebcd6454\"",
+    "etag": "W/\"88cb40fcbfcbe5b61c7389894df8e0baa2abb3b9ea04d08dd3aa8f58de781400\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 08 Sep 2022 07:32:37 GMT",
+    "modified": "Thu, 08 Sep 2022 11:10:16 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 08 Sep 2022 09:04:00 GMT",
+    "modified": "Thu, 08 Sep 2022 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -378,7 +378,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0d36bfddb14e81d062b8dfc8d165ca36",
+    "etag": "cacheable:4316976d025d4b02dbb99d3b8892c834",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -418,9 +418,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8413c5c700624ad261c148b067b6c7fd\"",
+    "etag": "\"9d922dd70051433e7a7033af201a0b06\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 08 Sep 2022 01:39:38 GMT",
+    "modified": "Thu, 08 Sep 2022 12:03:39 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
