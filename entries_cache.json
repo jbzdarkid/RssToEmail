@@ -54,9 +54,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"6a71df127b4f6fd3f43cb4b47eb468ca\"",
+    "etag": "W/\"9a702d7cebdb407ecfcf93254d41cae1\"",
     "last_updated": 1661300413,
-    "modified": "Mon, 05 Sep 2022 15:43:37 GMT",
+    "modified": "Wed, 07 Sep 2022 23:06:32 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"154ffe4da39fd376e0728977852a8b57-ssl-df\"",
+    "etag": "\"154ffe4da39fd376e0728977852a8b57-ssl\"",
     "last_updated": 1662425211,
     "name": "Explosm.net",
     "seen_entries": []
@@ -239,16 +239,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b0e3ddd2d68186b57bfa00d1caf1b08c48845757fee697bca02832949fae0981\"",
+    "etag": "W/\"802492babd42fd6f9692380b1ca940ba2f2d93ee6346f1549b06444dfdf6ad18\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 07 Sep 2022 14:58:13 GMT",
+    "modified": "Wed, 07 Sep 2022 21:07:04 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"473dd9db0a03d75794916c7fa8026139fd3fa480299a96a1f8f951dacc5cda8c\"",
+    "etag": "W/\"bcba97e12e85279e65afe92babd602430ab72bde268fbd55796f1f45edab4924\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 07 Sep 2022 12:10:36 GMT",
+    "modified": "Wed, 07 Sep 2022 23:15:13 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -269,7 +269,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Wed, 07 Sep 2022 11:58:44 GMT",
+    "modified": "Wed, 07 Sep 2022 21:10:15 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -303,7 +303,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 07 Sep 2022 21:04:00 GMT",
+    "modified": "Thu, 08 Sep 2022 00:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -363,9 +363,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"53671578d876a45c98e84a03ce7478e1\"",
+    "etag": "W/\"1f84054718f08cf5d639bc7260e44f67\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 07 Sep 2022 16:00:35 GMT",
+    "modified": "Wed, 07 Sep 2022 23:30:23 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -377,7 +377,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:60725268a01b9b208b656746830eb9db",
+    "etag": "cacheable:74b19d99c42c47d89c75a576cf51a36e",
     "last_updated": 1661878577,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -692,7 +692,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUPKuAVC8PO4N7wmS4OlXS_m0vMSTqUyY": {
-    "last_updated": 1661439885,
+    "last_updated": 1661893524,
     "name": "Brace Yourself Games Trailers",
     "seen_entries": []
   },
