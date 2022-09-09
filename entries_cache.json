@@ -247,9 +247,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"53e9cec0eccf6a67bd7eb2df373698776a4119241c397ef7d803b796db61e439\"",
+    "etag": "W/\"cf0384feabc6086794590aa4985f910826862aa6e3dca48290db4bc15870401e\"",
     "last_updated": 1660172400,
-    "modified": "Fri, 09 Sep 2022 03:21:39 GMT",
+    "modified": "Fri, 09 Sep 2022 05:11:14 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 09 Sep 2022 03:46:00 GMT",
+    "modified": "Fri, 09 Sep 2022 06:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -364,21 +364,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"52f98547014e9dfe06b4e811c36d3b2d\"",
+    "etag": "W/\"41a9619229609a9cb1175220ffb48c72\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 09 Sep 2022 01:40:39 GMT",
+    "modified": "Fri, 09 Sep 2022 05:30:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"52f98547014e9dfe06b4e811c36d3b2d\"",
+    "etag": "W/\"41a9619229609a9cb1175220ffb48c72\"",
     "last_updated": 1662566435,
-    "modified": "Fri, 09 Sep 2022 01:40:39 GMT",
+    "modified": "Fri, 09 Sep 2022 05:30:05 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:086cd7598e5def7c1d32d198207e3e26",
+    "etag": "cacheable:6c5e5e9243e203317de14180f9326465",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -413,7 +413,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1662609600,
+    "last_updated": 1662696000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
