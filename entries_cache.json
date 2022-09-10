@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"c678fc17f7bf2dfd60deaf8176094a6b-ssl-df\"",
+    "etag": "\"c678fc17f7bf2dfd60deaf8176094a6b-ssl\"",
     "last_updated": 1662768001,
     "name": "Explosm.net",
     "seen_entries": []
@@ -248,9 +248,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e9a23a73ef10e51cdd4d3f561c26644cc008e03efd5a5ccdcaad811a5182cee2\"",
+    "etag": "W/\"686985b817f24fabdc81d39bd32ba6b55a0cfb9109ca1fd08b45f48b04445f5a\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 10 Sep 2022 11:21:21 GMT",
+    "modified": "Sat, 10 Sep 2022 12:07:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -271,7 +271,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Wed, 07 Sep 2022 21:10:15 GMT",
+    "modified": "Sat, 10 Sep 2022 14:32:12 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 10 Sep 2022 12:04:00 GMT",
+    "modified": "Sat, 10 Sep 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,7 +379,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5708b2f559952d72d91364704fd5a925",
+    "etag": "cacheable:f17181685b241e63adcd9c56b158f3d0",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -419,9 +419,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"81a89e155965868e7dfbd447174f7eb8\"",
+    "etag": "\"2dd94ee2af6b36170736d983db3f159c\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 10 Sep 2022 05:05:54 GMT",
+    "modified": "Sat, 10 Sep 2022 12:14:36 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -669,7 +669,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1660587045,
+    "last_updated": 1662820294,
     "name": "Retro Game Mechanics Explained",
     "seen_entries": []
   },
