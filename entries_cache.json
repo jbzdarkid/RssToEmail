@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"d402c275abe1604364ae3c03821b5e5c-ssl-df\"",
+    "etag": "\"d402c275abe1604364ae3c03821b5e5c-ssl\"",
     "last_updated": 1662911533,
     "name": "Explosm.net",
     "seen_entries": []
@@ -241,16 +241,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9263ef977f1a4468ac2e46e0f23b3a26e8016059b206a605bd7c81ce9bfe1933\"",
+    "etag": "W/\"7cf6296b5c4c21474526babe44759d968506cfa1a5c81653be5dd3843b7ae0b1\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 12 Sep 2022 07:34:08 GMT",
+    "modified": "Mon, 12 Sep 2022 11:44:23 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8f1b5061752df6a30b9c30e437092b63c03b4a8e56ef77ffd041abeef3e8bd3a\"",
+    "etag": "W/\"75fb0a936dc11b5812640ea9e378d5423057a9e6161daa7f7229acc8a9e8e8ee\"",
     "last_updated": 1660172400,
-    "modified": "Mon, 12 Sep 2022 08:50:40 GMT",
+    "modified": "Mon, 12 Sep 2022 10:21:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 12 Sep 2022 09:06:00 GMT",
+    "modified": "Mon, 12 Sep 2022 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,7 +379,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7d58cea8dab027b2d1c8da0e7351b067",
+    "etag": "cacheable:4cea81fef4fa1d9ca3c062479664a95b",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -709,9 +709,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"631e21c6-981\"",
+    "etag": "W/\"631f0f8f-981\"",
     "last_updated": 1662696000,
-    "modified": "Sun, 11 Sep 2022 17:58:30 GMT",
+    "modified": "Mon, 12 Sep 2022 10:53:03 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
