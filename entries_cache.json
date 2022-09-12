@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -248,9 +248,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e3140f54af073d4e447fa47a9ee72de681a459c540b32c00055ab1fbd904c6a2\"",
+    "etag": "W/\"f67934286c875f85d1f68fc31578371556735a385b0275ca178a60d5c77ce67c\"",
     "last_updated": 1660172400,
-    "modified": "Sun, 11 Sep 2022 23:22:15 GMT",
+    "modified": "Mon, 12 Sep 2022 06:24:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 12 Sep 2022 03:58:00 GMT",
+    "modified": "Mon, 12 Sep 2022 06:28:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -355,7 +355,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1662350400,
+    "last_updated": 1662955200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -379,7 +379,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1b912c5d35f334504381399e65eb2b5c",
+    "etag": "cacheable:398daf009133455b90722f21689c3b0b",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -414,7 +414,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1662696000,
+    "last_updated": 1662955200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
