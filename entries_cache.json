@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f10f7af11bdbcb0ffe74da14d3e6b098-ssl\"",
+    "etag": "\"f10f7af11bdbcb0ffe74da14d3e6b098-ssl-df\"",
     "last_updated": 1662975108,
     "name": "Explosm.net",
     "seen_entries": []
@@ -305,7 +305,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 12 Sep 2022 18:04:00 GMT",
+    "modified": "Mon, 12 Sep 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -365,21 +365,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b645622a83947a334cb031042236c47d\"",
+    "etag": "W/\"541527554bea1700915db641bce4a495\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 12 Sep 2022 17:38:10 GMT",
+    "modified": "Mon, 12 Sep 2022 18:01:24 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"b645622a83947a334cb031042236c47d\"",
+    "etag": "W/\"541527554bea1700915db641bce4a495\"",
     "last_updated": 1662566435,
-    "modified": "Mon, 12 Sep 2022 17:38:10 GMT",
+    "modified": "Mon, 12 Sep 2022 18:01:24 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:107951754d6ee5bb2a83518269b06c36",
+    "etag": "cacheable:837b7b24221e820ab1023b8d0d427c2c",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -709,9 +709,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"631f0f8f-981\"",
-    "last_updated": 1662696000,
-    "modified": "Mon, 12 Sep 2022 10:53:03 GMT",
+    "etag": "W/\"631f7b85-997\"",
+    "last_updated": 1662955200,
+    "modified": "Mon, 12 Sep 2022 18:33:41 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
