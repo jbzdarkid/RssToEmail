@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f10f7af11bdbcb0ffe74da14d3e6b098-ssl-df\"",
+    "etag": "\"f10f7af11bdbcb0ffe74da14d3e6b098-ssl\"",
     "last_updated": 1662975108,
     "name": "Explosm.net",
     "seen_entries": []
@@ -248,9 +248,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"57bf2426de445cef362e139d29bad760a82ecdc09bd1e822cd2dcabec86db7ab\"",
+    "etag": "W/\"be68a27092057505f6737465950ae453c9baff314a14b1147c0c33709f15e885\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 13 Sep 2022 00:19:09 GMT",
+    "modified": "Tue, 13 Sep 2022 05:29:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 13 Sep 2022 03:56:00 GMT",
+    "modified": "Tue, 13 Sep 2022 06:26:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,7 +379,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f6ecc57894d9d5b3d88865e2c7001ce3",
+    "etag": "cacheable:c262d3b75e42eff8e7c0cc02bd367846",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -414,7 +414,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1662955200,
+    "last_updated": 1663041600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -470,16 +470,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1e2282e2ceb6fc8351b92e1ccc96a97a\"",
+    "etag": "W/\"ec3034791524b0e817fd1ed440145f0e\"",
     "last_updated": 1662048012,
-    "modified": "Sat, 03 Sep 2022 16:55:15 GMT",
+    "modified": "Tue, 13 Sep 2022 06:12:49 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1e2282e2ceb6fc8351b92e1ccc96a97a\"",
+    "etag": "W/\"ec3034791524b0e817fd1ed440145f0e\"",
     "last_updated": 1647791985,
-    "modified": "Sat, 03 Sep 2022 16:55:15 GMT",
+    "modified": "Tue, 13 Sep 2022 06:12:49 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
