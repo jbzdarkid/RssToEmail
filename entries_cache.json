@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,8 +104,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f10f7af11bdbcb0ffe74da14d3e6b098-ssl\"",
-    "last_updated": 1662975108,
+    "etag": "\"3b70c52496adf5a62a03e5fa0fca7d4a-ssl-df\"",
+    "last_updated": 1663030342,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sat, 10 Sep 2022 09:48:06 GMT",
+    "modified": "Tue, 13 Sep 2022 07:10:36 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
       "http://www.nerfnow.com/comic/3091",
@@ -134,7 +134,8 @@
       "http://www.nerfnow.com/comic/3094",
       "http://www.nerfnow.com/comic/3095",
       "http://www.nerfnow.com/comic/3096",
-      "http://www.nerfnow.com/comic/3097"
+      "http://www.nerfnow.com/comic/3097",
+      "http://www.nerfnow.com/comic/3098"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -241,16 +242,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b95bd241a727ca6538f555c3763f1ddc1e62b0181084930d747709228df81e7e\"",
+    "etag": "W/\"16fb51f7904095288ba8beaf1bed95ea2c66a972161664d808ca6d610eb93357\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 13 Sep 2022 00:28:34 GMT",
+    "modified": "Tue, 13 Sep 2022 07:28:16 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"be68a27092057505f6737465950ae453c9baff314a14b1147c0c33709f15e885\"",
+    "etag": "W/\"a381292394d180cdd710bf62a900c5518059cabaea053f8865aba11abf1b7756\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 13 Sep 2022 05:29:22 GMT",
+    "modified": "Tue, 13 Sep 2022 07:50:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +306,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 13 Sep 2022 06:26:00 GMT",
+    "modified": "Tue, 13 Sep 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,7 +380,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c262d3b75e42eff8e7c0cc02bd367846",
+    "etag": "cacheable:215a327d6d96d4f98e31a614cd8140b9",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -470,16 +471,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ec3034791524b0e817fd1ed440145f0e\"",
+    "etag": "W/\"2203534996424c5e9b337895ed158f63\"",
     "last_updated": 1662048012,
-    "modified": "Tue, 13 Sep 2022 06:12:49 GMT",
+    "modified": "Tue, 13 Sep 2022 08:34:45 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"ec3034791524b0e817fd1ed440145f0e\"",
+    "etag": "W/\"2203534996424c5e9b337895ed158f63\"",
     "last_updated": 1647791985,
-    "modified": "Tue, 13 Sep 2022 06:12:49 GMT",
+    "modified": "Tue, 13 Sep 2022 08:34:45 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -709,9 +710,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"631fb26e-997\"",
+    "etag": "W/\"63202a68-997\"",
     "last_updated": 1662955200,
-    "modified": "Mon, 12 Sep 2022 22:27:58 GMT",
+    "modified": "Tue, 13 Sep 2022 06:59:52 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
