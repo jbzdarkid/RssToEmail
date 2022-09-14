@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"3b70c52496adf5a62a03e5fa0fca7d4a-ssl\"",
+    "etag": "\"3b70c52496adf5a62a03e5fa0fca7d4a-ssl-df\"",
     "last_updated": 1663030342,
     "name": "Explosm.net",
     "seen_entries": []
@@ -272,7 +272,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Tue, 13 Sep 2022 10:20:22 GMT",
+    "modified": "Wed, 14 Sep 2022 20:35:05 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -306,7 +306,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 14 Sep 2022 18:04:00 GMT",
+    "modified": "Wed, 14 Sep 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -366,21 +366,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"cd9280dca335daf8fb86eb56b6c5eb09\"",
+    "etag": "W/\"7bfc840a819ee7fea1202de262ddc9b5\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 14 Sep 2022 16:00:50 GMT",
+    "modified": "Wed, 14 Sep 2022 19:07:26 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"cd9280dca335daf8fb86eb56b6c5eb09\"",
+    "etag": "W/\"7bfc840a819ee7fea1202de262ddc9b5\"",
     "last_updated": 1663171250,
-    "modified": "Wed, 14 Sep 2022 16:00:50 GMT",
+    "modified": "Wed, 14 Sep 2022 19:07:26 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7a5e16bdc531c6e95b86827a3cc70a2e",
+    "etag": "cacheable:067fac165c1a6c8a310bba6e87fe3cd6",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
