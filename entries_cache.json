@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Tue, 13 Sep 2022 10:20:17 GMT",
+    "modified": "Thu, 15 Sep 2022 09:53:59 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
       "http://www.nerfnow.com/comic/3091",
@@ -135,7 +135,8 @@
       "http://www.nerfnow.com/comic/3095",
       "http://www.nerfnow.com/comic/3096",
       "http://www.nerfnow.com/comic/3097",
-      "http://www.nerfnow.com/comic/3098"
+      "http://www.nerfnow.com/comic/3098",
+      "http://www.nerfnow.com/comic/3099"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -249,9 +250,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"263f5dd827382cbfdd07a9eed2f0cce493d9b41d566dd4d7dbdb68e10c6f209c\"",
+    "etag": "W/\"f205da950489834d8979e34f4a918d0751da3bb02eb5e5bf5dfafa242bbc1870\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 15 Sep 2022 05:31:00 GMT",
+    "modified": "Thu, 15 Sep 2022 09:46:45 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -306,7 +307,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 15 Sep 2022 09:06:00 GMT",
+    "modified": "Thu, 15 Sep 2022 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -380,7 +381,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:42145044a8f75d9d33ac1f1989c7b7a6",
+    "etag": "cacheable:16154cfe440ca8c210ac17a8270b270c",
     "last_updated": 1662655691,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
