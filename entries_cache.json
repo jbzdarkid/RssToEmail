@@ -38,7 +38,7 @@
     "seen_entries": []
   },
   "https://backend.deviantart.com/rss.xml?q=gallery:shiniez": {
-    "last_updated": 1663154829,
+    "last_updated": 1663354943,
     "name": "DeviantArt: shiniez's gallery",
     "seen_entries": []
   },
@@ -307,7 +307,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 16 Sep 2022 18:04:00 GMT",
+    "modified": "Fri, 16 Sep 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -367,21 +367,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3998abf7699c6d1114f219d82fd06f71\"",
+    "etag": "W/\"50913868c5e3e695306592f6baaf529e\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 16 Sep 2022 17:03:30 GMT",
+    "modified": "Fri, 16 Sep 2022 18:51:29 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"3998abf7699c6d1114f219d82fd06f71\"",
+    "etag": "W/\"50913868c5e3e695306592f6baaf529e\"",
     "last_updated": 1663171250,
-    "modified": "Fri, 16 Sep 2022 17:03:30 GMT",
+    "modified": "Fri, 16 Sep 2022 18:51:29 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:091337477e04e1aed2d4516cacbd8c24",
+    "etag": "cacheable:0e7ae7893ee7b16fc29864f36092a5da",
     "last_updated": 1663260668,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -711,9 +711,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63211255-972\"",
-    "last_updated": 1663041600,
-    "modified": "Tue, 13 Sep 2022 23:29:25 GMT",
+    "etag": "W/\"6324bce1-7f8\"",
+    "last_updated": 1663300800,
+    "modified": "Fri, 16 Sep 2022 18:13:53 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
