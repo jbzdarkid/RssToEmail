@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -104,8 +104,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"36877ecaca22a989bbbaafcf0944fe31-ssl\"",
-    "last_updated": 1663286427,
+    "etag": "\"9b844c2e5760f7bfbc2fc176ffe0d0cf-ssl-df\"",
+    "last_updated": 1663372857,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Thu, 15 Sep 2022 09:53:59 GMT",
+    "modified": "Sat, 17 Sep 2022 06:40:19 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
       "http://www.nerfnow.com/comic/3091",
@@ -136,7 +136,8 @@
       "http://www.nerfnow.com/comic/3096",
       "http://www.nerfnow.com/comic/3097",
       "http://www.nerfnow.com/comic/3098",
-      "http://www.nerfnow.com/comic/3099"
+      "http://www.nerfnow.com/comic/3099",
+      "http://www.nerfnow.com/comic/3100"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -243,16 +244,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4119fc4b3b782e83b342cd2901c8fc30f7aeec5d7bcc4ac18576520d39480650\"",
+    "etag": "W/\"955741f14958c80fe22b0560b89378a05aec543553af2293055bf8523db44c82\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 17 Sep 2022 00:19:38 GMT",
+    "modified": "Sat, 17 Sep 2022 08:35:28 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"95242ec0cea32d19641a390b7ececca91e65d40c66b22ea635bf8be3d99d4ec3\"",
+    "etag": "W/\"8cb0b78310dffdf6abf1535deec979cda623f190ff140ed29d42e8c3b12229c3\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 17 Sep 2022 05:26:57 GMT",
+    "modified": "Sat, 17 Sep 2022 08:43:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -307,7 +308,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 17 Sep 2022 06:04:00 GMT",
+    "modified": "Sat, 17 Sep 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -381,7 +382,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:905b8355214afefbff92718f7bd99623",
+    "etag": "cacheable:f657c4f4cbae560ced53f8350d50a20b",
     "last_updated": 1663260668,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
