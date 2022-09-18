@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9b844c2e5760f7bfbc2fc176ffe0d0cf-ssl\"",
+    "etag": "\"9b844c2e5760f7bfbc2fc176ffe0d0cf-ssl-df\"",
     "last_updated": 1663372857,
     "name": "Explosm.net",
     "seen_entries": []
@@ -244,16 +244,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"dfad866278ffea8f06ed13d0a39a39bae7f35a838d20c5c9592d007032b64bb3\"",
+    "etag": "W/\"fa72e38ee2e3663831df613cf3679277c77982fe9adb5528eff5691761d9f4a2\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 17 Sep 2022 11:29:24 GMT",
+    "modified": "Sat, 17 Sep 2022 22:02:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"dedc8e7314eb85400faa0e77e9db03ec0c0f83771a6a42dc6cc2790a8df2fc79\"",
+    "etag": "W/\"bca4abcad8b63809ede51e21d9ecbf92a665f2bc7950c019f55e9bf1ad1d3494\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 17 Sep 2022 20:21:50 GMT",
+    "modified": "Sat, 17 Sep 2022 22:02:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -308,7 +308,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 17 Sep 2022 21:04:00 GMT",
+    "modified": "Sun, 18 Sep 2022 00:18:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -382,7 +382,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:bdfb4685bb067278fee2fe6dc8dc5dd1",
+    "etag": "cacheable:4d620fc9335e160682f7ee850ac013c9",
     "last_updated": 1663260668,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -677,7 +677,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1663088424,
+    "last_updated": 1663455215,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
