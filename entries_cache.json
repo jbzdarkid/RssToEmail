@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -244,16 +244,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e872c40d2572d2470e95be7a341be3cc5801aca7018a5ff9c41c47b3e5fc793c\"",
+    "etag": "W/\"c1a8d5715e56d5a69b6c11e98f0c83c8115f5f7c3c19997a52cd391898f60a15\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 18 Sep 2022 21:30:11 GMT",
+    "modified": "Mon, 19 Sep 2022 12:04:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"fc74470a197cb5208380317e8917df01806240ff7b99588297cb4b3602519755\"",
+    "etag": "W/\"8be82ea83d0465df0ceef7a1ecdc38fe7f7a2ba8ec1b94ad70700131611b8a85\"",
     "last_updated": 1660172400,
-    "modified": "Mon, 19 Sep 2022 08:58:33 GMT",
+    "modified": "Mon, 19 Sep 2022 11:53:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -274,7 +274,7 @@
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
-    "modified": "Sat, 17 Sep 2022 10:10:07 GMT",
+    "modified": "Mon, 19 Sep 2022 10:05:13 GMT",
     "name": "Updates \u2013 Pi-hole",
     "seen_entries": []
   },
@@ -308,7 +308,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 19 Sep 2022 09:06:00 GMT",
+    "modified": "Mon, 19 Sep 2022 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,21 +368,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"71e34a8c12811d708424b7aaf5424a0a\"",
+    "etag": "W/\"173eaca0f8854e67720d4a90cd9e7287\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 19 Sep 2022 02:00:48 GMT",
+    "modified": "Mon, 19 Sep 2022 09:00:54 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"71e34a8c12811d708424b7aaf5424a0a\"",
+    "etag": "W/\"173eaca0f8854e67720d4a90cd9e7287\"",
     "last_updated": 1663171250,
-    "modified": "Mon, 19 Sep 2022 02:00:48 GMT",
+    "modified": "Mon, 19 Sep 2022 09:00:54 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5cf41763e238df7907fb7667fafaca07",
+    "etag": "cacheable:db8cce3f6ab18a300633d4eebd54bfb6",
     "last_updated": 1663260668,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
