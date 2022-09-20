@@ -104,8 +104,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"604f1ce3221aa9c94e485d94881a2bbd-ssl\"",
-    "last_updated": 1663588929,
+    "etag": "\"92cdddd71c8722ac8141032c79415eef-ssl-df\"",
+    "last_updated": 1663632041,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -251,9 +251,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ca5a40ad85f5357cb7479f2d013b0e7f828c149664c9c1b01d9bad9eecee5505\"",
+    "etag": "W/\"502dff2162525c16c5d8695766514ec27e30e72ea3b734d5f1e1bc93a6ba2b2d\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 20 Sep 2022 00:38:28 GMT",
+    "modified": "Tue, 20 Sep 2022 04:36:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -308,7 +308,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 20 Sep 2022 03:52:00 GMT",
+    "modified": "Tue, 20 Sep 2022 06:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -382,7 +382,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2ccccf9faf96761709f2cc643d9de6cc",
+    "etag": "cacheable:820ef6f4a9281bd7b99c81781d0f8993",
     "last_updated": 1663260668,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -473,16 +473,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1c5a92f0c5f5def8b0e487758e87ff0b\"",
+    "etag": "W/\"048f750be3437c42923e21e6bb0c2ad1\"",
     "last_updated": 1663257600,
-    "modified": "Sat, 17 Sep 2022 17:29:40 GMT",
+    "modified": "Tue, 20 Sep 2022 06:23:46 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1c5a92f0c5f5def8b0e487758e87ff0b\"",
+    "etag": "W/\"048f750be3437c42923e21e6bb0c2ad1\"",
     "last_updated": 1647791985,
-    "modified": "Sat, 17 Sep 2022 17:29:40 GMT",
+    "modified": "Tue, 20 Sep 2022 06:23:46 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -712,9 +712,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6324bce1-7f8\"",
-    "last_updated": 1663300800,
-    "modified": "Fri, 16 Sep 2022 18:13:53 GMT",
+    "etag": "W/\"6329522e-8c4\"",
+    "last_updated": 1663560000,
+    "modified": "Tue, 20 Sep 2022 05:39:58 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
