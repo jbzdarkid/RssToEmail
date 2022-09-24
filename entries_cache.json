@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4290bb174036bb4bf458e84d49c1d44e-ssl\"",
+    "etag": "\"4290bb174036bb4bf458e84d49c1d44e-ssl-df\"",
     "last_updated": 1663986508,
     "name": "Explosm.net",
     "seen_entries": []
@@ -241,21 +241,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1663830550,
+    "last_updated": 1664008362,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f1c17c1e7ee21a85e1e646c1b375983fa032494cf4c5a285d64d4ff72690084b\"",
+    "etag": "W/\"8b04a9f1e3a1cc875236826bb8101552c0c8f54acc9b1071282ab54fa342a3e8\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 24 Sep 2022 07:33:55 GMT",
+    "modified": "Sat, 24 Sep 2022 11:27:39 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"aa103cd16b7ddf3d6519868a2be005d9adc6be250dad4091a04753c13b731e26\"",
+    "etag": "W/\"9463e7aa9cd82a64fdb90dcbefc9d45b62edba835a1248181b4cce787de8cc1b\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 24 Sep 2022 08:10:49 GMT",
+    "modified": "Sat, 24 Sep 2022 11:10:23 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 24 Sep 2022 09:04:00 GMT",
+    "modified": "Sat, 24 Sep 2022 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -384,7 +384,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:98513498dd9a729e37f3fb95fe1430d7",
+    "etag": "cacheable:b489af5d126aab40c801488b9718632b",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
