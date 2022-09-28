@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"a7735c8dec92ebb659c8c0cb8bfcc4c5-ssl-df\"",
+    "etag": "\"a7735c8dec92ebb659c8c0cb8bfcc4c5-ssl\"",
     "last_updated": 1664196791,
     "name": "Explosm.net",
     "seen_entries": []
@@ -248,16 +248,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9cc2666d424fba9e87a171106fd1d8887a8814186fd716d9d7872dd6e2b36e91\"",
+    "etag": "W/\"3556cdd3ee7197a654f6679291f7a68539a16f03dd4e6efba8958d2649e00bc1\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 27 Sep 2022 15:25:15 GMT",
+    "modified": "Wed, 28 Sep 2022 04:01:04 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"676ef7b63314eea357776815ebb546585d5e277000d52ed30af9eb3995172426\"",
+    "etag": "W/\"f640a05746e3407c13aaa2b1df9a03970c2684bc694f325e0cda6e6fbc26b30f\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 27 Sep 2022 23:58:19 GMT",
+    "modified": "Wed, 28 Sep 2022 05:09:48 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -312,7 +312,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 28 Sep 2022 03:52:00 GMT",
+    "modified": "Wed, 28 Sep 2022 06:26:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:cea58d0baa3d0f8d2b2e5b310a83b9cb",
+    "etag": "cacheable:64945d15b5f23b99f173a961f31fd1a7",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -421,14 +421,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1664251200,
+    "last_updated": 1664337600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"cf9a74a04b570361abe91b156f73a509\"",
+    "etag": "\"6692e1433e9f6154df4fcfc6ba600b97\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 28 Sep 2022 03:50:04 GMT",
+    "modified": "Wed, 28 Sep 2022 06:06:41 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
