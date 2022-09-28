@@ -255,9 +255,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6af3784b97640d979d7ae52c739ae5a4ffa6ee8bc074b1d3fdde55ef2cdffaf6\"",
+    "etag": "W/\"b4c36da69e2ecfef07e4cc26bdc3033124a378ed59e2653545536ce7f88ade42\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 28 Sep 2022 10:47:24 GMT",
+    "modified": "Wed, 28 Sep 2022 12:34:36 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -312,7 +312,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 28 Sep 2022 12:06:00 GMT",
+    "modified": "Wed, 28 Sep 2022 15:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,14 +379,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"b5a306210055c503f111da05c30f4ef3\"",
+    "etag": "\"b5a306210055c503f111da05c30f4ef3\"",
     "last_updated": 1663776033,
     "modified": "Tue, 27 Sep 2022 17:45:35 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:296d5ba30b9395f15e53f574ba220142",
+    "etag": "cacheable:14043454009e3d2c974b7a901664bebc",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -426,9 +426,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"54b2c0ed851adeb183da868712903ee4\"",
+    "etag": "\"5184956073bb807a938a4ccd06f1bf99\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 28 Sep 2022 09:54:45 GMT",
+    "modified": "Wed, 28 Sep 2022 14:19:25 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -511,7 +511,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1664284132,
+    "last_updated": 1664371337,
     "name": "GDC",
     "seen_entries": []
   },
