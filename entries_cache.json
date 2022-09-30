@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -248,9 +248,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"585e64b16fa3220a326eb4ed8e58e92a3393105c20eb8837e21d3fd5df61a3ed\"",
+    "etag": "W/\"471346525907ed3d688ca1fc5717ffda1ce94ec438347330d115e448e2f2d77f\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 30 Sep 2022 15:00:34 GMT",
+    "modified": "Fri, 30 Sep 2022 15:49:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -312,7 +312,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 30 Sep 2022 15:06:00 GMT",
+    "modified": "Fri, 30 Sep 2022 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b80c2104ad65760df3d302e7321d6166",
+    "etag": "cacheable:5d81f305462d84028e6c2727c52a8032",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -426,9 +426,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"62d2e520aec76beaf365541eb2048251\"",
+    "etag": "\"16ed1342649591e721ccdee9480d8f7a\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 30 Sep 2022 14:58:46 GMT",
+    "modified": "Fri, 30 Sep 2022 15:27:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -721,9 +721,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6335f6ba-87b\"",
-    "last_updated": 1664337600,
-    "modified": "Thu, 29 Sep 2022 19:49:14 GMT",
+    "etag": "W/\"63371165-90f\"",
+    "last_updated": 1664510400,
+    "modified": "Fri, 30 Sep 2022 15:55:17 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
