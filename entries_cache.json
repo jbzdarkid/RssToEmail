@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -248,16 +248,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"39081e6161db4024828cdff74a150e67a2f71c867885792017fccfeb3dfdc64b\"",
+    "etag": "W/\"2084d5f0b484c6803376ea62c864e376082316a50213ef5a54cdfb43a6cdca52\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 01 Oct 2022 11:52:57 GMT",
+    "modified": "Sat, 01 Oct 2022 13:28:17 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c5c4c94c4b132942bec605eb25f7e7534803c5028036ccb218da1319751870ee\"",
+    "etag": "W/\"941970df9243179fc03058ceb4b310c534fcaee4584bbe4dd5a26cbaf3620264\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 01 Oct 2022 11:34:01 GMT",
+    "modified": "Sat, 01 Oct 2022 13:33:04 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -312,7 +312,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 01 Oct 2022 12:06:00 GMT",
+    "modified": "Sat, 01 Oct 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -350,7 +350,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1664613009,
+    "last_updated": 1664633409,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -386,19 +386,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1de8ac848a8e34daea5262333186a95d",
+    "etag": "cacheable:990238a242b27b7cabfe60d4f570cb60",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8DA9A46BEBC093B\"",
+    "etag": "\"0x8DAA3B2482647B6\"",
     "last_updated": 0,
-    "modified": "Mon, 19 Sep 2022 13:56:26 GMT",
+    "modified": "Sat, 01 Oct 2022 13:38:53 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "https://www.giantitp.com/comics/oots1258.html",
       "https://www.giantitp.com/comics/oots1259.html",
       "https://www.giantitp.com/comics/oots1260.html",
       "https://www.giantitp.com/comics/oots1261.html",
@@ -417,7 +416,8 @@
       "http://www.giantitp.com/comics/oots1265.html",
       "http://www.giantitp.com/comics/oots1266.html",
       "http://www.giantitp.com/comics/oots1267.html",
-      "http://www.giantitp.com/comics/oots1268.html"
+      "http://www.giantitp.com/comics/oots1268.html",
+      "http://www.giantitp.com/comics/oots1269.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
