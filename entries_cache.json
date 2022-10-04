@@ -104,8 +104,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"adf70e18795f9a8438d87b9862a5e036-ssl\"",
-    "last_updated": 1664812424,
+    "etag": "\"a3728b8231c77defc33eecf97e265288-ssl-df\"",
+    "last_updated": 1664841613,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -313,7 +313,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 04 Oct 2022 03:34:00 GMT",
+    "modified": "Tue, 04 Oct 2022 06:10:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -387,7 +387,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:053cc7e973d11139fdb9a655490077c1",
+    "etag": "cacheable:2e2086325056f1780543d4fff527910f",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -422,7 +422,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1664769600,
+    "last_updated": 1664856000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -478,16 +478,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"9cce2d96267b9b9bd367a1e3f0d1557d\"",
+    "etag": "W/\"d49fa471154a3769ea47280df782b510\"",
     "last_updated": 1663862344,
-    "modified": "Sat, 01 Oct 2022 17:13:53 GMT",
+    "modified": "Tue, 04 Oct 2022 06:11:50 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"9cce2d96267b9b9bd367a1e3f0d1557d\"",
+    "etag": "W/\"d49fa471154a3769ea47280df782b510\"",
     "last_updated": 1647791985,
-    "modified": "Sat, 01 Oct 2022 17:13:53 GMT",
+    "modified": "Tue, 04 Oct 2022 06:11:50 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -722,9 +722,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63371165-90f\"",
-    "last_updated": 1664510400,
-    "modified": "Fri, 30 Sep 2022 15:55:17 GMT",
+    "etag": "W/\"633baa8a-877\"",
+    "last_updated": 1664769600,
+    "modified": "Tue, 04 Oct 2022 03:37:46 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
