@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -125,7 +125,7 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sat, 1 Oct 2022 20:09:13 GMT",
+    "modified": "Tue, 4 Oct 2022 17:05:48 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
       "http://www.nerfnow.com/comic/3091",
@@ -142,7 +142,8 @@
       "http://www.nerfnow.com/comic/3102",
       "http://www.nerfnow.com/comic/3103",
       "http://www.nerfnow.com/comic/3104",
-      "http://www.nerfnow.com/comic/3105"
+      "http://www.nerfnow.com/comic/3105",
+      "http://www.nerfnow.com/comic/3106"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -249,16 +250,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6eac35ba5806f784636cf66e687b4016c66a310784687db863a707d5e7e0b651\"",
+    "etag": "W/\"4ccd875ba1c73b8fff1bf0150a3eb9daba2d127305faf37221642772adc4bfdd\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 04 Oct 2022 11:05:05 GMT",
+    "modified": "Tue, 04 Oct 2022 16:43:21 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c26497e2c2bfd9b32ae7c278e64417b7a9ca519e4e38f601153fb2981ebc6c6e\"",
+    "etag": "W/\"7d1eeaf0a21f5728e8172fb0c9dd7d2a2db8c07cb257866b7e604e4d040a67b6\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 04 Oct 2022 14:37:30 GMT",
+    "modified": "Tue, 04 Oct 2022 16:39:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -313,7 +314,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 04 Oct 2022 15:06:00 GMT",
+    "modified": "Tue, 04 Oct 2022 18:10:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -387,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:84689a58296c6593e3129a14dda21d05",
+    "etag": "cacheable:d1b6a144f9d330e3bb1b2c2280b96bd8",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -427,9 +428,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d02178f84cc5df50b17dd0cec8e35fae\"",
+    "etag": "\"140639294dda840b9e213483201674a7\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 04 Oct 2022 15:05:42 GMT",
+    "modified": "Tue, 04 Oct 2022 18:03:39 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -478,16 +479,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"a330c2be9113dd5ecf0f5c9e4b17dcb8\"",
+    "etag": "W/\"aa8f88c888de138e7e17cf2dbf1cfc04\"",
     "last_updated": 1663862344,
-    "modified": "Tue, 04 Oct 2022 12:36:25 GMT",
+    "modified": "Tue, 04 Oct 2022 17:00:58 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a330c2be9113dd5ecf0f5c9e4b17dcb8\"",
+    "etag": "W/\"aa8f88c888de138e7e17cf2dbf1cfc04\"",
     "last_updated": 1647791985,
-    "modified": "Tue, 04 Oct 2022 12:36:25 GMT",
+    "modified": "Tue, 04 Oct 2022 17:00:58 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -627,7 +628,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1664382549,
+    "last_updated": 1664902811,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
@@ -682,7 +683,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1664831446,
+    "last_updated": 1664902805,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
