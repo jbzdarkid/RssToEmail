@@ -104,7 +104,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl-df\"",
+    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl\"",
     "last_updated": 1664928000,
     "name": "Explosm.net",
     "seen_entries": []
@@ -250,9 +250,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0745f5928ca3448ff3130947c904814d4720369671a5d0c3faccee49d0312848\"",
+    "etag": "W/\"9abbb48b898692fe57e376a39d2214ec4e4e863fc1929e2c272fdd837d4254ce\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 05 Oct 2022 05:48:12 GMT",
+    "modified": "Wed, 05 Oct 2022 07:46:20 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -314,7 +314,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 05 Oct 2022 06:14:00 GMT",
+    "modified": "Wed, 05 Oct 2022 09:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:56702e6e54ec926141f86078168d677f",
+    "etag": "cacheable:0fe7d600a69c1cb535c895c3c48943d3",
     "last_updated": 1663692022,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -454,7 +454,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1664780400,
+    "last_updated": 1664953200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -486,9 +486,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"e8b56e7687dc0d2de7317ce06baf6004\"",
+    "etag": "W/\"94435b545398077ad29373b54e7d32f0\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 05 Oct 2022 05:55:19 GMT",
+    "modified": "Wed, 05 Oct 2022 09:03:51 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
