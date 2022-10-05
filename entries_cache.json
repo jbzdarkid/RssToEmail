@@ -250,16 +250,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9abbb48b898692fe57e376a39d2214ec4e4e863fc1929e2c272fdd837d4254ce\"",
+    "etag": "W/\"ee713f54118d7bf217bd111fac8eb06078b63bcd9ad138cd6bdbd0d8fc3ee74b\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 05 Oct 2022 07:46:20 GMT",
+    "modified": "Wed, 05 Oct 2022 16:01:42 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e60e275f3658882aa30c590246e5bd285530bdf5912443bcede4dcaa20f372bf\"",
+    "etag": "W/\"f01d9a4e8d650a3f2ec3582c72ec24bbd8211b29f29aa1e46e6e9fb8b784029d\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 05 Oct 2022 13:24:09 GMT",
+    "modified": "Wed, 05 Oct 2022 17:30:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -314,7 +314,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 05 Oct 2022 15:06:00 GMT",
+    "modified": "Wed, 05 Oct 2022 18:10:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -388,8 +388,8 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:29099343d67ece1ecd4f98afaac04e3b",
-    "last_updated": 1663692022,
+    "etag": "cacheable:858ee0926f5aa43428969cbfdf682c5b",
+    "last_updated": 1664988605,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -428,9 +428,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6d3f38f5c3bf3298cd733ab0ea23ee14\"",
+    "etag": "\"d0af0dfede3f7e9a72992cb2af4735d3\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 05 Oct 2022 14:14:57 GMT",
+    "modified": "Wed, 05 Oct 2022 17:03:10 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -528,7 +528,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1664816422,
+    "last_updated": 1664989201,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -723,9 +723,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"633baa8a-877\"",
+    "etag": "W/\"633dc8b8-877\"",
     "last_updated": 1664769600,
-    "modified": "Tue, 04 Oct 2022 03:37:46 GMT",
+    "modified": "Wed, 05 Oct 2022 18:11:04 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
