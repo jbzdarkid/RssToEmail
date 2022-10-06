@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl-df\"",
+    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl\"",
     "last_updated": 1664928000,
     "name": "Explosm.net",
     "seen_entries": []
@@ -262,9 +262,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"bd651d9f2be0549b137be94027be08702d6361fb33c23c622e78d82cd428f89d\"",
+    "etag": "W/\"3daa69379967da5369c023bad983866332f8cc3073e82a90fdb67399f38e2f6a\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 06 Oct 2022 04:20:18 GMT",
+    "modified": "Thu, 06 Oct 2022 07:54:17 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 06 Oct 2022 06:08:00 GMT",
+    "modified": "Thu, 06 Oct 2022 09:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2cf1efecdbd956377650f49c755a14df",
+    "etag": "cacheable:b02b395ebc79ed8b9436246773889648",
     "last_updated": 1664988605,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"82ecc5bd7169880dc928916d1b7233fe\"",
+    "etag": "\"ede06532eb65db4a59132e0ef0d8ad33\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 06 Oct 2022 02:34:43 GMT",
+    "modified": "Thu, 06 Oct 2022 08:16:45 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1664168662,
+    "last_updated": 1665038256,
     "name": "Team PLC",
     "seen_entries": []
   },
