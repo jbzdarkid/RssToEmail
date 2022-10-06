@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl-df\"",
+    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl\"",
     "last_updated": 1664928000,
     "name": "Explosm.net",
     "seen_entries": []
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 06 Oct 2022 12:06:00 GMT",
+    "modified": "Thu, 06 Oct 2022 15:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3a280045b0f5646f4d4e449f0bc4fe1f",
+    "etag": "cacheable:b4d40174f0ba61bf01f9e6e266b7f547",
     "last_updated": 1664988605,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -484,16 +484,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"faa0fd41a67d4aede69443a325d4997e\"",
+    "etag": "W/\"5f7711e67eb8f2b01477bece272e695a\"",
     "last_updated": 1663862344,
-    "modified": "Thu, 06 Oct 2022 00:03:57 GMT",
+    "modified": "Thu, 06 Oct 2022 14:44:07 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"faa0fd41a67d4aede69443a325d4997e\"",
+    "etag": "W/\"5f7711e67eb8f2b01477bece272e695a\"",
     "last_updated": 1647791985,
-    "modified": "Thu, 06 Oct 2022 00:03:57 GMT",
+    "modified": "Thu, 06 Oct 2022 14:44:07 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -518,7 +518,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1664977153,
+    "last_updated": 1665063542,
     "name": "GDC",
     "seen_entries": []
   },
