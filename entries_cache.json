@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"565175ce179cfd69a8ba36af543f4a62-ssl\"",
-    "last_updated": 1664928000,
+    "etag": "\"38ea2678e9f3bb8a7b4fdd5bf0d7d337-ssl-df\"",
+    "last_updated": 1665187227,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -255,16 +255,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3c3ca0a4e6cfd4184650c59136f41ed5d492aa2eff7f0ae49f17830aa329986f\"",
+    "etag": "W/\"8a9f67a3b95d12a3aeee44620f616d2d30010285af0c0dd61f3d0c92e9e19e55\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 08 Oct 2022 00:54:07 GMT",
+    "modified": "Sat, 08 Oct 2022 07:11:18 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"35d3b6105addf7b91128771321d3a9bd2fd84b0428de11017a54567998abd3f8\"",
+    "etag": "W/\"df09eaecfafc8cbc9b10fd3c20b54557e08df9284410bceba74f3101f9ab252f\"",
     "last_updated": 1660172400,
-    "modified": "Sat, 08 Oct 2022 05:32:44 GMT",
+    "modified": "Sat, 08 Oct 2022 08:18:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 08 Oct 2022 06:06:00 GMT",
+    "modified": "Sat, 08 Oct 2022 09:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -357,7 +357,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1664633409,
+    "last_updated": 1665212064,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:95055990011c285f1eea4260634d82cf",
+    "etag": "cacheable:296fa28da6fe94056113a82c39df101c",
     "last_updated": 1664988605,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
