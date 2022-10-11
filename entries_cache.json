@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"7a0a34da77b9ea5e8a8daeaf72e8113b-ssl\"",
-    "last_updated": 1665273652,
+    "etag": "\"e0fac49cf3c8b3383b4ade935dc89676-ssl-df\"",
+    "last_updated": 1665446429,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -255,16 +255,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e4bf665db977188b4997b77910690808e0c3a173fc807fcfad98462305168cdf\"",
+    "etag": "W/\"8f1be46a77acb9d4abe59681b2aa0252fa1b5afe0874a8827a86d5c761eaed41\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 11 Oct 2022 00:33:00 GMT",
+    "modified": "Tue, 11 Oct 2022 05:39:36 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e02755b3eb8aa98b54f5a2e7e5deafec28daa77ec0454b503be7515c00aca688\"",
+    "etag": "W/\"8ed708a28624e018f0795d3f12c412cfba04cd264f3c79195efe70ba9d70ba3b\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 11 Oct 2022 00:33:04 GMT",
+    "modified": "Tue, 11 Oct 2022 05:33:14 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 11 Oct 2022 03:50:00 GMT",
+    "modified": "Tue, 11 Oct 2022 06:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:30063846fbbd633b1dbbf0ab78f6a981",
+    "etag": "cacheable:141ad2dbd867dfc55a4bb84290105b5d",
     "last_updated": 1664988605,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -428,7 +428,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1665374400,
+    "last_updated": 1665460800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -484,16 +484,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f5d240bcb7c5e638679079cf03e70107\"",
+    "etag": "W/\"9682f80f4178ca8c61daeacfe384771a\"",
     "last_updated": 1665071971,
-    "modified": "Sat, 08 Oct 2022 17:12:54 GMT",
+    "modified": "Tue, 11 Oct 2022 06:20:39 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f5d240bcb7c5e638679079cf03e70107\"",
+    "etag": "W/\"9682f80f4178ca8c61daeacfe384771a\"",
     "last_updated": 1647791985,
-    "modified": "Sat, 08 Oct 2022 17:12:54 GMT",
+    "modified": "Tue, 11 Oct 2022 06:20:39 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
