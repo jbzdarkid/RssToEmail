@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e0fac49cf3c8b3383b4ade935dc89676-ssl\"",
-    "last_updated": 1665446429,
+    "etag": "\"0011728839a3eaac6377d9efc888ad3a-ssl-df\"",
+    "last_updated": 1665532835,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -250,21 +250,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1665401200,
+    "last_updated": 1665557032,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"d66ca32c6db4d56d488d0eb2896fdce9177dc400541cf056682cf63f1f90ee25\"",
+    "etag": "W/\"33d7cc9c5f2eb158df8b5283eb5cfc6e443157810f9014411374080c3f8fab14\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 12 Oct 2022 05:50:58 GMT",
+    "modified": "Wed, 12 Oct 2022 08:31:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"05978777413134268ccba55251e4ff7c062d8bf0f62292a5dd907cd07746b927\"",
+    "etag": "W/\"048a52c1014dbf9d0570108af75f4443c013b987b24389467c97551acf06a64e\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 12 Oct 2022 05:50:27 GMT",
+    "modified": "Wed, 12 Oct 2022 07:51:51 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 12 Oct 2022 06:12:00 GMT",
+    "modified": "Wed, 12 Oct 2022 09:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:86891154f387f0bca64aa55db7792c62",
+    "etag": "cacheable:ef99696a9d4297742c521abbd424d5ed",
     "last_updated": 1665506999,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -459,7 +459,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1665385200,
+    "last_updated": 1665558000,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
