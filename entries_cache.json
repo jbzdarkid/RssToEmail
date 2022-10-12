@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e0fac49cf3c8b3383b4ade935dc89676-ssl\"",
+    "etag": "\"e0fac49cf3c8b3383b4ade935dc89676-ssl-df\"",
     "last_updated": 1665446429,
     "name": "Explosm.net",
     "seen_entries": []
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 12 Oct 2022 00:26:00 GMT",
+    "modified": "Wed, 12 Oct 2022 03:46:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,21 +379,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5a2b608b50de480d1c80cec65f9b1e41\"",
+    "etag": "W/\"0228baf111cb32b5bef80ae71f523974\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 11 Oct 2022 21:44:07 GMT",
+    "modified": "Wed, 12 Oct 2022 01:52:10 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5a2b608b50de480d1c80cec65f9b1e41\"",
+    "etag": "W/\"0228baf111cb32b5bef80ae71f523974\"",
     "last_updated": 1664985654,
-    "modified": "Tue, 11 Oct 2022 21:44:07 GMT",
+    "modified": "Wed, 12 Oct 2022 01:52:10 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:439df8bd91b61e1a58f53a7a101cfd54",
+    "etag": "cacheable:2a38923a5d66d979faa3e26232810d44",
     "last_updated": 1665506999,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -472,8 +472,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1665506340,
-    "modified": "Tue, 11 Oct 2022 16:39:00 +0000",
+    "last_updated": 1665537060,
+    "modified": "Wed, 12 Oct 2022 01:11:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
