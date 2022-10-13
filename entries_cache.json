@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0011728839a3eaac6377d9efc888ad3a-ssl-df\"",
+    "etag": "\"0011728839a3eaac6377d9efc888ad3a-ssl\"",
     "last_updated": 1665532835,
     "name": "Explosm.net",
     "seen_entries": []
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 13 Oct 2022 12:06:00 GMT",
+    "modified": "Thu, 13 Oct 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,21 +379,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1dd64f29feeea1b2ca64df6c310b59a0\"",
+    "etag": "W/\"ffc285ccc9c1af60403ebbdf82223244\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 12 Oct 2022 23:22:09 GMT",
+    "modified": "Thu, 13 Oct 2022 00:44:11 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"1dd64f29feeea1b2ca64df6c310b59a0\"",
+    "etag": "W/\"ffc285ccc9c1af60403ebbdf82223244\"",
     "last_updated": 1665590418,
-    "modified": "Wed, 12 Oct 2022 23:22:09 GMT",
+    "modified": "Thu, 13 Oct 2022 00:44:11 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e7c0810947a3cbdbb682d82d34b28a75",
+    "etag": "cacheable:4319e31fc1c5cf3f62c6a328b382be21",
     "last_updated": 1665506999,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"665db51138a03b64bc6257e66c078016\"",
+    "etag": "\"0ee8ef2aeecb8a1ef947ce463879b23a\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 13 Oct 2022 07:13:40 GMT",
+    "modified": "Thu, 13 Oct 2022 14:58:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -518,7 +518,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1665588030,
+    "last_updated": 1665668676,
     "name": "GDC",
     "seen_entries": []
   },
