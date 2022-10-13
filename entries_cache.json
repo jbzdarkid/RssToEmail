@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -255,16 +255,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"98c32043e210be0b5f515fc6f213eab93cfc9b7c32f2f8fac681b031938a2657\"",
+    "etag": "W/\"80036ad8d7252dded2ecd5b718e24a440285a7b9a7e6eaa475051a5da6c54d47\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 12 Oct 2022 21:02:04 GMT",
+    "modified": "Thu, 13 Oct 2022 06:03:51 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6a7676c887cee66255fedd761b559ac8d487642bdb1675e24027775f87cf8b3f\"",
+    "etag": "W/\"a0629104661ee288de0f9ff97c443d2e8755d62523f2dce6759794f1588c77ea\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 13 Oct 2022 00:34:24 GMT",
+    "modified": "Thu, 13 Oct 2022 05:43:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 13 Oct 2022 03:50:00 GMT",
+    "modified": "Thu, 13 Oct 2022 06:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d119b2c6c930287266a1a11f0cf102bb",
+    "etag": "cacheable:b77ca148142a788eb5357f3ccc04eafd",
     "last_updated": 1665506999,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -428,7 +428,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1665547200,
+    "last_updated": 1665633600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
