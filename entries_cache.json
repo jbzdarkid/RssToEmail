@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -188,7 +188,6 @@
     "last_updated": 1645466654,
     "name": "@valvesoftware on Twitter",
     "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1497276515632893954",
       "https://twitter.com/valvesoftware/status/1498435817777229824",
       "https://twitter.com/valvesoftware/status/1498723452596867073",
       "https://twitter.com/valvesoftware/status/1498723467880898564",
@@ -207,7 +206,8 @@
       "http://twitter.com/valvesoftware/status/1558531865367158786",
       "http://twitter.com/valvesoftware/status/1559670297124515840",
       "http://twitter.com/valvesoftware/status/1572299900947410949",
-      "http://twitter.com/valvesoftware/status/1578094148644925441"
+      "http://twitter.com/valvesoftware/status/1578094148644925441",
+      "http://twitter.com/valvesoftware/status/1580297990153342976"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 12 Oct 2022 21:04:00 GMT",
+    "modified": "Thu, 13 Oct 2022 00:22:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,21 +379,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"169582528d9674d72fd11fbfca6436b7\"",
+    "etag": "W/\"1dd64f29feeea1b2ca64df6c310b59a0\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 12 Oct 2022 19:11:34 GMT",
+    "modified": "Wed, 12 Oct 2022 23:22:09 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"169582528d9674d72fd11fbfca6436b7\"",
+    "etag": "W/\"1dd64f29feeea1b2ca64df6c310b59a0\"",
     "last_updated": 1665590418,
-    "modified": "Wed, 12 Oct 2022 19:11:34 GMT",
+    "modified": "Wed, 12 Oct 2022 23:22:09 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6bef6ae4065f30aaf1913451ae26ee6a",
+    "etag": "cacheable:4c385c302e93037a0a9a3bbcd59cd966",
     "last_updated": 1665506999,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -472,8 +472,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1665537060,
-    "modified": "Wed, 12 Oct 2022 01:11:00 +0000",
+    "last_updated": 1665616680,
+    "modified": "Wed, 12 Oct 2022 23:18:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
