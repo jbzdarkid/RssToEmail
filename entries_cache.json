@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0011728839a3eaac6377d9efc888ad3a-ssl\"",
+    "etag": "\"0011728839a3eaac6377d9efc888ad3a-ssl-df\"",
     "last_updated": 1665532835,
     "name": "Explosm.net",
     "seen_entries": []
@@ -255,9 +255,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4dc37737b4d4dd8cf423c69cca2382809b910b2af12b3c7e2c189de1d13daae8\"",
+    "etag": "W/\"28a7713501eccc0c3b1cfe0c85e7634a7d42f44ad665339a40e8a30df6d8d498\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 14 Oct 2022 12:32:34 GMT",
+    "modified": "Fri, 14 Oct 2022 19:02:18 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 14 Oct 2022 18:06:00 GMT",
+    "modified": "Fri, 14 Oct 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -379,21 +379,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ec304157c2b20e5782428379b7821c6d\"",
+    "etag": "W/\"e490db5a4cd344b2a0cee9e3430d86fa\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 14 Oct 2022 17:10:03 GMT",
+    "modified": "Fri, 14 Oct 2022 20:01:13 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ec304157c2b20e5782428379b7821c6d\"",
+    "etag": "W/\"e490db5a4cd344b2a0cee9e3430d86fa\"",
     "last_updated": 1665590418,
-    "modified": "Fri, 14 Oct 2022 17:10:03 GMT",
+    "modified": "Fri, 14 Oct 2022 20:01:13 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:746daaf0bc663f5918d41c159a3804f3",
+    "etag": "cacheable:376c00dd83c60207a8df6056026532ed",
     "last_updated": 1665677745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"16b7b8dbfd1c855e9f4540ec401bf17c\"",
+    "etag": "\"f266836a4218a277c1541eeef11db03e\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 14 Oct 2022 17:19:01 GMT",
+    "modified": "Fri, 14 Oct 2022 18:33:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
