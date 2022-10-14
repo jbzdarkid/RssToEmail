@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -319,7 +319,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 14 Oct 2022 00:26:00 GMT",
+    "modified": "Fri, 14 Oct 2022 03:56:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6509a6bdbf1d40f09fc78342a884eac7",
+    "etag": "cacheable:6005bb917e04108e2797239b3858ad8a",
     "last_updated": 1665677745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -433,9 +433,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"0a514b421cf7b51149e32b455f613be1\"",
+    "etag": "\"0200f6bd6eb62a80fd084315d63f0845\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 13 Oct 2022 22:15:03 GMT",
+    "modified": "Fri, 14 Oct 2022 03:13:47 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -508,7 +508,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1665550335,
+    "last_updated": 1665718344,
     "name": "Wilde Life",
     "seen_entries": []
   },
