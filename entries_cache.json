@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -258,16 +258,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0d58aa01c22c7e9da3355b18c9c5f3281e6445872c98dd9bcb1391e79008d284\"",
+    "etag": "W/\"6291e5b1b0d9997b8f2fc8da795797af1cdb8f5852c4eb4df2a910f0685888fb\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 16 Oct 2022 23:16:15 GMT",
+    "modified": "Mon, 17 Oct 2022 06:21:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8dcfb55883e255208a40879db9365584786300c4a24650fe2a1b0d5b2ec92cba\"",
+    "etag": "W/\"7f8a81bf59620a00a6668b123a3cc850337b40b15a8ec580631ec6dc4788cbec\"",
     "last_updated": 1660172400,
-    "modified": "Sun, 16 Oct 2022 23:15:36 GMT",
+    "modified": "Mon, 17 Oct 2022 06:16:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -322,7 +322,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 17 Oct 2022 04:00:00 GMT",
+    "modified": "Mon, 17 Oct 2022 06:28:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -372,7 +372,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1665374400,
+    "last_updated": 1665979200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -396,7 +396,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c9baa35a15fd4ba9f5928acf087d0487",
+    "etag": "cacheable:a4425df834dbc3f166aad3f922c9cc62",
     "last_updated": 1665677745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -511,7 +511,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1665718344,
+    "last_updated": 1665987214,
     "name": "Wilde Life",
     "seen_entries": []
   },
