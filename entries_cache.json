@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1665525600,
+    "last_updated": 1666044000,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9af046e757cc2f1b27cf22a3736f742512db91f121228b0f91a309bc5fce5945\"",
+    "etag": "W/\"1c12be112e82bfbdf69541b30f62d71cd1123ccf7a2610c9773dc6a6b13825b1\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 18 Oct 2022 11:44:51 GMT",
+    "modified": "Tue, 18 Oct 2022 12:58:17 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 18 Oct 2022 12:06:00 GMT",
+    "modified": "Tue, 18 Oct 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"cecc4e3a80ea82d2a4e18380267873a7\"",
+    "etag": "W/\"a5ff24ca729b97b05920db82b0241ebe\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 18 Oct 2022 00:39:45 GMT",
+    "modified": "Mon, 17 Oct 2022 22:24:41 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"cecc4e3a80ea82d2a4e18380267873a7\"",
+    "etag": "W/\"a5ff24ca729b97b05920db82b0241ebe\"",
     "last_updated": 1665590418,
-    "modified": "Tue, 18 Oct 2022 00:39:45 GMT",
+    "modified": "Mon, 17 Oct 2022 22:24:41 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:24d8c3c9e84b068cb8f71df9896635d6",
+    "etag": "cacheable:11ce91bec4df7b652adf9cb26f621e34",
     "last_updated": 1665677745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -522,7 +522,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1666018726,
+    "last_updated": 1666102982,
     "name": "GDC",
     "seen_entries": []
   },
