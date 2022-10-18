@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"1169e1539ec6c07cfd7eda6a8b2a1b50-ssl\"",
-    "last_updated": 1665878409,
+    "etag": "\"520af6cbb820559bcf17c8d75a5df2cf-ssl\"",
+    "last_updated": 1666029474,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -265,9 +265,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c1ea4114ca6881ad350b6bcd77d3231378485858dd98445b0e32f57b9e7e8ce4\"",
+    "etag": "W/\"3fcc8229c49b327ebdec9e6dfaf43fa3b141e5d3dcc5cf8654a583072e3be914\"",
     "last_updated": 1660172400,
-    "modified": "Mon, 17 Oct 2022 19:45:08 GMT",
+    "modified": "Tue, 18 Oct 2022 00:17:27 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -322,7 +322,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 17 Oct 2022 21:04:00 GMT",
+    "modified": "Tue, 18 Oct 2022 00:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -382,21 +382,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8156142d86f546346f2fcc9485940f1a\"",
+    "etag": "W/\"377d0154d4625d43a2d3accffa229662\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 17 Oct 2022 19:59:22 GMT",
+    "modified": "Mon, 17 Oct 2022 23:13:13 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8156142d86f546346f2fcc9485940f1a\"",
+    "etag": "W/\"377d0154d4625d43a2d3accffa229662\"",
     "last_updated": 1665590418,
-    "modified": "Mon, 17 Oct 2022 19:59:22 GMT",
+    "modified": "Mon, 17 Oct 2022 23:13:13 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6355ac61d1929a2ac96383308d6b8798",
+    "etag": "cacheable:21a4135943100d35d30bc2dbb1014304",
     "last_updated": 1665677745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -636,7 +636,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1665507319,
+    "last_updated": 1666051827,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
@@ -691,7 +691,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1665696010,
+    "last_updated": 1666044086,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
