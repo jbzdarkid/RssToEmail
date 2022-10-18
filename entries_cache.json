@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"520af6cbb820559bcf17c8d75a5df2cf-ssl\"",
+    "etag": "\"520af6cbb820559bcf17c8d75a5df2cf-ssl-df\"",
     "last_updated": 1666029474,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,7 +130,7 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sat, 15 Oct 2022 14:38:04 GMT",
+    "modified": "Tue, 18 Oct 2022 03:28:21 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
       "http://www.nerfnow.com/comic/3091",
@@ -151,7 +151,8 @@
       "http://www.nerfnow.com/comic/3106",
       "http://www.nerfnow.com/comic/3107",
       "http://www.nerfnow.com/comic/3108",
-      "http://www.nerfnow.com/comic/3109"
+      "http://www.nerfnow.com/comic/3109",
+      "http://www.nerfnow.com/comic/3110"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -322,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 18 Oct 2022 00:24:00 GMT",
+    "modified": "Tue, 18 Oct 2022 03:54:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -382,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"377d0154d4625d43a2d3accffa229662\"",
+    "etag": "W/\"cecc4e3a80ea82d2a4e18380267873a7\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 17 Oct 2022 23:13:13 GMT",
+    "modified": "Tue, 18 Oct 2022 00:39:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"377d0154d4625d43a2d3accffa229662\"",
+    "etag": "W/\"cecc4e3a80ea82d2a4e18380267873a7\"",
     "last_updated": 1665590418,
-    "modified": "Mon, 17 Oct 2022 23:13:13 GMT",
+    "modified": "Tue, 18 Oct 2022 00:39:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:21a4135943100d35d30bc2dbb1014304",
+    "etag": "cacheable:39e787ba51fae6c71677cee455a7c834",
     "last_updated": 1665677745,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -731,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63498c66-ab1\"",
-    "last_updated": 1665720000,
-    "modified": "Fri, 14 Oct 2022 16:20:54 GMT",
+    "etag": "W/\"634df305-991\"",
+    "last_updated": 1665979200,
+    "modified": "Tue, 18 Oct 2022 00:27:49 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
