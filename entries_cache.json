@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"75bd209f8ae94e18b4f4063e0ddbb7eeed9ef07b51ed39430529d13d7b7d1205\"",
+    "etag": "W/\"d8dcd52b8e2162de54fbdef00fb9d0a11e454bad3573686127b0bebe7f3495b7\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 19 Oct 2022 08:44:55 GMT",
+    "modified": "Wed, 19 Oct 2022 11:54:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 19 Oct 2022 09:10:00 GMT",
+    "modified": "Wed, 19 Oct 2022 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4148df70b045bf5f8b63c13857de8f11",
+    "etag": "cacheable:d6cd718e03eb0dca7b8bf6ec49cffb4b",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,9 +488,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"83fc6b7d41dc3e6ee30a20011abdd43c\"",
+    "etag": "W/\"ece0c111c86727bc18e5a92f5534f8e1\"",
     "last_updated": 1665071971,
-    "modified": "Wed, 19 Oct 2022 07:10:58 GMT",
+    "modified": "Wed, 19 Oct 2022 08:22:45 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
