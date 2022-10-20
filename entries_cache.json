@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -192,7 +192,6 @@
     "last_updated": 1645466654,
     "name": "@valvesoftware on Twitter",
     "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1498723452596867073",
       "https://twitter.com/valvesoftware/status/1498723467880898564",
       "https://twitter.com/valvesoftware/status/1528210086899855360",
       "https://twitter.com/valvesoftware/status/1528432806388375552",
@@ -211,7 +210,8 @@
       "http://twitter.com/valvesoftware/status/1572299900947410949",
       "http://twitter.com/valvesoftware/status/1578094148644925441",
       "http://twitter.com/valvesoftware/status/1580297990153342976",
-      "http://twitter.com/valvesoftware/status/1581019610035654659"
+      "http://twitter.com/valvesoftware/status/1581019610035654659",
+      "http://twitter.com/valvesoftware/status/1582981184480456705"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ca551028d51800d6c4d95f6577d073b231373c217f7736a70ee87620c044517c\"",
+    "etag": "W/\"c0d9fa0d0d08091a3a275e03db253a24e424958d148761633996d05a9f1e0da6\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 20 Oct 2022 01:04:37 GMT",
+    "modified": "Thu, 20 Oct 2022 08:09:23 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5373bf35333b251d7e6b0da0b5f7676b64d0c8656483c77283146eb6619b3cb6\"",
+    "etag": "W/\"fe76a36bac9a504c793cc2080e03a917c153c9aca57c614b84d3e43cffcdc33e\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 20 Oct 2022 01:05:20 GMT",
+    "modified": "Thu, 20 Oct 2022 08:52:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 20 Oct 2022 06:08:00 GMT",
+    "modified": "Thu, 20 Oct 2022 09:08:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5d2b0d430535ce05cf4d97f1e40ae290",
+    "etag": "cacheable:e7a8a595598abae14a5c2db44ad2835b",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"0211e0deb4f576407b3ac0f76bfee0e1\"",
+    "etag": "W/\"a005b0d3c3a3f08f44caabea9286cf73\"",
     "last_updated": 1665071971,
-    "modified": "Wed, 19 Oct 2022 23:50:31 GMT",
+    "modified": "Thu, 20 Oct 2022 08:28:17 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"0211e0deb4f576407b3ac0f76bfee0e1\"",
+    "etag": "W/\"a005b0d3c3a3f08f44caabea9286cf73\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 19 Oct 2022 23:50:31 GMT",
+    "modified": "Thu, 20 Oct 2022 08:28:17 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
