@@ -54,9 +54,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"d485b4dd7bcf03c9b567eba6b15e7e25\"",
-    "last_updated": 1663109482,
-    "modified": "Tue, 04 Oct 2022 17:36:35 GMT",
+    "etag": "W/\"f3f8e83e346e029f7b1c864bd7662d16\"",
+    "last_updated": 1666392834,
+    "modified": "Fri, 21 Oct 2022 22:53:54 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"b8dbb3b7b0f70ee7666c41a87f2ab904-ssl\"",
+    "etag": "\"b8dbb3b7b0f70ee7666c41a87f2ab904-ssl-df\"",
     "last_updated": 1666137615,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"11d8e3f50ae423acb0780b1c4b00677df3408c5acb60a5b1cbc5e899845f987e\"",
+    "etag": "W/\"f129b3d0db3d2a3c8aec5a7ba0c3df566e5899a4c79f77087e3000880fa98e18\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 21 Oct 2022 11:47:35 GMT",
+    "modified": "Fri, 21 Oct 2022 22:05:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 21 Oct 2022 21:04:00 GMT",
+    "modified": "Sat, 22 Oct 2022 00:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1666122286,
+    "last_updated": 1666393405,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"11a79f797d1a9fea9da55db4d11fc4f0\"",
+    "etag": "W/\"2455459209c4ca42ede33238dd8b4b90\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 21 Oct 2022 18:00:33 GMT",
+    "modified": "Fri, 21 Oct 2022 21:58:49 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"11a79f797d1a9fea9da55db4d11fc4f0\"",
+    "etag": "W/\"2455459209c4ca42ede33238dd8b4b90\"",
     "last_updated": 1666195244,
-    "modified": "Fri, 21 Oct 2022 18:00:33 GMT",
+    "modified": "Fri, 21 Oct 2022 21:58:49 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:25b4ea73542de6199311e1a81f3fc90c",
+    "etag": "cacheable:8932894d7e872dfc4ab5f74b804af694",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"db3368a1cedcb0118599a8ca324a58f3\"",
+    "etag": "\"1a2189d7ce1b931436c1d8aeded3512f\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 21 Oct 2022 19:52:10 GMT",
+    "modified": "Fri, 21 Oct 2022 23:50:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1666198830,
+    "last_updated": 1666390774,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1666218332,
+    "last_updated": 1666385699,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
