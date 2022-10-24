@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e3a811f365669ba7ada96e54ccbcf0f3-ssl\"",
-    "last_updated": 1666483258,
+    "etag": "\"8783f39434912f09ae596a42a60cf184-ssl-df\"",
+    "last_updated": 1666569641,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e8d18ff7fe5ea4b21f302a4fb168d10604421ac6ce395c38c2fa6c9604dc88d0\"",
+    "etag": "W/\"aa3f3c462685926405ead54c733fc8e4ea2ee2e849ce3e0b324936f3550c6ec1\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 23 Oct 2022 22:05:42 GMT",
+    "modified": "Mon, 24 Oct 2022 04:20:15 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 24 Oct 2022 03:58:00 GMT",
+    "modified": "Mon, 24 Oct 2022 06:30:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1665979200,
+    "last_updated": 1666584000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b51aa01ce24c2f47c3e31489cff450f0",
+    "etag": "cacheable:5d61ede4f2f8b1114a0852fedfc30ef1",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1666324800,
+    "last_updated": 1666584000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -512,7 +512,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1666150692,
+    "last_updated": 1666586402,
     "name": "Wilde Life",
     "seen_entries": []
   },
