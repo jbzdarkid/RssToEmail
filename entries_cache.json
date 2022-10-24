@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3e69485106994eaa41480090b3a108847e3d274ed19105b8e31c4cf3f021c66e\"",
+    "etag": "W/\"ecbbe4631e370578158cdaa6fb65f94f9d208dfa7b6e7795ea62135d4f3f4599\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 24 Oct 2022 13:58:43 GMT",
+    "modified": "Mon, 24 Oct 2022 20:17:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 24 Oct 2022 18:08:00 GMT",
+    "modified": "Mon, 24 Oct 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"96e93bc5898e2758159c002599906ec9\"",
+    "etag": "W/\"e6d1bc9613f354e7c9b1bd0b6c1c59a5\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 24 Oct 2022 17:46:09 GMT",
+    "modified": "Mon, 24 Oct 2022 20:13:09 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"96e93bc5898e2758159c002599906ec9\"",
+    "etag": "W/\"e6d1bc9613f354e7c9b1bd0b6c1c59a5\"",
     "last_updated": 1666195244,
-    "modified": "Mon, 24 Oct 2022 17:46:09 GMT",
+    "modified": "Mon, 24 Oct 2022 20:13:09 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1ce9f5a097acab9774282980d3687030",
+    "etag": "cacheable:6aa2737f8f9326f3b7bf56100abc9e87",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6352b268-aaf\"",
-    "last_updated": 1666324800,
-    "modified": "Fri, 21 Oct 2022 14:53:28 GMT",
+    "etag": "W/\"6356f86b-ab6\"",
+    "last_updated": 1666584000,
+    "modified": "Mon, 24 Oct 2022 20:41:15 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
