@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bcca9e29b834477c7800959386978c45-ssl-df\"",
+    "etag": "\"bcca9e29b834477c7800959386978c45-ssl\"",
     "last_updated": 1666656025,
     "name": "Explosm.net",
     "seen_entries": []
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1666505774,
+    "last_updated": 1666674911,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b68a2ad3afd0218eb3c1241abd1aa0beff65f29151066114a81ad6311a3017d9\"",
+    "etag": "W/\"6ee141ec16651bfcbb2e09406fca13298ccb3da6af1f55db0ac7c9561f18a0dd\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 25 Oct 2022 05:09:58 GMT",
+    "modified": "Tue, 25 Oct 2022 08:12:27 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2406e64c526380322e7746f543c7eb28fcef3051ab421c730aae6d51645ff77c\"",
+    "etag": "W/\"da0c91ff930029f250263b2c3e4c9c83ba80094681a0730c200150d5756b488c\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 25 Oct 2022 00:24:20 GMT",
+    "modified": "Tue, 25 Oct 2022 06:39:37 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -316,14 +316,14 @@
     "seen_entries": []
   },
   "https://steamdb.info/api/BlogRSS/": {
-    "last_updated": 1632591204,
-    "modified": "Sat, 09 Jul 2022 07:43:57 GMT",
+    "last_updated": 1666685687,
+    "modified": "Tue, 25 Oct 2022 08:21:39 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 25 Oct 2022 06:28:00 GMT",
+    "modified": "Tue, 25 Oct 2022 09:10:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d115c58fac22c53ec0db53be0efbcfe3",
+    "etag": "cacheable:0328563a8ecc13b71834830a8b343a44",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"2e1758ddb2cde9d5609f0cd145170a5a\"",
+    "etag": "W/\"1745cf6f1bf2b53c97993eedb79512ca\"",
     "last_updated": 1666281489,
-    "modified": "Sat, 22 Oct 2022 17:19:01 GMT",
+    "modified": "Tue, 25 Oct 2022 07:30:02 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"db92aaa7cbe41ee29c7543ff0db54c82\"",
+    "etag": "W/\"1745cf6f1bf2b53c97993eedb79512ca\"",
     "last_updated": 1647791985,
-    "modified": "Tue, 25 Oct 2022 06:21:50 GMT",
+    "modified": "Tue, 25 Oct 2022 07:30:02 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
