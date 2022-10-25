@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ecbbe4631e370578158cdaa6fb65f94f9d208dfa7b6e7795ea62135d4f3f4599\"",
+    "etag": "W/\"6b8f87e3a35708783d07542755efff247d3efdaee38ef2ac6cfce9894117b0ad\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 24 Oct 2022 20:17:24 GMT",
+    "modified": "Tue, 25 Oct 2022 00:24:25 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"aac788219f3688f37faec6baed12e374fe2760d54b5c67a450d37caa23d99471\"",
+    "etag": "W/\"2406e64c526380322e7746f543c7eb28fcef3051ab421c730aae6d51645ff77c\"",
     "last_updated": 1660172400,
-    "modified": "Mon, 24 Oct 2022 17:00:42 GMT",
+    "modified": "Tue, 25 Oct 2022 00:24:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 24 Oct 2022 21:04:00 GMT",
+    "modified": "Tue, 25 Oct 2022 00:28:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1666576655,
+    "last_updated": 1666657334,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e6d1bc9613f354e7c9b1bd0b6c1c59a5\"",
+    "etag": "W/\"d9609a95d0fd85fe517dd35834ee0ff3\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 24 Oct 2022 20:13:09 GMT",
+    "modified": "Mon, 24 Oct 2022 23:17:52 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e6d1bc9613f354e7c9b1bd0b6c1c59a5\"",
+    "etag": "W/\"d9609a95d0fd85fe517dd35834ee0ff3\"",
     "last_updated": 1666195244,
-    "modified": "Mon, 24 Oct 2022 20:13:09 GMT",
+    "modified": "Mon, 24 Oct 2022 23:17:52 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6aa2737f8f9326f3b7bf56100abc9e87",
+    "etag": "cacheable:c2813905141a3d464e676222548160a4",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6356f86b-ab6\"",
+    "etag": "W/\"63571803-ab6\"",
     "last_updated": 1666584000,
-    "modified": "Mon, 24 Oct 2022 20:41:15 GMT",
+    "modified": "Mon, 24 Oct 2022 22:56:03 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
