@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Thu, 20 Oct 2022 19:33:38 GMT",
+    "modified": "Tue, 25 Oct 2022 12:12:41 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3092",
       "http://www.nerfnow.com/comic/3093",
       "http://www.nerfnow.com/comic/3094",
       "http://www.nerfnow.com/comic/3095",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3108",
       "http://www.nerfnow.com/comic/3109",
       "http://www.nerfnow.com/comic/3110",
-      "http://www.nerfnow.com/comic/3111"
+      "http://www.nerfnow.com/comic/3111",
+      "http://www.nerfnow.com/comic/3112"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"da0c91ff930029f250263b2c3e4c9c83ba80094681a0730c200150d5756b488c\"",
+    "etag": "W/\"c1cd73dc9b03566779af0b07969577807dcc8bd9e98eee2fec9463e4951ba93d\"",
     "last_updated": 1660172400,
-    "modified": "Tue, 25 Oct 2022 06:39:37 GMT",
+    "modified": "Tue, 25 Oct 2022 14:05:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 25 Oct 2022 12:06:00 GMT",
+    "modified": "Tue, 25 Oct 2022 15:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d9609a95d0fd85fe517dd35834ee0ff3\"",
+    "etag": "W/\"ed5932f47c2938917d724dbd6cfa835d\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 24 Oct 2022 23:17:52 GMT",
+    "modified": "Tue, 25 Oct 2022 02:13:08 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d9609a95d0fd85fe517dd35834ee0ff3\"",
+    "etag": "W/\"ed5932f47c2938917d724dbd6cfa835d\"",
     "last_updated": 1666195244,
-    "modified": "Mon, 24 Oct 2022 23:17:52 GMT",
+    "modified": "Tue, 25 Oct 2022 02:13:08 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:857ce3eff387b239c30969761bb2da3a",
+    "etag": "cacheable:7b37147b057428c4918c3637da6f4c06",
     "last_updated": 1666111505,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"beae617858d93b7cb5827a0386e43603\"",
+    "etag": "\"d3f3ec8a67bea2b8fa0243058cbd27af\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 25 Oct 2022 11:27:04 GMT",
+    "modified": "Tue, 25 Oct 2022 15:03:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1745cf6f1bf2b53c97993eedb79512ca\"",
+    "etag": "W/\"fb3a8fb8086253123c950d6836eded94\"",
     "last_updated": 1666281489,
-    "modified": "Tue, 25 Oct 2022 07:30:02 GMT",
+    "modified": "Tue, 25 Oct 2022 12:44:46 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1745cf6f1bf2b53c97993eedb79512ca\"",
+    "etag": "W/\"fb3a8fb8086253123c950d6836eded94\"",
     "last_updated": 1647791985,
-    "modified": "Tue, 25 Oct 2022 07:30:02 GMT",
+    "modified": "Tue, 25 Oct 2022 12:44:46 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -607,7 +607,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1658209346,
+    "last_updated": 1666709704,
     "name": "Steamworks Development",
     "seen_entries": []
   },
