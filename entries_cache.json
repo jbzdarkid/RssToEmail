@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bcca9e29b834477c7800959386978c45-ssl\"",
-    "last_updated": 1666656025,
+    "etag": "\"7b1238a97886fb54d5759f8cdbfc2960-ssl\"",
+    "last_updated": 1666768573,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e53837d42d6c5edb29c2fbb12ad6ca56909a033defc39f5b35887f889d095def\"",
+    "etag": "W/\"984d01128532d8b6fd3a55b6f600e3bcb7180a64c001ca0316429fa593e19354\"",
     "last_updated": 1660172400,
-    "modified": "Wed, 26 Oct 2022 11:30:58 GMT",
+    "modified": "Wed, 26 Oct 2022 14:33:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Wed, 26 Oct 2022 12:06:00 GMT",
+    "modified": "Wed, 26 Oct 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"21f8ef3782ad3d7dc18fbb06bf37e5ba\"",
+    "etag": "W/\"f6b3cbf838b0236a6d750d207a0819d7\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 26 Oct 2022 01:18:50 GMT",
+    "modified": "Wed, 26 Oct 2022 04:02:28 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"21f8ef3782ad3d7dc18fbb06bf37e5ba\"",
+    "etag": "W/\"f6b3cbf838b0236a6d750d207a0819d7\"",
     "last_updated": 1666195244,
-    "modified": "Wed, 26 Oct 2022 01:18:50 GMT",
+    "modified": "Wed, 26 Oct 2022 04:02:28 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8f5d29b1b3932223527af4108c16d408",
+    "etag": "cacheable:22df172df9bf9fa235af0bac6c8ac1e0",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"38efb76cd16f7d55d9076c1f9c8d98aa\"",
+    "etag": "\"c4a4ba15e2d24d96dbfe2ce4fa0a5347\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 25 Oct 2022 20:35:27 GMT",
+    "modified": "Wed, 26 Oct 2022 13:16:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"9513bc9302360efc22906739da1dfff5\"",
+    "etag": "W/\"240e8f8fbe60304db9fc04f6ed2ba7e3\"",
     "last_updated": 1666281489,
-    "modified": "Wed, 26 Oct 2022 09:10:47 GMT",
+    "modified": "Wed, 26 Oct 2022 13:58:43 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"9513bc9302360efc22906739da1dfff5\"",
+    "etag": "W/\"240e8f8fbe60304db9fc04f6ed2ba7e3\"",
     "last_updated": 1647791985,
-    "modified": "Wed, 26 Oct 2022 09:10:47 GMT",
+    "modified": "Wed, 26 Oct 2022 13:58:43 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -522,7 +522,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1666361353,
+    "last_updated": 1666785642,
     "name": "GDC",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63584a25-ab6\"",
-    "last_updated": 1666584000,
-    "modified": "Tue, 25 Oct 2022 20:42:13 GMT",
+    "etag": "W/\"63593dcf-986\"",
+    "last_updated": 1666756800,
+    "modified": "Wed, 26 Oct 2022 14:01:51 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
