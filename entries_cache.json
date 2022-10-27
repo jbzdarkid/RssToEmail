@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c85dcf6d648b30a388126365a36521b67bd1e29455b0ce89e0f3eca9f3b9d929\"",
+    "etag": "W/\"152c696bd7d586b0df0be329fa434a85b9c6df3d3636f4fbc387dfa636f86af8\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 27 Oct 2022 10:52:21 GMT",
+    "modified": "Thu, 27 Oct 2022 16:01:54 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2ce8d0062ac3b86eb7490ef792f9d8c2b1734da83c682d7cba7f8522232084c8\"",
+    "etag": "W/\"7f278cdee22e80ab83a5b65120b1aee13d08b578ba8cd7497f57d45abd6b3aeb\"",
     "last_updated": 1660172400,
-    "modified": "Thu, 27 Oct 2022 11:18:35 GMT",
+    "modified": "Thu, 27 Oct 2022 15:59:21 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 27 Oct 2022 15:04:00 GMT",
+    "modified": "Thu, 27 Oct 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"82d14b2e8e3679acc55f92bd399cec5b\"",
+    "etag": "W/\"67a6797c629d9ff5aa883d1c76f4f2f7\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 27 Oct 2022 14:20:41 GMT",
+    "modified": "Thu, 27 Oct 2022 17:58:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"82d14b2e8e3679acc55f92bd399cec5b\"",
+    "etag": "W/\"67a6797c629d9ff5aa883d1c76f4f2f7\"",
     "last_updated": 1666800054,
-    "modified": "Thu, 27 Oct 2022 14:20:41 GMT",
+    "modified": "Thu, 27 Oct 2022 17:58:34 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:585429872ab3574b78f289671891f100",
+    "etag": "cacheable:28ba99faa82912b72051beed8ffd0849",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9d60b555298fcb5a5e16dedc3f527021\"",
+    "etag": "\"a6ef2702afb1ad9924d51e48908275fe\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 27 Oct 2022 14:55:09 GMT",
+    "modified": "Thu, 27 Oct 2022 17:14:50 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"123f3df945e37bb89cd2824155845ec6\"",
-    "last_updated": 1666281489,
-    "modified": "Thu, 27 Oct 2022 07:52:33 GMT",
+    "etag": "W/\"380a82bf4d7c9dbc246756ece88eabf1\"",
+    "last_updated": 1666886456,
+    "modified": "Thu, 27 Oct 2022 16:37:08 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"123f3df945e37bb89cd2824155845ec6\"",
+    "etag": "W/\"380a82bf4d7c9dbc246756ece88eabf1\"",
     "last_updated": 1647791985,
-    "modified": "Thu, 27 Oct 2022 07:52:33 GMT",
+    "modified": "Thu, 27 Oct 2022 16:37:08 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -522,7 +522,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1666785642,
+    "last_updated": 1666887386,
     "name": "GDC",
     "seen_entries": []
   },
@@ -607,7 +607,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1666709704,
+    "last_updated": 1666887801,
     "name": "Steamworks Development",
     "seen_entries": []
   },
