@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"627c13cf2cebc75f927aae94964bfedf958126670598a8271cc79ee3fbcf2b17\"",
+    "etag": "W/\"f4c2e4a0cb5b76421bc7c9180b2c8c53dc3c4e3dd4f89c24d1a9e1a90bf812ca\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 28 Oct 2022 11:08:27 GMT",
+    "modified": "Fri, 28 Oct 2022 13:00:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"67fca3e70a67b604d5aac0cfd10d2eb8c8835e5992353c772822ae04141b0a51\"",
+    "etag": "W/\"f1258a2844c334fa73573c00b50c1277a4d5b7f8ea3ec2ad548d8b9ef308aba7\"",
     "last_updated": 1666900080,
-    "modified": "Fri, 28 Oct 2022 11:48:57 GMT",
+    "modified": "Fri, 28 Oct 2022 14:46:09 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 28 Oct 2022 12:06:00 GMT",
+    "modified": "Fri, 28 Oct 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ce94d89f4986b61f02c59257904f4939\"",
+    "etag": "W/\"c4a61c029eff0f467fce9e9afeb381e5\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 27 Oct 2022 19:37:05 GMT",
+    "modified": "Fri, 28 Oct 2022 00:34:50 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ce94d89f4986b61f02c59257904f4939\"",
+    "etag": "W/\"c4a61c029eff0f467fce9e9afeb381e5\"",
     "last_updated": 1666800054,
-    "modified": "Thu, 27 Oct 2022 19:37:05 GMT",
+    "modified": "Fri, 28 Oct 2022 00:34:50 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d28bb1ad49fa02e156f4cd29211c9982",
+    "etag": "cacheable:804f03144ef50f34f50db559936211eb",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -602,7 +602,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1666464508,
+    "last_updated": 1666968600,
     "name": "miracleofsound",
     "seen_entries": []
   },
