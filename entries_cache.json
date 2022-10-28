@@ -54,9 +54,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"974a68e188035ba94063052805d0a799\"",
+    "etag": "W/\"edf994057d2d49c88e69d331d7e98134\"",
     "last_updated": 1666829681,
-    "modified": "Thu, 27 Oct 2022 14:53:36 GMT",
+    "modified": "Thu, 27 Oct 2022 22:41:56 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Thu, 27 Oct 2022 21:04:00 GMT",
+    "modified": "Fri, 28 Oct 2022 00:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c917067fe27d88f551f362caf7839fa5",
+    "etag": "cacheable:9d7a7aafdb1ed6226ab3dac9ee53a60f",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a6ef2702afb1ad9924d51e48908275fe\"",
+    "etag": "\"2a8bda1135d21558d96fc656b6b356c2\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 27 Oct 2022 17:14:50 GMT",
+    "modified": "Fri, 28 Oct 2022 00:06:00 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -476,8 +476,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1666312980,
-    "modified": "Fri, 21 Oct 2022 00:43:00 +0000",
+    "last_updated": 1666911360,
+    "modified": "Thu, 27 Oct 2022 22:56:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
