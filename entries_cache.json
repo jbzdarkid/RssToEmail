@@ -192,7 +192,6 @@
     "last_updated": 1645466654,
     "name": "@valvesoftware on Twitter",
     "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1498723467880898564",
       "https://twitter.com/valvesoftware/status/1528210086899855360",
       "https://twitter.com/valvesoftware/status/1528432806388375552",
       "https://twitter.com/valvesoftware/status/1529940735310540800",
@@ -211,7 +210,8 @@
       "http://twitter.com/valvesoftware/status/1578094148644925441",
       "http://twitter.com/valvesoftware/status/1580297990153342976",
       "http://twitter.com/valvesoftware/status/1581019610035654659",
-      "http://twitter.com/valvesoftware/status/1582981184480456705"
+      "http://twitter.com/valvesoftware/status/1582981184480456705",
+      "http://twitter.com/valvesoftware/status/1586231062359085058"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Sat, 29 Oct 2022 21:04:00 GMT",
+    "modified": "Sun, 30 Oct 2022 00:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"fe2215c8d85d47d138e7733fe7160848\"",
+    "etag": "W/\"13e4a60b2b4cab1a3e985443e0e3cc78\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 28 Oct 2022 23:28:20 GMT",
+    "modified": "Sat, 29 Oct 2022 21:49:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"fe2215c8d85d47d138e7733fe7160848\"",
+    "etag": "W/\"13e4a60b2b4cab1a3e985443e0e3cc78\"",
     "last_updated": 1666800054,
-    "modified": "Fri, 28 Oct 2022 23:28:20 GMT",
+    "modified": "Sat, 29 Oct 2022 21:49:34 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:68b69667759f8f0c312f12403517743b",
+    "etag": "cacheable:1dfb6edb145b36def405f23745dea6cf",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
