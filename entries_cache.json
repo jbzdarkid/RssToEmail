@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,7 +254,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1667027461,
+    "last_updated": 1667216208,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1d4a315a9ced6034e27899926dfcf6a4838e55b2ce91cc09203ed10f6902999b\"",
+    "etag": "W/\"cf8c5e913f4c7d37c0198d380096ebf5b41625c689f97255f8c541de5e4e0833\"",
     "last_updated": 1666900080,
-    "modified": "Mon, 31 Oct 2022 12:03:17 GMT",
+    "modified": "Mon, 31 Oct 2022 12:29:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 31 Oct 2022 12:06:00 GMT",
+    "modified": "Mon, 31 Oct 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e1756f97cccbfe86c8746afed564226e\"",
+    "etag": "W/\"37ae94f568af0dd04a903f3f79462af7\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 30 Oct 2022 18:45:09 GMT",
+    "modified": "Mon, 31 Oct 2022 05:12:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e1756f97cccbfe86c8746afed564226e\"",
+    "etag": "W/\"37ae94f568af0dd04a903f3f79462af7\"",
     "last_updated": 1666800054,
-    "modified": "Sun, 30 Oct 2022 18:45:09 GMT",
+    "modified": "Mon, 31 Oct 2022 05:12:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0a39ebc420f0c9bc99fc1c2f667bbc82",
+    "etag": "cacheable:3edd7e5093e4ea9fb934ec18c4856e2b",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.starryexpanse.com/feed/": {
-    "etag": "\"8e251b963c7ccae88064bfcd7007043e-gzip\"",
-    "last_updated": 1578712195,
-    "modified": "Wed, 30 Mar 2022 09:16:28 GMT",
+    "etag": "\"099e674d98358284f0c2764c39cb01fe-gzip\"",
+    "last_updated": 1667221191,
+    "modified": "Mon, 31 Oct 2022 12:59:51 GMT",
     "name": "The Starry Expanse Project",
     "seen_entries": []
   },
