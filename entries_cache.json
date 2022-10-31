@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"105b0cb5872406d2f85206273a1b4d35e4f8ad0a1c96956885c900898db73e92\"",
+    "etag": "W/\"f634b27aa0a280eff45ef5643b922f4d1eee23f96357ffb98e6af4f7456b7d0a\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 31 Oct 2022 11:44:28 GMT",
+    "modified": "Mon, 31 Oct 2022 16:26:18 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"cf8c5e913f4c7d37c0198d380096ebf5b41625c689f97255f8c541de5e4e0833\"",
+    "etag": "W/\"4ab563da5038092d47b2b4d0d49dec80f207ac5ddf4b221c6461aff19da267e5\"",
     "last_updated": 1666900080,
-    "modified": "Mon, 31 Oct 2022 12:29:20 GMT",
+    "modified": "Mon, 31 Oct 2022 15:07:24 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 31 Oct 2022 15:04:00 GMT",
+    "modified": "Mon, 31 Oct 2022 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"37ae94f568af0dd04a903f3f79462af7\"",
+    "etag": "W/\"7561a101332922b3530b5eb10ae4caeb\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 31 Oct 2022 05:12:21 GMT",
+    "modified": "Mon, 31 Oct 2022 17:18:27 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"37ae94f568af0dd04a903f3f79462af7\"",
+    "etag": "W/\"7561a101332922b3530b5eb10ae4caeb\"",
     "last_updated": 1666800054,
-    "modified": "Mon, 31 Oct 2022 05:12:21 GMT",
+    "modified": "Mon, 31 Oct 2022 17:18:27 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3edd7e5093e4ea9fb934ec18c4856e2b",
+    "etag": "cacheable:6163c93e54393dcec5bb92daccf572c5",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.starryexpanse.com/feed/": {
-    "etag": "\"099e674d98358284f0c2764c39cb01fe-gzip\"",
+    "etag": "\"44b5ba896727654088c21d7812a85da4-gzip\"",
     "last_updated": 1667221191,
-    "modified": "Mon, 31 Oct 2022 12:59:51 GMT",
+    "modified": "Mon, 31 Oct 2022 17:49:13 GMT",
     "name": "The Starry Expanse Project",
     "seen_entries": []
   },
@@ -522,7 +522,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1666887386,
+    "last_updated": 1667232671,
     "name": "GDC",
     "seen_entries": []
   },
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1666917709,
+    "last_updated": 1667235606,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1667065657,
+    "last_updated": 1667235609,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
@@ -692,7 +692,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1667073763,
+    "last_updated": 1667232031,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
