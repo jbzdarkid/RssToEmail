@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e2c3eb8027b30b4f40122add2655e598-ssl-df\"",
+    "etag": "\"e2c3eb8027b30b4f40122add2655e598-ssl\"",
     "last_updated": 1667088027,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0b8e2efcaeba50778e24844f35cdb47c3bc281d5c256a04ea53440bcd8653fe2\"",
+    "etag": "W/\"562f247c10fc3c0b69aa7fac5aa5b8580fd1a642bb9cbe8656e3a0663fba3c2a\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 31 Oct 2022 00:22:22 GMT",
+    "modified": "Mon, 31 Oct 2022 06:02:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 31 Oct 2022 03:36:00 GMT",
+    "modified": "Mon, 31 Oct 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1666584000,
+    "last_updated": 1667188800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d38aa101176c7361d87a13e50bbd4809",
+    "etag": "cacheable:f241ce5ba9dcfff22db0e0d584ec9d95",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1667016000,
+    "last_updated": 1667188800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
