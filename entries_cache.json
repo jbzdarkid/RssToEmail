@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"7bebdf776e6398e768bd5a37e9ca278c-ssl\"",
-    "last_updated": 1667225584,
+    "etag": "\"c231e679088032501dc602cd04926f06-ssl\"",
+    "last_updated": 1667229596,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Tue, 25 Oct 2022 12:12:41 GMT",
+    "modified": "Tue, 1 Nov 2022 00:17:23 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3093",
       "http://www.nerfnow.com/comic/3094",
       "http://www.nerfnow.com/comic/3095",
       "http://www.nerfnow.com/comic/3096",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3109",
       "http://www.nerfnow.com/comic/3110",
       "http://www.nerfnow.com/comic/3111",
-      "http://www.nerfnow.com/comic/3112"
+      "http://www.nerfnow.com/comic/3112",
+      "http://www.nerfnow.com/comic/3113"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f634b27aa0a280eff45ef5643b922f4d1eee23f96357ffb98e6af4f7456b7d0a\"",
+    "etag": "W/\"a51a5e1294f0abb68c8600198df4a6da16760f7ef7d136da819523c3c300bb22\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 31 Oct 2022 16:26:18 GMT",
+    "modified": "Tue, 01 Nov 2022 00:02:19 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b18250e7a4163f2cb612b8c93849957fc99d8d679d5a2bfea83808c63d5c2dea\"",
+    "etag": "W/\"02cb2ff93110c07af98cb054184d2c2b3540f6726a26e89455023461dc8045cd\"",
     "last_updated": 1666900080,
-    "modified": "Mon, 31 Oct 2022 18:59:58 GMT",
+    "modified": "Tue, 01 Nov 2022 00:04:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Mon, 31 Oct 2022 21:04:00 GMT",
+    "modified": "Tue, 01 Nov 2022 00:22:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e19cd726cfe550bb3ba0efee9d99f841\"",
+    "etag": "W/\"ffec739ec3a70d278393a96696748da1\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 31 Oct 2022 18:41:29 GMT",
+    "modified": "Mon, 31 Oct 2022 22:05:25 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e19cd726cfe550bb3ba0efee9d99f841\"",
+    "etag": "W/\"ffec739ec3a70d278393a96696748da1\"",
     "last_updated": 1666800054,
-    "modified": "Mon, 31 Oct 2022 18:41:29 GMT",
+    "modified": "Mon, 31 Oct 2022 22:05:25 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ae1216f81ccc8e803756f787af669543",
+    "etag": "cacheable:14ed07eaa630434fd53727cfa4d01ef7",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.starryexpanse.com/feed/": {
-    "etag": "\"62ea3c45a025d30a1eacb28ab0820532-gzip\"",
+    "etag": "\"b04bdb0f40cf1c037c445d687ca2ceaf-gzip\"",
     "last_updated": 1667221191,
-    "modified": "Mon, 31 Oct 2022 18:19:22 GMT",
+    "modified": "Mon, 31 Oct 2022 21:34:49 GMT",
     "name": "The Starry Expanse Project",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"635c887e-848\"",
-    "last_updated": 1666929600,
-    "modified": "Sat, 29 Oct 2022 01:57:18 GMT",
+    "etag": "W/\"636040e6-81c\"",
+    "last_updated": 1667188800,
+    "modified": "Mon, 31 Oct 2022 21:40:54 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
