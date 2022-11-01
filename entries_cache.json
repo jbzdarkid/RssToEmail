@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"c231e679088032501dc602cd04926f06-ssl\"",
+    "etag": "\"c231e679088032501dc602cd04926f06-ssl-df\"",
     "last_updated": 1667229596,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"02cb2ff93110c07af98cb054184d2c2b3540f6726a26e89455023461dc8045cd\"",
+    "etag": "W/\"f5754b645289e47c22c6c0c0159746df5fb169444be2319d6cbba38f4a295a6c\"",
     "last_updated": 1666900080,
-    "modified": "Tue, 01 Nov 2022 00:04:39 GMT",
+    "modified": "Tue, 01 Nov 2022 03:23:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 01 Nov 2022 00:22:00 GMT",
+    "modified": "Tue, 01 Nov 2022 03:48:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1667181959,
+    "last_updated": 1667268462,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:14ed07eaa630434fd53727cfa4d01ef7",
+    "etag": "cacheable:94088987f8851096107e70fa67ec11b1",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
