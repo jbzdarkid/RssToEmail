@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -294,7 +294,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1665505258,
+    "last_updated": 1665527679,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Tue, 01 Nov 2022 15:04:00 GMT",
+    "modified": "Tue, 01 Nov 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"05cf181a43be0033b5fc54de4010cb00\"",
+    "etag": "W/\"902d230aeb5935301c6ecb4c41fa6556\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 01 Nov 2022 00:03:45 GMT",
+    "modified": "Tue, 01 Nov 2022 17:01:29 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"05cf181a43be0033b5fc54de4010cb00\"",
+    "etag": "W/\"902d230aeb5935301c6ecb4c41fa6556\"",
     "last_updated": 1666800054,
-    "modified": "Tue, 01 Nov 2022 00:03:45 GMT",
+    "modified": "Tue, 01 Nov 2022 17:01:29 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a2ff61fa61e92cf6b5144135afe9388e",
+    "etag": "cacheable:de8571c660fa9d562065884411b9e389",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"117adacaa6914101e8aed21df7575a25\"",
+    "etag": "\"31541a31f8ca9c5a86b1259730498c21\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 01 Nov 2022 10:55:01 GMT",
+    "modified": "Tue, 01 Nov 2022 17:51:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -692,7 +692,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1667232031,
+    "last_updated": 1667322028,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
