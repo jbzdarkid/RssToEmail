@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Tue, 1 Nov 2022 00:17:23 GMT",
+    "modified": "Fri, 4 Nov 2022 04:23:52 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3094",
       "http://www.nerfnow.com/comic/3095",
       "http://www.nerfnow.com/comic/3096",
       "http://www.nerfnow.com/comic/3097",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3110",
       "http://www.nerfnow.com/comic/3111",
       "http://www.nerfnow.com/comic/3112",
-      "http://www.nerfnow.com/comic/3113"
+      "http://www.nerfnow.com/comic/3113",
+      "http://www.nerfnow.com/comic/3114"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1657199414,
-    "modified": "Fri, 04 Nov 2022 03:34:00 GMT",
+    "modified": "Fri, 04 Nov 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6a1d7a6d19065ebfb5ccb8cfb86ce319",
+    "etag": "cacheable:2e264782044ae4b82ea0fba2cc36b84d",
     "last_updated": 1666716596,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,14 +432,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1667448000,
+    "last_updated": 1667534400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"843a13f674f12cc87fa396c0b1c257c9\"",
+    "etag": "\"33974e52aefc3112c5c0ba13cf4320ac\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 04 Nov 2022 03:07:30 GMT",
+    "modified": "Fri, 04 Nov 2022 04:07:18 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
