@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ac05b53f12a90dc73dc42b5882171448-ssl-df\"",
+    "etag": "\"ac05b53f12a90dc73dc42b5882171448-ssl\"",
     "last_updated": 1667865604,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 09 Nov 2022 03:32:00 GMT",
+    "modified": "Wed, 09 Nov 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7cff4fe6cbb28ac0e073ae14b487e6e5",
+    "etag": "cacheable:783ac12dc52470a7455fce36e3bdf4ce",
     "last_updated": 1667926321,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1667895600,
+    "last_updated": 1667970000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
