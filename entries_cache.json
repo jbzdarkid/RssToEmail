@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"181ea148b534383229a95f24c19ac9c0ed5f5bb69b057a0cf9a427612d3699c6\"",
+    "etag": "W/\"d24334837b13109112394e45b863ea4911a36457ec474c550bfd8c05815e8ca5\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 10 Nov 2022 16:25:11 GMT",
+    "modified": "Fri, 11 Nov 2022 06:03:02 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3888bad29e4db819e91d9e2a8763a2b374dd65129ecb6171391827f1fe6538e3\"",
+    "etag": "W/\"4edcef52a135c9296bc00781cf169fe36de4e53fd59f00cef8bd7a65c7918fdb\"",
     "last_updated": 1667577000,
-    "modified": "Thu, 10 Nov 2022 21:10:45 GMT",
+    "modified": "Fri, 11 Nov 2022 04:19:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Fri, 11 Nov 2022 03:32:00 GMT",
+    "modified": "Fri, 11 Nov 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:0e11be27d2d7c52636093c4e3aafda28",
+    "etag": "cacheable:998f22b843e17c94596cc6c6c074b2b2",
     "last_updated": 1667926321,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,14 +432,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1668056400,
+    "last_updated": 1668142800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"868d1bf2438838bc0e1d3658b44c58d1\"",
+    "etag": "\"9d96616de525b1f6b4d6cc0d4263c7a1\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 11 Nov 2022 00:25:47 GMT",
+    "modified": "Fri, 11 Nov 2022 03:52:27 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"636dbc10-a04\"",
+    "etag": "W/\"636ddc14-a04\"",
     "last_updated": 1667970000,
-    "modified": "Fri, 11 Nov 2022 03:05:52 GMT",
+    "modified": "Fri, 11 Nov 2022 05:22:28 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
