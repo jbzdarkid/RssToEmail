@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1668071861,
+    "last_updated": 1668263089,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"164d5fa5d1ddc3efdfd6996af94c2ece0a54d379917dccdf48c5c1af2e06cfa8\"",
+    "etag": "W/\"af9d6b54f68fe1ab3c33cfdfef87090b55860a055ed92c47d89b08e68082ebd8\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 12 Nov 2022 08:05:45 GMT",
+    "modified": "Sat, 12 Nov 2022 15:58:19 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3c5be57754a9e4d2c094d12c9a4e6a15e82f3e4b81e1c1fb48df07ace755b2c5\"",
+    "etag": "W/\"1dbd8d56aeb7c7672aa0790fde4799e9f10ac831e8df78bafe17cd8e3c92a9f7\"",
     "last_updated": 1667577000,
-    "modified": "Sat, 12 Nov 2022 13:32:51 GMT",
+    "modified": "Sat, 12 Nov 2022 17:49:59 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Sat, 12 Nov 2022 15:04:00 GMT",
+    "modified": "Sat, 12 Nov 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6416bcff2d3c907fc28775b04f26be50\"",
+    "etag": "W/\"3994ec9b5262f6964ddfa384e2f1224f\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 11 Nov 2022 23:56:09 GMT",
+    "modified": "Sat, 12 Nov 2022 03:06:11 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"6416bcff2d3c907fc28775b04f26be50\"",
+    "etag": "W/\"3994ec9b5262f6964ddfa384e2f1224f\"",
     "last_updated": 1668013219,
-    "modified": "Fri, 11 Nov 2022 23:56:09 GMT",
+    "modified": "Sat, 12 Nov 2022 03:06:11 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:88d3533f9c461edb18a8b0cce1dca97b",
+    "etag": "cacheable:46a1b392f8ec9b86b1bf74f4f54f43ab",
     "last_updated": 1668184220,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1100a9dd1ba6099f33acdfea553741a8\"",
+    "etag": "\"de4c6b75fccda19604a9902675e81244\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 12 Nov 2022 08:56:35 GMT",
+    "modified": "Sat, 12 Nov 2022 17:23:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"297b34eae70d469b6f187abf262ef652\"",
+    "etag": "W/\"daa99874732fe2272058caeac85b8558\"",
     "last_updated": 1647791985,
-    "modified": "Sat, 12 Nov 2022 11:11:52 GMT",
+    "modified": "Sat, 12 Nov 2022 17:38:45 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
