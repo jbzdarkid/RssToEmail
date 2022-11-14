@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,7 +254,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1668263089,
+    "last_updated": 1668419868,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"55503bfac3bcdf7d552344e896362261e50ab51268bddc211cbfdb8debcf1608\"",
+    "etag": "W/\"5569ee558338901c53d57e0d5bc75f8a606314bd3114c1b701227f5c9147e0aa\"",
     "last_updated": 1667577000,
-    "modified": "Mon, 14 Nov 2022 10:16:59 GMT",
+    "modified": "Mon, 14 Nov 2022 13:10:47 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Mon, 14 Nov 2022 12:06:00 GMT",
+    "modified": "Mon, 14 Nov 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -331,7 +331,6 @@
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
     "seen_entries": [
-      "https://w3techs.com/blog/entry/new_surveys_on_data_center_providers",
       "https://w3techs.com/blog/entry/shopify_is_now_the_second_most_popular_content_management_system",
       "https://w3techs.com/blog/entry/new_survey_on_web_panels",
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2020",
@@ -350,7 +349,8 @@
       "http://w3techs.com/blog/entry/web_technologies_of_the_year_2021",
       "http://w3techs.com/blog/entry/new_survey_on_css_frameworks",
       "http://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022",
-      "http://w3techs.com/blog/entry/evolution_of_content_management_systems_usage_statistics_2014_2022"
+      "http://w3techs.com/blog/entry/evolution_of_content_management_systems_usage_statistics_2014_2022",
+      "http://w3techs.com/blog/entry/our_website_sample_set_has_been_extended"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:76e24ed64478a1d547b14cb87700f49c",
+    "etag": "cacheable:32ebb387ca6799052b38f715ac7272d9",
     "last_updated": 1668184220,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4dfba1894f168260fcfc438eee7bdddb\"",
+    "etag": "\"0665a349c9095830b815e068f6fbea11\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 14 Nov 2022 11:21:04 GMT",
+    "modified": "Mon, 14 Nov 2022 13:14:56 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -727,14 +727,14 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1663794335,
+    "last_updated": 1668434420,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"636e8fd2-99a\"",
-    "last_updated": 1668142800,
-    "modified": "Fri, 11 Nov 2022 18:09:22 GMT",
+    "etag": "W/\"63724c3d-945\"",
+    "last_updated": 1668402000,
+    "modified": "Mon, 14 Nov 2022 14:10:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
