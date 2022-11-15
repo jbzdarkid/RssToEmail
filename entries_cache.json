@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Tue, 15 Nov 2022 18:04:00 GMT",
+    "modified": "Tue, 15 Nov 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"845b209420871b96f32184d0333e50d7\"",
+    "etag": "W/\"426861a4d898e01fa4b3851c4aac0b4c\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 15 Nov 2022 17:41:28 GMT",
+    "modified": "Tue, 15 Nov 2022 20:26:04 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"845b209420871b96f32184d0333e50d7\"",
+    "etag": "W/\"426861a4d898e01fa4b3851c4aac0b4c\"",
     "last_updated": 1668013219,
-    "modified": "Tue, 15 Nov 2022 17:41:28 GMT",
+    "modified": "Tue, 15 Nov 2022 20:26:04 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c6c17a4e971bdea240bf5702c215a8b8",
+    "etag": "cacheable:34df424d612452e2d4c999b9bf172610",
     "last_updated": 1668443398,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9143377d3b47d1c1ad2b2147ef53345a\"",
+    "etag": "\"3a7703dcf676bf9797a265fc46b17b37\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 15 Nov 2022 11:15:23 GMT",
+    "modified": "Tue, 15 Nov 2022 20:54:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"6615f7cbe3b0801b6de428ca714032f0\"",
+    "etag": "W/\"740aeaabe9a49613da892bcad7adbce6\"",
     "last_updated": 1668099654,
-    "modified": "Tue, 15 Nov 2022 07:11:36 GMT",
+    "modified": "Tue, 15 Nov 2022 19:07:26 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"6615f7cbe3b0801b6de428ca714032f0\"",
+    "etag": "W/\"740aeaabe9a49613da892bcad7adbce6\"",
     "last_updated": 1668358808,
-    "modified": "Tue, 15 Nov 2022 07:11:36 GMT",
+    "modified": "Tue, 15 Nov 2022 19:07:26 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -692,7 +692,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1668121762,
+    "last_updated": 1668535234,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
