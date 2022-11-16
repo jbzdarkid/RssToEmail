@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sat, 12 Nov 2022 04:11:52 GMT",
+    "modified": "Wed, 16 Nov 2022 12:16:12 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3097",
       "http://www.nerfnow.com/comic/3098",
       "http://www.nerfnow.com/comic/3099",
       "http://www.nerfnow.com/comic/3100",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3113",
       "http://www.nerfnow.com/comic/3114",
       "http://www.nerfnow.com/comic/3115",
-      "http://www.nerfnow.com/comic/3116"
+      "http://www.nerfnow.com/comic/3116",
+      "http://www.nerfnow.com/comic/3117"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -254,7 +254,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1668419868,
+    "last_updated": 1668592422,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 16 Nov 2022 12:04:00 GMT",
+    "modified": "Wed, 16 Nov 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"fa995739eb49f13fb8943f9145b2acc3\"",
+    "etag": "W/\"ed996f5a76c1470b0a330fbd56b58413\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 15 Nov 2022 22:44:45 GMT",
+    "modified": "Wed, 16 Nov 2022 14:56:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"fa995739eb49f13fb8943f9145b2acc3\"",
+    "etag": "W/\"ed996f5a76c1470b0a330fbd56b58413\"",
     "last_updated": 1668013219,
-    "modified": "Tue, 15 Nov 2022 22:44:45 GMT",
+    "modified": "Wed, 16 Nov 2022 14:56:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d0601199bfe8c6cc0f2ee8c3fed99e5c",
+    "etag": "cacheable:84a8f86163cae944d4bef0700de255c3",
     "last_updated": 1668443398,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5f143825169a7d29cb2c8bff4475ce2a\"",
+    "etag": "\"2f943929bcf39e9b38027972e6f2f31d\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 16 Nov 2022 10:22:53 GMT",
+    "modified": "Wed, 16 Nov 2022 14:52:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
