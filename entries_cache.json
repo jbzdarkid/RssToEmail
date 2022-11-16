@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"94c6b7ab909f77fecfc4330bd29be02c7b55e524d07bebacb9f9260b8bacfa2f\"",
+    "etag": "W/\"cd061b8c62f55b1a3931e77e437941c4fbce829e7deaf9421f2f4161e0d76733\"",
     "last_updated": 1667577000,
-    "modified": "Wed, 16 Nov 2022 08:44:33 GMT",
+    "modified": "Wed, 16 Nov 2022 10:51:24 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 16 Nov 2022 09:04:00 GMT",
+    "modified": "Wed, 16 Nov 2022 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:00b6980b95f04d90f1e290097bbf773f",
+    "etag": "cacheable:d0601199bfe8c6cc0f2ee8c3fed99e5c",
     "last_updated": 1668443398,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2632a570ca39b8b0c4ccd4b03789d9ca\"",
+    "etag": "\"5f143825169a7d29cb2c8bff4475ce2a\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 16 Nov 2022 08:42:18 GMT",
+    "modified": "Wed, 16 Nov 2022 10:22:53 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -463,7 +463,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1668412800,
+    "last_updated": 1668585600,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
