@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"74153b645a44dedcac3af2c6d810ce0f-ssl\"",
+    "etag": "\"74153b645a44dedcac3af2c6d810ce0f-ssl-df\"",
     "last_updated": 1668471869,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Tue, 15 Nov 2022 21:04:00 GMT",
+    "modified": "Wed, 16 Nov 2022 00:18:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1668391365,
+    "last_updated": 1668549292,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"426861a4d898e01fa4b3851c4aac0b4c\"",
+    "etag": "W/\"fa995739eb49f13fb8943f9145b2acc3\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 15 Nov 2022 20:26:04 GMT",
+    "modified": "Tue, 15 Nov 2022 22:44:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"426861a4d898e01fa4b3851c4aac0b4c\"",
+    "etag": "W/\"fa995739eb49f13fb8943f9145b2acc3\"",
     "last_updated": 1668013219,
-    "modified": "Tue, 15 Nov 2022 20:26:04 GMT",
+    "modified": "Tue, 15 Nov 2022 22:44:45 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:34df424d612452e2d4c999b9bf172610",
+    "etag": "cacheable:12582560e6d596d924b6bda68e489bd7",
     "last_updated": 1668443398,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3a7703dcf676bf9797a265fc46b17b37\"",
+    "etag": "\"9da94e8ec866d31144c1a47c11fcbbf0\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 15 Nov 2022 20:54:22 GMT",
+    "modified": "Tue, 15 Nov 2022 23:02:44 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1667771835,
+    "last_updated": 1668546436,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
