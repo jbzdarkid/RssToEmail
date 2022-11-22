@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"af6bfe2eb12bd2350941f580c575c9f1750815e1296f33b404961e15a8ce00ca\"",
+    "etag": "W/\"55de15751a9c8bbebab53d71da585483a7f1093a10fa41c79e95873a541ebf40\"",
     "last_updated": 1667577000,
-    "modified": "Tue, 22 Nov 2022 08:58:19 GMT",
+    "modified": "Tue, 22 Nov 2022 12:02:30 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Tue, 22 Nov 2022 09:04:00 GMT",
+    "modified": "Tue, 22 Nov 2022 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:bf8d83ab13c5aeb596a78dd82b204be9",
+    "etag": "cacheable:22a49ace087ea936900364db873d0b99",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9887798c58297f2e32cdb14252f44ac0\"",
+    "etag": "\"46e71de8a2ecbc6d749a6846d4694465\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 22 Nov 2022 08:27:56 GMT",
+    "modified": "Tue, 22 Nov 2022 11:39:09 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/blood-stain/rss?title_no=166806": {
-    "last_updated": 1666455894,
+    "last_updated": 1669114836,
     "name": "Blood Stain",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"637c0a41-8d3\"",
+    "etag": "W/\"637ca398-8d3\"",
     "last_updated": 1669006800,
-    "modified": "Mon, 21 Nov 2022 23:31:13 GMT",
+    "modified": "Tue, 22 Nov 2022 10:25:28 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
