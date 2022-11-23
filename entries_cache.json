@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 23 Nov 2022 18:04:00 GMT",
+    "modified": "Wed, 23 Nov 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2204883970c187366280b4f11829d769\"",
+    "etag": "W/\"b00f640160ff4711edccac4931faf0b6\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 23 Nov 2022 17:48:37 GMT",
+    "modified": "Wed, 23 Nov 2022 20:55:24 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"2204883970c187366280b4f11829d769\"",
+    "etag": "W/\"b00f640160ff4711edccac4931faf0b6\"",
     "last_updated": 1669222839,
-    "modified": "Wed, 23 Nov 2022 17:48:37 GMT",
+    "modified": "Wed, 23 Nov 2022 20:55:24 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:81bb1c195a732a47219c4b9ebb2dc78d",
+    "etag": "cacheable:afa6ae72377e29bd2f71dd665f1c803f",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e0b14a37389ee2b48ecbf2d43a7b7e82\"",
+    "etag": "\"078ae3f505b0789b17d5679345bd327f\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 23 Nov 2022 18:01:24 GMT",
+    "modified": "Wed, 23 Nov 2022 20:57:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -547,7 +547,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1669032485,
+    "last_updated": 1669230024,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"637ca398-8d3\"",
-    "last_updated": 1669006800,
-    "modified": "Tue, 22 Nov 2022 10:25:28 GMT",
+    "etag": "W/\"637e8926-84f\"",
+    "last_updated": 1669179600,
+    "modified": "Wed, 23 Nov 2022 20:57:10 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
