@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"432878960d92c5a1fb54511d3a1ea8b3-ssl-df\"",
+    "etag": "\"432878960d92c5a1fb54511d3a1ea8b3-ssl\"",
     "last_updated": 1669161607,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sat, 19 Nov 2022 21:07:07 GMT",
+    "modified": "Thu, 24 Nov 2022 17:02:22 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3099",
       "http://www.nerfnow.com/comic/3100",
       "http://www.nerfnow.com/comic/3101",
       "http://www.nerfnow.com/comic/3102",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3115",
       "http://www.nerfnow.com/comic/3116",
       "http://www.nerfnow.com/comic/3117",
-      "http://www.nerfnow.com/comic/3118"
+      "http://www.nerfnow.com/comic/3118",
+      "http://www.nerfnow.com/comic/3119"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"4154d6547fc53d2f44cfcb3bc6c5d54c767b97c4fad16ad30ae10b0e16c4ef89\"",
+    "etag": "W/\"a576cc437371e92fd1dd0c4e2cb5103442ddc51f522586a7e64f795856c54afc\"",
     "last_updated": 1669151100,
-    "modified": "Thu, 24 Nov 2022 12:34:04 GMT",
+    "modified": "Thu, 24 Nov 2022 17:03:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Thu, 24 Nov 2022 15:04:00 GMT",
+    "modified": "Thu, 24 Nov 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"714d3d9eb439625d23f0d2711e6a0d50\"",
+    "etag": "W/\"6d4cb8ce9ed89bca6186c680a78b73f1\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 23 Nov 2022 18:46:58 GMT",
+    "modified": "Thu, 24 Nov 2022 00:53:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"714d3d9eb439625d23f0d2711e6a0d50\"",
+    "etag": "W/\"6d4cb8ce9ed89bca6186c680a78b73f1\"",
     "last_updated": 1669222839,
-    "modified": "Wed, 23 Nov 2022 18:46:58 GMT",
+    "modified": "Thu, 24 Nov 2022 00:53:05 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3be3bb0dfd168955f614f7cd0fb030b1",
+    "etag": "cacheable:90ebafbaa89d4d1198a4ec59817b27ca",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"f1343464abaf1c58abefaf2480cc3253\"",
+    "etag": "\"8636185b6cef775c140451f973d8eddb\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 24 Nov 2022 14:48:25 GMT",
+    "modified": "Thu, 24 Nov 2022 17:49:48 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"b9000bb53536ad5a96d0e1a268d990b4\"",
-    "last_updated": 1668805235,
-    "modified": "Thu, 24 Nov 2022 00:32:49 GMT",
+    "etag": "W/\"9919decdb04ef0fb08c42521d9c53a99\"",
+    "last_updated": 1669309238,
+    "modified": "Thu, 24 Nov 2022 17:00:38 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"b9000bb53536ad5a96d0e1a268d990b4\"",
+    "etag": "W/\"9919decdb04ef0fb08c42521d9c53a99\"",
     "last_updated": 1668358808,
-    "modified": "Thu, 24 Nov 2022 00:32:49 GMT",
+    "modified": "Thu, 24 Nov 2022 17:00:38 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
