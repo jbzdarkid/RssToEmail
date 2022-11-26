@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d10d8afc77c68f188c71ff72512984349d47b551390e1fce1310b7132630411a\"",
+    "etag": "W/\"9e24b5ac8b4c12136e9e6104633e2b91aba939389f397b46cefaa3be38c13b42\"",
     "last_updated": 1669151100,
-    "modified": "Fri, 25 Nov 2022 19:33:50 GMT",
+    "modified": "Sat, 26 Nov 2022 00:14:57 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Fri, 25 Nov 2022 21:04:00 GMT",
+    "modified": "Sat, 26 Nov 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a1509857627ea6dff3598e7be1445c77",
+    "etag": "cacheable:48bc47907eb4144a0da0bc306c357b66",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"bdabf463d41923408ec25ae20b64d99f\"",
+    "etag": "\"5d49e6730d3f988d3a02478b5cf1b82c\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 25 Nov 2022 20:06:57 GMT",
+    "modified": "Fri, 25 Nov 2022 23:28:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1668546436,
+    "last_updated": 1669416106,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
