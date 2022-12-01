@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Thu, 01 Dec 2022 18:04:00 GMT",
+    "modified": "Thu, 01 Dec 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d554f4f08699dec81845caa619240c0b\"",
+    "etag": "W/\"cc6f8f37451050274272aa58f16106d4\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 01 Dec 2022 18:04:27 GMT",
+    "modified": "Thu, 01 Dec 2022 19:15:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d554f4f08699dec81845caa619240c0b\"",
+    "etag": "W/\"cc6f8f37451050274272aa58f16106d4\"",
     "last_updated": 1669827652,
-    "modified": "Thu, 01 Dec 2022 18:04:27 GMT",
+    "modified": "Thu, 01 Dec 2022 19:15:14 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:46b3488df31e71e5f11c5c8fef6bc847",
+    "etag": "cacheable:a90f60656bc37a5701189f3bfe6b25f2",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4669e506fff7447f9ce7be1f9cdb0e1c\"",
+    "etag": "\"76542be703092f30b5209271f1db2a28\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 01 Dec 2022 17:02:28 GMT",
+    "modified": "Thu, 01 Dec 2022 20:58:31 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63881a5c-9b7\"",
+    "etag": "W/\"63890491-9b7\"",
     "last_updated": 1669784400,
-    "modified": "Thu, 01 Dec 2022 03:07:08 GMT",
+    "modified": "Thu, 01 Dec 2022 19:46:25 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
