@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"908376e9a001e8a67508c0773a7cce2f31ef23a7f09293f023bafcb973eafc5c\"",
+    "etag": "W/\"ed96d27af7ac4d98ef2f1f8fde9278bdcc772c6636d21af4a4d4709eb8635c2e\"",
     "last_updated": 1669151100,
-    "modified": "Sat, 03 Dec 2022 15:12:41 GMT",
+    "modified": "Sat, 03 Dec 2022 23:24:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Sat, 03 Dec 2022 21:04:00 GMT",
+    "modified": "Sun, 04 Dec 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a7b4ea65efbb3da47a880b78442eea3f\"",
+    "etag": "W/\"89e20d9e7ea3e7ff924582f334ad656f\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 03 Dec 2022 20:49:46 GMT",
+    "modified": "Sat, 03 Dec 2022 21:15:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a7b4ea65efbb3da47a880b78442eea3f\"",
+    "etag": "W/\"89e20d9e7ea3e7ff924582f334ad656f\"",
     "last_updated": 1669827652,
-    "modified": "Sat, 03 Dec 2022 20:49:46 GMT",
+    "modified": "Sat, 03 Dec 2022 21:15:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1756b0e89095cbb9dc15bcf197f39bda",
+    "etag": "cacheable:fb896c61eea9ee579337322979830241",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2b82edcb10d2a7ea5592b461835fac0c\"",
+    "etag": "\"b5b2839ce9a6e3332ed51c28efc9cc97\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 03 Dec 2022 20:58:37 GMT",
+    "modified": "Sat, 03 Dec 2022 23:58:36 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"b1fda8049d472ff696793997a680e2ec\"",
+    "etag": "W/\"53730694e7da6076a0307b93b0fed952\"",
     "last_updated": 1670086809,
-    "modified": "Sat, 03 Dec 2022 18:24:59 GMT",
+    "modified": "Sat, 03 Dec 2022 21:07:08 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"b1fda8049d472ff696793997a680e2ec\"",
+    "etag": "W/\"53730694e7da6076a0307b93b0fed952\"",
     "last_updated": 1668358808,
-    "modified": "Sat, 03 Dec 2022 18:24:59 GMT",
+    "modified": "Sat, 03 Dec 2022 21:07:08 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
