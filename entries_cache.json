@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e5c3d74486a0205320d3d24ba443a857-ssl\"",
-    "last_updated": 1670025642,
+    "etag": "\"52af256c6b3f9d5c4d1db547b3859ac8-ssl-df\"",
+    "last_updated": 1670112021,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Sun, 04 Dec 2022 06:02:00 GMT",
+    "modified": "Sun, 04 Dec 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f86657dd4add0c9794314856321d4f45",
+    "etag": "cacheable:dda9febbea6adb58c77dc2cdf6472f12",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b5b2839ce9a6e3332ed51c28efc9cc97\"",
+    "etag": "\"38368ccb3c991e30e9cf4da8dc72abfd\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 03 Dec 2022 23:58:36 GMT",
+    "modified": "Sun, 04 Dec 2022 08:49:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"53730694e7da6076a0307b93b0fed952\"",
+    "etag": "W/\"ca6789a038f96147316204d10975476c\"",
     "last_updated": 1670086809,
-    "modified": "Sat, 03 Dec 2022 21:07:08 GMT",
+    "modified": "Sun, 04 Dec 2022 06:27:03 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"53730694e7da6076a0307b93b0fed952\"",
+    "etag": "W/\"ca6789a038f96147316204d10975476c\"",
     "last_updated": 1668358808,
-    "modified": "Sat, 03 Dec 2022 21:07:08 GMT",
+    "modified": "Sun, 04 Dec 2022 06:27:03 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
