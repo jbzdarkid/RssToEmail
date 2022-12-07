@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bdbe98833590c895634fa3a2d5443f83-ssl\"",
-    "last_updated": 1670284817,
+    "etag": "\"42873c3fa127d3aad26ff4de6cd74f76-ssl\"",
+    "last_updated": 1670371249,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0a1837c92c06452b4c066e1ef66e0c5370c4013e5a613453866c21d1b650144a\"",
+    "etag": "W/\"7308eb24b44e432399c996dd046f0268bba92d8ce4aea76abf3146faa6eb9354\"",
     "last_updated": 1669151100,
-    "modified": "Wed, 07 Dec 2022 05:05:59 GMT",
+    "modified": "Wed, 07 Dec 2022 07:52:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 07 Dec 2022 06:04:00 GMT",
+    "modified": "Wed, 07 Dec 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:fdc4a9a33df505cdf4978b4a4bf496ed",
+    "etag": "cacheable:16e419b032a2ffbbba88fe5a04c96950",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"327752f296d8f3db9eafeae6ebface9b\"",
+    "etag": "\"cd4a9e2b58adc2c961498e08fda6f48e\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 07 Dec 2022 05:54:17 GMT",
+    "modified": "Wed, 07 Dec 2022 08:39:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -463,7 +463,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1670227200,
+    "last_updated": 1670400000,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
