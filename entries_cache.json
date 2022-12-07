@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:37 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"42873c3fa127d3aad26ff4de6cd74f76-ssl\"",
+    "etag": "\"42873c3fa127d3aad26ff4de6cd74f76-ssl-df\"",
     "last_updated": 1670371249,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 07 Dec 2022 18:04:00 GMT",
+    "modified": "Wed, 07 Dec 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"26cec4dc96ce7fbcbec9696ac0b5aad4\"",
+    "etag": "W/\"b9649be88bb26f34401867fd23029fcb\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 07 Dec 2022 17:40:28 GMT",
+    "modified": "Wed, 07 Dec 2022 21:00:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"26cec4dc96ce7fbcbec9696ac0b5aad4\"",
+    "etag": "W/\"b9649be88bb26f34401867fd23029fcb\"",
     "last_updated": 1670432453,
-    "modified": "Wed, 07 Dec 2022 17:40:28 GMT",
+    "modified": "Wed, 07 Dec 2022 21:00:34 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:04407f3b4ebfa58eadcc131f33e2613a",
+    "etag": "cacheable:38977ab215fd8bfc6cec135d5b3e3608",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"42fb20c3b01cca0b56f8ab55b330a2ca\"",
+    "etag": "\"4d1616b944f6e52784ef0feed7ead09e\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 07 Dec 2022 17:58:04 GMT",
+    "modified": "Wed, 07 Dec 2022 20:53:10 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -622,7 +622,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1667925134,
+    "last_updated": 1670440796,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"638e5087-943\"",
-    "last_updated": 1670216400,
-    "modified": "Mon, 05 Dec 2022 20:11:51 GMT",
+    "etag": "W/\"6390e492-959\"",
+    "last_updated": 1670389200,
+    "modified": "Wed, 07 Dec 2022 19:08:02 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
