@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Fri, 2 Dec 2022 05:34:57 GMT",
+    "modified": "Tue, 6 Dec 2022 22:16:26 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3102",
       "http://www.nerfnow.com/comic/3103",
       "http://www.nerfnow.com/comic/3104",
       "http://www.nerfnow.com/comic/3105",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3118",
       "http://www.nerfnow.com/comic/3119",
       "http://www.nerfnow.com/comic/3120",
-      "http://www.nerfnow.com/comic/3121"
+      "http://www.nerfnow.com/comic/3121",
+      "http://www.nerfnow.com/comic/3122"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Tue, 06 Dec 2022 21:04:00 GMT",
+    "modified": "Wed, 07 Dec 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -354,8 +354,8 @@
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
-    "etag": "W/\"0-d945\"",
-    "last_updated": 1667260800,
+    "etag": "W/\"0-a6dd\"",
+    "last_updated": 1670284800,
     "modified": "Thu, 01 Jan 1970 00:00:00 GMT",
     "name": "XKCD What If?",
     "seen_entries": []
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"85e0ffb5c4b5056c2dd03ab1a17be9ba\"",
+    "etag": "W/\"0b1e91669865954ecedd475b275f2b01\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 06 Dec 2022 19:46:38 GMT",
+    "modified": "Tue, 06 Dec 2022 23:19:52 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"85e0ffb5c4b5056c2dd03ab1a17be9ba\"",
+    "etag": "W/\"0b1e91669865954ecedd475b275f2b01\"",
     "last_updated": 1669827652,
-    "modified": "Tue, 06 Dec 2022 19:46:38 GMT",
+    "modified": "Tue, 06 Dec 2022 23:19:52 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7dc3ff9c5256a5cfe0757e1c5e045f9c",
+    "etag": "cacheable:edb83d880a3e33f6ff6cc598778a16f8",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"88c38439222b698f0ef82beabe2c4859\"",
+    "etag": "\"24184dfa957c9be9adb2a5ad71ae2202\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 06 Dec 2022 20:47:13 GMT",
+    "modified": "Wed, 07 Dec 2022 00:10:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/blood-stain/rss?title_no=166806": {
-    "last_updated": 1670311053,
+    "last_updated": 1670369310,
     "name": "Blood Stain",
     "seen_entries": []
   },
