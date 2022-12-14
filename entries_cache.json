@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"1e30beda00a9a878e53aa37756f70692-ssl\"",
-    "last_updated": 1670889617,
+    "etag": "\"4196b181aadf9bedadc0978c26c3865f-ssl-df\"",
+    "last_updated": 1670976000,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Fri, 9 Dec 2022 01:54:56 GMT",
+    "modified": "Wed, 14 Dec 2022 06:40:15 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3104",
       "http://www.nerfnow.com/comic/3105",
       "http://www.nerfnow.com/comic/3106",
       "http://www.nerfnow.com/comic/3107",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3120",
       "http://www.nerfnow.com/comic/3121",
       "http://www.nerfnow.com/comic/3122",
-      "http://www.nerfnow.com/comic/3123"
+      "http://www.nerfnow.com/comic/3123",
+      "http://www.nerfnow.com/comic/3124"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 14 Dec 2022 06:04:00 GMT",
+    "modified": "Wed, 14 Dec 2022 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c7b03d4c831b790d54dfb28154a0071d",
+    "etag": "cacheable:0217d568bb7b2e8708bbed18ebd08ff3",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,7 +463,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1670832000,
+    "last_updated": 1671004800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"4bccb87c8e3e59ef74324fbc1dcec192\"",
+    "etag": "W/\"bb23fc7f559a390f52f20187d9044a91\"",
     "last_updated": 1670259608,
-    "modified": "Tue, 13 Dec 2022 18:37:36 GMT",
+    "modified": "Wed, 14 Dec 2022 08:04:27 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"4bccb87c8e3e59ef74324fbc1dcec192\"",
+    "etag": "W/\"bb23fc7f559a390f52f20187d9044a91\"",
     "last_updated": 1668358808,
-    "modified": "Tue, 13 Dec 2022 18:37:36 GMT",
+    "modified": "Wed, 14 Dec 2022 08:04:27 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
