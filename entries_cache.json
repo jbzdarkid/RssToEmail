@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f4ee5154aff37a82fb2775cf91d65a8b-ssl\"",
-    "last_updated": 1671235258,
+    "etag": "\"0f1bbffeb28668811d79cc22e1d4328f-ssl-df\"",
+    "last_updated": 1671321646,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Sun, 18 Dec 2022 03:04:00 GMT",
+    "modified": "Sun, 18 Dec 2022 06:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:18332b5eb651ca1b82e6ff9647a1ac5b",
+    "etag": "cacheable:898c8ef92d7489f397211a711e8a71be",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"836d96897b6df4cd8135de291884a0af\"",
+    "etag": "\"eb4c71216728f69acb26a69633400d3f\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 18 Dec 2022 02:20:50 GMT",
+    "modified": "Sun, 18 Dec 2022 05:06:30 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -572,7 +572,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA": {
-    "last_updated": 1669476087,
+    "last_updated": 1671337817,
     "name": "I Fight Dragons",
     "seen_entries": []
   },
