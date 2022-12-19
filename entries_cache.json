@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0f1bbffeb28668811d79cc22e1d4328f-ssl-df\"",
+    "etag": "\"0f1bbffeb28668811d79cc22e1d4328f-ssl\"",
     "last_updated": 1671321646,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b5270724787bde2fd494de8e628916f70c89229873e93b7a73373e1f8dc3c830\"",
+    "etag": "W/\"052894794b692c0d85bf02c5b590582d1afce2a6c65f08a22aca3cd893300f45\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 19 Dec 2022 15:32:38 GMT",
+    "modified": "Mon, 19 Dec 2022 18:40:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Mon, 19 Dec 2022 18:04:00 GMT",
+    "modified": "Mon, 19 Dec 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"bb13d29c1d0defee1a2f12f26e65712b\"",
+    "etag": "W/\"277c38cf9fa4833530b88c249894565d\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 19 Dec 2022 17:20:03 GMT",
+    "modified": "Mon, 19 Dec 2022 20:39:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"bb13d29c1d0defee1a2f12f26e65712b\"",
+    "etag": "W/\"277c38cf9fa4833530b88c249894565d\"",
     "last_updated": 1671037210,
-    "modified": "Mon, 19 Dec 2022 17:20:03 GMT",
+    "modified": "Mon, 19 Dec 2022 20:39:14 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:263974aa979681608a4d3d0e9be9ba4a",
+    "etag": "cacheable:4090e6c01569e5dbea3b1e80ca54fc25",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"40fb9f3f590b570df5d788af7e033adf\"",
+    "etag": "\"2e9360af72574637acde34adf29b5143\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 19 Dec 2022 18:03:00 GMT",
+    "modified": "Mon, 19 Dec 2022 19:22:33 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"82aa853f3d66d40bc37b33d5415176a0\"",
+    "etag": "W/\"4bfac41b2822e34fc39cf70b1093c583\"",
     "last_updated": 1671123659,
-    "modified": "Thu, 15 Dec 2022 17:01:13 GMT",
+    "modified": "Mon, 19 Dec 2022 18:52:49 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"82aa853f3d66d40bc37b33d5415176a0\"",
+    "etag": "W/\"4bfac41b2822e34fc39cf70b1093c583\"",
     "last_updated": 1668358808,
-    "modified": "Thu, 15 Dec 2022 17:01:13 GMT",
+    "modified": "Mon, 19 Dec 2022 18:52:49 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1671386412,
+    "last_updated": 1671472808,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1671326061,
+    "last_updated": 1671472818,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
@@ -727,7 +727,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1669644007,
+    "last_updated": 1671458400,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
