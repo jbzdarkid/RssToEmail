@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"533c9efe0e735cafa4b88e8e73649773e22b16d88d6f39568a76f6bc816c2d8a\"",
+    "etag": "W/\"71d5196ff0dcae532bfc15940487015e53f495b279ef9e47e464287f76474bc7\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 20 Dec 2022 09:38:42 GMT",
+    "modified": "Tue, 20 Dec 2022 14:18:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0f1c2553d6979e2ac6a27a82c803eeb2cf754ac56c35fd11c021f1edaab91b49\"",
+    "etag": "W/\"997a4f728c428ed29c3e6237b4012160f57bb69eecabfe90f956bdc183e0516d\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 19 Dec 2022 23:49:02 GMT",
+    "modified": "Tue, 20 Dec 2022 12:39:45 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Tue, 20 Dec 2022 12:04:00 GMT",
+    "modified": "Tue, 20 Dec 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:64d8a2e0beb57f1bd557652380d88292",
+    "etag": "cacheable:46a5cb1ad5c9adea96beec56352f4131",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -522,7 +522,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1671207101,
+    "last_updated": 1671543823,
     "name": "GDC",
     "seen_entries": []
   },
