@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6fceec46360e4772756e7864c0aa37de759ffed2c3a21b633069ff979d892720\"",
+    "etag": "W/\"e074516c6870e685086d495f788c347ad6079c5c5154029fd455f4bff5531289\"",
     "last_updated": 1670526240,
-    "modified": "Wed, 21 Dec 2022 11:51:07 GMT",
+    "modified": "Wed, 21 Dec 2022 17:58:07 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 21 Dec 2022 15:04:00 GMT",
+    "modified": "Wed, 21 Dec 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2dae7b76b961b5d4eb7cbf6e5ca545db\"",
+    "etag": "W/\"1bf610b25f8dcb1d4e2ed881b54f9547\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 20 Dec 2022 23:02:29 GMT",
+    "modified": "Wed, 21 Dec 2022 01:26:15 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"2dae7b76b961b5d4eb7cbf6e5ca545db\"",
-    "last_updated": 1671037210,
-    "modified": "Tue, 20 Dec 2022 23:02:29 GMT",
+    "etag": "W/\"1bf610b25f8dcb1d4e2ed881b54f9547\"",
+    "last_updated": 1671642013,
+    "modified": "Wed, 21 Dec 2022 01:26:15 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5e8265d2cf7d6eed3485c65776abb841",
+    "etag": "cacheable:2cded1be3542d8deefa27bf23ffe73f6",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
