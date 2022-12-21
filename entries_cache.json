@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"68a619ae22172f1ae1c2ded95ba76d5e-ssl-df\"",
+    "etag": "\"68a619ae22172f1ae1c2ded95ba76d5e-ssl\"",
     "last_updated": 1671494404,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"91c0950b411942a947c4ec6500a5616e1a676ecb9ddcc58bd2e8ab3558b8046b\"",
+    "etag": "W/\"bd79937a913c371c8ad0f6bb25d97be0ffba1f34d78fbf3a75196ac49a450ead\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 20 Dec 2022 15:29:57 GMT",
+    "modified": "Wed, 21 Dec 2022 01:22:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1667573714,
-    "modified": "Wed, 21 Dec 2022 00:14:00 GMT",
+    "modified": "Wed, 21 Dec 2022 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b737fe5e16b813cc56fc619fec180378",
+    "etag": "cacheable:04a24c02eece445b474b52f829bed2a8",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5daf6603fdb7aeb675a9ae34b475f47e\"",
+    "etag": "\"2d0230fccf11d4103de3659ec5ef9939\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 20 Dec 2022 23:36:23 GMT",
+    "modified": "Wed, 21 Dec 2022 02:27:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -607,7 +607,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1666887801,
+    "last_updated": 1671588667,
     "name": "Steamworks Development",
     "seen_entries": []
   },
