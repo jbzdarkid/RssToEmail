@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a1538b79386e6dcc3ad991e9502cf875183e81c5d74e2880ef2f1a7dc2219d20\"",
+    "etag": "W/\"e284163a5039ed16510aad0cfbe775ee42d0b642089730dd9a8ae92903992878\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 23 Dec 2022 10:31:45 GMT",
+    "modified": "Fri, 23 Dec 2022 14:21:08 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ac59ff3aa8ad60cdb1c07a8e0e471b6ede4bb23a722bbcd2a5865169e0625008\"",
+    "etag": "W/\"bc86563011d74c5a60c476617eccddf3db410a348bf0f6ed6e761b9d0374f7dc\"",
     "last_updated": 1670526240,
-    "modified": "Fri, 23 Dec 2022 11:09:47 GMT",
+    "modified": "Fri, 23 Dec 2022 14:27:39 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 23 Dec 2022 12:04:00 GMT",
+    "modified": "Fri, 23 Dec 2022 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f35dc603b77120b92154af41d068c024",
+    "etag": "cacheable:45303aef9e5f4bc7376f7424f9bd4b0a",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63a5955b-82f\"",
+    "etag": "W/\"63a5a2a4-82f\"",
     "last_updated": 1671771600,
-    "modified": "Fri, 23 Dec 2022 11:47:39 GMT",
+    "modified": "Fri, 23 Dec 2022 12:44:20 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
