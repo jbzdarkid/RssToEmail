@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 23 Dec 2022 15:04:00 GMT",
+    "modified": "Fri, 23 Dec 2022 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c43d1615ede69bbeba2d19563bd7aacd\"",
+    "etag": "W/\"411654e6b76a355955a20ab9cc6364c0\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 23 Dec 2022 04:54:45 GMT",
+    "modified": "Fri, 23 Dec 2022 17:34:25 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"c43d1615ede69bbeba2d19563bd7aacd\"",
+    "etag": "W/\"411654e6b76a355955a20ab9cc6364c0\"",
     "last_updated": 1671642013,
-    "modified": "Fri, 23 Dec 2022 04:54:45 GMT",
+    "modified": "Fri, 23 Dec 2022 17:34:25 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:45303aef9e5f4bc7376f7424f9bd4b0a",
+    "etag": "cacheable:7b848aebd72aa0f6916e45559d836066",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -682,7 +682,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1670430216,
+    "last_updated": 1671814529,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
