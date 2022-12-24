@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c06aa4422199d8dfc1a812e9ada4de6fbf6e4d6f0222f3631d372a569068ae65\"",
+    "etag": "W/\"f10cba6f27e183d06e605f125d19eb53fb0133f003f0fa0cd52b36ab4f183244\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 23 Dec 2022 20:14:53 GMT",
+    "modified": "Sat, 24 Dec 2022 05:45:35 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1fc44677f1fcafa4937c93d225e45323c540c1efb5ed9145924cc5e140461386\"",
+    "etag": "W/\"b935288ce6dec4ab376c6938b32bb16c9d98a5d913e69dc3da27e1366097f3f2\"",
     "last_updated": 1670526240,
-    "modified": "Fri, 23 Dec 2022 23:40:06 GMT",
+    "modified": "Sat, 24 Dec 2022 05:32:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 24 Dec 2022 03:04:00 GMT",
+    "modified": "Sat, 24 Dec 2022 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e790232f122d3547e0d2a8908d2f16b8",
+    "etag": "cacheable:20eabb654472d5c83c3d26127085c863",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"0c305e8e01cb0dacd98c63f82c7d1178\"",
+    "etag": "\"0c5fc1dce38bdc9eee2ba9223f37e01d\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 24 Dec 2022 01:01:56 GMT",
+    "modified": "Sat, 24 Dec 2022 06:02:44 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
