@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"58e03a284d370b4f802920c3383ee36e71f516589040c7a66995e91c93107830\"",
+    "etag": "W/\"aa9dd09bac1afc89f069d65c486386ce23a3ecd896d9067bf5a1e97460a86dc1\"",
     "last_updated": 1670526240,
-    "modified": "Sun, 25 Dec 2022 21:55:06 GMT",
+    "modified": "Mon, 26 Dec 2022 02:54:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 26 Dec 2022 00:14:00 GMT",
+    "modified": "Mon, 26 Dec 2022 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1671415023,
+    "last_updated": 1672020001,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c2705af2237ab58c9bf94d15068ac5e1",
+    "etag": "cacheable:0d3f5daed09a5b09ff7df706d299a1c6",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8063836f03c31f518a3200ce19fe04e7\"",
+    "etag": "\"ec4a396a9d20596c98fc501f9c5fb358\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 25 Dec 2022 22:53:04 GMT",
+    "modified": "Mon, 26 Dec 2022 02:07:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
