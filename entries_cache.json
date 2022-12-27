@@ -54,9 +54,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"f7e969014d726c54d41b0c4f6a8fbbce\"",
+    "etag": "W/\"bcef63c57768bf0da8049882f0c97a5f\"",
     "last_updated": 1670975859,
-    "modified": "Fri, 16 Dec 2022 23:14:43 GMT",
+    "modified": "Mon, 26 Dec 2022 22:43:25 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -192,7 +192,6 @@
     "last_updated": 1645466654,
     "name": "@valvesoftware on Twitter",
     "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1529940735310540800",
       "https://twitter.com/valvesoftware/status/1536423842863648768",
       "https://twitter.com/valvesoftware/status/1540019375712808961",
       "https://twitter.com/valvesoftware/status/1541801177213304832",
@@ -211,7 +210,8 @@
       "http://twitter.com/valvesoftware/status/1582981184480456705",
       "http://twitter.com/valvesoftware/status/1586231062359085058",
       "http://twitter.com/valvesoftware/status/1586682138103287814",
-      "http://twitter.com/valvesoftware/status/1590751434248978433"
+      "http://twitter.com/valvesoftware/status/1590751434248978433",
+      "http://twitter.com/valvesoftware/status/1607456078782148608"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9fe24c9ac2d6adc18d8bfc36001e935d85c80a3956d494201be5653e7d646ddd\"",
+    "etag": "W/\"9ead05b75342679f3e31fde7d4d805718b27aff3dd7347e3add57f5557f5601a\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 26 Dec 2022 13:44:50 GMT",
+    "modified": "Mon, 26 Dec 2022 23:31:39 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d3bd9ba00ed0873876e4bf7a7871b37b6a07dc9ce9e0508a614554fa233657a5\"",
+    "etag": "W/\"05d9112e38a9fae440813b491d433a81fff7b7198e718949b22c465c0ca28ccb\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 26 Dec 2022 16:05:08 GMT",
+    "modified": "Tue, 27 Dec 2022 00:01:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 26 Dec 2022 21:04:00 GMT",
+    "modified": "Tue, 27 Dec 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:e10952fad2fa4cda85d621b402a932b6",
+    "etag": "cacheable:994c78375f2a8d89166852e5f57c4a79",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63a5a2a4-82f\"",
-    "last_updated": 1671771600,
-    "modified": "Fri, 23 Dec 2022 12:44:20 GMT",
+    "etag": "W/\"63aa18e6-915\"",
+    "last_updated": 1672030800,
+    "modified": "Mon, 26 Dec 2022 21:57:58 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
