@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"d148a47038d33f17641c9302d533b0db38852caba0c73e9d71f546cf24dc1573\"",
+    "etag": "W/\"014b04d0311c2308476f0bf4204d15a19a7a9b2b56e2c9da15722f668258e0c0\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 28 Dec 2022 11:33:27 GMT",
+    "modified": "Thu, 29 Dec 2022 00:10:16 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"78f22c435838414b78039f07e1370e7c9b0eeebae25558a5179d15ab1d174c78\"",
+    "etag": "W/\"f945390e7a50513be37891ad6c7d47ba9a231a507cf170b12b283a58315f1936\"",
     "last_updated": 1670526240,
-    "modified": "Wed, 28 Dec 2022 18:53:57 GMT",
+    "modified": "Wed, 28 Dec 2022 23:57:24 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 28 Dec 2022 21:04:00 GMT",
+    "modified": "Thu, 29 Dec 2022 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:265427fa8d765acb65ebe93a51553bef",
+    "etag": "cacheable:87901119180076dcd986ead77b78485d",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"35e1acb092879fe3e726102965a2221e\"",
+    "etag": "\"8f1f48b5f9b51188112a7f0a12151a25\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 28 Dec 2022 19:57:18 GMT",
+    "modified": "Wed, 28 Dec 2022 21:15:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"aaa2562582e120cc6a2e9742e0a7e446\"",
+    "etag": "W/\"650bb72272b4feaad2be50f79cf04954\"",
     "last_updated": 1671123659,
-    "modified": "Wed, 28 Dec 2022 18:14:59 GMT",
+    "modified": "Wed, 28 Dec 2022 23:38:53 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"aaa2562582e120cc6a2e9742e0a7e446\"",
+    "etag": "W/\"650bb72272b4feaad2be50f79cf04954\"",
     "last_updated": 1668358808,
-    "modified": "Wed, 28 Dec 2022 18:14:59 GMT",
+    "modified": "Wed, 28 Dec 2022 23:38:53 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1672250424,
+    "last_updated": 1672263417,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63ab48e1-8c7\"",
+    "etag": "W/\"63acc0b6-8c7\"",
     "last_updated": 1672203600,
-    "modified": "Tue, 27 Dec 2022 19:34:57 GMT",
+    "modified": "Wed, 28 Dec 2022 22:18:30 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
