@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"55f505a9ab1abe31ad94281a2229e7ac-ssl-df\"",
+    "etag": "\"55f505a9ab1abe31ad94281a2229e7ac-ssl\"",
     "last_updated": 1672444805,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 31 Dec 2022 18:04:00 GMT",
+    "modified": "Sat, 31 Dec 2022 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1a428db54d2d5ea5bde84d234cb116f7",
+    "etag": "cacheable:b20fd46ccb54f80a7dceac5fb8517145",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"17ff8ebd58da78230a8dca662582727c\"",
+    "etag": "W/\"673d395d526ec2750f81834b0358294e\"",
     "last_updated": 1672333224,
-    "modified": "Fri, 30 Dec 2022 19:42:51 GMT",
+    "modified": "Sat, 31 Dec 2022 19:35:34 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"17ff8ebd58da78230a8dca662582727c\"",
+    "etag": "W/\"673d395d526ec2750f81834b0358294e\"",
     "last_updated": 1668358808,
-    "modified": "Fri, 30 Dec 2022 19:42:51 GMT",
+    "modified": "Sat, 31 Dec 2022 19:35:34 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -692,7 +692,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1670799607,
+    "last_updated": 1672519138,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
