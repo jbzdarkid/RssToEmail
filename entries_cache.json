@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6678742acdd3947c06e04e69310710871ac51156b63d645accc91efd81588677\"",
+    "etag": "W/\"30e9732c6f77e2eb90f5056ef06a219bfc1220d5cdb941686c086aa5708a24fb\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 01 Jan 2023 22:20:05 GMT",
+    "modified": "Mon, 02 Jan 2023 08:36:28 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"849f7f988e6a3271cc532524808f42bb810e030186af426fa55b7b3090968b9b\"",
+    "etag": "W/\"2540a039cc0c2569ce18ca128f4e78c053161587f4c289c8ac1f35b090bc497d\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 02 Jan 2023 05:53:06 GMT",
+    "modified": "Mon, 02 Jan 2023 07:25:13 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 02 Jan 2023 06:04:00 GMT",
+    "modified": "Mon, 02 Jan 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:849f7c0b382303096acb63992fcdc332",
+    "etag": "cacheable:b823be82a9129b15fc6c47371881a0d3",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,7 +463,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1672387200,
+    "last_updated": 1672646400,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
