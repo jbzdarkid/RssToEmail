@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"79e61cde7b87bc02d63f8658e986dd02-ssl\"",
+    "etag": "\"79e61cde7b87bc02d63f8658e986dd02-ssl-df\"",
     "last_updated": 1672704049,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"de9198723ab54e6fe7980cec0e07ca8c2e40a2bf216f4d8588138c4ffd7e5174\"",
+    "etag": "W/\"574cae729d764e33d0e4a0ad0f92b457333d53396b16a78126ec58d878c47c4f\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 03 Jan 2023 12:43:08 GMT",
+    "modified": "Tue, 03 Jan 2023 16:31:10 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 03 Jan 2023 15:04:00 GMT",
+    "modified": "Tue, 03 Jan 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -331,7 +331,6 @@
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
     "seen_entries": [
-      "https://w3techs.com/blog/entry/shopify_is_now_the_second_most_popular_content_management_system",
       "https://w3techs.com/blog/entry/new_survey_on_web_panels",
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2020",
       "https://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress",
@@ -350,7 +349,8 @@
       "http://w3techs.com/blog/entry/new_survey_on_css_frameworks",
       "http://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022",
       "http://w3techs.com/blog/entry/evolution_of_content_management_systems_usage_statistics_2014_2022",
-      "http://w3techs.com/blog/entry/our_website_sample_set_has_been_extended"
+      "http://w3techs.com/blog/entry/our_website_sample_set_has_been_extended",
+      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2022"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c8f1b66c74d18be0c453e5fff84f022d\"",
+    "etag": "W/\"a47922e822c2bc4401fc5978f850468a\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 03 Jan 2023 07:09:44 GMT",
+    "modified": "Tue, 03 Jan 2023 17:41:42 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"c8f1b66c74d18be0c453e5fff84f022d\"",
+    "etag": "W/\"a47922e822c2bc4401fc5978f850468a\"",
     "last_updated": 1671642013,
-    "modified": "Tue, 03 Jan 2023 07:09:44 GMT",
+    "modified": "Tue, 03 Jan 2023 17:41:42 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:833cb78fe5be2120c888b9efde4bc9a9",
+    "etag": "cacheable:5c3a4d64b5de0c17b798dfeb991a8679",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"30a631814550cd99da97b24232fd27c5\"",
+    "etag": "\"bcfc3b702541e00d446f3215a21b1d9f\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 03 Jan 2023 14:46:54 GMT",
+    "modified": "Tue, 03 Jan 2023 18:01:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
