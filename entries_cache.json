@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"c49e6eccf9a4f800fa442e1050a948f0-ssl-df\"",
+    "etag": "\"c49e6eccf9a4f800fa442e1050a948f0-ssl\"",
     "last_updated": 1672688630,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ef67f847c43d875f49a7dce12377d369b69552ae38dc5ee83d1a85dd91ccb5e3\"",
+    "etag": "W/\"23a5e462cd7b8167be0c91a8218c0387d94b65b80cc75246f35dea4ed7bebb89\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 02 Jan 2023 23:04:44 GMT",
+    "modified": "Tue, 03 Jan 2023 05:06:17 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 03 Jan 2023 03:04:00 GMT",
+    "modified": "Tue, 03 Jan 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3cbef3d8517995f4988c80c25a653bb1\"",
+    "etag": "W/\"89cf178d2afffcab5639507446bb8ee3\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 03 Jan 2023 02:50:53 GMT",
+    "modified": "Tue, 03 Jan 2023 05:43:17 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"3cbef3d8517995f4988c80c25a653bb1\"",
+    "etag": "W/\"89cf178d2afffcab5639507446bb8ee3\"",
     "last_updated": 1671642013,
-    "modified": "Tue, 03 Jan 2023 02:50:53 GMT",
+    "modified": "Tue, 03 Jan 2023 05:43:17 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:94b740d379f3e1f0ffc6d7a62930e299",
+    "etag": "cacheable:cdfe41e092f218e9d2f040f694ef3db5",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1672635600,
+    "last_updated": 1672722000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
