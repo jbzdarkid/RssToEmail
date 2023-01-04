@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"65e1954e1d652ce7cafccbe8c40bb801abd5c20166d10d032b72bc011033594a\"",
+    "etag": "W/\"b0398fe346b6cbaaef911eae6eacd757a294592d7e4905f9156d3d086f355732\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 04 Jan 2023 11:45:19 GMT",
+    "modified": "Wed, 04 Jan 2023 17:38:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2df7673cede8e5a067598c160989b52268bb2c64d0c6c28927832a3cee250dae\"",
+    "etag": "W/\"e6ead69876da337481b4e208a314c4acdfbd89e618166a579fc53b3394010468\"",
     "last_updated": 1670526240,
-    "modified": "Wed, 04 Jan 2023 11:54:58 GMT",
+    "modified": "Wed, 04 Jan 2023 17:46:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 04 Jan 2023 15:04:00 GMT",
+    "modified": "Wed, 04 Jan 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,22 +383,22 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ff9669067d55cf2a32fb2bc374b43b29\"",
+    "etag": "W/\"97c571bcbeecb0256504837e808fc344\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 04 Jan 2023 04:38:12 GMT",
+    "modified": "Wed, 04 Jan 2023 15:59:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ff9669067d55cf2a32fb2bc374b43b29\"",
-    "last_updated": 1671642013,
-    "modified": "Wed, 04 Jan 2023 04:38:12 GMT",
+    "etag": "W/\"97c571bcbeecb0256504837e808fc344\"",
+    "last_updated": 1672851648,
+    "modified": "Wed, 04 Jan 2023 15:59:19 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b7a8e79153e362b710d0707dbef194c9",
-    "last_updated": 1668788956,
+    "etag": "cacheable:d733177861cdd9a4a57ff838baac82c5",
+    "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"fbb4bfb840a21137808049f91c0f5886\"",
+    "etag": "\"bf8e185d3ed2e150054f83d463547324\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 04 Jan 2023 12:10:52 GMT",
+    "modified": "Wed, 04 Jan 2023 18:03:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f6b9c8c56e745dde5400138483e67158\"",
+    "etag": "W/\"104a63559b15a2aea45fb2d8f402554b\"",
     "last_updated": 1672333224,
-    "modified": "Wed, 04 Jan 2023 09:30:44 GMT",
+    "modified": "Wed, 04 Jan 2023 15:33:35 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f6b9c8c56e745dde5400138483e67158\"",
+    "etag": "W/\"104a63559b15a2aea45fb2d8f402554b\"",
     "last_updated": 1668358808,
-    "modified": "Wed, 04 Jan 2023 09:30:44 GMT",
+    "modified": "Wed, 04 Jan 2023 15:33:35 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1672682409,
+    "last_updated": 1672855214,
     "name": "LRR Videogames",
     "seen_entries": []
   },
