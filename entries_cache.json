@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"cf87652670d53142686ae7da6315a91c-ssl\"",
-    "last_updated": 1672772408,
+    "etag": "\"b898671f1fdcb93bb166979e73af61c0-ssl\"",
+    "last_updated": 1672790408,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Fri, 30 Dec 2022 06:55:36 GMT",
+    "modified": "Wed, 4 Jan 2023 07:32:27 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3109",
       "http://www.nerfnow.com/comic/3110",
       "http://www.nerfnow.com/comic/3111",
       "http://www.nerfnow.com/comic/3112",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3125",
       "http://www.nerfnow.com/comic/3126",
       "http://www.nerfnow.com/comic/3127",
-      "http://www.nerfnow.com/comic/3128"
+      "http://www.nerfnow.com/comic/3128",
+      "http://www.nerfnow.com/comic/3129"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"362fb3e9dc4b1f59b9ba7377196f13c5717374337148b980aa13fd6a008e0104\"",
+    "etag": "W/\"686a260be6951b136751b643b3b6d3085305573b30111738e7f128860afd5db1\"",
     "last_updated": 1670526240,
-    "modified": "Tue, 03 Jan 2023 12:07:52 GMT",
+    "modified": "Wed, 04 Jan 2023 08:50:27 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 04 Jan 2023 06:04:00 GMT",
+    "modified": "Wed, 04 Jan 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"dfbb805d8773d275775460c5cf773f81\"",
+    "etag": "W/\"ff9669067d55cf2a32fb2bc374b43b29\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 04 Jan 2023 02:21:11 GMT",
+    "modified": "Wed, 04 Jan 2023 04:38:12 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"dfbb805d8773d275775460c5cf773f81\"",
+    "etag": "W/\"ff9669067d55cf2a32fb2bc374b43b29\"",
     "last_updated": 1671642013,
-    "modified": "Wed, 04 Jan 2023 02:21:11 GMT",
+    "modified": "Wed, 04 Jan 2023 04:38:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3432cef2d553833247ad2bfc3ab9c346",
+    "etag": "cacheable:eb92070feefc16cbac753c7ca25445d2",
     "last_updated": 1668788956,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"81287f42cb9a46f7e3ba5ee1ee1ea831\"",
+    "etag": "\"ed9595aa5eb2311d6e7d5ce02773ec14\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 04 Jan 2023 02:01:06 GMT",
+    "modified": "Wed, 04 Jan 2023 07:00:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -463,7 +463,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1672646400,
+    "last_updated": 1672819200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bc7b56011edb68f29b869c1ebacea621\"",
+    "etag": "W/\"1fba97421d91163b2e378061a240955f\"",
     "last_updated": 1672333224,
-    "modified": "Tue, 03 Jan 2023 07:31:20 GMT",
+    "modified": "Wed, 04 Jan 2023 07:08:04 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bc7b56011edb68f29b869c1ebacea621\"",
+    "etag": "W/\"1fba97421d91163b2e378061a240955f\"",
     "last_updated": 1668358808,
-    "modified": "Tue, 03 Jan 2023 07:31:20 GMT",
+    "modified": "Wed, 04 Jan 2023 07:08:04 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
