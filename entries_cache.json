@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"b898671f1fdcb93bb166979e73af61c0-ssl\"",
+    "etag": "\"b898671f1fdcb93bb166979e73af61c0-ssl-df\"",
     "last_updated": 1672790408,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 06 Jan 2023 00:14:00 GMT",
+    "modified": "Fri, 06 Jan 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5e61f1a1a2fc33f0a1fb53d3fc6479fe\"",
+    "etag": "W/\"619c85057a1b8ad9cdccea50615c5356\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 05 Jan 2023 19:58:52 GMT",
+    "modified": "Thu, 05 Jan 2023 21:10:28 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5e61f1a1a2fc33f0a1fb53d3fc6479fe\"",
+    "etag": "W/\"619c85057a1b8ad9cdccea50615c5356\"",
     "last_updated": 1672851648,
-    "modified": "Thu, 05 Jan 2023 19:58:52 GMT",
+    "modified": "Thu, 05 Jan 2023 21:10:28 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:51b6a2a35b097678f748315a866babfc",
+    "etag": "cacheable:04c8447dcb06d637690d3681a9dff488",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
