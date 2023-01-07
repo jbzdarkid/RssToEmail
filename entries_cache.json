@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"b898671f1fdcb93bb166979e73af61c0-ssl\"",
-    "last_updated": 1672790408,
+    "etag": "\"02d1ef05803af6176cce473feab5fcf6-ssl-df\"",
+    "last_updated": 1673027624,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 06 Jan 2023 21:04:00 GMT",
+    "modified": "Sat, 07 Jan 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f91ad35be255faca836a8c9e7f60829f\"",
+    "etag": "W/\"0dd3387c44e61a61dd7862a39f80e610\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 06 Jan 2023 20:07:00 GMT",
+    "modified": "Fri, 06 Jan 2023 23:06:57 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"f91ad35be255faca836a8c9e7f60829f\"",
+    "etag": "W/\"0dd3387c44e61a61dd7862a39f80e610\"",
     "last_updated": 1672851648,
-    "modified": "Fri, 06 Jan 2023 20:07:00 GMT",
+    "modified": "Fri, 06 Jan 2023 23:06:57 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ee441ce30454e44ef28207ae3999274e",
+    "etag": "cacheable:467d52440a35bfd6a089c809823e6612",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"dc0da80e5cb2756032451a0ec18c654b\"",
+    "etag": "\"a75763415f22c13f8ff837019f2939b0\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 06 Jan 2023 18:54:28 GMT",
+    "modified": "Fri, 06 Jan 2023 23:52:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1672682417,
+    "last_updated": 1673042377,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
