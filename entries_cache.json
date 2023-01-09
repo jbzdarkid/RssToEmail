@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"94400245224a1924257715fa0dd429c233733913cdb2f841ac8cb11ac0b9b076\"",
+    "etag": "W/\"9614c0565eb80a035efa36a4e0d3714776c1d658f4731b54f3a6f0e8aec3b4dc\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 08 Jan 2023 23:25:32 GMT",
+    "modified": "Mon, 09 Jan 2023 09:03:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"908972f905258da156aa613408274443d1ba1bf840c7c95d22801f5bd4b68350\"",
+    "etag": "W/\"ebedae971884b68050d0df02abae7ce1fa59cece2a29ad8cca1a4e3a3dbb2e4c\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 09 Jan 2023 06:02:04 GMT",
+    "modified": "Mon, 09 Jan 2023 07:02:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 09 Jan 2023 06:04:00 GMT",
+    "modified": "Mon, 09 Jan 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9512a4b15486b1141f30d1e5b8c407c6",
+    "etag": "cacheable:5c46e88b8f8eb9f0aae6ec809bbe0f70",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,7 +463,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1672992000,
+    "last_updated": 1673251200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"3ad6afb666de1e094b3e742a0179d4ef\"",
+    "etag": "W/\"21d997ed5058a2e155cc3b7f48c9b965\"",
     "last_updated": 1672938028,
-    "modified": "Sun, 08 Jan 2023 20:43:53 GMT",
+    "modified": "Mon, 09 Jan 2023 07:19:46 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"3ad6afb666de1e094b3e742a0179d4ef\"",
+    "etag": "W/\"21d997ed5058a2e155cc3b7f48c9b965\"",
     "last_updated": 1668358808,
-    "modified": "Sun, 08 Jan 2023 20:43:53 GMT",
+    "modified": "Mon, 09 Jan 2023 07:19:46 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
