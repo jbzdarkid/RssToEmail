@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1672959600,
+    "last_updated": 1673218800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -254,7 +254,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1673093048,
+    "last_updated": 1673272680,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b246da819cd0ba8af9e4ea69150a9d2dc03b0f309bc6ef7c337c208277eba1e6\"",
+    "etag": "W/\"3c785d157b29054d6ed71cd72a394b20685643201aaa9f9ce0d3695ac1fb9ab5\"",
     "last_updated": 1670526240,
-    "modified": "Mon, 09 Jan 2023 11:36:01 GMT",
+    "modified": "Mon, 09 Jan 2023 16:14:13 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 09 Jan 2023 15:04:00 GMT",
+    "modified": "Mon, 09 Jan 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d855b19e959a3fb5b1b80dfb5b8f4c0c\"",
+    "etag": "W/\"d3e6591bcd807e2ab9d5f415f96bfcf2\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 08 Jan 2023 20:54:14 GMT",
+    "modified": "Mon, 09 Jan 2023 17:57:35 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d855b19e959a3fb5b1b80dfb5b8f4c0c\"",
+    "etag": "W/\"d3e6591bcd807e2ab9d5f415f96bfcf2\"",
     "last_updated": 1672851648,
-    "modified": "Sun, 08 Jan 2023 20:54:14 GMT",
+    "modified": "Mon, 09 Jan 2023 17:57:35 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8f61376a4b02dc7cb8b741fef5990b70",
+    "etag": "cacheable:14e9665fac659900cc7b513d1e5aec4e",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -522,7 +522,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1673020932,
+    "last_updated": 1673278596,
     "name": "GDC",
     "seen_entries": []
   },
