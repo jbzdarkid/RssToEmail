@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"2cc46e3576474da474169b34f05d0813-ssl\"",
-    "last_updated": 1673395239,
+    "etag": "\"18c2d811dee95761f3697b440a240edb-ssl-df\"",
+    "last_updated": 1673616262,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 13 Jan 2023 18:04:00 GMT",
+    "modified": "Fri, 13 Jan 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"cfb74afe40bbca8ed10dd652f45df81c\"",
+    "etag": "W/\"69611c8fa536049dfba9a4394c19a0b6\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 13 Jan 2023 17:08:54 GMT",
+    "modified": "Fri, 13 Jan 2023 18:59:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"cfb74afe40bbca8ed10dd652f45df81c\"",
+    "etag": "W/\"69611c8fa536049dfba9a4394c19a0b6\"",
     "last_updated": 1673456458,
-    "modified": "Fri, 13 Jan 2023 17:08:54 GMT",
+    "modified": "Fri, 13 Jan 2023 18:59:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d432a80103e5c0c41351b3777e0b7226",
+    "etag": "cacheable:61f3f9eed9f6ddc0208bf7f1715813a8",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -637,7 +637,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1673042377,
+    "last_updated": 1673642925,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
