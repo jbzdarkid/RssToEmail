@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"45e031d338ed497e519a4e3b1883b6e0-ssl-df\"",
+    "etag": "\"45e031d338ed497e519a4e3b1883b6e0-ssl\"",
     "last_updated": 1673740858,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 16 Jan 2023 03:04:00 GMT",
+    "modified": "Mon, 16 Jan 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1673240400,
+    "last_updated": 1673845200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"571cb0196b77fe1c37db5a60c8833fc3\"",
+    "etag": "W/\"f47690dfc6eb4a9fea09a1a48a0149de\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 14 Jan 2023 20:01:01 GMT",
+    "modified": "Mon, 16 Jan 2023 03:28:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"571cb0196b77fe1c37db5a60c8833fc3\"",
+    "etag": "W/\"f47690dfc6eb4a9fea09a1a48a0149de\"",
     "last_updated": 1673456458,
-    "modified": "Sat, 14 Jan 2023 20:01:01 GMT",
+    "modified": "Mon, 16 Jan 2023 03:28:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:b3d9240ff1e81c33d1d17216fe31afea",
+    "etag": "cacheable:31f0ccacd1f0817c1ddd680ef59ac186",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1673586000,
+    "last_updated": 1673845200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -512,7 +512,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1672811836,
+    "last_updated": 1673845008,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -592,7 +592,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1670623031,
+    "last_updated": 1673848882,
     "name": "Tom Francis",
     "seen_entries": []
   },
