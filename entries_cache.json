@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1673941208,
+    "last_updated": 1674141383,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8701423800cb03461b988fc503392c419e40162bc56e3cfe666be424a06727ba\"",
+    "etag": "W/\"8cc3952c0112a81550368e2dd93d555cf46e5d10dbe3235b3b3e6b3941eaca9b\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 19 Jan 2023 13:31:28 GMT",
+    "modified": "Thu, 19 Jan 2023 16:04:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5ce6e9f1e581b1fb0f6f44eb1ec3f860d8d7d5446101c2791b278c13de20fdab\"",
-    "last_updated": 1673542740,
-    "modified": "Thu, 19 Jan 2023 12:21:47 GMT",
+    "etag": "W/\"38ec291125905410186876e23e4aa279c2d89b7320a431a5c5f131c0e5026cd8\"",
+    "last_updated": 1674149580,
+    "modified": "Thu, 19 Jan 2023 17:34:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 19 Jan 2023 15:04:00 GMT",
+    "modified": "Thu, 19 Jan 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d83eb2bc84b5ccdc5899694d3e76ff8b\"",
+    "etag": "W/\"812dbc992c186b1881775dbe2bdd3810\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 19 Jan 2023 14:57:42 GMT",
+    "modified": "Thu, 19 Jan 2023 18:00:08 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d83eb2bc84b5ccdc5899694d3e76ff8b\"",
+    "etag": "W/\"812dbc992c186b1881775dbe2bdd3810\"",
     "last_updated": 1674061225,
-    "modified": "Thu, 19 Jan 2023 14:57:42 GMT",
+    "modified": "Thu, 19 Jan 2023 18:00:08 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:251c049bd9ef72a232ab0ca7b83807c3",
+    "etag": "cacheable:37a23bc3d16220148ef908f621822947",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"09b7fc86ee75b3e67c0479ab616c4f81\"",
+    "etag": "\"adf42b539152224b1735bbf6e3d04a94\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 19 Jan 2023 02:03:43 GMT",
+    "modified": "Thu, 19 Jan 2023 18:02:06 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"7c75a1d65e5ed8a537ffdc39ea58f400\"",
-    "last_updated": 1673542829,
-    "modified": "Thu, 19 Jan 2023 03:39:56 GMT",
+    "etag": "W/\"f42997ba7b91ad5bafc57afbe0d0c0e9\"",
+    "last_updated": 1674147622,
+    "modified": "Thu, 19 Jan 2023 17:03:32 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"7c75a1d65e5ed8a537ffdc39ea58f400\"",
+    "etag": "W/\"f42997ba7b91ad5bafc57afbe0d0c0e9\"",
     "last_updated": 1673802039,
-    "modified": "Thu, 19 Jan 2023 03:39:56 GMT",
+    "modified": "Thu, 19 Jan 2023 17:03:32 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
