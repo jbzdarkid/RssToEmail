@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 19 Jan 2023 03:06:00 GMT",
+    "modified": "Thu, 19 Jan 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:50e564df1f0d559fe2d4917258659ae4",
+    "etag": "cacheable:55e0d73fdf70a462e8637fb78a4337e6",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1674018000,
+    "last_updated": 1674104400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"9ff84ea64a3f8d3bb7f2114670ed5907\"",
+    "etag": "W/\"7c75a1d65e5ed8a537ffdc39ea58f400\"",
     "last_updated": 1673542829,
-    "modified": "Thu, 19 Jan 2023 00:59:55 GMT",
+    "modified": "Thu, 19 Jan 2023 03:39:56 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"9ff84ea64a3f8d3bb7f2114670ed5907\"",
+    "etag": "W/\"7c75a1d65e5ed8a537ffdc39ea58f400\"",
     "last_updated": 1673802039,
-    "modified": "Thu, 19 Jan 2023 00:59:55 GMT",
+    "modified": "Thu, 19 Jan 2023 03:39:56 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
