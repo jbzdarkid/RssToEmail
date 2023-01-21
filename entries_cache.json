@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 21 Jan 2023 00:14:00 GMT",
+    "modified": "Sat, 21 Jan 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"234276c834c6de483b2805266836008b\"",
+    "etag": "W/\"bde797161d2881c497d0641c86072de3\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 20 Jan 2023 23:45:45 GMT",
+    "modified": "Sat, 21 Jan 2023 02:11:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"234276c834c6de483b2805266836008b\"",
+    "etag": "W/\"bde797161d2881c497d0641c86072de3\"",
     "last_updated": 1674061225,
-    "modified": "Fri, 20 Jan 2023 23:45:45 GMT",
+    "modified": "Sat, 21 Jan 2023 02:11:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:42578505b95fc4e7d8f9e55233b0ef20",
+    "etag": "cacheable:16fcfdf2e0b8816b20aedb4371c65fb0",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63cac745-a2b\"",
-    "last_updated": 1674018000,
-    "modified": "Fri, 20 Jan 2023 16:54:29 GMT",
+    "etag": "W/\"63cb436c-9b5\"",
+    "last_updated": 1674190800,
+    "modified": "Sat, 21 Jan 2023 01:44:12 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
