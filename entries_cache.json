@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"c38d1fd0bc8d76c63865d1a6125009e0-ssl\"",
-    "last_updated": 1674433404,
+    "etag": "\"3b17a25d5adc0a72e34f776c21674edc-ssl-df\"",
+    "last_updated": 1674521351,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"125013103ea3f7a0b24069562bf8a3489b34e523602fce4054da428ce581f630\"",
+    "etag": "W/\"a9e7f798a9cc4f31a1fe1a378f76986b3bca6cd31b82105b0c68d34a76eea67a\"",
     "last_updated": 1674149580,
-    "modified": "Tue, 24 Jan 2023 00:12:38 GMT",
+    "modified": "Tue, 24 Jan 2023 06:23:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 24 Jan 2023 06:04:00 GMT",
+    "modified": "Tue, 24 Jan 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1674439713,
+    "last_updated": 1674546589,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ed4760874ba203afaae06abce75ffa92",
+    "etag": "cacheable:df01ecb94251fb82b32b5acc6af7d08c",
     "last_updated": 1672850707,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
