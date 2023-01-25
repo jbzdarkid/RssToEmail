@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"67f4df8993514b5989b7691f5ba52790-ssl-df\"",
+    "etag": "\"67f4df8993514b5989b7691f5ba52790-ssl\"",
     "last_updated": 1674604853,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sat, 21 Jan 2023 20:18:42 GMT",
+    "modified": "Wed, 25 Jan 2023 20:14:54 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3115",
       "http://www.nerfnow.com/comic/3116",
       "http://www.nerfnow.com/comic/3117",
       "http://www.nerfnow.com/comic/3118",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3131",
       "http://www.nerfnow.com/comic/3132",
       "http://www.nerfnow.com/comic/3133",
-      "http://www.nerfnow.com/comic/3134"
+      "http://www.nerfnow.com/comic/3134",
+      "http://www.nerfnow.com/comic/3135"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"12364a06d01cfb7bacd1745f778eb47190f32e089f46e4ad9404352fd1d496d9\"",
+    "etag": "W/\"1397fa108a0e03a93bcf0e2bcf7736128b69dc40ec7358636acc08e7e8479530\"",
     "last_updated": 1674149580,
-    "modified": "Wed, 25 Jan 2023 16:10:35 GMT",
+    "modified": "Wed, 25 Jan 2023 19:01:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 25 Jan 2023 18:04:00 GMT",
+    "modified": "Wed, 25 Jan 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"908c5624c249285d82519ed93de6d580\"",
+    "etag": "W/\"9980367a3527220f9c1e76c077a9c6c4\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 25 Jan 2023 17:01:21 GMT",
+    "modified": "Wed, 25 Jan 2023 20:46:46 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"908c5624c249285d82519ed93de6d580\"",
+    "etag": "W/\"9980367a3527220f9c1e76c077a9c6c4\"",
     "last_updated": 1674666036,
-    "modified": "Wed, 25 Jan 2023 17:01:21 GMT",
+    "modified": "Wed, 25 Jan 2023 20:46:46 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6d2d8c03f78f091e658cc20f0fe5ba63",
+    "etag": "cacheable:8e845a69f4137454d607ddcc95fd8093",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1674583201,
+    "last_updated": 1674669628,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -692,12 +692,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1674342014,
+    "last_updated": 1674669600,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw": {
-    "last_updated": 1664496369,
+    "last_updated": 1674669798,
     "name": "New Frame Plus",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63cf67c4-84f\"",
-    "last_updated": 1674450000,
-    "modified": "Tue, 24 Jan 2023 05:08:20 GMT",
+    "etag": "W/\"63d189ac-779\"",
+    "last_updated": 1674622800,
+    "modified": "Wed, 25 Jan 2023 19:57:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
