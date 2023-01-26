@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"dc43d58ab2332d31efae021f4641e000a260bfd6f5b4896fc50308c1914f3628\"",
+    "etag": "W/\"780ac3a73a60c2be334950bed202632bd3104ce6d03b37e39aa6313d4b590484\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 25 Jan 2023 16:30:26 GMT",
+    "modified": "Wed, 25 Jan 2023 21:08:52 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 25 Jan 2023 21:04:00 GMT",
+    "modified": "Thu, 26 Jan 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9980367a3527220f9c1e76c077a9c6c4\"",
+    "etag": "W/\"7e9214a30eead0c0d7fcee61fb9ba1dc\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 25 Jan 2023 20:46:46 GMT",
+    "modified": "Thu, 26 Jan 2023 00:14:28 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"9980367a3527220f9c1e76c077a9c6c4\"",
+    "etag": "W/\"7e9214a30eead0c0d7fcee61fb9ba1dc\"",
     "last_updated": 1674666036,
-    "modified": "Wed, 25 Jan 2023 20:46:46 GMT",
+    "modified": "Thu, 26 Jan 2023 00:14:28 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8e845a69f4137454d607ddcc95fd8093",
+    "etag": "cacheable:5e918b18a4a6f24e650cb3dc512066d6",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"73e57315d20d7643897fb36314d8a15e\"",
+    "etag": "\"243ea538e5a0227c77cd3eef6d2ab240\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 25 Jan 2023 17:52:03 GMT",
+    "modified": "Wed, 25 Jan 2023 22:01:44 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
