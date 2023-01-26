@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 31 Jan 2022 15:05:38 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1674514800,
+    "last_updated": 1674687600,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7759cf941092eb499e0ce7a6ec7aa857b3d23c5f4f8a857fae4ef77b2da09bc1\"",
+    "etag": "W/\"b0db24bf45e1519491f08d7012a04057fe9da22b48c5bbd8851b645feff1e7fd\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 26 Jan 2023 13:14:34 GMT",
+    "modified": "Thu, 26 Jan 2023 15:40:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -294,7 +294,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1672785123,
+    "last_updated": 1674520071,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 26 Jan 2023 15:04:00 GMT",
+    "modified": "Thu, 26 Jan 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"256737e8e894bea45eb0cbe3fc84f540\"",
+    "etag": "W/\"490b4472b17b182467739793b4ec4e29\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 26 Jan 2023 04:59:22 GMT",
+    "modified": "Thu, 26 Jan 2023 16:18:47 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"256737e8e894bea45eb0cbe3fc84f540\"",
+    "etag": "W/\"490b4472b17b182467739793b4ec4e29\"",
     "last_updated": 1674666036,
-    "modified": "Thu, 26 Jan 2023 04:59:22 GMT",
+    "modified": "Thu, 26 Jan 2023 16:18:47 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d2fa293ba227f9eefa935654e61a584a",
+    "etag": "cacheable:0252d675c6b86fbe2be32800772b35f0",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"243ea538e5a0227c77cd3eef6d2ab240\"",
+    "etag": "\"afed10861fbc963c8287ef484f60b76d\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 25 Jan 2023 22:01:44 GMT",
+    "modified": "Thu, 26 Jan 2023 17:22:46 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
