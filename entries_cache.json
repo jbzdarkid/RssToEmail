@@ -254,14 +254,14 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1674581107,
+    "last_updated": 1675078970,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3ae51311f44bd577d6f0a91137cceeb9923fdab950c96fd0791cf3cc4ce9b83e\"",
+    "etag": "W/\"7505626b9a3437df4452dd1e4c871f8a9abf09606fd590387e52b238c82d9490\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 30 Jan 2023 11:11:13 GMT",
+    "modified": "Mon, 30 Jan 2023 14:48:22 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 30 Jan 2023 12:06:00 GMT",
+    "modified": "Mon, 30 Jan 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1674450000,
+    "last_updated": 1675054800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d87e0818f4469b46a1cb5489febaea92\"",
+    "etag": "W/\"09d45564d0fa3a29054cc21ab9a61727\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 30 Jan 2023 03:31:21 GMT",
+    "modified": "Mon, 30 Jan 2023 14:50:03 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d87e0818f4469b46a1cb5489febaea92\"",
+    "etag": "W/\"09d45564d0fa3a29054cc21ab9a61727\"",
     "last_updated": 1674666036,
-    "modified": "Mon, 30 Jan 2023 03:31:21 GMT",
+    "modified": "Mon, 30 Jan 2023 14:50:03 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a4704bd1043d34b091e8d2c5b699f302",
+    "etag": "cacheable:fac0c3dc3fcc78270ecf4c08c0a40184",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63d3c99f-83b\"",
-    "last_updated": 1674795600,
-    "modified": "Fri, 27 Jan 2023 12:54:55 GMT",
+    "etag": "W/\"63d7c7e7-8b5\"",
+    "last_updated": 1675054800,
+    "modified": "Mon, 30 Jan 2023 13:36:39 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
