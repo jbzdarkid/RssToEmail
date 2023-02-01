@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Wed, 01 Feb 2023 14:25:24 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1675119600,
+    "last_updated": 1675206000,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f6341be51469372de9bf0241b86e15da-ssl\"",
-    "last_updated": 1675170293,
+    "etag": "\"1b13ecdd81ceadee5ddfe1d6e6556616-ssl\"",
+    "last_updated": 1675246972,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 01 Feb 2023 15:04:00 GMT",
+    "modified": "Wed, 01 Feb 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -331,7 +331,6 @@
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
     "seen_entries": [
-      "https://w3techs.com/blog/entry/new_survey_on_web_panels",
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2020",
       "https://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress",
       "https://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache",
@@ -350,7 +349,8 @@
       "http://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022",
       "http://w3techs.com/blog/entry/evolution_of_content_management_systems_usage_statistics_2014_2022",
       "http://w3techs.com/blog/entry/our_website_sample_set_has_been_extended",
-      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2022"
+      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2022",
+      "http://w3techs.com/blog/entry/new_reports_on_page_loading_speeds"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"896b3e54e1d3c22cba375a96357bba1a\"",
+    "etag": "W/\"d991363d3a3aaf1eb160daa471b6dd5f\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 01 Feb 2023 14:51:51 GMT",
+    "modified": "Wed, 01 Feb 2023 16:19:31 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"896b3e54e1d3c22cba375a96357bba1a\"",
-    "last_updated": 1674666036,
-    "modified": "Wed, 01 Feb 2023 14:51:51 GMT",
+    "etag": "W/\"d991363d3a3aaf1eb160daa471b6dd5f\"",
+    "last_updated": 1675270846,
+    "modified": "Wed, 01 Feb 2023 16:19:31 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:70ce44a6dc4e8f48730ba53d355cacfc",
+    "etag": "cacheable:e01ed81d691177b017b46b369c2683b1",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e0786083803dbcf83bfbde62445d10a9\"",
+    "etag": "\"d272148c9b5713e9ce6bccd861480719\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 01 Feb 2023 12:11:29 GMT",
+    "modified": "Wed, 01 Feb 2023 17:55:50 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bb9f3b87ba99902c567ef052692d9e17\"",
+    "etag": "W/\"0488236852648ec98150429ce96e5c82\"",
     "last_updated": 1674147622,
-    "modified": "Wed, 01 Feb 2023 14:47:09 GMT",
+    "modified": "Wed, 01 Feb 2023 16:57:32 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bb9f3b87ba99902c567ef052692d9e17\"",
+    "etag": "W/\"0488236852648ec98150429ce96e5c82\"",
     "last_updated": 1673802039,
-    "modified": "Wed, 01 Feb 2023 14:47:09 GMT",
+    "modified": "Wed, 01 Feb 2023 16:57:32 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
