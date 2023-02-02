@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 02 Feb 2023 06:04:00 GMT",
+    "modified": "Thu, 02 Feb 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:81695db14b5f0db5d3dc7f838096a599",
+    "etag": "cacheable:6f628720ab5d6ddf8be089487dfe7065",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a03cb2a3dd5f46bf150ce7df43027a8a\"",
+    "etag": "\"11706017f32804071df64e65c08caa3b\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 02 Feb 2023 04:21:38 GMT",
+    "modified": "Thu, 02 Feb 2023 06:36:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e3ccb687b2d8dbc5d03b214733bdda7d\"",
+    "etag": "W/\"799bf1694ca2716b41c7ee75a869668a\"",
     "last_updated": 1674147622,
-    "modified": "Thu, 02 Feb 2023 01:24:10 GMT",
+    "modified": "Thu, 02 Feb 2023 07:54:16 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"e3ccb687b2d8dbc5d03b214733bdda7d\"",
+    "etag": "W/\"799bf1694ca2716b41c7ee75a869668a\"",
     "last_updated": 1673802039,
-    "modified": "Thu, 02 Feb 2023 01:24:10 GMT",
+    "modified": "Thu, 02 Feb 2023 07:54:16 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
