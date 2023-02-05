@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"fce8aab2864dc3a756cfde1dc743da1c-ssl\"",
-    "last_updated": 1675468837,
+    "etag": "\"5d9dafe7b5544ed06d6cd2539689d2f3-ssl-df\"",
+    "last_updated": 1675555233,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Thu, 2 Feb 2023 04:50:14 GMT",
+    "modified": "Sun, 5 Feb 2023 08:37:41 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3118",
       "http://www.nerfnow.com/comic/3119",
       "http://www.nerfnow.com/comic/3120",
       "http://www.nerfnow.com/comic/3121",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3134",
       "http://www.nerfnow.com/comic/3135",
       "http://www.nerfnow.com/comic/3136",
-      "http://www.nerfnow.com/comic/3137"
+      "http://www.nerfnow.com/comic/3137",
+      "http://www.nerfnow.com/comic/3138"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 05 Feb 2023 06:04:00 GMT",
+    "modified": "Sun, 05 Feb 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:3438ebde75f612ee6fecd2aae879b8a0",
+    "etag": "cacheable:7b973ece83639275943356146770be4f",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
