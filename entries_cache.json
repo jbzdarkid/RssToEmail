@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9f60fac84e57aa1f7fba8eb21f4f52c0-ssl-df\"",
+    "etag": "\"9f60fac84e57aa1f7fba8eb21f4f52c0-ssl\"",
     "last_updated": 1675728013,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sun, 5 Feb 2023 08:37:41 GMT",
+    "modified": "Tue, 7 Feb 2023 09:11:09 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3119",
       "http://www.nerfnow.com/comic/3120",
       "http://www.nerfnow.com/comic/3121",
       "http://www.nerfnow.com/comic/3122",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3135",
       "http://www.nerfnow.com/comic/3136",
       "http://www.nerfnow.com/comic/3137",
-      "http://www.nerfnow.com/comic/3138"
+      "http://www.nerfnow.com/comic/3138",
+      "http://www.nerfnow.com/comic/3139"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4da5ca88230d51d261649ae5cc2d57e900e0423aa0805559fb54d59ebcbbbf45\"",
+    "etag": "W/\"3f741327f5806d275d7a6f01eb102e36c8c263dae0c7dfef5ae2e643feef4794\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 06 Feb 2023 23:23:57 GMT",
+    "modified": "Tue, 07 Feb 2023 11:40:47 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2f78c1546f799328320b33b667f17b408cbd350cb829d5022369be7f81accd6e\"",
+    "etag": "W/\"1294e26f9a4f3e23fc945d117fc8115112dc09fa68a637164b297c3c212d05c5\"",
     "last_updated": 1674149580,
-    "modified": "Tue, 07 Feb 2023 06:50:17 GMT",
+    "modified": "Tue, 07 Feb 2023 11:32:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 07 Feb 2023 09:04:00 GMT",
+    "modified": "Tue, 07 Feb 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5d72c30d32d862eb586013c343e0ce82",
+    "etag": "cacheable:c50fda5bbadce20809164a3042e1433a",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,9 +488,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bd8beaba48b67c1977d2d59972c356ec\"",
+    "etag": "W/\"8f2e46a627ed55a9e21d7b67003deba1\"",
     "last_updated": 1675357210,
-    "modified": "Tue, 07 Feb 2023 08:05:21 GMT",
+    "modified": "Tue, 07 Feb 2023 08:30:37 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
