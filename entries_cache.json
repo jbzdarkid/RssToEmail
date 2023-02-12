@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"477f659cc5967d5a550e9768252a3c87-ssl-df\"",
+    "etag": "\"477f659cc5967d5a550e9768252a3c87-ssl\"",
     "last_updated": 1676073642,
     "name": "Explosm.net",
     "seen_entries": []
@@ -117,7 +117,7 @@
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
     "last_updated": 1663616650,
-    "modified": "Sun, 29 Jan 2023 02:10:43 GMT",
+    "modified": "Sun, 12 Feb 2023 01:16:03 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 12 Feb 2023 00:16:00 GMT",
+    "modified": "Sun, 12 Feb 2023 03:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2a653478601db627c422b39118c14c2e\"",
+    "etag": "W/\"1c7391b6092fd8e6d82cf3c6f116e503\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 12 Feb 2023 00:12:19 GMT",
+    "modified": "Sun, 12 Feb 2023 00:26:16 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"2a653478601db627c422b39118c14c2e\"",
+    "etag": "W/\"1c7391b6092fd8e6d82cf3c6f116e503\"",
     "last_updated": 1675875602,
-    "modified": "Sun, 12 Feb 2023 00:12:19 GMT",
+    "modified": "Sun, 12 Feb 2023 00:26:16 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:2257600d2992b4d8de35f0e5af87b421",
+    "etag": "cacheable:ee36dd4ee5fa61693031211b6c334447",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
