@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"d3f9bfd7ea9e2ed71eb4a89f525ee558-ssl-df\"",
-    "last_updated": 1676316517,
+    "etag": "\"d78b5834ed9b4ba8e06daf832509bc52-ssl-df\"",
+    "last_updated": 1676332812,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sun, 12 Feb 2023 13:32:23 GMT",
+    "modified": "Tue, 14 Feb 2023 06:01:17 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3122",
       "http://www.nerfnow.com/comic/3123",
       "http://www.nerfnow.com/comic/3124",
       "http://www.nerfnow.com/comic/3125",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3138",
       "http://www.nerfnow.com/comic/3139",
       "http://www.nerfnow.com/comic/3140",
-      "http://www.nerfnow.com/comic/3141"
+      "http://www.nerfnow.com/comic/3141",
+      "http://www.nerfnow.com/comic/3142"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 14 Feb 2023 03:06:00 GMT",
+    "modified": "Tue, 14 Feb 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:5d885e3f538bd52e477312432bec7484",
+    "etag": "cacheable:087053b7560613197a340903374fcbdd",
     "last_updated": 1674578791,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1676264400,
+    "last_updated": 1676350800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -627,7 +627,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVBN-jv_fJiNOddCBo9Vt9Q": {
-    "last_updated": 1676154763,
+    "last_updated": 1676346042,
     "name": "bluecheetah001",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63e7190d-9c7\"",
-    "last_updated": 1676005200,
-    "modified": "Sat, 11 Feb 2023 04:26:53 GMT",
+    "etag": "W/\"63eb0b93-9a1\"",
+    "last_updated": 1676264400,
+    "modified": "Tue, 14 Feb 2023 04:18:27 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
