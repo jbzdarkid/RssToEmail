@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f3d110e4eb5f696cfb0e7ef91dd79d6a489b2886f1694852764baa897ea5faa6\"",
+    "etag": "W/\"290ec4bff2eb396e151d652d858a4896d184031a8ca496958ceb38e6bf132312\"",
     "last_updated": 1674149580,
-    "modified": "Thu, 16 Feb 2023 13:51:16 GMT",
+    "modified": "Fri, 17 Feb 2023 02:22:48 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 17 Feb 2023 00:16:00 GMT",
+    "modified": "Fri, 17 Feb 2023 03:10:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1676254492,
+    "last_updated": 1676600775,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f88695d2929ce837111397f16fe74108",
+    "etag": "cacheable:801c77e3d8f755ce21962185e9997fba",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"0c91c4091ff71afd6cd7fd33227f3510\"",
+    "etag": "\"87479921e6c533fa1ecf7378deaf4881\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 16 Feb 2023 20:00:37 GMT",
+    "modified": "Fri, 17 Feb 2023 00:30:34 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -732,9 +732,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63ecff9e-a2b\"",
+    "etag": "W/\"63eecf87-a2b\"",
     "last_updated": 1676437200,
-    "modified": "Wed, 15 Feb 2023 15:51:58 GMT",
+    "modified": "Fri, 17 Feb 2023 00:51:19 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
