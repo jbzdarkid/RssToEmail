@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e1dc4a5f27b414f75a48f0bba5554f38-ssl-df\"",
+    "etag": "\"e1dc4a5f27b414f75a48f0bba5554f38-ssl\"",
     "last_updated": 1676798256,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 20 Feb 2023 03:08:00 GMT",
+    "modified": "Mon, 20 Feb 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1676264400,
+    "last_updated": 1676869200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:6ed9c98416d7a71c586d5764a21a3693",
+    "etag": "cacheable:ef9b4a23cc78644d1e55fbbd4474d606",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,14 +432,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1676610000,
+    "last_updated": 1676869200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"64ba8a300b5f3d77d93dae047d719af6\"",
+    "etag": "\"b1d6ff0e9e97394bd836577e61e1ff08\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 19 Feb 2023 17:48:24 GMT",
+    "modified": "Mon, 20 Feb 2023 05:55:42 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -512,7 +512,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1676615716,
+    "last_updated": 1676869637,
     "name": "Wilde Life",
     "seen_entries": []
   },
