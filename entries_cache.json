@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ec7a42fc15c37bf1bbfdff24a7625fc4-ssl\"",
+    "etag": "\"ec7a42fc15c37bf1bbfdff24a7625fc4-ssl-df\"",
     "last_updated": 1676927127,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a467c0effdd9063b2a768dc9921886f701768530dfd13319e8fb41d403112aa4\"",
+    "etag": "W/\"55315dcd96ae7df6f909f3ba9beda630f6e0dc2ca999fb6f5680872c896a3355\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 21 Feb 2023 09:03:27 GMT",
+    "modified": "Tue, 21 Feb 2023 11:46:01 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 21 Feb 2023 09:04:00 GMT",
+    "modified": "Tue, 21 Feb 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"875b220333c2fc60a44bab10e5f6c13e\"",
+    "etag": "W/\"c246085c9d9d45c19ffb26a39aacad13\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 21 Feb 2023 07:42:19 GMT",
+    "modified": "Tue, 21 Feb 2023 10:12:31 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"875b220333c2fc60a44bab10e5f6c13e\"",
+    "etag": "W/\"c246085c9d9d45c19ffb26a39aacad13\"",
     "last_updated": 1676480436,
-    "modified": "Tue, 21 Feb 2023 07:42:19 GMT",
+    "modified": "Tue, 21 Feb 2023 10:12:31 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:20428e9fdf1e65e54b0f42b6a27d3a76",
+    "etag": "cacheable:1322945d70e22acb23a794e28e2a177a",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bcf584deaf357888f0a5819576298c4f\"",
+    "etag": "W/\"15eea9527cc313008ba04b376cdca3d6\"",
     "last_updated": 1675962024,
-    "modified": "Tue, 21 Feb 2023 09:03:33 GMT",
+    "modified": "Tue, 21 Feb 2023 09:11:25 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bcf584deaf357888f0a5819576298c4f\"",
+    "etag": "W/\"15eea9527cc313008ba04b376cdca3d6\"",
     "last_updated": 1673802039,
-    "modified": "Tue, 21 Feb 2023 09:03:33 GMT",
+    "modified": "Tue, 21 Feb 2023 09:11:25 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -727,7 +727,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1674828029,
+    "last_updated": 1676901633,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
