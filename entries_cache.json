@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sun, 19 Feb 2023 13:51:41 GMT",
+    "modified": "Wed, 22 Feb 2023 05:42:50 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3125",
       "http://www.nerfnow.com/comic/3126",
       "http://www.nerfnow.com/comic/3127",
       "http://www.nerfnow.com/comic/3128",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3141",
       "http://www.nerfnow.com/comic/3142",
       "http://www.nerfnow.com/comic/3143",
-      "http://www.nerfnow.com/comic/3144"
+      "http://www.nerfnow.com/comic/3144",
+      "http://www.nerfnow.com/comic/3145"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 22 Feb 2023 03:06:00 GMT",
+    "modified": "Wed, 22 Feb 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:bbf7d580d999e2ff93c28e792c869e67",
+    "etag": "cacheable:2202dbbc64234470a81093b9b2269cb2",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1676955600,
+    "last_updated": 1677042000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -512,7 +512,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1676869637,
+    "last_updated": 1677045333,
     "name": "Wilde Life",
     "seen_entries": []
   },
