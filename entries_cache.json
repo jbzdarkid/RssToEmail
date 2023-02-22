@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ec7a42fc15c37bf1bbfdff24a7625fc4-ssl\"",
-    "last_updated": 1676927127,
+    "etag": "\"9a5143c0d9b80776755865624d6fb334-ssl-df\"",
+    "last_updated": 1676942529,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 21 Feb 2023 21:04:00 GMT",
+    "modified": "Wed, 22 Feb 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"35a0843115fb2eaa6ab004c4166a4b2b\"",
+    "etag": "W/\"e5a1e7b5c157d959a1f6e396e47fb8a5\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 21 Feb 2023 20:10:27 GMT",
+    "modified": "Wed, 22 Feb 2023 00:05:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"35a0843115fb2eaa6ab004c4166a4b2b\"",
+    "etag": "W/\"e5a1e7b5c157d959a1f6e396e47fb8a5\"",
     "last_updated": 1676480436,
-    "modified": "Tue, 21 Feb 2023 20:10:27 GMT",
+    "modified": "Wed, 22 Feb 2023 00:05:19 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:7437e8c8065ca4d3893c2e5196ac742c",
+    "etag": "cacheable:eb2bebe0082af7ab750138e55fa843c9",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -692,7 +692,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1676829612,
+    "last_updated": 1677014384,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
