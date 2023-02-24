@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4b39d0b76d08e87e2037728b8491d466-ssl-df\"",
+    "etag": "\"4b39d0b76d08e87e2037728b8491d466-ssl\"",
     "last_updated": 1677052606,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 23 Feb 2023 21:04:00 GMT",
+    "modified": "Fri, 24 Feb 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d4effef4ffe1a1c14cce5f72728ad478\"",
+    "etag": "W/\"4546f7538eaeb45d4e5c282c2a58cd90\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 23 Feb 2023 20:36:54 GMT",
+    "modified": "Thu, 23 Feb 2023 23:18:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d4effef4ffe1a1c14cce5f72728ad478\"",
+    "etag": "W/\"4546f7538eaeb45d4e5c282c2a58cd90\"",
     "last_updated": 1677085242,
-    "modified": "Thu, 23 Feb 2023 20:36:54 GMT",
+    "modified": "Thu, 23 Feb 2023 23:18:59 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:bdfc4ed1421142f8aedebb9d5359b1c7",
+    "etag": "cacheable:aa87848090984eb18aedbafd52909011",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -537,7 +537,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1677088816,
+    "last_updated": 1677191350,
     "name": "LRR Videogames",
     "seen_entries": []
   },
