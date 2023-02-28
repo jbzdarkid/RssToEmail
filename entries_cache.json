@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9ae15f8f1c78cdd807ca5d9a279dd8881a00ab95d37dd871fc82dda410568b13\"",
+    "etag": "W/\"3034e8dc893dccc6a568fc0dd734d955cb0a11a43580751751390ec2a22a237d\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 28 Feb 2023 08:33:11 GMT",
+    "modified": "Tue, 28 Feb 2023 11:57:01 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 28 Feb 2023 09:04:00 GMT",
+    "modified": "Tue, 28 Feb 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"610ac4e2695ba5c44eda5672c25f1391\"",
+    "etag": "W/\"ccf0becc524182f751cfae413b589709\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 28 Feb 2023 02:13:15 GMT",
+    "modified": "Tue, 28 Feb 2023 11:24:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"610ac4e2695ba5c44eda5672c25f1391\"",
+    "etag": "W/\"ccf0becc524182f751cfae413b589709\"",
     "last_updated": 1677085242,
-    "modified": "Tue, 28 Feb 2023 02:13:15 GMT",
+    "modified": "Tue, 28 Feb 2023 11:24:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:37469c44b32c8950efcc80d1e5755274",
+    "etag": "cacheable:1b568f315b2e600714a3c2d912b87347",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,9 +488,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"58fabd2f6a449f17a74b6eb9c1e44294\"",
+    "etag": "W/\"30c7cac7f33c13d43329027406b9ab07\"",
     "last_updated": 1677171657,
-    "modified": "Sun, 26 Feb 2023 19:00:35 GMT",
+    "modified": "Thu, 23 Feb 2023 09:26:50 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
