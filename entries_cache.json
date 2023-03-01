@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ce44831dbc10dff908cf6bfd3823f769-ssl\"",
+    "etag": "\"ce44831dbc10dff908cf6bfd3823f769-ssl-df\"",
     "last_updated": 1677628800,
     "name": "Explosm.net",
     "seen_entries": []
@@ -254,14 +254,14 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1677500076,
+    "last_updated": 1677665173,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"953bc35c54d4bd9f808e14f5af1c161d15cbedf7f95541539fac80809f03930d\"",
+    "etag": "W/\"048518998ae76d4713dea3d3ee66ebf6f6ced338078ebeefbbc362740894f089\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 01 Mar 2023 09:04:28 GMT",
+    "modified": "Wed, 01 Mar 2023 11:36:33 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 01 Mar 2023 09:04:00 GMT",
+    "modified": "Wed, 01 Mar 2023 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:9ee2c6f36c8bce1b9c0fd312ecfb9ed7",
+    "etag": "cacheable:dea1c43919bf60522240b78e0dc1540c",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1677560400,
+    "last_updated": 1677660900,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
