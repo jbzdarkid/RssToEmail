@@ -54,9 +54,9 @@
     "seen_entries": []
   },
   "https://blog.counter-strike.net/index.php/feed/": {
-    "etag": "W/\"0d7c36967c7fa21314d555aa3a4793ba\"",
+    "etag": "W/\"0cae21fa96f0cc07f0a2555c60c3851d\"",
     "last_updated": 1675993680,
-    "modified": "Thu, 23 Feb 2023 20:30:11 GMT",
+    "modified": "Wed, 01 Mar 2023 02:41:49 GMT",
     "name": "Counter-Strike: Global Offensive",
     "seen_entries": []
   },
@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 01 Mar 2023 00:20:00 GMT",
+    "modified": "Wed, 01 Mar 2023 03:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1677464043,
+    "last_updated": 1677638163,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"faeecc05eb9171fccd5cdf27d58fb941\"",
+    "etag": "W/\"55966e0460935e0ae257bbfcba307f7a\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 01 Mar 2023 00:00:55 GMT",
+    "modified": "Wed, 01 Mar 2023 03:06:32 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"faeecc05eb9171fccd5cdf27d58fb941\"",
+    "etag": "W/\"55966e0460935e0ae257bbfcba307f7a\"",
     "last_updated": 1677085242,
-    "modified": "Wed, 01 Mar 2023 00:00:55 GMT",
+    "modified": "Wed, 01 Mar 2023 03:06:32 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:4d3acc817fc51e685467a432bf318635",
+    "etag": "cacheable:37aa96505dd246d28f58c8c12110afaa",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
