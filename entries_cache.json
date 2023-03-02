@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0d0fec1a652e7727e67f31faf8d867517de6b87aa960f634afcef06219ff5bce\"",
+    "etag": "W/\"2d3b77f4ef5e271295d675178a92698a0e796a869119e0c2df2d2cf553d826b1\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 01 Mar 2023 17:05:03 GMT",
+    "modified": "Thu, 02 Mar 2023 08:52:20 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 02 Mar 2023 06:04:00 GMT",
+    "modified": "Thu, 02 Mar 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8d2557153c7ee7cee4041a51b6d0569c",
+    "etag": "cacheable:5f8814925d71d10c784753c88e4fee58",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -514,6 +514,11 @@
   "https://www.wildelifecomic.com/comic/rss": {
     "last_updated": 1677649972,
     "name": "Wilde Life",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA": {
+    "last_updated": 1677747902,
+    "name": "dillongoo",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Q4WBqNtMF_2GbIsGjic4A": {
