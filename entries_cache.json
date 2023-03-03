@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1677665173,
+    "last_updated": 1677843608,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7db37d521495537e49543968fa0128e5b52d034fe81969fa8722646801a0c71b\"",
+    "etag": "W/\"7e404a630e75580f51e5e3c1ea87ec18d328e7f1d5cbd727b6bb815bae9a1802\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 03 Mar 2023 11:29:03 GMT",
+    "modified": "Fri, 03 Mar 2023 14:26:43 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"48add61836a7a5a25220a26a745913bba673e930a8b6b8396561e5f7c1667358\"",
+    "etag": "W/\"2b44873bd20a4f4e01795063eb62e397615268861ebd3f8ffa3e2e814cf202e5\"",
     "last_updated": 1674149580,
-    "modified": "Fri, 03 Mar 2023 03:22:45 GMT",
+    "modified": "Fri, 03 Mar 2023 13:40:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 03 Mar 2023 12:04:00 GMT",
+    "modified": "Fri, 03 Mar 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,19 +397,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:437c3ced8f57eb4fafc5a5b146bb32b2",
+    "etag": "cacheable:6435b8389c8e8700c78a7d8ddf7e15bd",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8DB141655C01978\"",
+    "etag": "\"0x8DB1BE79EBF3DE6\"",
     "last_updated": 0,
-    "modified": "Tue, 21 Feb 2023 14:17:16 GMT",
+    "modified": "Fri, 03 Mar 2023 13:03:01 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "https://www.giantitp.com/comics/oots1265.html",
       "https://www.giantitp.com/comics/oots1266.html",
       "http://www.giantitp.com/comics/oots1258.html",
       "http://www.giantitp.com/comics/oots1259.html",
@@ -428,7 +427,8 @@
       "http://www.giantitp.com/comics/oots1272.html",
       "http://www.giantitp.com/comics/oots1273.html",
       "http://www.giantitp.com/comics/oots1274.html",
-      "http://www.giantitp.com/comics/oots1275.html"
+      "http://www.giantitp.com/comics/oots1275.html",
+      "http://www.giantitp.com/comics/oots1276.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -737,9 +737,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"63ff75ac-a5f\"",
-    "last_updated": 1677646800,
-    "modified": "Wed, 01 Mar 2023 15:56:28 GMT",
+    "etag": "W/\"64020301-9c1\"",
+    "last_updated": 1677819600,
+    "modified": "Fri, 03 Mar 2023 14:24:01 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
