@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8b7ea04c5b5bc827424baaa1746788af4d2a1d9c10e18188eac3621b3705b8a6\"",
+    "etag": "W/\"b0f78c2da9018c1fad66c8623fdbac373b147156bd0cfde958d2c3af6485d165\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 06 Mar 2023 15:55:36 GMT",
+    "modified": "Tue, 07 Mar 2023 00:12:36 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b6ebfe9296bbaca2cb9ec8a86589db733a79ec6b8142dcdef288b18fec84ed64\"",
+    "etag": "W/\"c580e2377b63fa25ecb9e045aabc73be099fd6d5747d5e5e588da89c4230e244\"",
     "last_updated": 1674149580,
-    "modified": "Mon, 06 Mar 2023 11:55:40 GMT",
+    "modified": "Tue, 07 Mar 2023 00:12:21 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 06 Mar 2023 21:04:00 GMT",
+    "modified": "Tue, 07 Mar 2023 00:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c0438bb676a84722f9cdf44e5bbacdaa\"",
+    "etag": "W/\"8c1363239b1094fc41a39fda826d7e9f\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 06 Mar 2023 19:51:31 GMT",
+    "modified": "Mon, 06 Mar 2023 21:40:47 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"c0438bb676a84722f9cdf44e5bbacdaa\"",
+    "etag": "W/\"8c1363239b1094fc41a39fda826d7e9f\"",
     "last_updated": 1677690007,
-    "modified": "Mon, 06 Mar 2023 19:51:31 GMT",
+    "modified": "Mon, 06 Mar 2023 21:40:47 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:516dc0f1e183b9e6e7056181271fcfa1",
+    "etag": "cacheable:30941f65ed33b831647eb6dbc2a61e59",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -642,7 +642,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1677780029,
+    "last_updated": 1678139645,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
