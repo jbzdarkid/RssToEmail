@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1678143600,
+    "last_updated": 1678316400,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4c88d65efc4562f9a9ca486fc72b340546d5c3c27afd8c458f7f1f4741da3d30\"",
+    "etag": "W/\"89c5e0a388d33b74a61fd54a28c9bf805ac4b0a7c3702395b8f63882d2f6f7b5\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 09 Mar 2023 14:56:03 GMT",
+    "modified": "Thu, 09 Mar 2023 17:29:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 09 Mar 2023 15:04:00 GMT",
+    "modified": "Thu, 09 Mar 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7184464e637d3f517acd529a5e97102e\"",
+    "etag": "W/\"df4fcc54933f866f10a3e1f87551c778\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 08 Mar 2023 18:12:49 GMT",
+    "modified": "Thu, 09 Mar 2023 01:36:01 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"7184464e637d3f517acd529a5e97102e\"",
+    "etag": "W/\"df4fcc54933f866f10a3e1f87551c778\"",
     "last_updated": 1678294842,
-    "modified": "Wed, 08 Mar 2023 18:12:49 GMT",
+    "modified": "Thu, 09 Mar 2023 01:36:01 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a03c2848ab4fc2c80cd631f73cd485f5",
+    "etag": "cacheable:e629c3b60809ca589f28776684f25a85",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9703c14033b609569b53365a8a3a2eda\"",
+    "etag": "\"06678604610e196fdb09eb045321905d\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 09 Mar 2023 03:54:43 GMT",
+    "modified": "Thu, 09 Mar 2023 17:27:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"539f52ef1860f1bec7a9292b5478693d\"",
-    "last_updated": 1677171657,
-    "modified": "Thu, 09 Mar 2023 06:49:35 GMT",
+    "etag": "W/\"274601bd645e354b31d0767aa7def831\"",
+    "last_updated": 1678381205,
+    "modified": "Thu, 09 Mar 2023 17:31:11 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"539f52ef1860f1bec7a9292b5478693d\"",
+    "etag": "W/\"274601bd645e354b31d0767aa7def831\"",
     "last_updated": 1673802039,
-    "modified": "Thu, 09 Mar 2023 06:49:35 GMT",
+    "modified": "Thu, 09 Mar 2023 17:31:11 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -542,7 +542,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1678298412,
+    "last_updated": 1678384803,
     "name": "LRR Videogames",
     "seen_entries": []
   },
