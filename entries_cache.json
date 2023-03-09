@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,14 +254,14 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1678188515,
+    "last_updated": 1678358838,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"61edc86e765cb84ee8dbd68144a29c551592aeffdc07585089409d7a7c843bb7\"",
+    "etag": "W/\"c3ed5e78dc16c763397fe8f4f56dcb20df621df51381066ff3c76c3c0d8a5cc4\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 09 Mar 2023 08:55:25 GMT",
+    "modified": "Thu, 09 Mar 2023 11:35:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 09 Mar 2023 09:04:00 GMT",
+    "modified": "Thu, 09 Mar 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a849ea89fac56575f1fbd695a1f91575",
+    "etag": "cacheable:4783960e4ee38ca75e48a9ba8bcac0de",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
