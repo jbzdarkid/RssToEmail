@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"13a3005ac556a8ce07ed5dbd56312160-ssl-df\"",
+    "etag": "\"13a3005ac556a8ce07ed5dbd56312160-ssl\"",
     "last_updated": 1678579250,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"598c3710f2ac139e5560e526878f7180d0eddae86a5e2341cbca47db0a099336\"",
+    "etag": "W/\"e62c1273695761416e23f94e760513593811254620b2dce9fc70bc16d3ce6172\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 12 Mar 2023 17:20:00 GMT",
+    "modified": "Sun, 12 Mar 2023 23:35:37 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"259cdcbc164df737bff354ecaac75e840656ff3f7b14e8cdb05dd9c2160c4301\"",
+    "etag": "W/\"f51a934c2388dff8f3a6dbd9fb00ad608d426f5c04cb6602999b3dbdd0a12b71\"",
     "last_updated": 1674149580,
-    "modified": "Sun, 12 Mar 2023 11:02:09 GMT",
+    "modified": "Sun, 12 Mar 2023 23:35:36 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 12 Mar 2023 21:04:00 GMT",
+    "modified": "Mon, 13 Mar 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:1c167f888043f6f49abbb82915b7a5f9",
+    "etag": "cacheable:d02e26c85c0d9239826c59252594a6e9",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6ff8657608753a1cb5dd7a87cc6ef526\"",
+    "etag": "\"551851eb4496e4685c78f56268d0a524\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 12 Mar 2023 19:31:09 GMT",
+    "modified": "Sun, 12 Mar 2023 23:51:27 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,9 +488,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"cc9e06f06dbf9238858a7ec8f29ab0cf\"",
+    "etag": "W/\"539f52ef1860f1bec7a9292b5478693d\"",
     "last_updated": 1678381205,
-    "modified": "Sat, 11 Mar 2023 19:55:44 GMT",
+    "modified": "Thu, 09 Mar 2023 06:49:35 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -542,7 +542,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1678557626,
+    "last_updated": 1678655411,
     "name": "LRR Videogames",
     "seen_entries": []
   },
