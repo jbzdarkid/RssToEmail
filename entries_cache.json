@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e62c1273695761416e23f94e760513593811254620b2dce9fc70bc16d3ce6172\"",
+    "etag": "W/\"54e18b992fe9a56ed319e8cb4378bd02a800d7dd5b3e90044eeca5fc53168322\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 12 Mar 2023 23:35:37 GMT",
+    "modified": "Mon, 13 Mar 2023 06:00:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 13 Mar 2023 03:04:00 GMT",
+    "modified": "Mon, 13 Mar 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1678078800,
+    "last_updated": 1678680000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:287516dfd509ee1cffbd87cbe28529a5",
+    "etag": "cacheable:b96532747d53d0c40987e93839dbad3a",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,7 +432,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1678424400,
+    "last_updated": 1678680000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -512,7 +512,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1678426798,
+    "last_updated": 1678683698,
     "name": "Wilde Life",
     "seen_entries": []
   },
