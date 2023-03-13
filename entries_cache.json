@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 13 Mar 2023 00:14:00 GMT",
+    "modified": "Mon, 13 Mar 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1678603929,
+    "last_updated": 1678673547,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c6fc57cdca9e25014bc2552fa828ae47\"",
+    "etag": "W/\"65ca044b082231dc45f94413883b2f50\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 12 Mar 2023 06:53:27 GMT",
+    "modified": "Sun, 12 Mar 2023 17:47:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"c6fc57cdca9e25014bc2552fa828ae47\"",
+    "etag": "W/\"65ca044b082231dc45f94413883b2f50\"",
     "last_updated": 1678294842,
-    "modified": "Sun, 12 Mar 2023 06:53:27 GMT",
+    "modified": "Sun, 12 Mar 2023 17:47:34 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:d02e26c85c0d9239826c59252594a6e9",
+    "etag": "cacheable:287516dfd509ee1cffbd87cbe28529a5",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,9 +488,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"539f52ef1860f1bec7a9292b5478693d\"",
+    "etag": "W/\"cc9e06f06dbf9238858a7ec8f29ab0cf\"",
     "last_updated": 1678381205,
-    "modified": "Thu, 09 Mar 2023 06:49:35 GMT",
+    "modified": "Sat, 11 Mar 2023 19:55:44 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
