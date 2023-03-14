@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a5a721d8992e2c07828592a53c8264e656b49481acbe2f6017b8a6a6389332aa\"",
+    "etag": "W/\"f81fd376f2cb5b5a398386218dea8a9b8ab4a644b0c3efcfaf10bafaa4c8ed8b\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 14 Mar 2023 15:49:00 GMT",
+    "modified": "Tue, 14 Mar 2023 19:35:19 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"430fe7b0cc1f442441b9eb431cda9a0461c23cd58aaa64501e04465dc16fa26b\"",
+    "etag": "W/\"833082759700d20aa3cd2baa29a0312d2eb1bb2f90c102afeb96cc5af9fbd82a\"",
     "last_updated": 1674149580,
-    "modified": "Tue, 14 Mar 2023 17:43:09 GMT",
+    "modified": "Tue, 14 Mar 2023 19:35:09 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 14 Mar 2023 18:04:00 GMT",
+    "modified": "Tue, 14 Mar 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -354,7 +354,7 @@
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
-    "etag": "W/\"0-a785\"",
+    "etag": "W/\"0-a786\"",
     "last_updated": 1670284800,
     "modified": "Thu, 01 Jan 1970 00:00:00 GMT",
     "name": "XKCD What If?",
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f0eb770c1b116d3a7e13611ee6e009a6",
+    "etag": "cacheable:563a7aba42e5eaba908639f620418829",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5fa0b030a80decdc104999ea95d64a82\"",
+    "etag": "\"c408be510bb3eb330c67915032025a6b\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 14 Mar 2023 17:51:04 GMT",
+    "modified": "Tue, 14 Mar 2023 21:00:55 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -612,7 +612,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1671588667,
+    "last_updated": 1678821296,
     "name": "Steamworks Development",
     "seen_entries": []
   },
