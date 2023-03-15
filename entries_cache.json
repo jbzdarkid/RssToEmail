@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f210f5fa29e11afc0123c0bc86bf80b2-ssl-df\"",
+    "etag": "\"f210f5fa29e11afc0123c0bc86bf80b2-ssl\"",
     "last_updated": 1678752021,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d12b25c27874f6bd3f1190459831741a29b6249281f1dd4ec1517cb27773c368\"",
+    "etag": "W/\"4aed1b97bda6bb2723b33a5b0406ca96f33db3b192d76f23d1d31a18d8a41a86\"",
     "last_updated": 1674149580,
-    "modified": "Wed, 15 Mar 2023 00:42:37 GMT",
+    "modified": "Wed, 15 Mar 2023 06:00:12 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 15 Mar 2023 03:04:00 GMT",
+    "modified": "Wed, 15 Mar 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:96eb8b6df1db446942b543aa53658991",
+    "etag": "cacheable:f52849eabe943755ddbf9b1ae9d550fa",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -432,14 +432,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1678766400,
+    "last_updated": 1678852800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a731198c731207155cfb4a2ec4a59268\"",
+    "etag": "\"35b84b4d731ad2afb2bf7641231debaf\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 15 Mar 2023 03:01:55 GMT",
+    "modified": "Wed, 15 Mar 2023 05:14:41 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -512,7 +512,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1678683698,
+    "last_updated": 1678860053,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -552,7 +552,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1678764996,
+    "last_updated": 1678853705,
     "name": "Team PLC",
     "seen_entries": []
   },
