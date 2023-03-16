@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"7b927f8240ecbedd827be2e482f62314-ssl\"",
+    "etag": "\"7b927f8240ecbedd827be2e482f62314-ssl-df\"",
     "last_updated": 1678838439,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Mon, 13 Mar 2023 21:01:54 GMT",
+    "modified": "Thu, 16 Mar 2023 02:48:05 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3131",
       "http://www.nerfnow.com/comic/3132",
       "http://www.nerfnow.com/comic/3133",
       "http://www.nerfnow.com/comic/3134",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3147",
       "http://www.nerfnow.com/comic/3148",
       "http://www.nerfnow.com/comic/3149",
-      "http://www.nerfnow.com/comic/3150"
+      "http://www.nerfnow.com/comic/3150",
+      "http://www.nerfnow.com/comic/3151"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c81f3fb40ca56512bf577284ba819a9ef395c32d173804db0eb34450cfa9d7cd\"",
+    "etag": "W/\"75a98c6ca6d2ce47fc0b97c80bcde996c2a7395a6c03018d849b7b3630c1ca26\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 15 Mar 2023 16:28:36 GMT",
+    "modified": "Thu, 16 Mar 2023 00:41:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"82826a889a937670f21e10fefdef24463b0c59bd3797360d5fae922b739b6220\"",
+    "etag": "W/\"679cb458ea714fd8de555068bf943181469f38cae6274718c0dd25dc1042417f\"",
     "last_updated": 1674149580,
-    "modified": "Wed, 15 Mar 2023 23:42:44 GMT",
+    "modified": "Thu, 16 Mar 2023 00:39:06 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 16 Mar 2023 00:16:00 GMT",
+    "modified": "Thu, 16 Mar 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6476386cd642aab64ab8027a46b91678\"",
+    "etag": "W/\"7b61c9f95ba3ee929aaccbcfa6f06704\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 16 Mar 2023 00:06:27 GMT",
+    "modified": "Thu, 16 Mar 2023 02:56:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"6476386cd642aab64ab8027a46b91678\"",
+    "etag": "W/\"7b61c9f95ba3ee929aaccbcfa6f06704\"",
     "last_updated": 1678896027,
-    "modified": "Thu, 16 Mar 2023 00:06:27 GMT",
+    "modified": "Thu, 16 Mar 2023 02:56:05 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ba6ce6611eff4f47af59bc798e3f61d0",
+    "etag": "cacheable:6947adde74ba3f1009bc9d65adee561e",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"616eea89edd69b6fca5a45404a4055c2\"",
+    "etag": "\"8740f573df4cceaf37def261a72ec004\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 15 Mar 2023 20:29:41 GMT",
+    "modified": "Thu, 16 Mar 2023 02:51:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"3c089970333333cef18d231de24f099e\"",
+    "etag": "W/\"9aaaa619348a4a51423c9d9406dad174\"",
     "last_updated": 1678381205,
-    "modified": "Wed, 15 Mar 2023 23:54:42 GMT",
+    "modified": "Thu, 16 Mar 2023 00:45:41 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"3c089970333333cef18d231de24f099e\"",
+    "etag": "W/\"9aaaa619348a4a51423c9d9406dad174\"",
     "last_updated": 1673802039,
-    "modified": "Wed, 15 Mar 2023 23:54:42 GMT",
+    "modified": "Thu, 16 Mar 2023 00:45:41 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
