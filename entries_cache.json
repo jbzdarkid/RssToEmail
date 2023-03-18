@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"0997ae9317775f8952a1283af933f7e7-ssl-df\"",
+    "etag": "\"0997ae9317775f8952a1283af933f7e7-ssl\"",
     "last_updated": 1679064474,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 18 Mar 2023 03:04:00 GMT",
+    "modified": "Sat, 18 Mar 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"63ba5e91cffb1c2e1a5dbb923dc13680\"",
+    "etag": "W/\"91fec8e7900f86bf88089e15397b7d42\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 18 Mar 2023 01:19:26 GMT",
+    "modified": "Sat, 18 Mar 2023 03:36:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"63ba5e91cffb1c2e1a5dbb923dc13680\"",
+    "etag": "W/\"91fec8e7900f86bf88089e15397b7d42\"",
     "last_updated": 1678896027,
-    "modified": "Sat, 18 Mar 2023 01:19:26 GMT",
+    "modified": "Sat, 18 Mar 2023 03:36:20 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c18e34b206d6c1801c94df5078a34c2a",
+    "etag": "cacheable:01e07571df2820fb8e9c5bc6cf516228",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"834b91199c6613861b22f43095ae9fb3\"",
+    "etag": "\"b3755ea9ccb6cc15c9b714f8807f3ec6\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 18 Mar 2023 02:25:29 GMT",
+    "modified": "Sat, 18 Mar 2023 05:30:56 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
