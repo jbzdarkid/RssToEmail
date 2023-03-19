@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"2eadfbcb6041a1288ae25a89dd04e2e7-ssl\"",
+    "etag": "\"2eadfbcb6041a1288ae25a89dd04e2e7-ssl-df\"",
     "last_updated": 1679184013,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Thu, 16 Mar 2023 02:48:05 GMT",
+    "modified": "Sun, 19 Mar 2023 11:37:11 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3132",
       "http://www.nerfnow.com/comic/3133",
       "http://www.nerfnow.com/comic/3134",
       "http://www.nerfnow.com/comic/3135",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3148",
       "http://www.nerfnow.com/comic/3149",
       "http://www.nerfnow.com/comic/3150",
-      "http://www.nerfnow.com/comic/3151"
+      "http://www.nerfnow.com/comic/3151",
+      "http://www.nerfnow.com/comic/3152"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1679060490,
+    "last_updated": 1679222345,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1a39ab18dfbecfcaf7e3f7a90a121aa2a9436019bba320245b84376ef164db74\"",
+    "etag": "W/\"f4f09f2b2babd4ea999796c091e363dbb315eb0fa58976b837210f12f8d2b846\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 19 Mar 2023 08:42:32 GMT",
+    "modified": "Sun, 19 Mar 2023 11:31:59 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e7586f4659ea4b3b7dc16dfd222bf9cfd31ddb93668009b4fcabb06c88d91ab8\"",
+    "etag": "W/\"ae81758f96453bd2e4217f72c1b8749388d48784e91b05eba92f96a00266a2ce\"",
     "last_updated": 1678990020,
-    "modified": "Sat, 18 Mar 2023 23:24:53 GMT",
+    "modified": "Sun, 19 Mar 2023 11:57:36 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 19 Mar 2023 09:04:00 GMT",
+    "modified": "Sun, 19 Mar 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1679179269,
+    "last_updated": 1679225679,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -397,7 +397,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:732d0364542779139413c2a18df5ff25",
+    "etag": "cacheable:2ecd5e58fd1bc7b51047106ef723546b",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
