@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0713607dd356b568584e415f0bb0ff221a83c67d7437ead86f894e7384fa0b91\"",
+    "etag": "W/\"2bdceae7f777ae4aad15754fcf57b62bee2731d8e3484a94212421cf9e2550f9\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 18 Mar 2023 15:16:27 GMT",
+    "modified": "Sat, 18 Mar 2023 23:24:38 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6d75c0840a93d4fba3f794c323af62d3af59d11fd1bad5b9357e2d9fd8459f42\"",
+    "etag": "W/\"e7586f4659ea4b3b7dc16dfd222bf9cfd31ddb93668009b4fcabb06c88d91ab8\"",
     "last_updated": 1678990020,
-    "modified": "Sat, 18 Mar 2023 11:03:07 GMT",
+    "modified": "Sat, 18 Mar 2023 23:24:53 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 18 Mar 2023 21:04:00 GMT",
+    "modified": "Sun, 19 Mar 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1679164766,
+    "last_updated": 1679179269,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ce650ee0309e57c007bffa8da94376a4\"",
+    "etag": "W/\"bc889449b1daa8c5a41da12c6916a0f6\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 18 Mar 2023 19:03:21 GMT",
+    "modified": "Sun, 19 Mar 2023 00:10:35 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"ce650ee0309e57c007bffa8da94376a4\"",
+    "etag": "W/\"bc889449b1daa8c5a41da12c6916a0f6\"",
     "last_updated": 1678896027,
-    "modified": "Sat, 18 Mar 2023 19:03:21 GMT",
+    "modified": "Sun, 19 Mar 2023 00:10:35 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f5b58799a44bd1c7e3638ce2d96e29fb",
+    "etag": "cacheable:9a3ffa4c103f76fcf8ca33281d822775",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -697,7 +697,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1678986015,
+    "last_updated": 1679176812,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
