@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"596170102169e3e134fca98d2aedf608-ssl-df\"",
+    "etag": "\"596170102169e3e134fca98d2aedf608-ssl\"",
     "last_updated": 1679443246,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8875269dcc7cebf4bdb1a6ab733ff3a1d3c9bab6ace62c41322b8585cd0cd662\"",
+    "etag": "W/\"584ecf5ad7af683edd8223a0fa7b3ed82a3fd98b9c90fbe038b757660c8de5cc\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 22 Mar 2023 11:42:51 GMT",
+    "modified": "Wed, 22 Mar 2023 14:54:17 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"653603ecd75a435810b840caf8c77dfdd1ad4915374d90cbb7ba65ed7b055188\"",
+    "etag": "W/\"695bb3a74133969e5121c9314314cf1f1a5bf07ebf953ae69ddbf43d10edc97e\"",
     "last_updated": 1678990020,
-    "modified": "Wed, 22 Mar 2023 11:42:47 GMT",
+    "modified": "Wed, 22 Mar 2023 13:42:19 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 22 Mar 2023 12:04:00 GMT",
+    "modified": "Wed, 22 Mar 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"2bb63fe67f0070cb8f6ec9eee5696a49\"",
+    "etag": "W/\"3f8ab297de5c4d4defb62d8517615188\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 22 Mar 2023 02:33:58 GMT",
+    "modified": "Wed, 22 Mar 2023 06:47:38 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"2bb63fe67f0070cb8f6ec9eee5696a49\"",
+    "etag": "W/\"3f8ab297de5c4d4defb62d8517615188\"",
     "last_updated": 1678896027,
-    "modified": "Wed, 22 Mar 2023 02:33:58 GMT",
+    "modified": "Wed, 22 Mar 2023 06:47:38 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:009858495c655146a719ccdbe7e06eaa",
+    "etag": "cacheable:e0312065d44c61d09c097b180b522899",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
