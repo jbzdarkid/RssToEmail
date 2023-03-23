@@ -166,7 +166,6 @@
     "last_updated": 0,
     "name": "@breachwizards on Twitter",
     "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1512576190950772737",
       "https://twitter.com/BreachWizards/status/1513960374185340932",
       "https://twitter.com/BreachWizards/status/1519424470171017216",
       "https://twitter.com/BreachWizards/status/1530252517057081344",
@@ -185,15 +184,14 @@
       "http://twitter.com/BreachWizards/status/1616492385080602629",
       "http://twitter.com/BreachWizards/status/1620535302464102400",
       "http://twitter.com/BreachWizards/status/1628141902351724544",
-      "http://twitter.com/BreachWizards/status/1634629786504171525"
+      "http://twitter.com/BreachWizards/status/1634629786504171525",
+      "http://twitter.com/BreachWizards/status/1638349881000755200"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
     "last_updated": 1645466654,
     "name": "@valvesoftware on Twitter",
     "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1555447590367272960",
-      "https://twitter.com/valvesoftware/status/1558531865367158786",
       "https://twitter.com/valvesoftware/status/1559670297124515840",
       "http://twitter.com/valvesoftware/status/1540019375712808961",
       "http://twitter.com/valvesoftware/status/1541801177213304832",
@@ -211,7 +209,9 @@
       "http://twitter.com/valvesoftware/status/1607456078782148608",
       "http://twitter.com/valvesoftware/status/1629592817277493248",
       "http://twitter.com/valvesoftware/status/1633300733591441408",
-      "http://twitter.com/valvesoftware/status/1636477937007607808"
+      "http://twitter.com/valvesoftware/status/1636477937007607808",
+      "http://twitter.com/valvesoftware/status/1638594233086119937",
+      "http://twitter.com/valvesoftware/status/1638594272877502466"
     ]
   },
   "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"695bb3a74133969e5121c9314314cf1f1a5bf07ebf953ae69ddbf43d10edc97e\"",
+    "etag": "W/\"314cb28ba759b162520cdfc56acff116fdcb57ecefb42bbc307a32559564a627\"",
     "last_updated": 1678990020,
-    "modified": "Wed, 22 Mar 2023 13:42:19 GMT",
+    "modified": "Wed, 22 Mar 2023 23:18:27 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 22 Mar 2023 21:04:00 GMT",
+    "modified": "Thu, 23 Mar 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,21 +383,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d6e9c79bc55533afca23a9b3df11c7e8\"",
+    "etag": "W/\"0b981e429c5daa68fee9a7ca46603c60\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 22 Mar 2023 20:14:16 GMT",
+    "modified": "Wed, 22 Mar 2023 23:19:38 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d6e9c79bc55533afca23a9b3df11c7e8\"",
+    "etag": "W/\"0b981e429c5daa68fee9a7ca46603c60\"",
     "last_updated": 1679500800,
-    "modified": "Wed, 22 Mar 2023 20:14:16 GMT",
+    "modified": "Wed, 22 Mar 2023 23:19:38 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:905268a839820ce9194d9e8b02a0a0a6",
+    "etag": "cacheable:f374255c5b524d34e6df13620de13b8e",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -437,9 +437,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e2ea3be63bfd5beef5da5b7e08b2a741\"",
+    "etag": "\"4a3aef0ee265d30dd2043d1f0bf9a251\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 22 Mar 2023 20:47:52 GMT",
+    "modified": "Wed, 22 Mar 2023 23:47:50 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"b6f271f6180943d5a36dc251cc6ed1d9\"",
+    "etag": "W/\"a47562836bf4c168339ffb59214adf65\"",
     "last_updated": 1678982439,
-    "modified": "Wed, 22 Mar 2023 17:57:02 GMT",
+    "modified": "Wed, 22 Mar 2023 22:50:48 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"b6f271f6180943d5a36dc251cc6ed1d9\"",
+    "etag": "W/\"a47562836bf4c168339ffb59214adf65\"",
     "last_updated": 1673802039,
-    "modified": "Wed, 22 Mar 2023 17:57:02 GMT",
+    "modified": "Wed, 22 Mar 2023 22:50:48 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
