@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"5dba628a79e5b1fecd2a6009d5b71b0b-ssl-df\"",
+    "etag": "\"5dba628a79e5b1fecd2a6009d5b71b0b-ssl\"",
     "last_updated": 1679874072,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b3d57f3c7e935a452e90110d75e52ee49179dbfecb06e1772b6c4c1d075007ca\"",
+    "etag": "W/\"723a8bd37fbbc9db519427c4efc928924836da6e08927fab4817deb26f9e2f98\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 27 Mar 2023 00:06:47 GMT",
+    "modified": "Mon, 27 Mar 2023 09:02:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 27 Mar 2023 06:04:00 GMT",
+    "modified": "Mon, 27 Mar 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:a1fbfe315db86d77c194a7d4a2698e06",
+    "etag": "cacheable:fc06b99c1919fd9212f7cb47d968fd76",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -470,7 +470,7 @@
     ]
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1679641200,
+    "last_updated": 1679900400,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
