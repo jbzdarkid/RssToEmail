@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1679954400,
+    "last_updated": 1680040800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ddd894f7c9bd590858ab3838b6b21b46-ssl\"",
+    "etag": "\"ddd894f7c9bd590858ab3838b6b21b46-ssl-df\"",
     "last_updated": 1680048013,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Sun, 26 Mar 2023 08:30:27 GMT",
+    "modified": "Wed, 29 Mar 2023 21:00:21 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3135",
       "http://www.nerfnow.com/comic/3136",
       "http://www.nerfnow.com/comic/3137",
       "http://www.nerfnow.com/comic/3138",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3151",
       "http://www.nerfnow.com/comic/3152",
       "http://www.nerfnow.com/comic/3153",
-      "http://www.nerfnow.com/comic/3154"
+      "http://www.nerfnow.com/comic/3154",
+      "http://www.nerfnow.com/comic/3155"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 29 Mar 2023 18:10:00 GMT",
+    "modified": "Wed, 29 Mar 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"6e5a1b5bec7bdb81727ece6bb0526846\"",
+    "etag": "W/\"4a852cff76efab3cdb8d229f5e30fd5f\"",
     "last_updated": 1679594672,
-    "modified": "Wed, 29 Mar 2023 17:37:41 GMT",
+    "modified": "Wed, 29 Mar 2023 20:12:21 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6e5a1b5bec7bdb81727ece6bb0526846\"",
+    "etag": "W/\"4a852cff76efab3cdb8d229f5e30fd5f\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 29 Mar 2023 17:37:41 GMT",
+    "modified": "Wed, 29 Mar 2023 20:12:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"6e5a1b5bec7bdb81727ece6bb0526846\"",
+    "etag": "W/\"4a852cff76efab3cdb8d229f5e30fd5f\"",
     "last_updated": 1680105652,
-    "modified": "Wed, 29 Mar 2023 17:37:41 GMT",
+    "modified": "Wed, 29 Mar 2023 20:12:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:22ebf522a4b9e23ad8e67bc60201af60",
+    "etag": "cacheable:4449152d0838f0d5fec7e18210dede7b",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8c908c23b97653fc6d9ad0cc3532f134\"",
+    "etag": "\"a4d23b9e1158eb3deaeae19562e8f90b\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 29 Mar 2023 17:24:10 GMT",
+    "modified": "Wed, 29 Mar 2023 18:38:00 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"037a8185ee7385231f68d4661349fe92\"",
+    "etag": "W/\"736ac7d02649376517d600d31b944c89\"",
     "last_updated": 1679587206,
-    "modified": "Mon, 27 Mar 2023 17:05:15 GMT",
+    "modified": "Tue, 28 Mar 2023 06:04:36 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -744,9 +744,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6421bfae-91d\"",
-    "last_updated": 1679889600,
-    "modified": "Mon, 27 Mar 2023 16:09:18 GMT",
+    "etag": "W/\"64248645-94b\"",
+    "last_updated": 1680062400,
+    "modified": "Wed, 29 Mar 2023 18:41:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
