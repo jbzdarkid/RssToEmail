@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 31 Mar 2023 03:04:00 GMT",
+    "modified": "Fri, 31 Mar 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"e2422a79a77e47a43053ca3ca87af1e6\"",
+    "etag": "W/\"f4644f872d97d5e91b76a3109c9c190a\"",
     "last_updated": 1679594672,
-    "modified": "Thu, 30 Mar 2023 21:14:52 GMT",
+    "modified": "Fri, 31 Mar 2023 05:43:08 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e2422a79a77e47a43053ca3ca87af1e6\"",
+    "etag": "W/\"f4644f872d97d5e91b76a3109c9c190a\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 30 Mar 2023 21:14:52 GMT",
+    "modified": "Fri, 31 Mar 2023 05:43:08 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e2422a79a77e47a43053ca3ca87af1e6\"",
+    "etag": "W/\"f4644f872d97d5e91b76a3109c9c190a\"",
     "last_updated": 1680105652,
-    "modified": "Thu, 30 Mar 2023 21:14:52 GMT",
+    "modified": "Fri, 31 Mar 2023 05:43:08 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:f274c954c571de42e98b7046d4d1f1b8",
+    "etag": "cacheable:03a352df0a213c595b2c52817b9373b2",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,14 +439,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1680148800,
+    "last_updated": 1680235200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"336c4b2743182c57186b0c380a309945\"",
+    "etag": "\"3e4028e4c6141018cbc4621b5217d4b1\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 31 Mar 2023 02:54:44 GMT",
+    "modified": "Fri, 31 Mar 2023 05:44:17 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -519,7 +519,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1680068945,
+    "last_updated": 1680242631,
     "name": "Wilde Life",
     "seen_entries": []
   },
