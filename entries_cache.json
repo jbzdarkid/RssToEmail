@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1680040800,
+    "last_updated": 1680213600,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"dbe2864e1be910f53f0ecfa0fbf27e3dc46a6bdfcfcdbe2e8537e539f4933034\"",
+    "etag": "W/\"81477af16aa30e28aabb26b29ac0a97781d1d7ca56ca7f1b140a2d2096a32644\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 31 Mar 2023 14:56:21 GMT",
+    "modified": "Fri, 31 Mar 2023 15:22:03 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7715b41355b048785c9339579ca2b81118d79ba114004ad9ce1bbacdca13cd6b\"",
+    "etag": "W/\"ae4ca084145f6f0b44d92952edc567df6b25a6a67de3328e8bcdc7c1db7a9934\"",
     "last_updated": 1678990020,
-    "modified": "Fri, 31 Mar 2023 12:44:42 GMT",
+    "modified": "Fri, 31 Mar 2023 16:57:50 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 31 Mar 2023 15:04:00 GMT",
+    "modified": "Fri, 31 Mar 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"951db227497d4cae6c340cc52ea608f6\"",
+    "etag": "W/\"48138c684224062cf91dadb9f91085a6\"",
     "last_updated": 1679594672,
-    "modified": "Fri, 31 Mar 2023 00:06:39 GMT",
+    "modified": "Fri, 31 Mar 2023 17:46:19 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"951db227497d4cae6c340cc52ea608f6\"",
+    "etag": "W/\"48138c684224062cf91dadb9f91085a6\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 31 Mar 2023 00:06:39 GMT",
+    "modified": "Fri, 31 Mar 2023 17:46:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"951db227497d4cae6c340cc52ea608f6\"",
+    "etag": "W/\"48138c684224062cf91dadb9f91085a6\"",
     "last_updated": 1680105652,
-    "modified": "Fri, 31 Mar 2023 00:06:39 GMT",
+    "modified": "Fri, 31 Mar 2023 17:46:19 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:17f4fa45502c61012deeba7a74e82942",
+    "etag": "cacheable:339f9b19c22fe543ed760e52e4017a39",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"01ad41fd998b87d4f5118ff592a34d02\"",
+    "etag": "\"fc27580da6657233aff56a8521f25b8c\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 31 Mar 2023 15:00:40 GMT",
+    "modified": "Fri, 31 Mar 2023 17:29:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -704,7 +704,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1680022801,
+    "last_updated": 1680282023,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
