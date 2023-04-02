@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9032b40b31bb91bcb7836fb2e7e9be90-ssl\"",
+    "etag": "\"9032b40b31bb91bcb7836fb2e7e9be90-ssl-df\"",
     "last_updated": 1680395309,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 02 Apr 2023 18:04:00 GMT",
+    "modified": "Sun, 02 Apr 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1680316397,
+    "last_updated": 1680468504,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"786907024f581c2c9fdb804cfe995b7a\"",
+    "etag": "W/\"b5a14a3b8433b44b2a35ce558c812006\"",
     "last_updated": 1679594672,
-    "modified": "Sun, 02 Apr 2023 10:36:36 GMT",
+    "modified": "Sun, 02 Apr 2023 18:51:48 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"786907024f581c2c9fdb804cfe995b7a\"",
+    "etag": "W/\"b5a14a3b8433b44b2a35ce558c812006\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 02 Apr 2023 10:36:36 GMT",
+    "modified": "Sun, 02 Apr 2023 18:51:48 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"786907024f581c2c9fdb804cfe995b7a\"",
+    "etag": "W/\"b5a14a3b8433b44b2a35ce558c812006\"",
     "last_updated": 1680105652,
-    "modified": "Sun, 02 Apr 2023 10:36:36 GMT",
+    "modified": "Sun, 02 Apr 2023 18:51:48 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:640c6a9996c88c070ef3e3b7c0c637c7",
+    "etag": "cacheable:7b8c9afe3d25b3f999a51afba08c1ddc",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"31a80f114273f3253c602c5c324e9cb2\"",
+    "etag": "\"351dce0d4cc71f727f739e5c9fec0f36\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 02 Apr 2023 17:56:28 GMT",
+    "modified": "Sun, 02 Apr 2023 20:36:08 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
