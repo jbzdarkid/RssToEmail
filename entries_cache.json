@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9032b40b31bb91bcb7836fb2e7e9be90-ssl-df\"",
+    "etag": "\"9032b40b31bb91bcb7836fb2e7e9be90-ssl\"",
     "last_updated": 1680395309,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 02 Apr 2023 15:04:00 GMT",
+    "modified": "Sun, 02 Apr 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:8af74c2a412caa28418b09d3fc8104d7",
+    "etag": "cacheable:640c6a9996c88c070ef3e3b7c0c637c7",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b5ebd70b3db76528d956570a5c1e9187\"",
+    "etag": "\"31a80f114273f3253c602c5c324e9cb2\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 02 Apr 2023 15:03:01 GMT",
+    "modified": "Sun, 02 Apr 2023 17:56:28 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -468,6 +468,11 @@
     "seen_entries": [
       "https://www.reddit.com/message/messages/txtnqq"
     ]
+  },
+  "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
+    "last_updated": 1680458646,
+    "name": "top scoring links : OutOfTheLoop",
+    "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
     "last_updated": 1680246000,
@@ -549,7 +554,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1680109221,
+    "last_updated": 1680454813,
     "name": "LRR Videogames",
     "seen_entries": []
   },
