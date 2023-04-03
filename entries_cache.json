@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9032b40b31bb91bcb7836fb2e7e9be90-ssl\"",
+    "etag": "\"9032b40b31bb91bcb7836fb2e7e9be90-ssl-df\"",
     "last_updated": 1680395309,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b57775bfb7eddf7db8722a414e5ce2cc78f6fbced59f47e8a796b603a2e2e537\"",
+    "etag": "W/\"7478cbb09d94a98bdec1b22f575662ed5de4960828ca5411aac811be6fa72fa4\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 02 Apr 2023 22:30:23 GMT",
+    "modified": "Mon, 03 Apr 2023 08:51:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 03 Apr 2023 06:04:00 GMT",
+    "modified": "Mon, 03 Apr 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"3fda7a34eff16ce1f43af28adbf77ebc\"",
+    "etag": "W/\"21e31e73c37d329f1b73049843385529\"",
     "last_updated": 1679594672,
-    "modified": "Mon, 03 Apr 2023 04:35:32 GMT",
+    "modified": "Mon, 03 Apr 2023 08:50:04 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3fda7a34eff16ce1f43af28adbf77ebc\"",
+    "etag": "W/\"21e31e73c37d329f1b73049843385529\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 03 Apr 2023 04:35:32 GMT",
+    "modified": "Mon, 03 Apr 2023 08:50:04 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"3fda7a34eff16ce1f43af28adbf77ebc\"",
+    "etag": "W/\"21e31e73c37d329f1b73049843385529\"",
     "last_updated": 1680105652,
-    "modified": "Mon, 03 Apr 2023 04:35:32 GMT",
+    "modified": "Mon, 03 Apr 2023 08:50:04 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ed5cc55505d69e87cdb9a7b39fe1ec12",
+    "etag": "cacheable:fe25e130ed7449b696283b45f5859c8f",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ab7b777961954748f0d93f37c29956b3\"",
+    "etag": "\"edf6f9373502c71f2c368073144c43d6\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 03 Apr 2023 04:14:25 GMT",
+    "modified": "Mon, 03 Apr 2023 08:32:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -475,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1680246000,
+    "last_updated": 1680505200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
