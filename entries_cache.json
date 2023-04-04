@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"5305e973fb0852dc166bce06ea32ac03-ssl\"",
-    "last_updated": 1680494861,
+    "etag": "\"1799570ff1e08fb852d7cd86a4f6586d-ssl-df\"",
+    "last_updated": 1680566421,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c033de44a24ca90de7599f317438fd3ab23df0ff1a79a0f0135ca785b5d8f3e7\"",
+    "etag": "W/\"f75c0418899feea480158e2543cea43fc7e2ef120817586766aff4ae3f1f0df0\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 03 Apr 2023 15:36:15 GMT",
+    "modified": "Tue, 04 Apr 2023 03:20:13 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9d0cbfdf07acc6956e3ca64ff7ae2952cfd9d2095abb949578a667d08b2efd5c\"",
+    "etag": "W/\"ab4c338f9e295f90e979a39070fcd9d95f451e8b26ef91a5047c3ccbed34edca\"",
     "last_updated": 1678990020,
-    "modified": "Mon, 03 Apr 2023 11:47:55 GMT",
+    "modified": "Tue, 04 Apr 2023 05:34:46 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 04 Apr 2023 03:04:00 GMT",
+    "modified": "Tue, 04 Apr 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ad1dd50c0b1a337e1e4b118aabf7606f",
+    "etag": "cacheable:be2fd4b3f39d872c2533785f6705a919",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,14 +439,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1680494400,
+    "last_updated": 1680580800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c007ba4e79b630ead7f8186514202ba5\"",
+    "etag": "\"a3236eb15fdf5f738d7c18493e6840b2\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 04 Apr 2023 02:37:27 GMT",
+    "modified": "Tue, 04 Apr 2023 05:54:39 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -470,7 +470,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1680458646,
+    "last_updated": 1680528147,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
