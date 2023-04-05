@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"1799570ff1e08fb852d7cd86a4f6586d-ssl\"",
+    "etag": "\"1799570ff1e08fb852d7cd86a4f6586d-ssl-df\"",
     "last_updated": 1680566421,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"69ce6627fdfcccdecc32b8d3aaf3a90517d5379cbd5d93d23e5cb38f1cddd2ad\"",
+    "etag": "W/\"44e12074827529337e3306f5b1a39df66ad21a3bc021ae6ff6b42a86ccaabb31\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 04 Apr 2023 16:02:43 GMT",
+    "modified": "Wed, 05 Apr 2023 09:02:52 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 05 Apr 2023 06:04:00 GMT",
+    "modified": "Wed, 05 Apr 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:827811a66621aaaaa1154a57d0acaba2",
+    "etag": "cacheable:9c4033ad510de91f25414349951c4cf4",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d7d7335a40b34905a66889c6fb70b564\"",
+    "etag": "\"d17328bf0cf40edc1d8699665510feab\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 05 Apr 2023 05:01:23 GMT",
+    "modified": "Wed, 05 Apr 2023 08:52:39 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -475,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1680505200,
+    "last_updated": 1680678000,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -524,7 +524,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1680501269,
+    "last_updated": 1680677842,
     "name": "Wilde Life",
     "seen_entries": []
   },
