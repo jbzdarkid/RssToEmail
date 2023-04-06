@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Tue, 4 Apr 2023 08:14:23 GMT",
+    "modified": "Thu, 6 Apr 2023 16:01:40 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3137",
       "http://www.nerfnow.com/comic/3138",
       "http://www.nerfnow.com/comic/3139",
       "http://www.nerfnow.com/comic/3140",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3153",
       "http://www.nerfnow.com/comic/3154",
       "http://www.nerfnow.com/comic/3155",
-      "http://www.nerfnow.com/comic/3156"
+      "http://www.nerfnow.com/comic/3156",
+      "http://www.nerfnow.com/comic/3157"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -254,14 +254,14 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1680600734,
+    "last_updated": 1680781630,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"01b2ac58884c797cfc791d7df8f2c650069d8ad5f78d87619d8c4aeed6348e9c\"",
+    "etag": "W/\"287cea71c84531ba19e3a762bcb792e0daf931a54dfb4e50cecc63f9ea00dd2c\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 06 Apr 2023 14:51:06 GMT",
+    "modified": "Thu, 06 Apr 2023 16:02:20 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Thu, 06 Apr 2023 15:04:00 GMT",
+    "modified": "Thu, 06 Apr 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"9f06ba4e0ed4511c17f0b87fa7af9e9d\"",
-    "last_updated": 1679594672,
-    "modified": "Thu, 06 Apr 2023 01:42:06 GMT",
+    "etag": "W/\"17d6f1b835f11e53925d86b6e33ff382\"",
+    "last_updated": 1680796835,
+    "modified": "Thu, 06 Apr 2023 17:54:29 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9f06ba4e0ed4511c17f0b87fa7af9e9d\"",
+    "etag": "W/\"17d6f1b835f11e53925d86b6e33ff382\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 06 Apr 2023 01:42:06 GMT",
+    "modified": "Thu, 06 Apr 2023 17:54:29 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"9f06ba4e0ed4511c17f0b87fa7af9e9d\"",
+    "etag": "W/\"17d6f1b835f11e53925d86b6e33ff382\"",
     "last_updated": 1680105652,
-    "modified": "Thu, 06 Apr 2023 01:42:06 GMT",
+    "modified": "Thu, 06 Apr 2023 17:54:29 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:aa179fe2c8ef05a8f47ba647d5b8f88b",
+    "etag": "cacheable:7b29730436fd0c3a4a3cd282d54c2a8b",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a209d9348249726a342345d2a45f1ed1\"",
+    "etag": "\"799cd2b4b2b5238ebc1ebcbd80bdff89\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 06 Apr 2023 15:04:00 GMT",
+    "modified": "Thu, 06 Apr 2023 18:02:01 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -746,6 +746,11 @@
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
     "last_updated": 1679922040,
     "name": "Elder Dragon Social Club",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlepkv7m88Ma2sabQJbelzRn": {
+    "last_updated": 1680804268,
+    "name": "Friday Night Paper Fight",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
