@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a606b6ee6426120d56efffa91267cacf6fc3cd85f50f5666446e6d0123dc99cb\"",
+    "etag": "W/\"311aa5d12d92f43a53811f13d2211b0adc7593e742aa40c14d0fcd892d619475\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 07 Apr 2023 14:39:55 GMT",
+    "modified": "Fri, 07 Apr 2023 15:28:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f56d599178a8887f14ff4ba210de53d130aa003be064cb61223167c5e7398f8b\"",
+    "etag": "W/\"82809157b3c26af2d60219dc5c9813f4dcd9e0b265cd54d803c0cc9d3c56e69a\"",
     "last_updated": 1678990020,
-    "modified": "Fri, 07 Apr 2023 11:00:11 GMT",
+    "modified": "Fri, 07 Apr 2023 17:11:08 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 07 Apr 2023 15:04:00 GMT",
+    "modified": "Fri, 07 Apr 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"cd8dbabf2007e4f8f8c579da67b45d5a\"",
+    "etag": "W/\"aa583b5507ed396ed2c3d3aca91cf3eb\"",
     "last_updated": 1680796835,
-    "modified": "Thu, 06 Apr 2023 23:12:28 GMT",
+    "modified": "Fri, 07 Apr 2023 16:31:16 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"cd8dbabf2007e4f8f8c579da67b45d5a\"",
+    "etag": "W/\"aa583b5507ed396ed2c3d3aca91cf3eb\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 06 Apr 2023 23:12:28 GMT",
+    "modified": "Fri, 07 Apr 2023 16:31:16 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"cd8dbabf2007e4f8f8c579da67b45d5a\"",
+    "etag": "W/\"aa583b5507ed396ed2c3d3aca91cf3eb\"",
     "last_updated": 1680105652,
-    "modified": "Thu, 06 Apr 2023 23:12:28 GMT",
+    "modified": "Fri, 07 Apr 2023 16:31:16 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:98cad29424bfff1ac28d1556caba13b6",
+    "etag": "cacheable:38c78d99291dd8f918da15f49dc709f0",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9505d59cbd14173168e0eed19aef7673\"",
+    "etag": "\"6c17d01edc2ec09d4d20101a45d358b4\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 07 Apr 2023 14:56:05 GMT",
+    "modified": "Fri, 07 Apr 2023 17:52:48 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -500,16 +500,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1d5bae354d38101bb55ec205f38ab3ad\"",
+    "etag": "W/\"c49cc1e24a06b648c67b4bcede5ace8c\"",
     "last_updated": 1680192008,
-    "modified": "Fri, 07 Apr 2023 15:01:26 GMT",
+    "modified": "Fri, 07 Apr 2023 17:50:12 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1d5bae354d38101bb55ec205f38ab3ad\"",
+    "etag": "W/\"c49cc1e24a06b648c67b4bcede5ace8c\"",
     "last_updated": 1673802039,
-    "modified": "Fri, 07 Apr 2023 15:01:26 GMT",
+    "modified": "Fri, 07 Apr 2023 17:50:12 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -654,7 +654,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1680109226,
+    "last_updated": 1680886819,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
