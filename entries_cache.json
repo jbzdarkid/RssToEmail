@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"311aa5d12d92f43a53811f13d2211b0adc7593e742aa40c14d0fcd892d619475\"",
+    "etag": "W/\"061c9253fe4601de92f0b43e13efbf2f094e5f987291541dd4bbeb5f211b9288\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 07 Apr 2023 15:28:46 GMT",
+    "modified": "Sat, 08 Apr 2023 01:52:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"82809157b3c26af2d60219dc5c9813f4dcd9e0b265cd54d803c0cc9d3c56e69a\"",
+    "etag": "W/\"5d46f7d4ef613cfb9eabc4c77be68c2409a2cecc1afb38c8ef84d24c650d38a1\"",
     "last_updated": 1678990020,
-    "modified": "Fri, 07 Apr 2023 17:11:08 GMT",
+    "modified": "Sat, 08 Apr 2023 01:52:47 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 08 Apr 2023 00:12:00 GMT",
+    "modified": "Sat, 08 Apr 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"b6bf8c31aa85b85a202942a7655921c8\"",
+    "etag": "W/\"855322f4b812a561f46b18d4ef4658bf\"",
     "last_updated": 1680796835,
-    "modified": "Fri, 07 Apr 2023 22:39:14 GMT",
+    "modified": "Sat, 08 Apr 2023 02:51:00 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b6bf8c31aa85b85a202942a7655921c8\"",
+    "etag": "W/\"855322f4b812a561f46b18d4ef4658bf\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 07 Apr 2023 22:39:14 GMT",
+    "modified": "Sat, 08 Apr 2023 02:51:00 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"b6bf8c31aa85b85a202942a7655921c8\"",
+    "etag": "W/\"855322f4b812a561f46b18d4ef4658bf\"",
     "last_updated": 1680105652,
-    "modified": "Fri, 07 Apr 2023 22:39:14 GMT",
+    "modified": "Sat, 08 Apr 2023 02:51:00 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:48e572f04d7a20c5f212b25d1e198e5d",
+    "etag": "cacheable:dc359acb4ec79a0901c47db97422482e",
     "last_updated": 1676392508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ee7c60baf96d98501af10e8dcb67c4bd\"",
+    "etag": "\"b7b82c4adf0407ed8d484b0a83aa4ecc\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 08 Apr 2023 00:10:58 GMT",
+    "modified": "Sat, 08 Apr 2023 01:38:43 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -709,7 +709,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1680627635,
+    "last_updated": 1680917570,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
@@ -754,9 +754,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"642e300c-9df\"",
-    "last_updated": 1680667200,
-    "modified": "Thu, 06 Apr 2023 02:35:56 GMT",
+    "etag": "W/\"6430d2c5-91f\"",
+    "last_updated": 1680840000,
+    "modified": "Sat, 08 Apr 2023 02:34:45 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
