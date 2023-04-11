@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"823d89863cf12e268299513dd0f64ec7-ssl-df\"",
+    "etag": "\"823d89863cf12e268299513dd0f64ec7-ssl\"",
     "last_updated": 1681171213,
     "name": "Explosm.net",
     "seen_entries": []
@@ -130,10 +130,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Thu, 6 Apr 2023 16:01:40 GMT",
+    "modified": "Tue, 11 Apr 2023 17:03:51 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3138",
       "http://www.nerfnow.com/comic/3139",
       "http://www.nerfnow.com/comic/3140",
       "http://www.nerfnow.com/comic/3141",
@@ -152,7 +151,8 @@
       "http://www.nerfnow.com/comic/3154",
       "http://www.nerfnow.com/comic/3155",
       "http://www.nerfnow.com/comic/3156",
-      "http://www.nerfnow.com/comic/3157"
+      "http://www.nerfnow.com/comic/3157",
+      "http://www.nerfnow.com/comic/3158"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"56757fc32b899438d456687b79ff2659eb18a61b2c1097be235368a1c7eb8c13\"",
+    "etag": "W/\"9316651c22a07c61effa0e6aa08c3924fc40d47257e901d8d25bc1507ee8689f\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 11 Apr 2023 14:32:28 GMT",
+    "modified": "Tue, 11 Apr 2023 16:07:47 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 11 Apr 2023 15:04:00 GMT",
+    "modified": "Tue, 11 Apr 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,29 +383,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"46c0e0dfd6444e1dd842c10c84fcb724\"",
+    "etag": "W/\"cd6379d0bc080ea2c807da4ea9730ac6\"",
     "last_updated": 1680796835,
-    "modified": "Mon, 10 Apr 2023 23:53:49 GMT",
+    "modified": "Tue, 11 Apr 2023 17:41:59 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"46c0e0dfd6444e1dd842c10c84fcb724\"",
+    "etag": "W/\"cd6379d0bc080ea2c807da4ea9730ac6\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 10 Apr 2023 23:53:49 GMT",
+    "modified": "Tue, 11 Apr 2023 17:41:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"46c0e0dfd6444e1dd842c10c84fcb724\"",
+    "etag": "W/\"cd6379d0bc080ea2c807da4ea9730ac6\"",
     "last_updated": 1680105652,
-    "modified": "Mon, 10 Apr 2023 23:53:49 GMT",
+    "modified": "Tue, 11 Apr 2023 17:41:59 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:c069ea16a0243e02f6f4ca3bed4076c8",
-    "last_updated": 1676392508,
+    "etag": "cacheable:ea39ea07c836fe249b49100d53933b29",
+    "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"06060cddfdf4fdeef6ff6c41ea7514ac\"",
+    "etag": "\"2782da7b2bb6db9208f057cc8e6db3b7\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 11 Apr 2023 15:02:58 GMT",
+    "modified": "Tue, 11 Apr 2023 17:59:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -554,7 +554,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1681146000,
+    "last_updated": 1681232428,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -709,7 +709,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1680917570,
+    "last_updated": 1681232412,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
