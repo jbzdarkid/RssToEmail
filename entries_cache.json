@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3a10e08be41df6030e2b03a0d37d987e8d9068d2bd005126e60e2a3591bab08d\"",
+    "etag": "W/\"f113ad25ae60009ea05166196cfe830fd4fe2bf32a8d14f7b16aae01d4650344\"",
     "last_updated": 1678990020,
-    "modified": "Tue, 11 Apr 2023 23:13:32 GMT",
+    "modified": "Wed, 12 Apr 2023 00:23:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 12 Apr 2023 00:14:00 GMT",
+    "modified": "Wed, 12 Apr 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:da152e4c3fd483947f39aa9c07a0fb9c",
+    "etag": "cacheable:68e4f64e32ae1532edd4fb16b475cf1d",
     "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1f09dd3dc8a6893ad08eb46551928e56\"",
+    "etag": "\"1f7b1fbc9e063c76874ab5197ef8e7e4\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 11 Apr 2023 23:39:49 GMT",
+    "modified": "Wed, 12 Apr 2023 02:52:39 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -500,9 +500,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e6739cf59eba6b24ad170fa8b8260b4b\"",
+    "etag": "W/\"19b93a9fe2b4a4da5571529562afe0b9\"",
     "last_updated": 1681142426,
-    "modified": "Tue, 11 Apr 2023 06:05:34 GMT",
+    "modified": "Mon, 10 Apr 2023 20:06:30 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
