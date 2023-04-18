@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"139b125a3d0b547b31dccd3e59e071c7-ssl-df\"",
+    "etag": "\"139b125a3d0b547b31dccd3e59e071c7-ssl\"",
     "last_updated": 1681744136,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 18 Apr 2023 03:04:00 GMT",
+    "modified": "Tue, 18 Apr 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:ed4e79f8f4e08f3a31c6c159b719cbe5",
+    "etag": "cacheable:ee7e9561802360c424052344fc699c93",
     "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,7 +439,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1681704000,
+    "last_updated": 1681790400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -470,7 +470,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1681481001,
+    "last_updated": 1681657258,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -500,16 +500,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"40df57daf9da034a54d950634b5d02cb\"",
+    "etag": "W/\"cd0175c9b80a0e895ebe94f55ee80fd1\"",
     "last_updated": 1681142426,
-    "modified": "Mon, 17 Apr 2023 17:09:12 GMT",
+    "modified": "Tue, 18 Apr 2023 05:49:03 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"40df57daf9da034a54d950634b5d02cb\"",
+    "etag": "W/\"7620e411dcf84c0a4cb62b24cdf60da9\"",
     "last_updated": 1673802039,
-    "modified": "Mon, 17 Apr 2023 17:09:12 GMT",
+    "modified": "Tue, 18 Apr 2023 06:00:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -754,9 +754,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64395926-867\"",
-    "last_updated": 1681444800,
-    "modified": "Fri, 14 Apr 2023 13:46:14 GMT",
+    "etag": "W/\"643e1dac-91f\"",
+    "last_updated": 1681704000,
+    "modified": "Tue, 18 Apr 2023 04:33:48 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
