@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9f74e45f0b0d560506febc7530c787e4337151e504a915fe82b894f9a5ead5d1\"",
+    "etag": "W/\"ee9a04c849008f7a6f0160d57c60d99fc3d4f7f9e52eae004c6dab748b946f0f\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 18 Apr 2023 14:46:48 GMT",
+    "modified": "Wed, 19 Apr 2023 05:54:20 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7a8b4b4474f7b35df3ac211632c93d9a5e83bcee1ee45d1302aec7d770442bcd\"",
+    "etag": "W/\"6a07c5ebe574b26ea4579aaf74b03ab403b905d7f8b6cf5d4655238412b5a754\"",
     "last_updated": 1678990020,
-    "modified": "Wed, 19 Apr 2023 01:51:45 GMT",
+    "modified": "Wed, 19 Apr 2023 05:56:23 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 19 Apr 2023 03:04:00 GMT",
+    "modified": "Wed, 19 Apr 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "cacheable:125f7e94e199485a7ae46ae7070213a6",
+    "etag": "cacheable:def0efa084c1397cf2298ee27b1194f1",
     "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,7 +439,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1681790400,
+    "last_updated": 1681876800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -524,7 +524,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1681711250,
+    "last_updated": 1681884017,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -564,7 +564,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1678853705,
+    "last_updated": 1681875688,
     "name": "Team PLC",
     "seen_entries": []
   },
