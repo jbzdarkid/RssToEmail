@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"96fa44d065f1693a31521def4dbdfb38-ssl\"",
-    "last_updated": 1681837717,
+    "etag": "\"93bab7155ea582bd8b205e9b56b20850-ssl\"",
+    "last_updated": 1681920705,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"32840f874a80a5cd4ebb29d3b70a753fd4ee85fa7b317c04fec679823c78fd80\"",
+    "etag": "W/\"ea83e6b0e4a642f7371a785c523f8043b7c1d79224060fbc997552ff5b970b87\"",
     "last_updated": 1678990020,
-    "modified": "Wed, 19 Apr 2023 18:56:05 GMT",
+    "modified": "Wed, 19 Apr 2023 21:06:23 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Wed, 19 Apr 2023 21:04:00 GMT",
+    "modified": "Thu, 20 Apr 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"81b68ed4b9b4de6673f0c26d23246f44\"",
+    "etag": "W/\"4cc567efcd94151af445febb3fd17e32\"",
     "last_updated": 1680796835,
-    "modified": "Wed, 19 Apr 2023 20:41:39 GMT",
+    "modified": "Thu, 20 Apr 2023 00:07:18 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"81b68ed4b9b4de6673f0c26d23246f44\"",
+    "etag": "W/\"4cc567efcd94151af445febb3fd17e32\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 19 Apr 2023 20:41:39 GMT",
+    "modified": "Thu, 20 Apr 2023 00:07:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"81b68ed4b9b4de6673f0c26d23246f44\"",
+    "etag": "W/\"4cc567efcd94151af445febb3fd17e32\"",
     "last_updated": 1681920015,
-    "modified": "Wed, 19 Apr 2023 20:41:39 GMT",
+    "modified": "Thu, 20 Apr 2023 00:07:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:0d4853784407ec8f9b420d9b761f270a\"",
+    "etag": "\"cacheable:b88e7c9188f9aee0e47cb6d1c3c8f0d1\"",
     "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"61780308a2dfd3ad31787a0020e6e766\"",
+    "etag": "\"e5b937b0cd9fb80dc95c10c96e8f528c\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 19 Apr 2023 21:02:29 GMT",
+    "modified": "Wed, 19 Apr 2023 22:11:55 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -500,16 +500,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"527a940de533cc3a016256434dfaf2ba\"",
+    "etag": "W/\"8efdd0d1062d2d4cf892de69b16f289c\"",
     "last_updated": 1681142426,
-    "modified": "Wed, 19 Apr 2023 13:25:27 GMT",
+    "modified": "Wed, 19 Apr 2023 23:10:13 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"527a940de533cc3a016256434dfaf2ba\"",
+    "etag": "W/\"de60a49ba891025ccbbbdf535d90b34e\"",
     "last_updated": 1673802039,
-    "modified": "Wed, 19 Apr 2023 13:25:27 GMT",
+    "modified": "Thu, 20 Apr 2023 00:13:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
