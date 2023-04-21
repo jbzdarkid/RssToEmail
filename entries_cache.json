@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8b057fa712133333f1211309a32c2e0f90fb682c41c56e3dc77eeec922831a79\"",
+    "etag": "W/\"f14f4931f452db685b0fb51c685d4902cbbe4c46b3d1a2cf5aae914255599357\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 21 Apr 2023 05:58:04 GMT",
+    "modified": "Fri, 21 Apr 2023 08:25:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Fri, 21 Apr 2023 06:04:00 GMT",
+    "modified": "Fri, 21 Apr 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1681697591,
+    "last_updated": 1682062557,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:8546967bcbb24b237948d677f8045589\"",
+    "etag": "\"cacheable:9590ef4b38ef079d1146173ec795dc37\"",
     "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"26ab9a53550b2ab7817e677a567bdd94\"",
+    "etag": "\"311b9cae5a8b36622798c8893ad87aa2\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 21 Apr 2023 02:36:25 GMT",
+    "modified": "Fri, 21 Apr 2023 07:19:14 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -475,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1681887600,
+    "last_updated": 1682060400,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
