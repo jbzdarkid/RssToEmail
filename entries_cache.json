@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1682173703,
+    "last_updated": 1682337350,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"258959ef4533ec704560fc9ca7df02e362c11d13ee8a8c58fc323bf16acaeaf9\"",
+    "etag": "W/\"f1251a8395af6e6a2b93ce98889a241b82b2883ce3824716bc34cb97028bcf74\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 24 Apr 2023 09:41:49 GMT",
+    "modified": "Mon, 24 Apr 2023 16:05:28 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"9ee146453f29780b6143b5c797fce5b79904281006e4c278f1e4279e45ddbaf0\"",
-    "last_updated": 1678990020,
-    "modified": "Mon, 24 Apr 2023 10:25:11 GMT",
+    "etag": "W/\"6b05629b58738b6b27763713e53922272d3b3e116ea8efbc75ba933b7a939830\"",
+    "last_updated": 1682353620,
+    "modified": "Mon, 24 Apr 2023 16:27:57 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 24 Apr 2023 15:04:00 GMT",
+    "modified": "Mon, 24 Apr 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"0219e43c4fe1331663820e323391d5a9\"",
+    "etag": "W/\"9dbbe9cff19467a03d321762dbdd6525\"",
     "last_updated": 1682006432,
-    "modified": "Mon, 24 Apr 2023 05:57:53 GMT",
+    "modified": "Mon, 24 Apr 2023 17:01:54 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"0219e43c4fe1331663820e323391d5a9\"",
+    "etag": "W/\"9dbbe9cff19467a03d321762dbdd6525\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 24 Apr 2023 05:57:53 GMT",
+    "modified": "Mon, 24 Apr 2023 17:01:54 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"0219e43c4fe1331663820e323391d5a9\"",
+    "etag": "W/\"9dbbe9cff19467a03d321762dbdd6525\"",
     "last_updated": 1681920015,
-    "modified": "Mon, 24 Apr 2023 05:57:53 GMT",
+    "modified": "Mon, 24 Apr 2023 17:01:54 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:85cccfe05a53c6a1df73c667e98b0d38\"",
+    "etag": "\"cacheable:3d5453c3c01115dc413b81da14c638dd\"",
     "last_updated": 1681231929,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"f20aa69b15895e9fbe8aa586a9fc9f01\"",
+    "etag": "\"a0bcd41c345f70ece60200c9e3612aa8\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 24 Apr 2023 14:20:50 GMT",
+    "modified": "Mon, 24 Apr 2023 17:20:54 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -539,7 +539,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1682001914,
+    "last_updated": 1682349893,
     "name": "GDC",
     "seen_entries": []
   },
@@ -554,7 +554,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1682280018,
+    "last_updated": 1682355631,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -699,7 +699,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1680534490,
+    "last_updated": 1682350788,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
