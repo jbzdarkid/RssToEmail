@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4206e0d8bd8173b39a00fa3ed94bd3f5-ssl-df\"",
+    "etag": "\"4206e0d8bd8173b39a00fa3ed94bd3f5-ssl\"",
     "last_updated": 1682847061,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 01 May 2023 03:04:00 GMT",
+    "modified": "Mon, 01 May 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1682907970,
+    "last_updated": 1682913431,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1682308800,
+    "last_updated": 1682913600,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"3511fd7ff54e6ef27f201189dd5b899a\"",
+    "etag": "W/\"6ef67e441908379757ace7524299a12d\"",
     "last_updated": 1682006432,
-    "modified": "Sun, 30 Apr 2023 18:56:56 GMT",
+    "modified": "Mon, 01 May 2023 03:09:32 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3511fd7ff54e6ef27f201189dd5b899a\"",
+    "etag": "W/\"6ef67e441908379757ace7524299a12d\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 30 Apr 2023 18:56:56 GMT",
+    "modified": "Mon, 01 May 2023 03:09:32 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"3511fd7ff54e6ef27f201189dd5b899a\"",
+    "etag": "W/\"6ef67e441908379757ace7524299a12d\"",
     "last_updated": 1682524815,
-    "modified": "Sun, 30 Apr 2023 18:56:56 GMT",
+    "modified": "Mon, 01 May 2023 03:09:32 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:e0aeaaeab9bd3de4fd5cc6a0cce7e19a\"",
+    "etag": "\"cacheable:73dd524e5ae52c5e67121183f9669df5\"",
     "last_updated": 1682441812,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,7 +439,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1682654400,
+    "last_updated": 1682913600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -470,7 +470,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1682675634,
+    "last_updated": 1682795227,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -524,7 +524,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1682486496,
+    "last_updated": 1682913414,
     "name": "Wilde Life",
     "seen_entries": []
   },
