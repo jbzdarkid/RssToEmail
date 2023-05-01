@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"df1f1995160163e9eac6d1faee58050181b47afb9b827b86aa63a450ecb8d09b\"",
+    "etag": "W/\"b067f8f0530eb61e6fde74a297d0e4d64ec768e530a759204ef531dfd90293cb\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 01 May 2023 15:01:29 GMT",
+    "modified": "Mon, 01 May 2023 16:04:59 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"23045928c19f9ea10093a123d1e5e7662c71eae49f09699c25251e6d231d6bd0\"",
+    "etag": "W/\"5efb7afa94a8c6e1594592bbb1da9ac6a38c76bc67935269ecf68c4b45a33022\"",
     "last_updated": 1682353620,
-    "modified": "Mon, 01 May 2023 09:04:16 GMT",
+    "modified": "Mon, 01 May 2023 17:04:46 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 01 May 2023 15:04:00 GMT",
+    "modified": "Mon, 01 May 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"c01848c8753c555ec2eb7d1185e77b3e\"",
+    "etag": "W/\"898a74017edc986893d9e0509405fffe\"",
     "last_updated": 1682006432,
-    "modified": "Mon, 01 May 2023 03:03:35 GMT",
+    "modified": "Mon, 01 May 2023 17:46:20 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c01848c8753c555ec2eb7d1185e77b3e\"",
+    "etag": "W/\"898a74017edc986893d9e0509405fffe\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 01 May 2023 03:03:35 GMT",
+    "modified": "Mon, 01 May 2023 17:46:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"c01848c8753c555ec2eb7d1185e77b3e\"",
+    "etag": "W/\"898a74017edc986893d9e0509405fffe\"",
     "last_updated": 1682524815,
-    "modified": "Mon, 01 May 2023 03:03:35 GMT",
+    "modified": "Mon, 01 May 2023 17:46:20 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:4aca9972d5276b850bb066f679b79e61\"",
+    "etag": "\"cacheable:fefb27858734b8024a07da242f5be02f\"",
     "last_updated": 1682441812,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"398d8cb283bb6a2c6a9eda3a6307217a\"",
+    "etag": "\"b89dc615bea862cac41d1009119cf212\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 01 May 2023 11:17:33 GMT",
+    "modified": "Mon, 01 May 2023 15:10:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -507,9 +507,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"2a0c597ba2a7ca24c4abb0fb91199433\"",
+    "etag": "W/\"0a4d0c7229a987b24db0f5f6fa6066f8\"",
     "last_updated": 1673802039,
-    "modified": "Sat, 22 Apr 2023 18:05:34 GMT",
+    "modified": "Mon, 01 May 2023 17:38:31 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -554,7 +554,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1682874001,
+    "last_updated": 1682960427,
     "name": "LRR Videogames",
     "seen_entries": []
   },
