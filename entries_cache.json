@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"842da63184899f6ba575a4bff1f9ca9c-ssl-df\"",
+    "etag": "\"842da63184899f6ba575a4bff1f9ca9c-ssl\"",
     "last_updated": 1683331202,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 07 May 2023 03:04:00 GMT",
+    "modified": "Sun, 07 May 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"8676b4382c2fb3de4b4274d5201bcd6b\"",
+    "etag": "W/\"7ca2384c6e832e6f00e29f0bb63757d3\"",
     "last_updated": 1683216023,
-    "modified": "Sat, 06 May 2023 02:29:01 GMT",
+    "modified": "Sun, 07 May 2023 04:11:27 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8676b4382c2fb3de4b4274d5201bcd6b\"",
+    "etag": "W/\"7ca2384c6e832e6f00e29f0bb63757d3\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 06 May 2023 02:29:01 GMT",
+    "modified": "Sun, 07 May 2023 04:11:27 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8676b4382c2fb3de4b4274d5201bcd6b\"",
+    "etag": "W/\"7ca2384c6e832e6f00e29f0bb63757d3\"",
     "last_updated": 1683129608,
-    "modified": "Sat, 06 May 2023 02:29:01 GMT",
+    "modified": "Sun, 07 May 2023 04:11:27 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:8c6c798c58b5598286333f5690d4bb16\"",
+    "etag": "\"cacheable:ac470097f99ad1b1d3e71358229ef91a\"",
     "last_updated": 1683045913,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -564,7 +564,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1682006410,
+    "last_updated": 1683438710,
     "name": "Team PLC",
     "seen_entries": []
   },
