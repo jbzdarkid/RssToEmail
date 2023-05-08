@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1683369272,
+    "last_updated": 1683545844,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9ab2b95d0712c34c25ff3e070bb2edb899cc1b65d961dcc97ac775abdcee6277\"",
+    "etag": "W/\"19be713960779b4462f3218b6a6647640436bfe9dabad9603cf163769fbdaed4\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 08 May 2023 14:36:09 GMT",
+    "modified": "Mon, 08 May 2023 15:54:43 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3c1e7962029ae3f681f9de250a4fce4a225ef493433b68a9e35de60d0f1fc3d8\"",
+    "etag": "W/\"5a1ea24e3ada58b73169946c47a9fb0785fa5e6c61dcbb7b3974789e035fd8ab\"",
     "last_updated": 1682353620,
-    "modified": "Mon, 08 May 2023 10:17:35 GMT",
+    "modified": "Mon, 08 May 2023 17:35:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 08 May 2023 15:04:00 GMT",
+    "modified": "Mon, 08 May 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +383,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"e77d3ac52fcc21ede2b6534bb246b247\"",
+    "etag": "W/\"9b88a1bf51cb215807aa3028650586f7\"",
     "last_updated": 1683216023,
-    "modified": "Sun, 07 May 2023 20:56:58 GMT",
+    "modified": "Mon, 08 May 2023 17:27:04 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e77d3ac52fcc21ede2b6534bb246b247\"",
+    "etag": "W/\"9b88a1bf51cb215807aa3028650586f7\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 07 May 2023 20:56:58 GMT",
+    "modified": "Mon, 08 May 2023 17:27:04 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e77d3ac52fcc21ede2b6534bb246b247\"",
+    "etag": "W/\"9b88a1bf51cb215807aa3028650586f7\"",
     "last_updated": 1683129608,
-    "modified": "Sun, 07 May 2023 20:56:58 GMT",
+    "modified": "Mon, 08 May 2023 17:27:04 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:7e3e45e05eecd3ac68a3af2968ee3280\"",
+    "etag": "\"cacheable:09b2e2538d2e19b8e645dbfeac4a9288\"",
     "last_updated": 1683045913,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1b4965c92bc2e43755f0202baa4fbaad\"",
+    "etag": "\"81ed10798d3612716b7dbdb745921dc6\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 08 May 2023 09:22:28 GMT",
+    "modified": "Mon, 08 May 2023 18:02:43 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -554,7 +554,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1683133222,
+    "last_updated": 1683565220,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -754,9 +754,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64559238-89d\"",
-    "last_updated": 1683259200,
-    "modified": "Fri, 05 May 2023 23:33:12 GMT",
+    "etag": "W/\"64593641-86b\"",
+    "last_updated": 1683518400,
+    "modified": "Mon, 08 May 2023 17:49:53 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
