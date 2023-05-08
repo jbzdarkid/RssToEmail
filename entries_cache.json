@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"842da63184899f6ba575a4bff1f9ca9c-ssl-df\"",
-    "last_updated": 1683331202,
+    "etag": "\"2fc3516a4b7f2b56996eef2e320d5365-ssl\"",
+    "last_updated": 1683482088,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0b1b05802119ed6e08c7036f7bdf709da90c8f9d81ba2b2e2e5bca33201f9b40\"",
+    "etag": "W/\"3f19e5454fcaf46983bbc10d0cbe7f2b83dbb5c7f43615ff09860912d521c53c\"",
     "last_updated": 1682353620,
-    "modified": "Sun, 07 May 2023 11:13:48 GMT",
+    "modified": "Sun, 07 May 2023 22:23:42 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sun, 07 May 2023 21:04:00 GMT",
+    "modified": "Mon, 08 May 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:5bc40636fae10f49d5f09bf1a96c3c71\"",
+    "etag": "\"cacheable:5a079ab5f7bf510d3caf2234f2eef090\"",
     "last_updated": 1683045913,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"f754e6585fe06a2a6e4119b8f9b9ab83\"",
+    "etag": "\"a314bd8b493faed825ff139109ff00bd\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 07 May 2023 17:21:51 GMT",
+    "modified": "Mon, 08 May 2023 00:11:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
