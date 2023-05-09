@@ -68,8 +68,8 @@
     "seen_entries": []
   },
   "https://blog.momentum-mod.org/index.xml": {
-    "etag": "W/\"550274525f5bcf582231530bd3ce1592\"",
-    "last_updated": 1682754304,
+    "etag": "W/\"e6ea734c67ae546780c6bd289bb84026\"",
+    "last_updated": 1683614535,
     "name": "Momentum Mod Dev Blog",
     "seen_entries": []
   },
@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4d76a3aa5b78c8617a4733d4669f9f45443462dace832e5056a42a95d4b9573f\"",
+    "etag": "W/\"c487c7a761c158ca70c278d79241a297a9bb6621a0900a4dff8cd52ddcf3fe17\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 09 May 2023 04:08:19 GMT",
+    "modified": "Tue, 09 May 2023 08:47:08 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Tue, 09 May 2023 06:04:00 GMT",
+    "modified": "Tue, 09 May 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:972718d5e7f3ce504f0cb6016a687721\"",
+    "etag": "\"cacheable:0d013458781e798d59c41abf28106f3c\"",
     "last_updated": 1683045913,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -500,16 +500,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"fa3f83063897b140edbe3a6c049d8ca4\"",
+    "etag": "W/\"6b8a3bd48b8d985b7d56beab9846272b\"",
     "last_updated": 1683216014,
-    "modified": "Sun, 07 May 2023 17:26:41 GMT",
+    "modified": "Tue, 09 May 2023 08:46:56 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"fa3f83063897b140edbe3a6c049d8ca4\"",
+    "etag": "W/\"6b8a3bd48b8d985b7d56beab9846272b\"",
     "last_updated": 1673802039,
-    "modified": "Sun, 07 May 2023 17:26:41 GMT",
+    "modified": "Tue, 09 May 2023 08:46:56 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
