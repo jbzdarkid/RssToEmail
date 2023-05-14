@@ -101,7 +101,11 @@ def parse_feeds(cache, feed_url):
 
 def get_hearthstone_patch_notes():
     feed_url = 'https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch'
-    data = load(request.urlopen(feed_url))
+    try:
+        data = load(request.urlopen(feed_url))
+    except:
+        print_exc()
+        return
     if feed_url not in cache:
         cache[feed_url] = {
             'name': 'Hearthstone Patch Notes',
