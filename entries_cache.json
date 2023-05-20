@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -254,21 +254,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1684406193,
+    "last_updated": 1684581038,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f1b7cf9e55f92228af3c2f411d3dd96cabaabb9e411b9a66b2592997d68f381e\"",
+    "etag": "W/\"71eb7958855268fbbd528cd47e0687852f0b5af2ed2d7406283674ab7147fb11\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 20 May 2023 08:49:01 GMT",
+    "modified": "Sat, 20 May 2023 12:03:58 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"90c065ccd64b32f08afdd6b975aff02078380894920af0875d4e7ff3ea27e3c5\"",
+    "etag": "W/\"23908ce1483c3e8b48bcc48731ef3906b4ecf979b17a95ec8cf44eebcc3f4f63\"",
     "last_updated": 1682353620,
-    "modified": "Sat, 20 May 2023 06:56:54 GMT",
+    "modified": "Sat, 20 May 2023 09:51:57 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Sat, 20 May 2023 09:04:00 GMT",
+    "modified": "Sat, 20 May 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:e37c34f9853f8053d98e518a88fe078b\"",
+    "etag": "\"cacheable:e258a6c71a4124be63839684aafbdda8\"",
     "last_updated": 1684255992,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
