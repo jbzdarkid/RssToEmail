@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"207e3dbf3b68c439deddd747960e87a2-ssl\"",
+    "etag": "\"207e3dbf3b68c439deddd747960e87a2-ssl-df\"",
     "last_updated": 1684666368,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 22 May 2023 00:14:00 GMT",
+    "modified": "Mon, 22 May 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -361,7 +361,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1684116580,
+    "last_updated": 1684721607,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:99fb753511b27ce54353e2b9f1749144\"",
+    "etag": "\"cacheable:19350831fa5777ded08ecafdf24d5153\"",
     "last_updated": 1684255992,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -444,9 +444,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"60b5b9a99d7f93e69265cbcf3a81e8d1\"",
+    "etag": "\"f7e201f67e5750d6633489f28d61625f\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 21 May 2023 23:23:49 GMT",
+    "modified": "Mon, 22 May 2023 02:34:46 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
