@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"207e3dbf3b68c439deddd747960e87a2-ssl-df\"",
+    "etag": "\"207e3dbf3b68c439deddd747960e87a2-ssl\"",
     "last_updated": 1684666368,
     "name": "Explosm.net",
     "seen_entries": []
@@ -323,7 +323,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1671713092,
-    "modified": "Mon, 22 May 2023 03:04:00 GMT",
+    "modified": "Mon, 22 May 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1684123200,
+    "last_updated": 1684728000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:19350831fa5777ded08ecafdf24d5153\"",
+    "etag": "\"cacheable:9eabf38042506b0d8492b66c7fa9ac81\"",
     "last_updated": 1684255992,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -439,7 +439,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1684468800,
+    "last_updated": 1684728000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -524,7 +524,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1683696852,
+    "last_updated": 1684733021,
     "name": "Wilde Life",
     "seen_entries": []
   },
