@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"988845c2293231a8c1d16be6c6c8d8ee4d038118464dcffa749b370b0028a7a2\"",
+    "etag": "W/\"0405bec98d794e90b84f26d19ce4655a6f7ce398e0e69d95a081e5c41a9f4090\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 23 May 2023 07:47:56 GMT",
+    "modified": "Tue, 23 May 2023 11:52:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d4773ae508d67237a7b9b72871061bf8674a079fc43fcb0e7a05547b1cb02c15\"",
+    "etag": "W/\"9ad69818e13ccdf994a42a55dafb58528ed7fab318346eefd2b43f7d391f9526\"",
     "last_updated": 1682353620,
-    "modified": "Tue, 23 May 2023 06:11:28 GMT",
+    "modified": "Tue, 23 May 2023 11:58:15 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -322,8 +322,8 @@
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
-    "last_updated": 1671713092,
-    "modified": "Tue, 23 May 2023 09:04:00 GMT",
+    "last_updated": 1684835128,
+    "modified": "Tue, 23 May 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,7 +404,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:68c9ddebfc444b1faac4cb879ed0c396\"",
+    "etag": "\"cacheable:199ac38e7fe082051b1c6bd283a9d075\"",
     "last_updated": 1684255992,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -736,6 +736,11 @@
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
     "last_updated": 1668783633,
     "name": "Arcane | League of Legends",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
+    "last_updated": 1684843548,
+    "name": "Music Videos | League of Legends",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLsy9DTCWSlng5ZWtcYy_PrAy6Otr_zUm7": {
