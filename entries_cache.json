@@ -27,6 +27,13 @@
       "http://bash.org/?966506"
     ]
   },
+  "http://starryexpanse.com/feed/": {
+    "etag": "\"ffe8ba1ab30c411f23b7cc9e682e7143-gzip\"",
+    "last_updated": 1684983866,
+    "modified": "Tue, 02 May 2023 02:04:31 GMT",
+    "name": "The Starry Expanse Project",
+    "seen_entries": []
+  },
   "https://backend.deviantart.com/rss.xml?q=gallery:DrFaustusAU": {
     "last_updated": 1657046994,
     "name": "DeviantArt: DrFaustusAU's gallery",
@@ -130,10 +137,9 @@
   },
   "https://feeds.feedburner.com/nerfnow/full": {
     "last_updated": 1662541484,
-    "modified": "Wed, 24 May 2023 17:43:42 GMT",
+    "modified": "Thu, 25 May 2023 02:45:58 GMT",
     "name": "Nerf NOW!!",
     "seen_entries": [
-      "http://www.nerfnow.com/comic/3145",
       "http://www.nerfnow.com/comic/3146",
       "http://www.nerfnow.com/comic/3147",
       "http://www.nerfnow.com/comic/3148",
@@ -152,7 +158,8 @@
       "http://www.nerfnow.com/comic/3161",
       "http://www.nerfnow.com/comic/3162",
       "http://www.nerfnow.com/comic/3163",
-      "http://www.nerfnow.com/comic/3164"
+      "http://www.nerfnow.com/comic/3164",
+      "http://www.nerfnow.com/comic/3165"
     ]
   },
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
@@ -259,16 +266,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"2a96c513b9db1f520d6b886344f901440adeddf6f044fe43ea21fdc41ccd4a73\"",
+    "etag": "W/\"a5148880ee65078a82a400e6d7a2830731dc1b797350500345597999bbc0123a\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 24 May 2023 15:52:57 GMT",
+    "modified": "Thu, 25 May 2023 01:08:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2ba14450d15263f7758d373a434b4fd4d6244d30658d47be7090540ca40ec2d4\"",
+    "etag": "W/\"45fbd3bfcc967a24475c4d826001fc796824f332b52e27911b0cebde904921a7\"",
     "last_updated": 1682353620,
-    "modified": "Wed, 24 May 2023 11:55:26 GMT",
+    "modified": "Thu, 25 May 2023 01:07:56 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -323,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Wed, 24 May 2023 21:02:00 GMT",
+    "modified": "Thu, 25 May 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -383,28 +390,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"01cfa90f34507975b5b1ba8cd764c179\"",
+    "etag": "W/\"ba51e615498574ea372d6cc9e684d849\"",
     "last_updated": 1684425656,
-    "modified": "Wed, 24 May 2023 20:55:41 GMT",
+    "modified": "Thu, 25 May 2023 02:02:05 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"01cfa90f34507975b5b1ba8cd764c179\"",
+    "etag": "W/\"ba51e615498574ea372d6cc9e684d849\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 24 May 2023 20:55:41 GMT",
+    "modified": "Thu, 25 May 2023 02:02:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"01cfa90f34507975b5b1ba8cd764c179\"",
+    "etag": "W/\"ba51e615498574ea372d6cc9e684d849\"",
     "last_updated": 1684944009,
-    "modified": "Wed, 24 May 2023 20:55:41 GMT",
+    "modified": "Thu, 25 May 2023 02:02:05 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:d6ecd99337a09e6dd3a761daf4e610f1\"",
+    "etag": "\"cacheable:bfe73d20de4cacd64f0b8ab2947286c3\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -500,16 +507,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1ba08fe8949c4787b49824aaa9f434c6\"",
+    "etag": "W/\"58d50163e81b774680cba3262be71cad\"",
     "last_updated": 1683820855,
-    "modified": "Wed, 24 May 2023 15:10:40 GMT",
+    "modified": "Thu, 25 May 2023 00:35:50 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1ba08fe8949c4787b49824aaa9f434c6\"",
+    "etag": "W/\"58d50163e81b774680cba3262be71cad\"",
     "last_updated": 1673802039,
-    "modified": "Wed, 24 May 2023 15:10:40 GMT",
+    "modified": "Thu, 25 May 2023 00:35:50 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -759,9 +766,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"646c2c61-883\"",
-    "last_updated": 1684728000,
-    "modified": "Tue, 23 May 2023 03:00:49 GMT",
+    "etag": "W/\"646ec8cf-7e5\"",
+    "last_updated": 1684900800,
+    "modified": "Thu, 25 May 2023 02:32:47 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
