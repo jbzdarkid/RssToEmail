@@ -105,7 +105,7 @@ def get_hearthstone_patch_notes():
         data = load(request.urlopen(feed_url))
     except:
         print_exc()
-        return
+        return []
     if feed_url not in cache:
         cache[feed_url] = {
             'name': 'Hearthstone Patch Notes',
