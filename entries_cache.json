@@ -88,7 +88,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -116,7 +116,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"30093e3bd3b0e399a6dbf8c79847507f-ssl\"",
+    "etag": "\"30093e3bd3b0e399a6dbf8c79847507f-ssl-df\"",
     "last_updated": 1685063249,
     "name": "Explosm.net",
     "seen_entries": []
@@ -261,14 +261,14 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1684921759,
+    "last_updated": 1685098102,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"532301bdd5d3617d14ed6bde092620a6ddc657a9b2b421f486b0fca6fd7afed6\"",
+    "etag": "W/\"4a2e9b8e1c4d7cfd1393ab9c46536609726c1c7f2e4c825063dc59e7bcf9b62f\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 26 May 2023 12:02:37 GMT",
+    "modified": "Fri, 26 May 2023 15:01:15 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Fri, 26 May 2023 12:04:00 GMT",
+    "modified": "Fri, 26 May 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:414982b11ed100054f09a5c1b8093c1d\"",
+    "etag": "\"cacheable:88ad8e16db51b211aa8a3c504d004dce\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,8 +495,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1681516800,
-    "modified": "Sat, 15 Apr 2023 00:00:00 +0000",
+    "last_updated": 1685111640,
+    "modified": "Fri, 26 May 2023 14:34:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -507,16 +507,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"62df2a94ae8e62bf28a218e5b4fbe4a5\"",
+    "etag": "W/\"d343c7a17bcad8e259f7396f80652901\"",
     "last_updated": 1685030437,
-    "modified": "Thu, 25 May 2023 20:17:29 GMT",
+    "modified": "Fri, 26 May 2023 12:46:21 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"62df2a94ae8e62bf28a218e5b4fbe4a5\"",
+    "etag": "W/\"d343c7a17bcad8e259f7396f80652901\"",
     "last_updated": 1673802039,
-    "modified": "Thu, 25 May 2023 20:17:29 GMT",
+    "modified": "Fri, 26 May 2023 12:46:21 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
