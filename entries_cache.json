@@ -88,7 +88,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,16 +266,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0f063c31cb0e60c642900fb82e9e812468654561cf77cde92e3616b0b63b0a77\"",
+    "etag": "W/\"9900283cffcb6f34d4d26f800d071a9a4275e7d1e0722884f1629f92ae9fcc75\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 27 May 2023 12:02:22 GMT",
+    "modified": "Sat, 27 May 2023 14:46:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5cdf5c2a5410e78c4e3578b6171a5fab641416ed55cd08cfe14f5d04ea3061d0\"",
+    "etag": "W/\"3f8f1a12bdb305f660d093ae0b600d82f3c9ede99e0bd5d948eda8cc04c05d28\"",
     "last_updated": 1682353620,
-    "modified": "Sat, 27 May 2023 10:53:51 GMT",
+    "modified": "Sat, 27 May 2023 12:16:21 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Sat, 27 May 2023 12:04:00 GMT",
+    "modified": "Sat, 27 May 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:d323f73d56bede5eabc105e1aff897a6\"",
+    "etag": "\"cacheable:0256ec042ad161f1d1b94d0b3a54f2b4\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -596,7 +596,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA": {
-    "last_updated": 1671388908,
+    "last_updated": 1685189314,
     "name": "I Fight Dragons",
     "seen_entries": []
   },
