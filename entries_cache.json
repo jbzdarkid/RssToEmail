@@ -88,7 +88,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -116,7 +116,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e0aae351da4da7bdf889c55576c49212-ssl-df\"",
+    "etag": "\"e0aae351da4da7bdf889c55576c49212-ssl\"",
     "last_updated": 1685404853,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,16 +266,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"cf01cb452d196ebe52ed28404453641de7ee64ac97ddb57c151b85c3b519dbe4\"",
+    "etag": "W/\"4a4b5c25cbaf9ff1e61269d3a1c6a47fd06a14db4c9c45a1fc75dd231e122cab\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 29 May 2023 20:41:45 GMT",
+    "modified": "Tue, 30 May 2023 08:30:30 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"652601262cf3ecc090ccd829025f699ed9403943b242fedb3ce1092e102f5453\"",
+    "etag": "W/\"2ddb63e7c173baee31807d99aea4d1628d25ee6980081bcebc610ab397d484fb\"",
     "last_updated": 1682353620,
-    "modified": "Tue, 30 May 2023 05:45:09 GMT",
+    "modified": "Tue, 30 May 2023 08:11:59 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Tue, 30 May 2023 06:04:00 GMT",
+    "modified": "Tue, 30 May 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:85ba5e81aa2b182f21bb899716170454\"",
+    "etag": "\"cacheable:4ea3c1d17b098a7852e4357260bfd3ab\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
