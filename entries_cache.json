@@ -88,7 +88,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Fri, 02 Jun 2023 03:04:00 GMT",
+    "modified": "Fri, 02 Jun 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,21 +397,21 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"335800a7eccd3261bae814fdf4797609\"",
+    "etag": "W/\"5b2f9e14ca7ea2125af41ca00b88642d\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 02 Jun 2023 03:03:00 GMT",
+    "modified": "Thu, 01 Jun 2023 02:16:48 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"262b9319c55923c59a5c9dffdf5168da\"",
+    "etag": "W/\"335800a7eccd3261bae814fdf4797609\"",
     "last_updated": 1685548847,
-    "modified": "Fri, 02 Jun 2023 02:35:38 GMT",
+    "modified": "Fri, 02 Jun 2023 03:03:00 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:d8d78ee552489168c19de5c86ea43748\"",
+    "etag": "\"cacheable:06cf0c9137f45c083bed5c4063eaac2f\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -446,14 +446,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1685592000,
+    "last_updated": 1685678400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"19dbc53ac119df45beace896debfe5c8\"",
+    "etag": "\"a05613a1a131a185b8972b087dcab03a\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 02 Jun 2023 03:04:44 GMT",
+    "modified": "Fri, 02 Jun 2023 06:00:11 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1685564231,
+    "last_updated": 1685636340,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
