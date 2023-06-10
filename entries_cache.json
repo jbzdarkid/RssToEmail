@@ -88,7 +88,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -116,8 +116,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f8e897031741c2c8a13ab4f0276de23f-ssl-df\"",
-    "last_updated": 1686325975,
+    "etag": "\"cc8043743f90e2b89451ba1b473cc4d4-ssl-df\"",
+    "last_updated": 1686355243,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Sat, 10 Jun 2023 03:04:00 GMT",
+    "modified": "Sat, 10 Jun 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,28 +390,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"bcdaee637a307a5844b82a5dbfd51b01\"",
+    "etag": "W/\"64e6129be25d38ca6f8bd806fa448244\"",
     "last_updated": 1685633427,
-    "modified": "Sat, 10 Jun 2023 01:35:53 GMT",
+    "modified": "Sat, 10 Jun 2023 05:39:52 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"bcdaee637a307a5844b82a5dbfd51b01\"",
+    "etag": "W/\"64e6129be25d38ca6f8bd806fa448244\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 10 Jun 2023 01:35:53 GMT",
+    "modified": "Sat, 10 Jun 2023 05:39:52 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"bcdaee637a307a5844b82a5dbfd51b01\"",
+    "etag": "W/\"64e6129be25d38ca6f8bd806fa448244\"",
     "last_updated": 1686153627,
-    "modified": "Sat, 10 Jun 2023 01:35:53 GMT",
+    "modified": "Sat, 10 Jun 2023 05:39:52 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:6feec6e9359f956d7026cb9cca08283e\"",
+    "etag": "\"cacheable:aaf6f8b8130d00ada750e3796a8011e2\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1686234750,
+    "last_updated": 1686306632,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
