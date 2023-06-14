@@ -88,7 +88,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -116,7 +116,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f321a39908bbecbff03e2da6564290f5-ssl\"",
+    "etag": "\"f321a39908bbecbff03e2da6564290f5-ssl-df\"",
     "last_updated": 1686614434,
     "name": "Explosm.net",
     "seen_entries": []
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Wed, 14 Jun 2023 03:04:00 GMT",
+    "modified": "Wed, 14 Jun 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,28 +390,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"76e363b62e1d7e5b4cb2f76d97452b57\"",
+    "etag": "W/\"338094adba00ebb16318d33665b70e19\"",
     "last_updated": 1685633427,
-    "modified": "Wed, 14 Jun 2023 01:52:23 GMT",
+    "modified": "Wed, 14 Jun 2023 05:19:38 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"3905d4415d9aad955bb498798a1efcde\"",
+    "etag": "W/\"338094adba00ebb16318d33665b70e19\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 13 Jun 2023 13:15:28 GMT",
+    "modified": "Wed, 14 Jun 2023 05:19:38 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"76e363b62e1d7e5b4cb2f76d97452b57\"",
+    "etag": "W/\"338094adba00ebb16318d33665b70e19\"",
     "last_updated": 1686153627,
-    "modified": "Wed, 14 Jun 2023 01:52:23 GMT",
+    "modified": "Wed, 14 Jun 2023 05:19:38 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:5794a8e93927b1e85822c1cefe5c2d3e\"",
+    "etag": "\"cacheable:4701a1939216787f7c2edc62efcac744\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -446,7 +446,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1686628800,
+    "last_updated": 1686715200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -531,7 +531,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1686547963,
+    "last_updated": 1686721518,
     "name": "Wilde Life",
     "seen_entries": []
   },
