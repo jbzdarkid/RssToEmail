@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1686693600,
+    "last_updated": 1686780000,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3f38ad753f9758ef7eae061ac40d39fdf7e339feceec0b533e763e4897e9ea80\"",
+    "etag": "W/\"5e21b3a9c8b7d5623bbb7c6b925ab03a6356557e6a93401bee30c369403a2fe4\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 15 Jun 2023 14:30:04 GMT",
+    "modified": "Thu, 15 Jun 2023 17:03:01 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -294,7 +294,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1684779446,
+    "last_updated": 1686352218,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Thu, 15 Jun 2023 15:04:00 GMT",
+    "modified": "Thu, 15 Jun 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,23 +390,23 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"2031713ebc031d5c8de58c9db4f7d92d\"",
-    "last_updated": 1685633427,
-    "modified": "Thu, 15 Jun 2023 01:14:45 GMT",
+    "etag": "W/\"721b5814b17f487b8cbf6a392f606a00\"",
+    "last_updated": 1686844825,
+    "modified": "Thu, 15 Jun 2023 17:50:09 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e34166c737c855c57939c4e5c511b92c\"",
+    "etag": "W/\"721b5814b17f487b8cbf6a392f606a00\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 15 Jun 2023 07:05:10 GMT",
+    "modified": "Thu, 15 Jun 2023 17:50:09 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"bec45b82c5a294601735eeca95b83025\"",
+    "etag": "W/\"721b5814b17f487b8cbf6a392f606a00\"",
     "last_updated": 1686758404,
-    "modified": "Thu, 15 Jun 2023 14:46:52 GMT",
+    "modified": "Thu, 15 Jun 2023 17:50:09 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"20b12899865ffb2063ddda9072cd9aed\"",
+    "etag": "\"da1c99a01e3b9c9805c9dd9c1aca432a\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 15 Jun 2023 14:26:54 GMT",
+    "modified": "Thu, 15 Jun 2023 17:31:14 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
