@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"c38ecf4ca9dce16007e9baee73168f61f45647c3dd11719317f2d1033637d9c0\"",
+    "etag": "W/\"608b4f91edd8a176da3f0d356f5dd50f724534ad180861a330166477a7a1b307\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 14 Jun 2023 15:58:30 GMT",
+    "modified": "Thu, 15 Jun 2023 08:57:26 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ae8abaf29d93647ea48881625f206ca44ffd50c547a2160dc0a3ba03ccf4eaf4\"",
+    "etag": "W/\"fcbd8069694b8ff9eb6de9e8a97ab2b5ce36a11dad94dcebe7b1372e75b22a22\"",
     "last_updated": 1682353620,
-    "modified": "Thu, 15 Jun 2023 05:32:35 GMT",
+    "modified": "Thu, 15 Jun 2023 07:33:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Thu, 15 Jun 2023 06:04:00 GMT",
+    "modified": "Thu, 15 Jun 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,28 +390,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"d0e93da9e1638db4f54b8c25b5f31377\"",
+    "etag": "W/\"31375e0e48ea9464d957c7084f397929\"",
     "last_updated": 1685633427,
-    "modified": "Thu, 15 Jun 2023 04:18:34 GMT",
+    "modified": "Thu, 15 Jun 2023 07:52:02 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d0e93da9e1638db4f54b8c25b5f31377\"",
+    "etag": "W/\"ee2f118a964966c3c41016e166961275\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 15 Jun 2023 04:18:34 GMT",
+    "modified": "Wed, 14 Jun 2023 23:49:58 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d0e93da9e1638db4f54b8c25b5f31377\"",
+    "etag": "W/\"31375e0e48ea9464d957c7084f397929\"",
     "last_updated": 1686758404,
-    "modified": "Thu, 15 Jun 2023 04:18:34 GMT",
+    "modified": "Thu, 15 Jun 2023 07:52:02 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:091d31d7cb685022f4d573ec5836c428\"",
+    "etag": "\"cacheable:39ab5b19283a20392746bc384830f910\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -446,14 +446,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1686801600,
+    "last_updated": 1686813300,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"71bfd08f225847e391092ea03c425445\"",
+    "etag": "\"4b8667984d18993eb2b1249ea594739c\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 15 Jun 2023 01:01:27 GMT",
+    "modified": "Thu, 15 Jun 2023 08:14:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
