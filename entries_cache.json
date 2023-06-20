@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a2e1f401ae60f3f4a7288bdb606c2283ffdfc89f699fe6f4f468e2fb46ebe171\"",
+    "etag": "W/\"fc6b2860ce10d28e2201ac5b4202829a1ad6f466dba62a4afd4a5f997a1bb293\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 20 Jun 2023 15:02:56 GMT",
+    "modified": "Tue, 20 Jun 2023 15:51:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Tue, 20 Jun 2023 15:04:00 GMT",
+    "modified": "Tue, 20 Jun 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,28 +390,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"ab6a41b60f2031c4a652fb23ba76cdd8\"",
+    "etag": "W/\"af5611a1cc92757d71286a1dc026d70e\"",
     "last_updated": 1686844825,
-    "modified": "Mon, 19 Jun 2023 20:05:36 GMT",
+    "modified": "Tue, 20 Jun 2023 16:58:54 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"ab6a41b60f2031c4a652fb23ba76cdd8\"",
+    "etag": "W/\"af5611a1cc92757d71286a1dc026d70e\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 19 Jun 2023 20:05:36 GMT",
+    "modified": "Tue, 20 Jun 2023 16:58:54 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"1de43598051a6b5e0c61c6aff70ab8de\"",
+    "etag": "W/\"af5611a1cc92757d71286a1dc026d70e\"",
     "last_updated": 1686758404,
-    "modified": "Tue, 20 Jun 2023 14:16:37 GMT",
+    "modified": "Tue, 20 Jun 2023 16:58:54 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:f6719e27a057da29e52bd72452fdd2df\"",
+    "etag": "\"cacheable:4faeef5a4c64a40e8bcf9ba1cf511478\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -561,7 +561,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1687194010,
+    "last_updated": 1687280431,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -661,7 +661,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1686589211,
+    "last_updated": 1687280419,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
