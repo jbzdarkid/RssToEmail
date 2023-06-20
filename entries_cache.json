@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e57f936f9d33750ffd637cd9c2239e0a-ssl-df\"",
-    "last_updated": 1687047467,
+    "etag": "\"19f2db88556866124d29f5172d9ecd4e-ssl-df\"",
+    "last_updated": 1687213291,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"48af5bb0f2711bec17642080ec69814df4e5463e54bcaa4be75d6b1560b264e5\"",
+    "etag": "W/\"b833497e128308f1b313e1c2db1c8a7e1fe2d4b0c84be7db64a5b06797fcd2d4\"",
     "last_updated": 1682353620,
-    "modified": "Mon, 19 Jun 2023 21:07:44 GMT",
+    "modified": "Tue, 20 Jun 2023 05:32:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Tue, 20 Jun 2023 03:04:00 GMT",
+    "modified": "Tue, 20 Jun 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,9 +397,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b45dc9f402fde8197c1dcdb174ab8622\"",
+    "etag": "W/\"3ff89dfe5dbef6c8668a20ad93b7140e\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 19 Jun 2023 19:00:28 GMT",
+    "modified": "Tue, 20 Jun 2023 01:02:55 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:9a4a1885292dcf03b547644989b18038\"",
+    "etag": "\"cacheable:5910dbd7032e620de3d619a4064ef251\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -446,7 +446,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1687147200,
+    "last_updated": 1687233600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1686949635,
+    "last_updated": 1687127793,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
