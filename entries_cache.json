@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1687298400,
+    "last_updated": 1687471200,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -254,14 +254,14 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1687339428,
+    "last_updated": 1687512850,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"91a9ce7894f36b0f75cb5271e4d208b45350c408890b20623c505fc0e2352bb8\"",
+    "etag": "W/\"9472969f0b5c7ebf1251b4dcbe4c6a585eab7c9faa787b617a64a8e0bf8e78b8\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 23 Jun 2023 12:00:53 GMT",
+    "modified": "Fri, 23 Jun 2023 14:55:33 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Fri, 23 Jun 2023 12:06:00 GMT",
+    "modified": "Fri, 23 Jun 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,16 +390,16 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"d055c923985f9b67394871e5e67be061\"",
+    "etag": "W/\"f232a62f31013c1bf7f43a331dc24946\"",
     "last_updated": 1686844825,
-    "modified": "Fri, 23 Jun 2023 07:16:16 GMT",
+    "modified": "Fri, 23 Jun 2023 05:50:14 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d055c923985f9b67394871e5e67be061\"",
+    "etag": "W/\"f232a62f31013c1bf7f43a331dc24946\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 23 Jun 2023 07:16:16 GMT",
+    "modified": "Fri, 23 Jun 2023 05:50:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:13ef09acdc2809d36d2aba2d59b72b09\"",
+    "etag": "\"cacheable:75d29ef230fa8542e6db26c2e9fa356b\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a21668bc6e395dcb107fc8f149a5b0a2\"",
+    "etag": "\"94bae60c58b076de63e19ef0e8481102\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 23 Jun 2023 11:59:38 GMT",
+    "modified": "Fri, 23 Jun 2023 12:57:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -507,16 +507,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e3fbf761d928662fef861245b414a330\"",
+    "etag": "W/\"53f85ab22bcb78b27b4d81c2298e227c\"",
     "last_updated": 1686240024,
-    "modified": "Fri, 23 Jun 2023 11:14:59 GMT",
+    "modified": "Fri, 23 Jun 2023 13:33:30 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"e3fbf761d928662fef861245b414a330\"",
+    "etag": "W/\"176918857f40a3b3dc276e08d00d7a23\"",
     "last_updated": 1673802039,
-    "modified": "Fri, 23 Jun 2023 11:14:59 GMT",
+    "modified": "Fri, 23 Jun 2023 14:52:55 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
