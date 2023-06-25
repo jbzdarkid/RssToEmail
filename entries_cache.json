@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5e9730f61b4bf5aa60156ece02a5471bbfad6e50dc0dc4dd2221f5d99b2aa32c\"",
+    "etag": "W/\"c0dd875ae70e7b940dfd8ede42a480f909df32605c02bf0ac40eded5147ec96c\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 25 Jun 2023 15:56:51 GMT",
+    "modified": "Sun, 25 Jun 2023 18:21:56 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Sun, 25 Jun 2023 18:04:00 GMT",
+    "modified": "Sun, 25 Jun 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -404,14 +404,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"b9592d0fc0d8058fa0501a0ad4d8e925\"",
+    "etag": "W/\"88c391784a6533732f96721434e39946\"",
     "last_updated": 1687363257,
-    "modified": "Sat, 24 Jun 2023 22:53:44 GMT",
+    "modified": "Sat, 24 Jun 2023 22:20:21 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:49924258e5f59e1301c77c49928e2717\"",
+    "etag": "\"cacheable:d3f1fe49fc4cb1cf8ba413d2ddefcd3c\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"879a25e2897fb0d4cf6ee3e6d02dd405\"",
+    "etag": "\"cebe91a94b9c1d271399e536cc0501f6\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 25 Jun 2023 16:49:54 GMT",
+    "modified": "Sun, 25 Jun 2023 20:35:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -726,7 +726,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1687014011,
+    "last_updated": 1687720474,
     "name": "SourceRuns",
     "seen_entries": []
   },
