@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1687644000,
+    "last_updated": 1687730400,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"921834970545d14b76484a171d5e20f4d1d88939cafb6f0d45657d45f2633e03\"",
+    "etag": "W/\"44747e4128cd1c93982854b9cfa5fd5f99c5ac6aa1526db4bf15a85bd177d9b2\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 26 Jun 2023 14:59:28 GMT",
+    "modified": "Mon, 26 Jun 2023 15:28:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"74b9b8d6f817fa25ac0ed581e64c20405316e5701bf6f46aff1fabaf9bdbea64\"",
+    "etag": "W/\"3eb181753f5dd3281be7a69035883f71938d71ce06e8ac12b32ad9a166ebc30f\"",
     "last_updated": 1682353620,
-    "modified": "Sun, 25 Jun 2023 21:27:32 GMT",
+    "modified": "Mon, 26 Jun 2023 17:23:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Mon, 26 Jun 2023 15:04:00 GMT",
+    "modified": "Mon, 26 Jun 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -380,7 +380,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1687147200,
+    "last_updated": 1687752000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -390,40 +390,39 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"7c6a10175aec0cc2a416f5be18cf8307\"",
+    "etag": "W/\"d350109f2b4c3227b503cd32b1319369\"",
     "last_updated": 1686844825,
-    "modified": "Sun, 25 Jun 2023 21:41:23 GMT",
+    "modified": "Mon, 26 Jun 2023 17:28:22 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"aa43f4d3f2f57c7d06db2a52be5eec5e\"",
+    "etag": "W/\"d350109f2b4c3227b503cd32b1319369\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 25 Jun 2023 19:51:11 GMT",
+    "modified": "Mon, 26 Jun 2023 17:28:22 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"7c6a10175aec0cc2a416f5be18cf8307\"",
+    "etag": "W/\"d350109f2b4c3227b503cd32b1319369\"",
     "last_updated": 1687363257,
-    "modified": "Sun, 25 Jun 2023 21:41:23 GMT",
+    "modified": "Mon, 26 Jun 2023 17:28:22 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:c263e409b12e238ad35afe21282a5631\"",
+    "etag": "\"cacheable:4c3ce3ee25db5fe83650e453b1a5078e\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8DB63725B5C4E26\"",
+    "etag": "\"0x8DB765E47EC6EBB\"",
     "last_updated": 0,
-    "modified": "Fri, 02 Jun 2023 14:05:01 GMT",
+    "modified": "Mon, 26 Jun 2023 15:59:10 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1263.html",
       "http://www.giantitp.com/comics/oots1264.html",
       "http://www.giantitp.com/comics/oots1265.html",
       "http://www.giantitp.com/comics/oots1266.html",
@@ -442,7 +441,8 @@
       "http://www.giantitp.com/comics/oots1279.html",
       "http://www.giantitp.com/comics/oots1280.html",
       "http://www.giantitp.com/comics/oots1281.html",
-      "http://www.giantitp.com/comics/oots1282.html"
+      "http://www.giantitp.com/comics/oots1282.html",
+      "http://www.giantitp.com/comics/oots1283.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"dd432184b92bded58ad7616514af7004\"",
+    "etag": "\"7471141a0d65f3132cbdc832b29245b9\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 26 Jun 2023 03:33:14 GMT",
+    "modified": "Mon, 26 Jun 2023 17:47:17 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -541,7 +541,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Q4WBqNtMF_2GbIsGjic4A": {
-    "last_updated": 1572108776,
+    "last_updated": 1687795228,
     "name": "yahtzee19",
     "seen_entries": []
   },
@@ -561,7 +561,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1687366820,
+    "last_updated": 1687798814,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -766,9 +766,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6495ca76-8cb\"",
-    "last_updated": 1687492800,
-    "modified": "Fri, 23 Jun 2023 16:38:14 GMT",
+    "etag": "W/\"6499b2b0-8e7\"",
+    "last_updated": 1687752000,
+    "modified": "Mon, 26 Jun 2023 15:45:52 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
