@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"50d9a4b2460b04fc09f2f71debd91bf9-ssl\"",
-    "last_updated": 1687691978,
+    "etag": "\"fd6b7a03ba64147173e21be981c0f9b4-ssl-df\"",
+    "last_updated": 1687824053,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"aca5f342176c7826e2f3a2d20be6babc883f8fc27df79f8203add38fae136169\"",
+    "etag": "W/\"3323d100d6e813023363076cb8e7320504f76175290b7cc1504d337a4c2f5caa\"",
     "last_updated": 1682353620,
-    "modified": "Mon, 26 Jun 2023 22:47:40 GMT",
+    "modified": "Tue, 27 Jun 2023 04:38:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Tue, 27 Jun 2023 03:14:00 GMT",
+    "modified": "Tue, 27 Jun 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:81a9e43e89fce058bfc8610b5692974c\"",
+    "etag": "\"cacheable:a9dd1ec652a82d57abf8d1efc686fdc0\"",
     "last_updated": 1684860976,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1687655141,
+    "last_updated": 1687750056,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
