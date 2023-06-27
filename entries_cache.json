@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1687730400,
+    "last_updated": 1687816800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"ae6b3c4f30aadef324a1f37e3c378c6de523a2f3e05ee41b20866db13c9b29a6\"",
+    "etag": "W/\"12efba87c4001912d61bb2e8a9fd255e7e535b54f9a13cb9375673b6b943af60\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 27 Jun 2023 15:00:41 GMT",
+    "modified": "Tue, 27 Jun 2023 15:48:07 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"28f91b34028529ce839131ea363e5b5084b9f90a14672fc9b4a4a8b018b61d1b\"",
+    "etag": "W/\"d6ca30ad61122222835e6193f27f7902e96b1042f9a906d3b8d9bbcd75e5ce09\"",
     "last_updated": 1682353620,
-    "modified": "Tue, 27 Jun 2023 09:01:08 GMT",
+    "modified": "Tue, 27 Jun 2023 17:10:47 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -294,7 +294,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1686352218,
+    "last_updated": 1687287468,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Tue, 27 Jun 2023 15:04:00 GMT",
+    "modified": "Tue, 27 Jun 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,29 +390,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"711d7bbac4142044a09dc1daa70423f3\"",
+    "etag": "W/\"29c27706ccbf0dc88fb93ef66bbdebd8\"",
     "last_updated": 1686844825,
-    "modified": "Mon, 26 Jun 2023 23:45:49 GMT",
+    "modified": "Tue, 27 Jun 2023 17:08:01 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"711d7bbac4142044a09dc1daa70423f3\"",
+    "etag": "W/\"1853e162a5b959e6519049f0aad85127\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 26 Jun 2023 23:45:49 GMT",
+    "modified": "Mon, 26 Jun 2023 23:11:03 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"711d7bbac4142044a09dc1daa70423f3\"",
-    "last_updated": 1687363257,
-    "modified": "Mon, 26 Jun 2023 23:45:49 GMT",
+    "etag": "W/\"89c98b8131a3dcbfa94293ce5a1280d7\"",
+    "last_updated": 1687885206,
+    "modified": "Tue, 27 Jun 2023 17:37:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:28fa0d69b3460b65467205d56f5e4391\"",
-    "last_updated": 1684860976,
+    "etag": "\"cacheable:ad1ab46c6356444ea1af3f81f90104ee\"",
+    "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"86e65ffdf412694ab784fbe8d6a7e4ac\"",
+    "etag": "\"279a95971825eca5641d9d4ed4e420b6\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 27 Jun 2023 14:50:38 GMT",
+    "modified": "Tue, 27 Jun 2023 18:03:19 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
