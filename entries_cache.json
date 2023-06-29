@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"03c7d3db84138a32d69af71d1cc79afb66bcc7814f4ad1192a952b3c28c558c1\"",
+    "etag": "W/\"ebb94bc17b4fbfdf00e59838b0d39c95e0052504c35fc7d115a25a1a30674238\"",
     "last_updated": 1682353620,
-    "modified": "Wed, 28 Jun 2023 21:38:43 GMT",
+    "modified": "Thu, 29 Jun 2023 05:47:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Thu, 29 Jun 2023 03:10:00 GMT",
+    "modified": "Thu, 29 Jun 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:3686f7d8b20a5231c74deb92c1e4a551\"",
+    "etag": "\"cacheable:63e47c808451fdd9913df936feb0a87c\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -446,14 +446,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1687924800,
+    "last_updated": 1688011200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6e5e9c8a2e6131098653cd7fea05dfc8\"",
+    "etag": "\"65cd55c72dcd7f37a198ca385e13a156\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 29 Jun 2023 02:49:54 GMT",
+    "modified": "Thu, 29 Jun 2023 05:54:18 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1687750056,
+    "last_updated": 1687864872,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
