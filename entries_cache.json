@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Sat, 01 Jul 2023 03:18:00 GMT",
+    "modified": "Sat, 01 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1688179408,
+    "last_updated": 1688188089,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -397,9 +397,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5d7a78a9941b32e7f2eac2fc70d4d07d\"",
+    "etag": "W/\"cb346c7dcf1075b6504d3b173a46009b\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 01 Jul 2023 00:08:45 GMT",
+    "modified": "Sat, 01 Jul 2023 00:54:35 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:c7f4371c3c41c98f48b4781e739794c8\"",
+    "etag": "\"cacheable:2df882d84507afc0d9418958c377a1f0\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"93b82ce860cb66d562245fb2701f39a7\"",
+    "etag": "\"c8770e585966fa9112e89b978d19e722\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 01 Jul 2023 03:09:07 GMT",
+    "modified": "Sat, 01 Jul 2023 03:52:41 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1687984097,
+    "last_updated": 1688066540,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
