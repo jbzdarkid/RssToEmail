@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Sun, 02 Jul 2023 00:18:00 GMT",
+    "modified": "Sun, 02 Jul 2023 03:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -390,16 +390,16 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"de9748eb6216f16e8a837ec4af1b1e3a\"",
+    "etag": "W/\"b574e258235f4fcf4ed029a8144477ee\"",
     "last_updated": 1688054424,
-    "modified": "Sat, 01 Jul 2023 01:18:26 GMT",
+    "modified": "Sat, 01 Jul 2023 23:59:49 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"de9748eb6216f16e8a837ec4af1b1e3a\"",
+    "etag": "W/\"b574e258235f4fcf4ed029a8144477ee\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 01 Jul 2023 01:18:26 GMT",
+    "modified": "Sat, 01 Jul 2023 23:59:49 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:e429a36acf58e059ecb757c0247bc707\"",
+    "etag": "\"cacheable:9f489d972171fe1d804c5bb73dbcbe18\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -451,9 +451,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1e4ccf1e477bc25a37220155f194c217\"",
+    "etag": "\"4d487da74d2b1ddca276e7bb17e69b11\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 01 Jul 2023 19:10:46 GMT",
+    "modified": "Sun, 02 Jul 2023 03:14:18 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -507,9 +507,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"957cfedffa46582329a70d472f6f94b5\"",
+    "etag": "W/\"8cf456db15a3c734befe9e6a9c6d89af\"",
     "last_updated": 1688054418,
-    "modified": "Thu, 29 Jun 2023 16:02:38 GMT",
+    "modified": "Fri, 30 Jun 2023 12:15:09 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
