@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"3fc48a1b9f46d55d7da6c1696eadbf29-ssl\"",
-    "last_updated": 1688434884,
+    "etag": "\"6ae9caaf85ccffac24e737a1c7d58ec9-ssl-df\"",
+    "last_updated": 1688515214,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -330,7 +330,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english&snr=1_2108_9__2107": {
     "last_updated": 1684835128,
-    "modified": "Wed, 05 Jul 2023 03:14:00 GMT",
+    "modified": "Wed, 05 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -397,9 +397,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"4d6961df02b27273cdab4b47cf2c2331\"",
+    "etag": "W/\"b4b1681c15438e2b2663004dc23c01be\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 04 Jul 2023 12:45:06 GMT",
+    "modified": "Wed, 05 Jul 2023 02:10:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -411,7 +411,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:ca724df96fea80585e63d9da6b84dc38\"",
+    "etag": "\"cacheable:e2f5c21b55d3eecc88aeeaedd6c4dba4\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -446,14 +446,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1688443200,
+    "last_updated": 1688529600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a91b2d86ca8267159a321d7b813872b9\"",
+    "etag": "\"a7a5ce98f699409d855b08c0b50948e3\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 04 Jul 2023 21:52:37 GMT",
+    "modified": "Wed, 05 Jul 2023 05:49:53 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -477,7 +477,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1688284638,
+    "last_updated": 1688487278,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -507,9 +507,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"957cfedffa46582329a70d472f6f94b5\"",
+    "etag": "W/\"8cf456db15a3c734befe9e6a9c6d89af\"",
     "last_updated": 1688054418,
-    "modified": "Thu, 29 Jun 2023 16:02:38 GMT",
+    "modified": "Fri, 30 Jun 2023 12:15:09 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -531,7 +531,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1688360508,
+    "last_updated": 1688533208,
     "name": "Wilde Life",
     "seen_entries": []
   },
