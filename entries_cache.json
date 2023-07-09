@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"11729b12b43e16be9712f8adce2dc52c04f2a64492850c816537aa7b3013dbb6\"",
+    "etag": "W/\"c5ea35ec387d9d77c4e7201b9e27b9de87d0d7cddf6a78d88976ea108aa286e7\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 08 Jul 2023 21:31:27 GMT",
+    "modified": "Sun, 09 Jul 2023 05:41:37 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 09 Jul 2023 03:16:00 GMT",
+    "modified": "Sun, 09 Jul 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 09 Jul 2023 03:16:00 GMT",
+    "modified": "Sun, 09 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -409,9 +409,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"495412ba2bc9d98083b0b77432d540db\"",
+    "etag": "W/\"8167571a644fbeac0b5016f879f3fb7c\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 08 Jul 2023 00:20:30 GMT",
+    "modified": "Sat, 08 Jul 2023 23:36:24 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:6c55b0dc400b9d9e47ed1cdcf8b316aa\"",
+    "etag": "\"cacheable:ab72ff1bbca4dca600a383d6d5818277\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -489,7 +489,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1688645760,
+    "last_updated": 1688784031,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
