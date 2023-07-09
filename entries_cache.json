@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 09 Jul 2023 00:20:00 GMT",
+    "modified": "Sun, 09 Jul 2023 03:16:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 09 Jul 2023 00:20:00 GMT",
+    "modified": "Sun, 09 Jul 2023 03:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,16 +402,16 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"495412ba2bc9d98083b0b77432d540db\"",
+    "etag": "W/\"8167571a644fbeac0b5016f879f3fb7c\"",
     "last_updated": 1688054424,
-    "modified": "Sat, 08 Jul 2023 00:20:30 GMT",
+    "modified": "Sat, 08 Jul 2023 23:36:24 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8167571a644fbeac0b5016f879f3fb7c\"",
+    "etag": "W/\"495412ba2bc9d98083b0b77432d540db\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 08 Jul 2023 23:36:24 GMT",
+    "modified": "Sat, 08 Jul 2023 00:20:30 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:0bc6a4641f460ff2e632fbbd0e7472d3\"",
+    "etag": "\"cacheable:6c55b0dc400b9d9e47ed1cdcf8b316aa\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
