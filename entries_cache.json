@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"15620edf56b020e9c29ec5e8006ce413-ssl-df\"",
+    "etag": "\"15620edf56b020e9c29ec5e8006ce413-ssl\"",
     "last_updated": 1689038674,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a16a576ea4b4128263728e47d1f892205fe112e66826cc9503510b6600eab1a5\"",
+    "etag": "W/\"b6283822b6e3d2cdc7f1f2362fa5cc4460bdb13fcb663b7a3ba07f748a948210\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 11 Jul 2023 14:46:19 GMT",
+    "modified": "Tue, 11 Jul 2023 15:42:11 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 11 Jul 2023 15:04:00 GMT",
+    "modified": "Tue, 11 Jul 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 11 Jul 2023 15:04:00 GMT",
+    "modified": "Tue, 11 Jul 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,29 +402,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"9517aaa630b27d491f1a3666875ef53f\"",
+    "etag": "W/\"1a83db83b9138f18e7cfbb7528016eba\"",
     "last_updated": 1688054424,
-    "modified": "Tue, 11 Jul 2023 01:41:02 GMT",
+    "modified": "Tue, 11 Jul 2023 17:40:12 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9517aaa630b27d491f1a3666875ef53f\"",
+    "etag": "W/\"ee9b7b400e77a5a7c1ca0072a8a64a42\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 11 Jul 2023 01:41:02 GMT",
+    "modified": "Tue, 11 Jul 2023 05:37:59 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"29351b848a76bb5e839ccd675ec06ca6\"",
+    "etag": "W/\"1a83db83b9138f18e7cfbb7528016eba\"",
     "last_updated": 1688572854,
-    "modified": "Tue, 11 Jul 2023 13:51:42 GMT",
+    "modified": "Tue, 11 Jul 2023 17:40:12 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:c6fc101c6128fc403417b40b9295b7f5\"",
-    "last_updated": 1687884301,
+    "etag": "\"cacheable:1b344cba54e1313134418333b65366b5\"",
+    "last_updated": 1689093969,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d6a2dbe3d25321cea5b215289fd147e2\"",
+    "etag": "\"4b8d921b61847d669f6e13d4df695dc7\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 11 Jul 2023 13:39:55 GMT",
+    "modified": "Tue, 11 Jul 2023 18:03:04 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -573,7 +573,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1689008431,
+    "last_updated": 1689094838,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -748,7 +748,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUPKuAVC8PO4N7wmS4OlXS_m0vMSTqUyY": {
-    "last_updated": 1681406895,
+    "last_updated": 1689095643,
     "name": "Brace Yourself Games Trailers",
     "seen_entries": []
   },
