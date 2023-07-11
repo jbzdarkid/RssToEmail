@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"227f1807e46d986c0a0e45122a11ac5b-ssl-df\"",
+    "etag": "\"227f1807e46d986c0a0e45122a11ac5b-ssl\"",
     "last_updated": 1689012865,
     "name": "Explosm.net",
     "seen_entries": []
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 11 Jul 2023 03:08:00 GMT",
+    "modified": "Tue, 11 Jul 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 11 Jul 2023 03:08:00 GMT",
+    "modified": "Tue, 11 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"a90bf3749b105aa9d25a9fc505b1b332\"",
+    "etag": "W/\"ee9b7b400e77a5a7c1ca0072a8a64a42\"",
     "last_updated": 1688054424,
-    "modified": "Mon, 10 Jul 2023 23:37:08 GMT",
+    "modified": "Tue, 11 Jul 2023 05:37:59 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
@@ -416,14 +416,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a90bf3749b105aa9d25a9fc505b1b332\"",
+    "etag": "W/\"ad81f82464d507cf650e50f78b7e75f3\"",
     "last_updated": 1688572854,
-    "modified": "Mon, 10 Jul 2023 23:37:08 GMT",
+    "modified": "Tue, 11 Jul 2023 05:31:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:773c7dc024e5d4214af8940119b8fd04\"",
+    "etag": "\"cacheable:64d105b6690cedd59ed1f8d800319560\"",
     "last_updated": 1687884301,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -458,7 +458,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1688961600,
+    "last_updated": 1689048000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"ccf4825bfde14f884341e28bb3d932fb\"",
+    "etag": "W/\"f601f0d8adf77f6f140f1775de2d44fa\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 10 Jul 2023 16:00:29 GMT",
+    "modified": "Tue, 11 Jul 2023 05:57:26 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
