@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"15620edf56b020e9c29ec5e8006ce413-ssl\"",
-    "last_updated": 1689038674,
+    "etag": "\"870252cd5dadf9023f99a91c5745545d-ssl-df\"",
+    "last_updated": 1689120001,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 12 Jul 2023 03:12:00 GMT",
+    "modified": "Wed, 12 Jul 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 12 Jul 2023 03:12:00 GMT",
+    "modified": "Wed, 12 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:a4da70da8f734b83a37f7687f483c53a\"",
+    "etag": "\"cacheable:061ba7ef2f1d78f4613358d35f74866e\"",
     "last_updated": 1689093969,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -458,14 +458,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1689048000,
+    "last_updated": 1689134400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2c6d02397e1cd8e1adf20e152b9a0ce7\"",
+    "etag": "\"e3b3ceabac67578cbd428f61fb73e5a3\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 11 Jul 2023 20:53:42 GMT",
+    "modified": "Wed, 12 Jul 2023 05:30:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -489,7 +489,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1688839374,
+    "last_updated": 1689078119,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bd1712dbe72b61cb0ee2c941e5ebb51f\"",
+    "etag": "W/\"68acf8e1c68f675bfce8e06b366d79f2\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 11 Jul 2023 12:59:19 GMT",
+    "modified": "Wed, 12 Jul 2023 05:52:30 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1688965018,
+    "last_updated": 1689137451,
     "name": "Wilde Life",
     "seen_entries": []
   },
