@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1689112800,
+    "last_updated": 1689285600,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"870252cd5dadf9023f99a91c5745545d-ssl-df\"",
+    "etag": "\"870252cd5dadf9023f99a91c5745545d-ssl\"",
     "last_updated": 1689120001,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8273dcf72e76536c40b01ebed600a09cc482fb23738f6a46fff72aa2c723ec0b\"",
+    "etag": "W/\"52373160b78d8c2583363b0eccff0b6863c68fe67865310dc6335c81f5a663e0\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 14 Jul 2023 14:51:16 GMT",
+    "modified": "Fri, 14 Jul 2023 15:22:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 14 Jul 2023 15:04:00 GMT",
+    "modified": "Fri, 14 Jul 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 14 Jul 2023 15:04:00 GMT",
+    "modified": "Fri, 14 Jul 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"7708b0e65e7af9cb28f48766619228ab\"",
+    "etag": "W/\"aa3f3aef661aa481d93ce9e0bee1d08e\"",
     "last_updated": 1689264051,
-    "modified": "Fri, 14 Jul 2023 10:54:06 GMT",
+    "modified": "Fri, 14 Jul 2023 16:20:40 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7708b0e65e7af9cb28f48766619228ab\"",
+    "etag": "W/\"4d7382a05d6df994828b72d7ef4a47f6\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 14 Jul 2023 10:54:06 GMT",
+    "modified": "Fri, 14 Jul 2023 18:03:16 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"7708b0e65e7af9cb28f48766619228ab\"",
+    "etag": "W/\"aa3f3aef661aa481d93ce9e0bee1d08e\"",
     "last_updated": 1689177639,
-    "modified": "Fri, 14 Jul 2023 10:54:06 GMT",
+    "modified": "Fri, 14 Jul 2023 16:20:40 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:1739fa168bfa7ccaa221c4f3deea19d7\"",
+    "etag": "\"cacheable:5078ce32e6766adeca89acd8aded0e38\"",
     "last_updated": 1689093969,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b7f7eb842e362a82aa0a24dedc983de3\"",
+    "etag": "\"1e91117a44d3988d844de39e4ff67d1f\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 14 Jul 2023 13:19:55 GMT",
+    "modified": "Fri, 14 Jul 2023 17:59:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
