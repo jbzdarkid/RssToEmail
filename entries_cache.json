@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 14 Jul 2023 03:14:00 GMT",
+    "modified": "Fri, 14 Jul 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 14 Jul 2023 03:14:00 GMT",
+    "modified": "Fri, 14 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -409,9 +409,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"91b489a11cc4c67a5f00307fbae7e3ec\"",
+    "etag": "W/\"e6a23649d0fb60cc53119008dea4057b\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 13 Jul 2023 01:57:23 GMT",
+    "modified": "Fri, 14 Jul 2023 00:32:34 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:1e383c290c2d61617ce91e1e4ec64d87\"",
+    "etag": "\"cacheable:953c44ab79619be11432a138d44433ad\"",
     "last_updated": 1689093969,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -458,14 +458,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1689220800,
+    "last_updated": 1689307200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"868b4b62e54ee8e9085a8e35bfd436d6\"",
+    "etag": "\"1bf22d908f4423fc0c3923fcee42c0fa\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 14 Jul 2023 02:46:37 GMT",
+    "modified": "Fri, 14 Jul 2023 06:03:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -489,7 +489,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1689078119,
+    "last_updated": 1689181628,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -507,8 +507,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1689224700,
-    "modified": "Thu, 13 Jul 2023 05:05:00 +0000",
+    "last_updated": 1689309300,
+    "modified": "Fri, 14 Jul 2023 04:35:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1689137451,
+    "last_updated": 1689307351,
     "name": "Wilde Life",
     "seen_entries": []
   },
