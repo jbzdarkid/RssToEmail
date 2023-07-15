@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"870252cd5dadf9023f99a91c5745545d-ssl-df\"",
-    "last_updated": 1689120001,
+    "etag": "\"14e1f9dbc640f6c730790f88a12488cb-ssl\"",
+    "last_updated": 1689349201,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 14 Jul 2023 21:04:00 GMT",
+    "modified": "Sat, 15 Jul 2023 00:16:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 14 Jul 2023 21:04:00 GMT",
+    "modified": "Sat, 15 Jul 2023 00:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"ad5c6b5fffbce26f4fe7bdd5cbd361da\"",
+    "etag": "W/\"53013acfbe9ec13f99e012197434593e\"",
     "last_updated": 1689264051,
-    "modified": "Fri, 14 Jul 2023 20:19:19 GMT",
+    "modified": "Fri, 14 Jul 2023 20:32:39 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:6a4ff6c2b9ac73801d117cb180961ac4\"",
+    "etag": "\"cacheable:9d09ae3dc995afc67d8abf566aabea7c\"",
     "last_updated": 1689093969,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3630fe85d6b87616651dc624cd3154c1\"",
+    "etag": "\"00618b7c4e8d0020bc58ee388f2c3a1d\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 14 Jul 2023 20:59:07 GMT",
+    "modified": "Fri, 14 Jul 2023 23:24:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
