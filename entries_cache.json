@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 17 Jul 2023 03:16:00 GMT",
+    "modified": "Mon, 17 Jul 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 17 Jul 2023 03:16:00 GMT",
+    "modified": "Mon, 17 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -392,7 +392,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1688961600,
+    "last_updated": 1689566400,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:215f3b22a99efc9bd28acb013be0ddb7\"",
+    "etag": "\"cacheable:d31b5db8827b9c6676ccd84f3412b2d7\"",
     "last_updated": 1689093969,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -458,14 +458,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1689307200,
+    "last_updated": 1689566400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4cc55b6b72f56961cea859e6b6b5b265\"",
+    "etag": "\"f94c4a8ac6f625561dc33ad149ad330a\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 17 Jul 2023 01:32:50 GMT",
+    "modified": "Mon, 17 Jul 2023 05:31:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -489,7 +489,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1689370318,
+    "last_updated": 1689432756,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1689307351,
+    "last_updated": 1689568530,
     "name": "Wilde Life",
     "seen_entries": []
   },
