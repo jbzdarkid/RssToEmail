@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5bf5fe0f96a66282d6a0d0d92ed406e3fe52a73d367373541ec83008d90a493c\"",
+    "etag": "W/\"bfb915c47eb906dd6e1cb423f6b13e328f35c8270147a1452c837b9306bd4c94\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 21 Jul 2023 15:04:14 GMT",
+    "modified": "Fri, 21 Jul 2023 16:34:55 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b80534c8a745229d80b0f9b86e593ac817100300323e790a7334e5484fe7e900\"",
+    "etag": "W/\"0c6852bce8bf3c7699bdbfd1695d5c3ec6daf5eb684ea6cfe15faac40f49592c\"",
     "last_updated": 1682353620,
-    "modified": "Fri, 21 Jul 2023 09:37:04 GMT",
+    "modified": "Fri, 21 Jul 2023 17:57:59 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1689782392,
-    "modified": "Fri, 21 Jul 2023 15:04:00 GMT",
+    "modified": "Fri, 21 Jul 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 21 Jul 2023 15:04:00 GMT",
+    "modified": "Fri, 21 Jul 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"1a6470bf94b6cbea610f4cec62bb2899\"",
+    "etag": "W/\"5d789b142d876ba80eb28fd04b736708\"",
     "last_updated": 1689264051,
-    "modified": "Fri, 21 Jul 2023 05:09:22 GMT",
+    "modified": "Fri, 21 Jul 2023 17:57:56 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"1a6470bf94b6cbea610f4cec62bb2899\"",
+    "etag": "W/\"5d789b142d876ba80eb28fd04b736708\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 21 Jul 2023 05:09:22 GMT",
+    "modified": "Fri, 21 Jul 2023 17:57:56 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"522c971a05d2438eac36bf7627d2a784\"",
+    "etag": "W/\"5d789b142d876ba80eb28fd04b736708\"",
     "last_updated": 1689782448,
-    "modified": "Fri, 21 Jul 2023 14:30:51 GMT",
+    "modified": "Fri, 21 Jul 2023 17:57:56 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:1d7f055870dd77dd6659165012c426db\"",
+    "etag": "\"cacheable:3adfa882238e7260cae19dfad21ff2e8\"",
     "last_updated": 1689796852,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"88965fc81ca2d8c872bea47d2f38a302\"",
+    "etag": "\"77ac1a95deb27b699db945fdbeb4edc3\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 21 Jul 2023 14:44:39 GMT",
+    "modified": "Fri, 21 Jul 2023 17:35:45 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -718,7 +718,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1689830820,
+    "last_updated": 1689955674,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
@@ -728,7 +728,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1689699617,
+    "last_updated": 1689958824,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
