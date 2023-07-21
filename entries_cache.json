@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1689631200,
+    "last_updated": 1689890400,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"68f1423da1da2b411badcc9e79192872-ssl\"",
+    "etag": "\"68f1423da1da2b411badcc9e79192872-ssl-df\"",
     "last_updated": 1689727437,
     "name": "Explosm.net",
     "seen_entries": []
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1689782392,
-    "modified": "Fri, 21 Jul 2023 18:04:00 GMT",
+    "modified": "Fri, 21 Jul 2023 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 21 Jul 2023 18:04:00 GMT",
+    "modified": "Fri, 21 Jul 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"5d789b142d876ba80eb28fd04b736708\"",
+    "etag": "W/\"74a2fd21b8b593b199977ec6388f3e61\"",
     "last_updated": 1689264051,
-    "modified": "Fri, 21 Jul 2023 17:57:56 GMT",
+    "modified": "Fri, 21 Jul 2023 18:34:46 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5d789b142d876ba80eb28fd04b736708\"",
+    "etag": "W/\"cc9ceba0f22fd5ee5061c51e78a66028\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 21 Jul 2023 17:57:56 GMT",
+    "modified": "Thu, 20 Jul 2023 23:51:02 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5d789b142d876ba80eb28fd04b736708\"",
+    "etag": "W/\"7682cfb1005cf6afb0db5599c4977261\"",
     "last_updated": 1689782448,
-    "modified": "Fri, 21 Jul 2023 17:57:56 GMT",
+    "modified": "Fri, 21 Jul 2023 20:36:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:3adfa882238e7260cae19dfad21ff2e8\"",
+    "etag": "\"cacheable:7965c191f63a89fa6b3ab4019d5eb2d1\"",
     "last_updated": 1689796852,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"77ac1a95deb27b699db945fdbeb4edc3\"",
+    "etag": "\"89ccf7a971aa6399a5aa5e2c0ee78557\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 21 Jul 2023 17:35:45 GMT",
+    "modified": "Fri, 21 Jul 2023 19:45:31 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -778,9 +778,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64b7da8f-79f\"",
-    "last_updated": 1689739200,
-    "modified": "Wed, 19 Jul 2023 12:43:59 GMT",
+    "etag": "W/\"64bae215-855\"",
+    "last_updated": 1689912000,
+    "modified": "Fri, 21 Jul 2023 19:52:53 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
