@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"2fd15c531cb4f5e78ff1ad77c16ebc6a-ssl-df\"",
+    "etag": "\"2fd15c531cb4f5e78ff1ad77c16ebc6a-ssl\"",
     "last_updated": 1690070446,
     "name": "Explosm.net",
     "seen_entries": []
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1689782392,
-    "modified": "Mon, 24 Jul 2023 00:16:00 GMT",
+    "modified": "Mon, 24 Jul 2023 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 24 Jul 2023 00:16:00 GMT",
+    "modified": "Mon, 24 Jul 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -380,7 +380,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1689560770,
+    "last_updated": 1690165262,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"5ef9db3176692a09296cbfc9605b6577\"",
+    "etag": "W/\"c86a803f61ce6248dbc9802e8054e9a0\"",
     "last_updated": 1689264051,
-    "modified": "Sun, 23 Jul 2023 17:58:59 GMT",
+    "modified": "Mon, 24 Jul 2023 02:36:04 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5ef9db3176692a09296cbfc9605b6577\"",
+    "etag": "W/\"c86a803f61ce6248dbc9802e8054e9a0\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 23 Jul 2023 17:58:59 GMT",
+    "modified": "Mon, 24 Jul 2023 02:36:04 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"5ef9db3176692a09296cbfc9605b6577\"",
+    "etag": "W/\"c86a803f61ce6248dbc9802e8054e9a0\"",
     "last_updated": 1689782448,
-    "modified": "Sun, 23 Jul 2023 17:58:59 GMT",
+    "modified": "Mon, 24 Jul 2023 02:36:04 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:15b68bea90dfeca0ca80bf5599384651\"",
+    "etag": "\"cacheable:de19917eb9d05dcea8f456a07c80a44c\"",
     "last_updated": 1689796852,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7a7daab8c2a4836401050b0a03debe6d\"",
+    "etag": "\"f9f9bbe96d03f96a9cdfae08cc6fc5d7\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 24 Jul 2023 00:16:34 GMT",
+    "modified": "Mon, 24 Jul 2023 02:04:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
