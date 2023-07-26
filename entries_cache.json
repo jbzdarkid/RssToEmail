@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"03a62633f8e7ec87996db7a70670bc3b-ssl\"",
-    "last_updated": 1690242069,
+    "etag": "\"93c221c908b21a29c5fef97f28ab1ad5-ssl-df\"",
+    "last_updated": 1690329620,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f41d5491ba818bcce0b98c766bd0e2f839c79ea8e875a20223c33353c5cbafcf\"",
+    "etag": "W/\"3c718cf63e1a7928366f5cb7ed2fc6d0a890a1cd2752474671c3a2bc345c746e\"",
     "last_updated": 1682353620,
-    "modified": "Mon, 24 Jul 2023 23:13:27 GMT",
+    "modified": "Wed, 26 Jul 2023 05:15:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1690297244,
-    "modified": "Wed, 26 Jul 2023 03:04:00 GMT",
+    "modified": "Wed, 26 Jul 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 26 Jul 2023 03:04:00 GMT",
+    "modified": "Wed, 26 Jul 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:e3c12163c83fb82ad7605065be2ec73e\"",
+    "etag": "\"cacheable:c54fd5e3808dd7627c247a2e61485f7a\"",
     "last_updated": 1690303539,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -458,14 +458,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1690257600,
+    "last_updated": 1690344000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a47cde9dfee984eb06966fa89af97f13\"",
+    "etag": "\"4227135f66897b0b30823bf37f57b9c9\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 26 Jul 2023 01:53:11 GMT",
+    "modified": "Wed, 26 Jul 2023 05:58:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1690172702,
+    "last_updated": 1690347302,
     "name": "Wilde Life",
     "seen_entries": []
   },
