@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"47aba1e6a8b630dcbe73f5c4603ac40bef5e224eefb615895f0f5c6ff96337fe\"",
+    "etag": "W/\"581b1b2d0b60bd8a8dd7059d8150a3aca1a04bebb124391d69c26e5fd56a05c6\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 28 Jul 2023 15:03:58 GMT",
+    "modified": "Fri, 28 Jul 2023 16:06:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1690297244,
-    "modified": "Fri, 28 Jul 2023 15:04:00 GMT",
+    "modified": "Fri, 28 Jul 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 28 Jul 2023 15:04:00 GMT",
+    "modified": "Fri, 28 Jul 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"28832e9a25e2b5daa66f6b2cba8c9a64\"",
+    "etag": "W/\"a36d7baffc90c700fca09c69d141ea15\"",
     "last_updated": 1690473638,
-    "modified": "Fri, 28 Jul 2023 06:47:45 GMT",
+    "modified": "Fri, 28 Jul 2023 16:58:46 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"15512de7a4a8a1ce523cb3b8673df332\"",
+    "etag": "W/\"28832e9a25e2b5daa66f6b2cba8c9a64\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 28 Jul 2023 00:06:20 GMT",
+    "modified": "Fri, 28 Jul 2023 06:47:45 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"28832e9a25e2b5daa66f6b2cba8c9a64\"",
+    "etag": "W/\"a36d7baffc90c700fca09c69d141ea15\"",
     "last_updated": 1690387229,
-    "modified": "Fri, 28 Jul 2023 06:47:45 GMT",
+    "modified": "Fri, 28 Jul 2023 16:58:46 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:14015e24f379e7b1cf8c3e6d98a90bc6\"",
+    "etag": "\"cacheable:28bf1a7b6e1dd065b8f7d623417e7d64\"",
     "last_updated": 1690303539,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"544bb45aee87c597cd4fc359240b1e34\"",
+    "etag": "\"431761c102260e37ce2d79bf7298ce65\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 28 Jul 2023 13:12:05 GMT",
+    "modified": "Fri, 28 Jul 2023 18:03:14 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -519,16 +519,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"936e3be9d59e3788969f9aee1a8caf10\"",
+    "etag": "W/\"5451df7727f5c53e15e4bcea2828dfbd\"",
     "last_updated": 1689868778,
-    "modified": "Thu, 20 Jul 2023 16:10:00 GMT",
+    "modified": "Fri, 28 Jul 2023 16:10:24 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"936e3be9d59e3788969f9aee1a8caf10\"",
+    "etag": "W/\"f8f46283bf3154270c282414baadfcad\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 20 Jul 2023 16:10:00 GMT",
+    "modified": "Fri, 28 Jul 2023 18:02:14 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -558,7 +558,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1689869278,
+    "last_updated": 1690564811,
     "name": "GDC",
     "seen_entries": []
   },
@@ -723,7 +723,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1685383945,
+    "last_updated": 1690559968,
     "name": "Retro Game Mechanics Explained",
     "seen_entries": []
   },
