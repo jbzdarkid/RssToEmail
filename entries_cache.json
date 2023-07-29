@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"93c221c908b21a29c5fef97f28ab1ad5-ssl\"",
-    "last_updated": 1690329620,
+    "etag": "\"f1272b5723470d54a384c5112f01dcff-ssl-df\"",
+    "last_updated": 1690561239,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"581b1b2d0b60bd8a8dd7059d8150a3aca1a04bebb124391d69c26e5fd56a05c6\"",
+    "etag": "W/\"e30388a5d29d754ac3bfdc7cad7f0cfaf2634757f0be73e71760881c67d83891\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 28 Jul 2023 16:06:24 GMT",
+    "modified": "Fri, 28 Jul 2023 23:10:49 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"413124a1488b993b9334493ac8cfcd74d850f263f2dae26c155875fb2c05ae03\"",
+    "etag": "W/\"f26d486fdebe430035905795f4db973493ad889260b7344d33e955201d65ecf3\"",
     "last_updated": 1682353620,
-    "modified": "Fri, 28 Jul 2023 09:28:48 GMT",
+    "modified": "Fri, 28 Jul 2023 23:10:44 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1690297244,
-    "modified": "Fri, 28 Jul 2023 21:02:00 GMT",
+    "modified": "Sat, 29 Jul 2023 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 28 Jul 2023 21:02:00 GMT",
+    "modified": "Sat, 29 Jul 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"8f25dba5a439565001f03d69ef09518f\"",
+    "etag": "W/\"b70a3ed3557101a400085dd7b055f9f8\"",
     "last_updated": 1690473638,
-    "modified": "Fri, 28 Jul 2023 20:09:41 GMT",
+    "modified": "Fri, 28 Jul 2023 21:33:48 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8f25dba5a439565001f03d69ef09518f\"",
+    "etag": "W/\"000cbe5a81fbcca5aff189285593a2c2\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 28 Jul 2023 20:09:41 GMT",
+    "modified": "Fri, 28 Jul 2023 17:42:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8f25dba5a439565001f03d69ef09518f\"",
+    "etag": "W/\"2631c65e32673c92fbc14d57efdec649\"",
     "last_updated": 1690387229,
-    "modified": "Fri, 28 Jul 2023 20:09:41 GMT",
+    "modified": "Fri, 28 Jul 2023 23:44:47 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:5e9af8f7b1941dad58d500669ecb0c2d\"",
+    "etag": "\"cacheable:a8a06fe43b605bd69fad30f399d54dfc\"",
     "last_updated": 1690303539,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"defbf7e56d6f588d6db564ee18ff6bc9\"",
+    "etag": "\"d23a7802a1802db96d3797013500f8f6\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 28 Jul 2023 20:53:48 GMT",
+    "modified": "Fri, 28 Jul 2023 23:14:06 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -507,8 +507,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1690501680,
-    "modified": "Thu, 27 Jul 2023 23:48:00 +0000",
+    "last_updated": 1690579740,
+    "modified": "Fri, 28 Jul 2023 21:29:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -778,9 +778,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64c1b87e-923\"",
-    "last_updated": 1690344000,
-    "modified": "Thu, 27 Jul 2023 00:21:18 GMT",
+    "etag": "W/\"64c43904-8c5\"",
+    "last_updated": 1690516800,
+    "modified": "Fri, 28 Jul 2023 21:54:12 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
