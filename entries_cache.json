@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0b022e369b7ec3862890889f3b25fa5cb6b6302176f43368b48772d2ca929f21\"",
+    "etag": "W/\"5b08972bd59ca5b06033f8d429947f877d6f614ca1c451bdb8ea99decb1fed8b\"",
     "last_updated": 1690993800,
-    "modified": "Thu, 03 Aug 2023 15:41:00 GMT",
+    "modified": "Thu, 03 Aug 2023 22:59:33 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1690996162,
-    "modified": "Thu, 03 Aug 2023 21:04:00 GMT",
+    "modified": "Fri, 04 Aug 2023 00:16:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 03 Aug 2023 21:04:00 GMT",
+    "modified": "Fri, 04 Aug 2023 00:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:b679d4b1a2cc17949deb47fcd5066e6e\"",
+    "etag": "\"cacheable:4c31d77967473e013da601b8934e011c\"",
     "last_updated": 1690303539,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4cedd8c1e327314eb2179d9bf4dd54d1\"",
+    "etag": "\"a10a0e11f076945920bdced726f18c60\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 03 Aug 2023 20:52:35 GMT",
+    "modified": "Thu, 03 Aug 2023 23:15:26 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
