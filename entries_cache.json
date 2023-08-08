@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bfe8679d4b57cec7eedc9720d2da0143-ssl\"",
+    "etag": "\"bfe8679d4b57cec7eedc9720d2da0143-ssl-df\"",
     "last_updated": 1691366431,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"b5e5e253999e8ff6619ea6b038b58c56cde343e012dd945613a4ce24db2cf56d\"",
+    "etag": "W/\"c4658ec7ef83593ca675d70242faf3f6dc5a3e573e71b9ccf84ccaaaee5d281e\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 08 Aug 2023 14:58:03 GMT",
+    "modified": "Tue, 08 Aug 2023 16:12:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -294,7 +294,7 @@
     "seen_entries": []
   },
   "https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch": {
-    "last_updated": 1689108471,
+    "last_updated": 1691193611,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Tue, 08 Aug 2023 15:04:00 GMT",
+    "modified": "Tue, 08 Aug 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 08 Aug 2023 15:04:00 GMT",
+    "modified": "Tue, 08 Aug 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,29 +402,29 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"7756a30a4253f0fb1ef7b0c762134c37\"",
+    "etag": "W/\"3fdd132d12413a8ae5ecdd8af461fb14\"",
     "last_updated": 1690473638,
-    "modified": "Tue, 08 Aug 2023 15:02:01 GMT",
+    "modified": "Tue, 08 Aug 2023 17:20:18 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"7756a30a4253f0fb1ef7b0c762134c37\"",
+    "etag": "W/\"3fdd132d12413a8ae5ecdd8af461fb14\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 08 Aug 2023 15:02:01 GMT",
+    "modified": "Tue, 08 Aug 2023 17:20:18 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"b6112e9d6af15c40bced1b2897d7551d\"",
+    "etag": "W/\"3fdd132d12413a8ae5ecdd8af461fb14\"",
     "last_updated": 1690992007,
-    "modified": "Tue, 08 Aug 2023 14:48:27 GMT",
+    "modified": "Tue, 08 Aug 2023 17:20:18 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:9760b117e91d983f6435c4ece400a29c\"",
-    "last_updated": 1690303539,
+    "etag": "\"cacheable:9d18c3e73fc6353884812fbd548f9690\"",
+    "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7a6ec63985caf0ee4e690342dd1df973\"",
+    "etag": "\"29ccfbfc912543f38fe427c6fe6a920f\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 08 Aug 2023 14:03:05 GMT",
+    "modified": "Tue, 08 Aug 2023 17:34:34 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a91f7c9c191f3ac16f931caa8ab67702\"",
+    "etag": "W/\"39b07c429be3f0a75942b9355420cf19\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 08 Aug 2023 14:30:21 GMT",
+    "modified": "Tue, 08 Aug 2023 17:44:55 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -658,7 +658,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1691075980,
+    "last_updated": 1691516550,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
@@ -728,7 +728,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1691272821,
+    "last_updated": 1691514000,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
