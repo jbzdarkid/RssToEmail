@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"aa6eb3a246db9ba00675cc146f138d00-ssl\"",
+    "etag": "\"bca94449882c04af08c486375fc27fac-ssl-df\"",
     "last_updated": 1691452805,
     "name": "Explosm.net",
     "seen_entries": []
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Wed, 09 Aug 2023 03:04:00 GMT",
+    "modified": "Wed, 09 Aug 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 09 Aug 2023 03:04:00 GMT",
+    "modified": "Wed, 09 Aug 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:13d861600c599acde9ab93581e064ada\"",
+    "etag": "\"cacheable:9ad9e26dd7c2df510e1b4c4a7c6c00db\"",
     "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -458,14 +458,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1691467200,
+    "last_updated": 1691553600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d2b44b546fa7d5a11cf6598b6784863d\"",
+    "etag": "\"eb11ee4517d6919881923a53ea27283c\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 09 Aug 2023 02:44:54 GMT",
+    "modified": "Wed, 09 Aug 2023 05:18:55 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -519,9 +519,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e69b2801ef7ee4a72b99187627367fcf\"",
+    "etag": "W/\"39b07c429be3f0a75942b9355420cf19\"",
     "last_updated": 1690819228,
-    "modified": "Sun, 06 Aug 2023 14:38:03 GMT",
+    "modified": "Tue, 08 Aug 2023 17:44:55 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1691384563,
+    "last_updated": 1691553600,
     "name": "Wilde Life",
     "seen_entries": []
   },
