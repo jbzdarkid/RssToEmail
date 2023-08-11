@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"afb8ad4a0696a429d1b5c8d8c7f1c5c4-ssl\"",
+    "etag": "\"49bbe57a682bd6561523a07c919b198c-ssl\"",
     "last_updated": 1691539230,
     "name": "Explosm.net",
     "seen_entries": []
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Fri, 11 Aug 2023 00:12:00 GMT",
+    "modified": "Fri, 11 Aug 2023 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 11 Aug 2023 00:12:00 GMT",
+    "modified": "Fri, 11 Aug 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"5eac6c51dc987f29e5af8b32320bcd50\"",
+    "etag": "W/\"b2263c6ccdab22239212c56ad13254e4\"",
     "last_updated": 1691679642,
-    "modified": "Thu, 10 Aug 2023 23:31:19 GMT",
+    "modified": "Thu, 10 Aug 2023 23:46:39 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:0615c5d42933351d4633a83355041dcb\"",
+    "etag": "\"cacheable:5c3521929fe850932f179b873eed0eca\"",
     "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
