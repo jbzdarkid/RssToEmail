@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"fb16fdfd8bc8dfb49082081277bfa212-ssl-df\"",
+    "etag": "\"ac3b99709eeeb0540f3ce64404205952-ssl-df\"",
     "last_updated": 1691770904,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"39c7aa718f68c9458f257cb3326f09b0b8d5597a87316319b05ab2a0f50956da\"",
+    "etag": "W/\"c905fa65fc2862cf9fc54c3fb1edbf8fdf2b72579d866885a7b322e2903868c6\"",
     "last_updated": 1690993800,
-    "modified": "Sat, 12 Aug 2023 01:07:21 GMT",
+    "modified": "Sat, 12 Aug 2023 05:34:09 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Sat, 12 Aug 2023 03:04:00 GMT",
+    "modified": "Sat, 12 Aug 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 12 Aug 2023 03:04:00 GMT",
+    "modified": "Sat, 12 Aug 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:78cb36f4cfaa12834b2a049587cc8510\"",
+    "etag": "\"cacheable:cc957afa6fac470c2e627885adb678fe\"",
     "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"fc0aeec37b2e947a5596da8b15ae7bb3\"",
+    "etag": "\"6f53ecd924e4882b15c4ea60c5484ec9\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 11 Aug 2023 18:30:04 GMT",
+    "modified": "Sat, 12 Aug 2023 05:24:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
