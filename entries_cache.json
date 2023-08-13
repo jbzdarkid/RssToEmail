@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"d6f42f6de50236fd7f0dff4067c47d4e-ssl-df\"",
+    "etag": "\"7f2296fdea012055af6730d626768361-ssl-df\"",
     "last_updated": 1691917263,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"af06df2e268b5ff95ea48af14b96cfa7a1622c1dea5a0dd13e088349892cfab1\"",
+    "etag": "W/\"41078da59c2bfec02a8d69225262468a1fe9133d6e03b8fada3320d4117b58ea\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 13 Aug 2023 14:58:42 GMT",
+    "modified": "Sun, 13 Aug 2023 16:17:51 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Sun, 13 Aug 2023 15:02:00 GMT",
+    "modified": "Sun, 13 Aug 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 13 Aug 2023 15:02:00 GMT",
+    "modified": "Sun, 13 Aug 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:720fb315fb4e49cb341e9b24d9c82a81\"",
+    "etag": "\"cacheable:4b99a0f486869b5319945b4bbdb1aeb0\"",
     "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"eae8e9fe5f13b22322887dfd80b85932\"",
+    "etag": "\"447aaac5e3682244b2501e0ef17356b8\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 13 Aug 2023 07:25:19 GMT",
+    "modified": "Sun, 13 Aug 2023 17:49:27 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -573,7 +573,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1691784009,
+    "last_updated": 1691946024,
     "name": "LRR Videogames",
     "seen_entries": []
   },
