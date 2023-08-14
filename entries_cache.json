@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"7f2296fdea012055af6730d626768361-ssl\"",
+    "etag": "\"7f2296fdea012055af6730d626768361-ssl-df\"",
     "last_updated": 1691917263,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"2e57dc654fb0321790e4c9230662bfbf811896268615b6bec2b6e3f0c06db379\"",
+    "etag": "W/\"85be0a430764879c25fdc24382b17330e5d50633b5b9adbdad39c3e216ef6f08\"",
     "last_updated": 1690993800,
-    "modified": "Sun, 13 Aug 2023 08:08:15 GMT",
+    "modified": "Sun, 13 Aug 2023 21:48:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Sun, 13 Aug 2023 21:02:00 GMT",
+    "modified": "Mon, 14 Aug 2023 00:12:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 13 Aug 2023 21:02:00 GMT",
+    "modified": "Mon, 14 Aug 2023 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"3ccf75c2e0be25f531bb305354de980b\"",
+    "etag": "W/\"bdb2e3e36cc565361fd264c853958695\"",
     "last_updated": 1691679642,
-    "modified": "Fri, 11 Aug 2023 15:56:27 GMT",
+    "modified": "Sun, 13 Aug 2023 21:59:33 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
@@ -416,14 +416,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"3ccf75c2e0be25f531bb305354de980b\"",
+    "etag": "W/\"bdb2e3e36cc565361fd264c853958695\"",
     "last_updated": 1691596829,
-    "modified": "Fri, 11 Aug 2023 15:56:27 GMT",
+    "modified": "Sun, 13 Aug 2023 21:59:33 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:7f9d3f4609d1c39a346daf812ec8eaa9\"",
+    "etag": "\"cacheable:14608f5cf7b45869e21a7b962d1e4614\"",
     "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
