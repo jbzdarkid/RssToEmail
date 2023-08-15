@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e321288f1b99cc7ca774a9fa34558660-ssl\"",
+    "etag": "\"1280b58cd92e495f306ac9e3a7dc565b-ssl-df\"",
     "last_updated": 1692057656,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a7d191e2c3147136353c6740d80b023cde6bbb8c7ee8ddb1e452d3c5b6b22e17\"",
+    "etag": "W/\"803ed5891fc150dca39c10a247b3f5c63c9a9f3a86994ae96ac7467134cc56da\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 15 Aug 2023 11:49:18 GMT",
+    "modified": "Tue, 15 Aug 2023 14:55:00 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -330,13 +330,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Tue, 15 Aug 2023 12:04:00 GMT",
+    "modified": "Tue, 15 Aug 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 15 Aug 2023 12:04:00 GMT",
+    "modified": "Tue, 15 Aug 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,28 +402,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"507dc4033bcd16ed53b3da733888843b\"",
+    "etag": "W/\"7e7ae3f92a63138987ee6e1148f15f0a\"",
     "last_updated": 1691679642,
-    "modified": "Tue, 15 Aug 2023 00:41:22 GMT",
+    "modified": "Tue, 15 Aug 2023 14:07:51 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"507dc4033bcd16ed53b3da733888843b\"",
+    "etag": "W/\"7e7ae3f92a63138987ee6e1148f15f0a\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 15 Aug 2023 00:41:22 GMT",
+    "modified": "Tue, 15 Aug 2023 14:07:51 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"507dc4033bcd16ed53b3da733888843b\"",
+    "etag": "W/\"7e7ae3f92a63138987ee6e1148f15f0a\"",
     "last_updated": 1691596829,
-    "modified": "Tue, 15 Aug 2023 00:41:22 GMT",
+    "modified": "Tue, 15 Aug 2023 14:07:51 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:561c8bf95b776cae86a4c459b0d3d6c1\"",
+    "etag": "\"cacheable:9a92b1b15b62ca10c78121723b688b63\"",
     "last_updated": 1691513217,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -463,9 +463,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3fed959d16024230987037dddb4f7b2b\"",
+    "etag": "\"b4a3970018b9d94f12a2e11f6c9622be\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 15 Aug 2023 07:03:07 GMT",
+    "modified": "Tue, 15 Aug 2023 12:23:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -526,9 +526,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"724b024bcc1fa73f68045678ea074177\"",
+    "etag": "W/\"239a1e64e7bebcb465a9e3f6b37665d7\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 15 Aug 2023 07:20:30 GMT",
+    "modified": "Tue, 15 Aug 2023 13:39:59 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -558,7 +558,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1691765795,
+    "last_updated": 1692107853,
     "name": "GDC",
     "seen_entries": []
   },
