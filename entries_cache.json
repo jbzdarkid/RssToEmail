@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bad2eb08262a875c165e4881d1bf101d-ssl-df\"",
+    "etag": "\"bad2eb08262a875c165e4881d1bf101d-ssl\"",
     "last_updated": 1692190196,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"efd444277e13070533778fa1aa8bc8e9d23e9a868f1c041c87b838b0c5465ee3\"",
+    "etag": "W/\"5a83dd81e67b76704c4d747fe3509bc03575ecb9abf2db25627e4ab5e678f156\"",
     "last_updated": 1690993800,
-    "modified": "Thu, 17 Aug 2023 23:58:42 GMT",
+    "modified": "Fri, 18 Aug 2023 05:47:50 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Fri, 18 Aug 2023 03:04:00 GMT",
+    "modified": "Fri, 18 Aug 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 18 Aug 2023 03:04:00 GMT",
+    "modified": "Fri, 18 Aug 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"c3e09ed9ab9d822b260633553d844ef4\"",
+    "etag": "W/\"05a82d202a43a30c98c4bf56800193a5\"",
     "last_updated": 1691679642,
-    "modified": "Thu, 17 Aug 2023 23:38:39 GMT",
+    "modified": "Fri, 18 Aug 2023 03:56:00 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c3e09ed9ab9d822b260633553d844ef4\"",
+    "etag": "W/\"05a82d202a43a30c98c4bf56800193a5\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 17 Aug 2023 23:38:39 GMT",
+    "modified": "Fri, 18 Aug 2023 03:56:00 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"c3e09ed9ab9d822b260633553d844ef4\"",
+    "etag": "W/\"05a82d202a43a30c98c4bf56800193a5\"",
     "last_updated": 1692201601,
-    "modified": "Thu, 17 Aug 2023 23:38:39 GMT",
+    "modified": "Fri, 18 Aug 2023 03:56:00 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:0b15adc49329c652bd566da31129b465\"",
+    "etag": "\"cacheable:74d6709b1f907746b38faefae8ac15a2\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -464,14 +464,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1692258300,
+    "last_updated": 1692331200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ad1e54f961751ef6651c4814ff3d87ca\"",
+    "etag": "\"d8b1f2d2c992ad1ecc015a9ece19b54b\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 18 Aug 2023 01:04:47 GMT",
+    "modified": "Fri, 18 Aug 2023 05:10:59 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -549,7 +549,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1692161509,
+    "last_updated": 1692332985,
     "name": "Wilde Life",
     "seen_entries": []
   },
