@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bad2eb08262a875c165e4881d1bf101d-ssl-df\"",
+    "etag": "\"bad2eb08262a875c165e4881d1bf101d-ssl\"",
     "last_updated": 1692190196,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"5f13fc62fd5c068b7e46f17b9917aad049121c783d3becb429a5725963fbeffa\"",
+    "etag": "W/\"c39822361faccf2938abce4af8c52f532df6f807ac54201073a705f72ab2aca6\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 18 Aug 2023 16:05:33 GMT",
+    "modified": "Fri, 18 Aug 2023 20:38:35 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f923aa59dda3943dbcb8be0041bf8eadd0d1b0a32351425aa48f9ada89e29b61\"",
+    "etag": "W/\"3ca0d03078ac68aca1c773d935f5d21c25acc4821409e23e359245d29fb7b897\"",
     "last_updated": 1690993800,
-    "modified": "Fri, 18 Aug 2023 09:15:14 GMT",
+    "modified": "Fri, 18 Aug 2023 19:20:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Fri, 18 Aug 2023 18:04:00 GMT",
+    "modified": "Fri, 18 Aug 2023 21:02:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 18 Aug 2023 18:04:00 GMT",
+    "modified": "Fri, 18 Aug 2023 21:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"d652211f697aa2dc4fc001c64bda0ae0\"",
+    "etag": "W/\"489f79bf9dfecba05e560dd1a418ef85\"",
     "last_updated": 1691679642,
-    "modified": "Thu, 17 Aug 2023 18:35:58 GMT",
+    "modified": "Fri, 18 Aug 2023 20:20:44 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"05a82d202a43a30c98c4bf56800193a5\"",
+    "etag": "W/\"489f79bf9dfecba05e560dd1a418ef85\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 18 Aug 2023 03:56:00 GMT",
+    "modified": "Fri, 18 Aug 2023 20:20:44 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"d652211f697aa2dc4fc001c64bda0ae0\"",
+    "etag": "W/\"489f79bf9dfecba05e560dd1a418ef85\"",
     "last_updated": 1692201601,
-    "modified": "Thu, 17 Aug 2023 18:35:58 GMT",
+    "modified": "Fri, 18 Aug 2023 20:20:44 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:494f350ba16f0007e1664fda7f2b91b5\"",
+    "etag": "\"cacheable:9b905110b2d393f923d8539be87ad393\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -579,7 +579,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1692310139,
+    "last_updated": 1692388810,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -634,7 +634,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1688494326,
+    "last_updated": 1692383681,
     "name": "Tom Francis",
     "seen_entries": []
   },
@@ -784,9 +784,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64dd32d5-a85\"",
-    "last_updated": 1692158400,
-    "modified": "Wed, 16 Aug 2023 20:34:29 GMT",
+    "etag": "W/\"64dfce2a-9c1\"",
+    "last_updated": 1692331200,
+    "modified": "Fri, 18 Aug 2023 20:01:46 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
