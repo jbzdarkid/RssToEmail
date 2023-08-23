@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"228126d991e62141da25eb9afef4f15c7c2f1a51dd4053c4e209b65da6bb5b19\"",
+    "etag": "W/\"92848c51897ab167f32a70dfcd2d247f1b2cf790f0abefee23da0963e46879c5\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 22 Aug 2023 19:39:16 GMT",
+    "modified": "Tue, 22 Aug 2023 21:52:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1aa4ed5a837d1246e9839404bc1ddbaa2b739c70c368ba6b2171f56c846135fa\"",
+    "etag": "W/\"865768d87746055e13b1f09bbec4435f2050e6aa216a3c6d2961469c1f2cc568\"",
     "last_updated": 1690993800,
-    "modified": "Tue, 22 Aug 2023 11:38:39 GMT",
+    "modified": "Tue, 22 Aug 2023 21:52:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Tue, 22 Aug 2023 21:04:00 GMT",
+    "modified": "Wed, 23 Aug 2023 00:12:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 22 Aug 2023 21:04:00 GMT",
+    "modified": "Wed, 23 Aug 2023 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1692583925,
+    "last_updated": 1692743649,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"73df1f8b10b92acb9022a9f17c22f0a2\"",
+    "etag": "W/\"2a19f61c3dc85b3d0db3169c3cf286c4\"",
     "last_updated": 1691679642,
-    "modified": "Tue, 22 Aug 2023 20:27:42 GMT",
+    "modified": "Tue, 22 Aug 2023 21:15:30 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"dbd8ed4bfa1a8efc4e84a12669d0a797\"",
+    "etag": "W/\"13a619543c5547a83ba6abf97da72e58\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 22 Aug 2023 20:47:45 GMT",
+    "modified": "Tue, 22 Aug 2023 14:24:46 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"73df1f8b10b92acb9022a9f17c22f0a2\"",
+    "etag": "W/\"2a19f61c3dc85b3d0db3169c3cf286c4\"",
     "last_updated": 1692201601,
-    "modified": "Tue, 22 Aug 2023 20:27:42 GMT",
+    "modified": "Tue, 22 Aug 2023 21:15:30 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:894a70876532584489a6cea51bc9749d\"",
+    "etag": "\"cacheable:66cbd5ce7724f69659614b1e11b85ad4\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8541bc8d979f98dff16e918b9ecc98d1\"",
+    "etag": "\"40f7f478e812058a0f0add4976af80f2\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 22 Aug 2023 21:02:34 GMT",
+    "modified": "Tue, 22 Aug 2023 22:34:14 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -649,7 +649,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1686853697,
+    "last_updated": 1692742744,
     "name": "Steamworks Development",
     "seen_entries": []
   },
