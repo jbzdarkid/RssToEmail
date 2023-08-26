@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1692914400,
+    "last_updated": 1693000800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f99512c500d21dfd69df524504a8b3593b26ec9bbeb3b290a94bb5f6095f1dfe\"",
+    "etag": "W/\"6b6d57850c3dc264779aca4aa97a80155f199e8f89b938dcd0a1e77f085bfb72\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 26 Aug 2023 16:36:05 GMT",
+    "modified": "Sat, 26 Aug 2023 20:13:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Sat, 26 Aug 2023 18:04:00 GMT",
+    "modified": "Sat, 26 Aug 2023 21:02:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 26 Aug 2023 18:04:00 GMT",
+    "modified": "Sat, 26 Aug 2023 21:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1692909747,
+    "last_updated": 1693082119,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:f20e6b6ba50422201451267f2c2e6aaf\"",
+    "etag": "\"cacheable:dd5f83166abd3720aad54711f38428cf\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
