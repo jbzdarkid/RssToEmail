@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"5e30456287fdf7a2fa17cea43e272878-ssl\"",
-    "last_updated": 1692748832,
+    "etag": "\"24d168d7358c629390fb67598ae0076e-ssl\"",
+    "last_updated": 1692975734,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e5a1744f7a16e44eea78fc4edb13193ba70ee8230a2e8977ad2cf278f38ec8c2\"",
+    "etag": "W/\"aa9a1f80ab29123fbf975342a8ed3ef60cbd89e7269eddf593d14d0c76f07a06\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 25 Aug 2023 19:15:42 GMT",
+    "modified": "Fri, 25 Aug 2023 23:48:24 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"38986ee46f5d5c62ba0526ba667cad639a7d08bb4e23dbcb2361711cd358eb18\"",
+    "etag": "W/\"573bd109448df18e7781cbdd0bcd627f07104f31f345c5e6769b31f653aaaaaf\"",
     "last_updated": 1690993800,
-    "modified": "Fri, 25 Aug 2023 09:33:35 GMT",
+    "modified": "Fri, 25 Aug 2023 23:47:43 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Fri, 25 Aug 2023 21:02:00 GMT",
+    "modified": "Sat, 26 Aug 2023 00:12:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 25 Aug 2023 21:02:00 GMT",
+    "modified": "Sat, 26 Aug 2023 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"e6772049851a19d054316f0926928d3c\"",
+    "etag": "W/\"c6c1d744a60addb896439566fdab1224\"",
     "last_updated": 1692892824,
-    "modified": "Fri, 25 Aug 2023 20:39:23 GMT",
+    "modified": "Fri, 25 Aug 2023 22:44:43 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"5d56d903380154ef728a7c9e3218a12f\"",
+    "etag": "W/\"c6c1d744a60addb896439566fdab1224\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 25 Aug 2023 20:55:20 GMT",
+    "modified": "Fri, 25 Aug 2023 22:44:43 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"e6772049851a19d054316f0926928d3c\"",
+    "etag": "W/\"c6c1d744a60addb896439566fdab1224\"",
     "last_updated": 1692806437,
-    "modified": "Fri, 25 Aug 2023 20:39:23 GMT",
+    "modified": "Fri, 25 Aug 2023 22:44:43 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:599ebf379f653b8ceadff4855403f357\"",
+    "etag": "\"cacheable:d1fbd7c0c956729fa66bc2a601ec812d\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"40893c26e7013e19ee53e40bddd60d43\"",
+    "etag": "\"5e69572be342dc7ff86ffa3912709f77\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 25 Aug 2023 19:38:55 GMT",
+    "modified": "Fri, 25 Aug 2023 22:55:08 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
