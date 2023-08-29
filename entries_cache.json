@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"192a9cdb0693140399858612bc0261a0-ssl\"",
-    "last_updated": 1693092986,
+    "etag": "\"78d8fe343c278334c64f2083e8da94cc-ssl-df\"",
+    "last_updated": 1693264842,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"25891b4463dae2221110b35e0bbabb07eb05d28b16e3e909060c7b77a96f36fd\"",
+    "etag": "W/\"c6f9e0ca38769ca747540f8afb13297c40363a536c201c4e7c8a95b67c45a566\"",
     "last_updated": 1690993800,
-    "modified": "Tue, 29 Aug 2023 01:30:22 GMT",
+    "modified": "Tue, 29 Aug 2023 05:41:22 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Tue, 29 Aug 2023 03:04:00 GMT",
+    "modified": "Tue, 29 Aug 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 29 Aug 2023 03:04:00 GMT",
+    "modified": "Tue, 29 Aug 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:a420a624dfeb85563805ba0adfc60e13\"",
+    "etag": "\"cacheable:3f391528998a793be0f4d0de9051dd09\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -464,7 +464,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1693195200,
+    "last_updated": 1693281600,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
