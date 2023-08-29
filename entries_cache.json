@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1693173600,
+    "last_updated": 1693260000,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"9bc98631556f5aaf21267795891015221efa857443c267f0559b328366a1b6f3\"",
+    "etag": "W/\"826a5154d4eb6746d333026c9d5418daf3448b97a634bcb3764f9ae325cac040\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 29 Aug 2023 12:00:15 GMT",
+    "modified": "Tue, 29 Aug 2023 15:03:59 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c6f9e0ca38769ca747540f8afb13297c40363a536c201c4e7c8a95b67c45a566\"",
+    "etag": "W/\"e1a0c90f5db3b65e824a27b87d7b911fa71bb393200b240e5aa53c92d708ac0d\"",
     "last_updated": 1690993800,
-    "modified": "Tue, 29 Aug 2023 05:41:22 GMT",
+    "modified": "Tue, 29 Aug 2023 13:03:48 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Tue, 29 Aug 2023 12:04:00 GMT",
+    "modified": "Tue, 29 Aug 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 29 Aug 2023 12:04:00 GMT",
+    "modified": "Tue, 29 Aug 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,9 +408,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"33c0d806b1453b8ae0cb9c50967d3bb0\"",
+    "etag": "W/\"c32f320748a3b4c114612443a34c20f1\"",
     "last_updated": 1692892824,
-    "modified": "Tue, 29 Aug 2023 00:22:51 GMT",
+    "modified": "Tue, 29 Aug 2023 14:33:55 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
@@ -422,14 +422,14 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"33c0d806b1453b8ae0cb9c50967d3bb0\"",
+    "etag": "W/\"c32f320748a3b4c114612443a34c20f1\"",
     "last_updated": 1692806437,
-    "modified": "Tue, 29 Aug 2023 00:22:51 GMT",
+    "modified": "Tue, 29 Aug 2023 14:33:55 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:15f51634c10a986060c7beb713f9645b\"",
+    "etag": "\"cacheable:492c1eb4c0a630cebb298a3591db4fa8\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
