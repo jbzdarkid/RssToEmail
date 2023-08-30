@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"78d8fe343c278334c64f2083e8da94cc-ssl-df\"",
-    "last_updated": 1693264842,
+    "etag": "\"86379c259982698c57e78275863d2bdb-ssl-df\"",
+    "last_updated": 1693353646,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a900bfbc99c925952c3912bda9c2cbe8208a846f5ad20cba0c80b53d74f69c05\"",
+    "etag": "W/\"96579b8e6e30f568d4e9c721e27efa89786502f07c5354e222b578147b47304a\"",
     "last_updated": 1690993800,
-    "modified": "Tue, 29 Aug 2023 23:07:25 GMT",
+    "modified": "Wed, 30 Aug 2023 05:15:03 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Wed, 30 Aug 2023 03:04:00 GMT",
+    "modified": "Wed, 30 Aug 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 30 Aug 2023 03:04:00 GMT",
+    "modified": "Wed, 30 Aug 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e1f036a9052f45dfcb95234b24131894\"",
+    "etag": "W/\"01587c0e7ee88afabba85abff7ec01db\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 29 Aug 2023 17:25:14 GMT",
+    "modified": "Wed, 30 Aug 2023 01:09:00 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:24e13d321cc727fb622aa438531ca49b\"",
+    "etag": "\"cacheable:135ea3f92244216a07f0a23ed60403d8\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -464,7 +464,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1693281600,
+    "last_updated": 1693368000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
