@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"86379c259982698c57e78275863d2bdb-ssl\"",
+    "etag": "\"86379c259982698c57e78275863d2bdb-ssl-df\"",
     "last_updated": 1693353646,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a59fb71ad9a904f43a6693186a2eebcbb00a4b9fa527e42f9288a0e86fcc9eb2\"",
+    "etag": "W/\"2f9123ff5c227d4a94b830f26fba2a2ee1b0569c6fc783f5cda486752036e19b\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 31 Aug 2023 11:15:50 GMT",
+    "modified": "Thu, 31 Aug 2023 14:25:32 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3ae9ce779d6a63cba09e72b9d345878ba2d17b5685bbdb7ee3c792b310efa4b4\"",
+    "etag": "W/\"09e43d17b95fed70cb5e888f10af4eb9c03ec87840143fd94785d47701837aac\"",
     "last_updated": 1690993800,
-    "modified": "Thu, 31 Aug 2023 12:04:48 GMT",
+    "modified": "Thu, 31 Aug 2023 14:25:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Thu, 31 Aug 2023 12:04:00 GMT",
+    "modified": "Thu, 31 Aug 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 31 Aug 2023 12:04:00 GMT",
+    "modified": "Thu, 31 Aug 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"70479a81438d671b912e819653f34890\"",
+    "etag": "W/\"eb8ade2c7d57b51f9e317fa1e02077a6\"",
     "last_updated": 1692892824,
-    "modified": "Wed, 30 Aug 2023 22:31:11 GMT",
+    "modified": "Thu, 31 Aug 2023 14:59:40 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"70479a81438d671b912e819653f34890\"",
+    "etag": "W/\"f1f6b22b8547d18bfdda9500aaf9905c\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 30 Aug 2023 22:31:11 GMT",
+    "modified": "Thu, 31 Aug 2023 15:02:23 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"70479a81438d671b912e819653f34890\"",
+    "etag": "W/\"86bea720382204350b9c5c96060cd8d3\"",
     "last_updated": 1693411203,
-    "modified": "Wed, 30 Aug 2023 22:31:11 GMT",
+    "modified": "Thu, 31 Aug 2023 13:28:14 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:fd82a43758c45c935b7fae879f9d2f37\"",
+    "etag": "\"cacheable:565c495340ffd955b52df81654b4f8e3\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d601270f7b23e577eb93236d071f39f5\"",
+    "etag": "\"50d42fa51fa617deac32a301e955d582\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 31 Aug 2023 11:41:04 GMT",
+    "modified": "Thu, 31 Aug 2023 14:58:19 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -789,9 +789,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64efed39-8cd\"",
+    "etag": "W/\"64f0a79c-8cd\"",
     "last_updated": 1693368000,
-    "modified": "Thu, 31 Aug 2023 01:30:33 GMT",
+    "modified": "Thu, 31 Aug 2023 14:45:48 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
