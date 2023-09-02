@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"028530a103d4f4e8e5bcc9d9e4c6fe171df8aa900a58beaf97b89adfc8ce3073\"",
+    "etag": "W/\"71028bb09024c087f5d94325ea488af4fbb75519a1c2deb92e7fea342f740fe4\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 01 Sep 2023 20:42:02 GMT",
+    "modified": "Sat, 02 Sep 2023 02:19:14 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a65764c1ee6aba03bf353bdc450f67e9d01c695f24349241eb32f13b875cfb81\"",
+    "etag": "W/\"94df511e04100d116232d00fb02924df6b080f013073a355c343e0a2075620de\"",
     "last_updated": 1690993800,
-    "modified": "Fri, 01 Sep 2023 20:22:29 GMT",
+    "modified": "Sat, 02 Sep 2023 02:19:04 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Sat, 02 Sep 2023 00:12:00 GMT",
+    "modified": "Sat, 02 Sep 2023 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 02 Sep 2023 00:12:00 GMT",
+    "modified": "Sat, 02 Sep 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"c30476e3768ee756e1508cee96b97f36\"",
+    "etag": "W/\"b11316945a674dd30558b1ee20c0f3a3\"",
     "last_updated": 1692892824,
-    "modified": "Fri, 01 Sep 2023 21:36:14 GMT",
+    "modified": "Sat, 02 Sep 2023 00:43:16 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f83edcd1828bd4e4c159eff1a9c2c5fb\"",
+    "etag": "W/\"b11316945a674dd30558b1ee20c0f3a3\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 01 Sep 2023 20:55:06 GMT",
+    "modified": "Sat, 02 Sep 2023 00:43:16 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"06bb1dfab3abdf01d3385379329009f4\"",
+    "etag": "W/\"b11316945a674dd30558b1ee20c0f3a3\"",
     "last_updated": 1693411203,
-    "modified": "Fri, 01 Sep 2023 23:04:54 GMT",
+    "modified": "Sat, 02 Sep 2023 00:43:16 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:de49d4225a34457e8de73843354b00c8\"",
+    "etag": "\"cacheable:c03258ee5e91539cf9a57d9337b0c46d\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -789,9 +789,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64f0a79c-8cd\"",
-    "last_updated": 1693368000,
-    "modified": "Thu, 31 Aug 2023 14:45:48 GMT",
+    "etag": "W/\"64f28cf1-8fd\"",
+    "last_updated": 1693540800,
+    "modified": "Sat, 02 Sep 2023 01:16:33 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
