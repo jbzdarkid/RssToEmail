@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"10830dc4cdb36ce5fd8f325952eecf85-ssl\"",
+    "etag": "\"10830dc4cdb36ce5fd8f325952eecf85-ssl-df\"",
     "last_updated": 1693699202,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"d9c805df4c31cbe6099bffdc91a938b589e19f60a05f89c0807f0c5c4bb666af\"",
+    "etag": "W/\"961fac479597b8d298b37bba8c3bb4cc6cc053d3cc871033d22ed297a10c0a09\"",
     "last_updated": 1639079280,
-    "modified": "Sun, 03 Sep 2023 16:28:06 GMT",
+    "modified": "Sun, 03 Sep 2023 19:11:29 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 03 May 2023 08:03:00 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1691150189,
-    "modified": "Sun, 03 Sep 2023 18:04:00 GMT",
+    "modified": "Sun, 03 Sep 2023 21:02:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 03 Sep 2023 18:04:00 GMT",
+    "modified": "Sun, 03 Sep 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:88208940ce5b98d815c70c35b0eacb67\"",
+    "etag": "\"cacheable:85ab8a4b49e789eb216682d3dbac23c7\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -734,7 +734,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1693587601,
+    "last_updated": 1693767166,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
