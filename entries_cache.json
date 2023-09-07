@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bf1316be5b5b5045062a433700990dd0-ssl-df\"",
+    "etag": "\"bf1316be5b5b5045062a433700990dd0-ssl\"",
     "last_updated": 1693958412,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8abbc726b5c83c9cc0011d9af1e4476a62098858d9c6e21e8442b4fc44e5b0da\"",
+    "etag": "W/\"c614f59931e2dc6ef278a413269955102fd3c4196a64268e72b5fc190c920f1a\"",
     "last_updated": 1690993800,
-    "modified": "Thu, 07 Sep 2023 00:17:44 GMT",
+    "modified": "Thu, 07 Sep 2023 04:41:14 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1693925420,
-    "modified": "Thu, 07 Sep 2023 03:04:00 GMT",
+    "modified": "Thu, 07 Sep 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 07 Sep 2023 03:04:00 GMT",
+    "modified": "Thu, 07 Sep 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1694047034,
+    "last_updated": 1694057025,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:dbd2e34097e33c37f70c371774ae27e9\"",
+    "etag": "\"cacheable:13bcb3569fe32d3beeea0c7d1236807e\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -464,7 +464,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1693972800,
+    "last_updated": 1694059200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
