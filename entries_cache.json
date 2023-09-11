@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"bc2e817f78d1ff9fc4503d2fc0af4c4d-ssl\"",
+    "etag": "\"bc2e817f78d1ff9fc4503d2fc0af4c4d-ssl-df\"",
     "last_updated": 1694340617,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8e351071416627366780f851460c9a979ba4bfdac8b9ef7d7b8c037b18b062d6\"",
+    "etag": "W/\"e330f2c5870f5096728b966566238108ef96636bd7ece0a97c878ee5db81cd5b\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 11 Sep 2023 12:00:22 GMT",
+    "modified": "Mon, 11 Sep 2023 14:51:48 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Mon, 11 Sep 2023 12:06:00 GMT",
+    "modified": "Mon, 11 Sep 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 11 Sep 2023 12:06:00 GMT",
+    "modified": "Mon, 11 Sep 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"e9b72d48384adb93c15c1c0018bcceb0\"",
+    "etag": "W/\"585f744749db0a853075831e8aa35994\"",
     "last_updated": 1694101133,
-    "modified": "Mon, 11 Sep 2023 10:59:57 GMT",
+    "modified": "Mon, 11 Sep 2023 12:30:48 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e9b72d48384adb93c15c1c0018bcceb0\"",
+    "etag": "W/\"585f744749db0a853075831e8aa35994\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 11 Sep 2023 10:59:57 GMT",
+    "modified": "Mon, 11 Sep 2023 12:30:48 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"a027cb92a283f18986825c8cdd1f2882\"",
+    "etag": "W/\"5a7ab0a178b20d0d5d94f5b47c0089aa\"",
     "last_updated": 1694016046,
-    "modified": "Mon, 11 Sep 2023 10:45:57 GMT",
+    "modified": "Mon, 11 Sep 2023 14:39:54 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:a1cbde2b81ca3fdc15d0ae596d6fd5b7\"",
+    "etag": "\"cacheable:2a4455e8405d063b861ae9d179a30374\"",
     "last_updated": 1692118185,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2e5a1446168ddcabbbeb363ce1fa7091\"",
+    "etag": "\"71a936b02840c4b5e7c96216462b9e84\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 11 Sep 2023 05:57:59 GMT",
+    "modified": "Mon, 11 Sep 2023 13:37:09 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -564,7 +564,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1694184758,
+    "last_updated": 1694441002,
     "name": "GDC",
     "seen_entries": []
   },
