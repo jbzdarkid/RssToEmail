@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"6e14bdcccb2ff448796d2b205672e6e4-ssl\"",
+    "etag": "\"6e14bdcccb2ff448796d2b205672e6e4-ssl-df\"",
     "last_updated": 1694563221,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0499920b2a1d3f442990f67090d209d0913454b8a9ea15f27a8e0aa6f2e69d79\"",
+    "etag": "W/\"b77fb49675ddc7b8c0843b2ff20153df9ed5a124f919c1aea0f70cb810f566ff\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 13 Sep 2023 11:35:55 GMT",
+    "modified": "Wed, 13 Sep 2023 14:44:14 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
+    "modified": "Wed, 03 May 2023 08:03:00 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Wed, 13 Sep 2023 12:04:00 GMT",
+    "modified": "Wed, 13 Sep 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 13 Sep 2023 12:04:00 GMT",
+    "modified": "Wed, 13 Sep 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -408,28 +408,28 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"8321c0929b8cddf3602ba521e408e2c5\"",
+    "etag": "W/\"ed1afe2e3b97e0bb2b9aaa123c8f023f\"",
     "last_updated": 1694101133,
-    "modified": "Tue, 12 Sep 2023 23:05:00 GMT",
+    "modified": "Wed, 13 Sep 2023 14:40:04 GMT",
     "name": "Extra Punctuation Archives - The Escapist",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8321c0929b8cddf3602ba521e408e2c5\"",
+    "etag": "W/\"327cac4510fd6ff0fa076130690d9275\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 12 Sep 2023 23:05:00 GMT",
+    "modified": "Tue, 12 Sep 2023 21:47:08 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"8321c0929b8cddf3602ba521e408e2c5\"",
+    "etag": "W/\"ed1afe2e3b97e0bb2b9aaa123c8f023f\"",
     "last_updated": 1694016046,
-    "modified": "Tue, 12 Sep 2023 23:05:00 GMT",
+    "modified": "Wed, 13 Sep 2023 14:40:04 GMT",
     "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:3dd155bd8fdc51012349905c3b69d693\"",
+    "etag": "\"cacheable:114c79ed10716180a1b3d71be2323b10\"",
     "last_updated": 1694537160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"57e88e9f66fb180835ac63a10bcc07a9\"",
+    "etag": "\"459e513112e5e7c9669658da3765533d\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 13 Sep 2023 12:04:33 GMT",
+    "modified": "Wed, 13 Sep 2023 12:26:08 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -789,9 +789,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"64ff82a0-82f\"",
-    "last_updated": 1694404800,
-    "modified": "Mon, 11 Sep 2023 21:12:00 GMT",
+    "etag": "W/\"6501ca19-897\"",
+    "last_updated": 1694577600,
+    "modified": "Wed, 13 Sep 2023 14:41:29 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
