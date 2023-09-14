@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"6e14bdcccb2ff448796d2b205672e6e4-ssl-df\"",
+    "etag": "\"6e14bdcccb2ff448796d2b205672e6e4-ssl\"",
     "last_updated": 1694563221,
     "name": "Explosm.net",
     "seen_entries": []
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Thu, 14 Sep 2023 00:12:00 GMT",
+    "modified": "Thu, 14 Sep 2023 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 14 Sep 2023 00:12:00 GMT",
+    "modified": "Thu, 14 Sep 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"8321c0929b8cddf3602ba521e408e2c5\"",
+    "etag": "W/\"3fea0ceec0b5e796d675597482cc6faa\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 12 Sep 2023 23:05:00 GMT",
+    "modified": "Wed, 13 Sep 2023 21:26:30 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:ab4ab239889fca30a34bebd4fb610b50\"",
+    "etag": "\"cacheable:ce3e25662c148bbb60c0587165587436\"",
     "last_updated": 1694537160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -513,8 +513,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1694542860,
-    "modified": "Tue, 12 Sep 2023 18:21:00 +0000",
+    "last_updated": 1694653020,
+    "modified": "Thu, 14 Sep 2023 00:57:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -525,16 +525,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"6a4892c0d30fe9ac18a8f86a549c0b3c\"",
+    "etag": "W/\"75ebdd4b71aa70f0b7f97df40b806774\"",
     "last_updated": 1694102438,
-    "modified": "Wed, 13 Sep 2023 07:08:55 GMT",
+    "modified": "Thu, 14 Sep 2023 01:16:45 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f3e8a0d5cf987f8383160b0efc2a1087\"",
+    "etag": "W/\"75ebdd4b71aa70f0b7f97df40b806774\"",
     "last_updated": 1689004753,
-    "modified": "Fri, 08 Sep 2023 13:43:17 GMT",
+    "modified": "Thu, 14 Sep 2023 01:16:45 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
