@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"6e14bdcccb2ff448796d2b205672e6e4-ssl\"",
+    "etag": "\"6e14bdcccb2ff448796d2b205672e6e4-ssl-df\"",
     "last_updated": 1694563221,
     "name": "Explosm.net",
     "seen_entries": []
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Wed, 13 Sep 2023 21:02:00 GMT",
+    "modified": "Thu, 14 Sep 2023 00:12:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 13 Sep 2023 21:02:00 GMT",
+    "modified": "Thu, 14 Sep 2023 00:12:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e731f27c0b565ceff5d9786d54c93690\"",
+    "etag": "W/\"8321c0929b8cddf3602ba521e408e2c5\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 13 Sep 2023 18:04:38 GMT",
+    "modified": "Tue, 12 Sep 2023 23:05:00 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:c2d4ebf3b781d90fcb4095ca798fd786\"",
+    "etag": "\"cacheable:ab4ab239889fca30a34bebd4fb610b50\"",
     "last_updated": 1694537160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -525,9 +525,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f3e8a0d5cf987f8383160b0efc2a1087\"",
+    "etag": "W/\"6a4892c0d30fe9ac18a8f86a549c0b3c\"",
     "last_updated": 1694102438,
-    "modified": "Fri, 08 Sep 2023 13:43:17 GMT",
+    "modified": "Wed, 13 Sep 2023 07:08:55 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -756,6 +756,16 @@
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66": {
     "last_updated": 1692867869,
     "name": "Overwatch Lore",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X": {
+    "last_updated": 1694650445,
+    "name": "Zero Punctuation Complete Series",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAbMhAYRuCUjTFTU63WTuXDwT3bP3v2kN": {
+    "last_updated": 1694650444,
+    "name": "Extra Punctuation",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUPKuAVC8PO4N7wmS4OlXS_m0vMSTqUyY": {
