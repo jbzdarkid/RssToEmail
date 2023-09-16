@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"b20ee9b03029da462c48f273d1a32458-ssl-df\"",
+    "etag": "\"b20ee9b03029da462c48f273d1a32458-ssl\"",
     "last_updated": 1694808146,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3b1d5771f79fbe610b49742722fe40e5bf9bae281d468e4facc419df60ba1615\"",
+    "etag": "W/\"e27177d4da90c169f6ebff0989b906e3531de2108aef31e90eb69e3972c11b19\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 15 Sep 2023 22:41:52 GMT",
+    "modified": "Sat, 16 Sep 2023 05:46:22 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d5a580b4349bcc7484c035ff07427e95e7ffedd9100432fa8d03b49951175ab6\"",
+    "etag": "W/\"2ed03cf0e4e9193e663e65835d1e683740a5ad1dd73a676b733cd1bae1337c14\"",
     "last_updated": 1690993800,
-    "modified": "Fri, 15 Sep 2023 22:42:06 GMT",
+    "modified": "Sat, 16 Sep 2023 05:50:30 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Sat, 16 Sep 2023 03:04:00 GMT",
+    "modified": "Sat, 16 Sep 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 16 Sep 2023 03:04:00 GMT",
+    "modified": "Sat, 16 Sep 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a313f9555de547f069de8f3818578ac0\"",
+    "etag": "W/\"a151dc3da900e52d3131fd742c824b53\"",
     "last_updated": 1633449624,
-    "modified": "Sat, 16 Sep 2023 03:03:24 GMT",
+    "modified": "Fri, 15 Sep 2023 23:16:36 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:3421ca3674b176b0c98a530853a51672\"",
+    "etag": "\"cacheable:59f9457fb4b68fed67fa5746c57b053d\"",
     "last_updated": 1694537160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -464,7 +464,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1694750400,
+    "last_updated": 1694836800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
