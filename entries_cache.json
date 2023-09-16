@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a056c9e8b7a8994b759249e577155b26a69c7a33b7a2a143b41543343df2a052\"",
+    "etag": "W/\"1b0124e43235c2ec244f18e12860c9fc507763bdea54b4ee88a19ce3187f9b56\"",
     "last_updated": 1639079280,
-    "modified": "Sat, 16 Sep 2023 08:56:50 GMT",
+    "modified": "Sat, 16 Sep 2023 11:21:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"705d36de89210689952da74f8b1b47070cda40513df8e011f2eaf79aa1a1d2c9\"",
+    "etag": "W/\"f12f9f509bc17d9e2f35eba0c25dbfc1bbb82ffd9529eaa66db0891ccac9faf9\"",
     "last_updated": 1690993800,
-    "modified": "Sat, 16 Sep 2023 06:59:20 GMT",
+    "modified": "Sat, 16 Sep 2023 09:32:15 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Sat, 16 Sep 2023 09:04:00 GMT",
+    "modified": "Sat, 16 Sep 2023 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 16 Sep 2023 09:04:00 GMT",
+    "modified": "Sat, 16 Sep 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:6325e661e52b6075874951b254b1b968\"",
+    "etag": "\"cacheable:bf8b91addd5dfe021f441f15dcc99d72\"",
     "last_updated": 1694537160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
