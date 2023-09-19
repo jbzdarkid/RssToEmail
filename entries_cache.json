@@ -81,12 +81,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1693951200,
+    "last_updated": 1695074400,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"85864df55cac2393be92ede69d9858e6-ssl\"",
+    "etag": "\"85864df55cac2393be92ede69d9858e6-ssl-df\"",
     "last_updated": 1695081165,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1bfb28e16950a6a638d4c9fdd3bc141154f34aba840480b62988c7fc17f07109\"",
+    "etag": "W/\"df6b640249e2a1d60f6dd8c16cea5c317f626195f66504bd67b1240237914f51\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 19 Sep 2023 12:05:21 GMT",
+    "modified": "Tue, 19 Sep 2023 14:31:35 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"24ff5091748874d288e7af23d10d8a6822b9d720327700917ddb8d3a51ba86c2\"",
+    "etag": "W/\"ee32b3f0a8301e6f367eb68432c30f587f0ff6b65f2bead3dac5cb84078cdd9b\"",
     "last_updated": 1690993800,
-    "modified": "Tue, 19 Sep 2023 01:10:52 GMT",
+    "modified": "Tue, 19 Sep 2023 14:54:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Tue, 19 Sep 2023 12:04:00 GMT",
+    "modified": "Tue, 19 Sep 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 19 Sep 2023 12:04:00 GMT",
+    "modified": "Tue, 19 Sep 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"9553d36a0fd93d0466339e0a79f7bb9d\"",
+    "etag": "W/\"d61755b4fb22abc71d380c60f31580ab\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 19 Sep 2023 03:25:33 GMT",
+    "modified": "Tue, 19 Sep 2023 14:52:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,19 +429,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:5d581252ea13e8205bddabcf8a124379\"",
+    "etag": "\"cacheable:1915add2f6d8dbde7f74e121fa0ca282\"",
     "last_updated": 1694537160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8DBAE1B86EFA235\"",
+    "etag": "\"0x8DBB91727156615\"",
     "last_updated": 0,
-    "modified": "Tue, 05 Sep 2023 14:22:25 GMT",
+    "modified": "Tue, 19 Sep 2023 13:48:49 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1268.html",
       "http://www.giantitp.com/comics/oots1269.html",
       "http://www.giantitp.com/comics/oots1270.html",
       "http://www.giantitp.com/comics/oots1271.html",
@@ -460,7 +459,8 @@
       "http://www.giantitp.com/comics/oots1284.html",
       "http://www.giantitp.com/comics/oots1285.html",
       "http://www.giantitp.com/comics/oots1286.html",
-      "http://www.giantitp.com/comics/oots1287.html"
+      "http://www.giantitp.com/comics/oots1287.html",
+      "http://www.giantitp.com/comics/oots1288.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"959c08709fd5d29fd2bed987cdf16be0\"",
+    "etag": "\"4aa44a05b47792a41f115f40fe311613\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 19 Sep 2023 11:22:04 GMT",
+    "modified": "Tue, 19 Sep 2023 14:57:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -525,16 +525,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"6a5eaa056ec951a0f3037bac03756d06\"",
+    "etag": "W/\"55560582588cc2065e2a839cdb101b4d\"",
     "last_updated": 1695052803,
-    "modified": "Mon, 18 Sep 2023 17:17:01 GMT",
+    "modified": "Tue, 19 Sep 2023 14:15:04 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"6a5eaa056ec951a0f3037bac03756d06\"",
+    "etag": "W/\"55560582588cc2065e2a839cdb101b4d\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 18 Sep 2023 17:17:01 GMT",
+    "modified": "Tue, 19 Sep 2023 14:15:04 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -789,7 +789,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1692622836,
+    "last_updated": 1695128426,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
