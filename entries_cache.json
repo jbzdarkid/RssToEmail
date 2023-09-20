@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"85864df55cac2393be92ede69d9858e6-ssl\"",
+    "etag": "\"85864df55cac2393be92ede69d9858e6-ssl-df\"",
     "last_updated": 1695081165,
     "name": "Explosm.net",
     "seen_entries": []
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a3d5b7d159438967ae9f1040cf72b206dcb6b72585146e10d4ab3834cd360946\"",
+    "etag": "W/\"79c0380f5088426e2cdef8559e9be2ef27b354b97e9d94c01f710137e9fee683\"",
     "last_updated": 1695139260,
-    "modified": "Tue, 19 Sep 2023 16:01:57 GMT",
+    "modified": "Wed, 20 Sep 2023 01:32:49 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1694106153,
-    "modified": "Wed, 20 Sep 2023 00:12:00 GMT",
+    "modified": "Wed, 20 Sep 2023 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 20 Sep 2023 00:12:00 GMT",
+    "modified": "Wed, 20 Sep 2023 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"24572cc3a5954e6b150853bc6702dc5b\"",
+    "etag": "W/\"f2e2c05a4c68272eb18dae91be9834f1\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 19 Sep 2023 23:28:33 GMT",
+    "modified": "Tue, 19 Sep 2023 21:01:47 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:d1ed76a019db7e00773c5dc50eb7e49d\"",
+    "etag": "\"cacheable:bf7bdd25eb4067a457ea8cbb1e78b21a\"",
     "last_updated": 1695142316,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
