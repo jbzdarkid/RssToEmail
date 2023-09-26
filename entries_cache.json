@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"888e511088d9bcc8aa5605efb0700b76-ssl\"",
+    "etag": "\"888e511088d9bcc8aa5605efb0700b76-ssl-df\"",
     "last_updated": 1695686459,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"56364fd36dd82e650630f8d18d14d95d182e573c5d9c3237dab169b501afc023\"",
+    "etag": "W/\"f165c4e342ece8e6d40ab3cf2b02bbee03b3f45ee1e8d1bbd07b415871f1f1d9\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 26 Sep 2023 08:52:27 GMT",
+    "modified": "Tue, 26 Sep 2023 11:59:44 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d3148c6d77830d783dac0cce26e44e351213cd51f6b0ef8b2dea9b805c25ccd6\"",
+    "etag": "W/\"a8ef2b79333599d02f0843f6c24e29eb2b176b95ce69bacd4e6c859409c6c8c5\"",
     "last_updated": 1695139260,
-    "modified": "Sun, 24 Sep 2023 21:24:20 GMT",
+    "modified": "Tue, 26 Sep 2023 11:32:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1695307147,
-    "modified": "Tue, 26 Sep 2023 09:04:00 GMT",
+    "modified": "Tue, 26 Sep 2023 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 26 Sep 2023 09:04:00 GMT",
+    "modified": "Tue, 26 Sep 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"67922e20e6f40a955334e6c1f68df880\"",
+    "etag": "W/\"0351d4e43e297473353ed89a1e8429c2\"",
     "last_updated": 1633449624,
-    "modified": "Tue, 26 Sep 2023 04:05:28 GMT",
+    "modified": "Tue, 26 Sep 2023 10:54:11 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:a966c051b9b773cf6b6d014ec141b565\"",
+    "etag": "\"cacheable:a6e4a79449b16842ead71eccf3990cb4\"",
     "last_updated": 1695142316,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -532,9 +532,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"db44cad448c066d64739ef9ec30ed355\"",
+    "etag": "W/\"d809e4bf961be053715f1d67c9ba909f\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 26 Sep 2023 08:55:51 GMT",
+    "modified": "Tue, 26 Sep 2023 09:26:53 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
