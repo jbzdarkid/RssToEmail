@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"888e511088d9bcc8aa5605efb0700b76-ssl-df\"",
+    "etag": "\"888e511088d9bcc8aa5605efb0700b76-ssl\"",
     "last_updated": 1695686459,
     "name": "Explosm.net",
     "seen_entries": []
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f085296d5245212cc97049bb91cc0de7c90d198a3807f1b23e2ea330634e0c7a\"",
+    "etag": "W/\"56364fd36dd82e650630f8d18d14d95d182e573c5d9c3237dab169b501afc023\"",
     "last_updated": 1639079280,
-    "modified": "Tue, 26 Sep 2023 00:03:51 GMT",
+    "modified": "Tue, 26 Sep 2023 08:52:27 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1695307147,
-    "modified": "Tue, 26 Sep 2023 06:04:00 GMT",
+    "modified": "Tue, 26 Sep 2023 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 26 Sep 2023 06:04:00 GMT",
+    "modified": "Tue, 26 Sep 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:9d75c1d8ab4d35b29517d4d72970fdbf\"",
+    "etag": "\"cacheable:a966c051b9b773cf6b6d014ec141b565\"",
     "last_updated": 1695142316,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,9 +469,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"bfd2ef95a96f919176c00f9a3abce95e\"",
+    "etag": "\"8c6f4b19ea56efb893327ad371873582\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 26 Sep 2023 04:17:08 GMT",
+    "modified": "Tue, 26 Sep 2023 07:27:15 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -532,9 +532,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"551b14a9aa2c144bbbe979959823d7c4\"",
+    "etag": "W/\"db44cad448c066d64739ef9ec30ed355\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 26 Sep 2023 06:03:33 GMT",
+    "modified": "Tue, 26 Sep 2023 08:55:51 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
