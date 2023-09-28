@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,7 +109,7 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f5feb8c2a95fbf032fcd68bab7f5311c-ssl\"",
+    "etag": "\"f5feb8c2a95fbf032fcd68bab7f5311c-ssl-df\"",
     "last_updated": 1695803819,
     "name": "Explosm.net",
     "seen_entries": []
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Wed, 16 Aug 2023 15:04:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1695307147,
-    "modified": "Thu, 28 Sep 2023 18:04:00 GMT",
+    "modified": "Thu, 28 Sep 2023 21:02:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 28 Sep 2023 18:04:00 GMT",
+    "modified": "Thu, 28 Sep 2023 21:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"35314edf0d3fc31fe4a88933f8a11f5c\"",
+    "etag": "W/\"b50752b6b86c686239d2839d1ad7d011\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 28 Sep 2023 17:57:26 GMT",
+    "modified": "Thu, 28 Sep 2023 08:46:33 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,7 +429,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:088a6787cccffbfdb21d3bd59e439cbf\"",
+    "etag": "\"cacheable:cea79f7542a14cda370f07f1bb6509e0\"",
     "last_updated": 1695745515,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -525,16 +525,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"09f7c1377f2b79947feba9f36f69915b\"",
+    "etag": "W/\"8b1357c81f8613560bc09d0083b37443\"",
     "last_updated": 1695916853,
-    "modified": "Thu, 28 Sep 2023 16:00:53 GMT",
+    "modified": "Thu, 28 Sep 2023 18:34:46 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"09f7c1377f2b79947feba9f36f69915b\"",
+    "etag": "W/\"8b1357c81f8613560bc09d0083b37443\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 28 Sep 2023 16:00:53 GMT",
+    "modified": "Thu, 28 Sep 2023 18:34:46 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -674,7 +674,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
-    "last_updated": 1695359527,
+    "last_updated": 1695928124,
     "name": "shadyparadox",
     "seen_entries": []
   },
