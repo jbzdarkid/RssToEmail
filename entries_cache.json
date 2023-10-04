@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"226aadba607673234ee78f3c20b0c9eff1c02545913dbdea9f94aa52865450a7\"",
+    "etag": "W/\"d4f06e29abfb5c3bb0606ce24ca06323c5cdb1ad22dee55d64fd9eb2deb13059\"",
     "last_updated": 1695139260,
-    "modified": "Tue, 03 Oct 2023 09:23:33 GMT",
+    "modified": "Wed, 04 Oct 2023 05:12:35 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Sun, 01 Oct 2023 12:05:01 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1695307147,
-    "modified": "Wed, 04 Oct 2023 03:04:00 GMT",
+    "modified": "Wed, 04 Oct 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 04 Oct 2023 03:04:00 GMT",
+    "modified": "Wed, 04 Oct 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:af5dc15e391f2b6ef16dfbc85fbc010c\"",
+    "etag": "\"cacheable:44ec244b1901c4715c4d6f30a6f0c5d9\"",
     "last_updated": 1695745515,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,7 +469,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1696305600,
+    "last_updated": 1696392000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
@@ -789,7 +789,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
-    "last_updated": 1689865241,
+    "last_updated": 1696395429,
     "name": "Music Videos | League of Legends",
     "seen_entries": []
   },
