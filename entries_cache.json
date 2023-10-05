@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f43d1ffa61810b791f598ed92dc31a7c597e68612fafd581220254bf6659b29c\"",
+    "etag": "W/\"c17a7c25d1057746ee964c6de3b8b4e8c12da9193982db0d31e9d74d877fae39\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 04 Oct 2023 16:52:29 GMT",
+    "modified": "Wed, 04 Oct 2023 21:46:34 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"29c077117941f0efb5cafcde035c688ee38476ba67cfc7e2a92fa0183de0a381\"",
+    "etag": "W/\"227e6336dc0034fd005d7c6d86f56360851dea838b5422f69d629e9c70d0d95d\"",
     "last_updated": 1695139260,
-    "modified": "Wed, 04 Oct 2023 07:54:23 GMT",
+    "modified": "Wed, 04 Oct 2023 21:46:31 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1696430101,
-    "modified": "Wed, 04 Oct 2023 21:04:00 GMT",
+    "modified": "Thu, 05 Oct 2023 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 04 Oct 2023 21:04:00 GMT",
+    "modified": "Thu, 05 Oct 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"89dcf5aa88989ce11f2fe11654d1a480\"",
+    "etag": "W/\"18d765c196fff04d1839c78f2456fda6\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 04 Oct 2023 20:43:55 GMT",
+    "modified": "Wed, 04 Oct 2023 23:54:10 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -429,12 +429,12 @@
     "seen_entries": []
   },
   "https://www.etsy.com/shop/jefflangevin/rss": {
-    "last_updated": 1696442551,
+    "last_updated": 1696463199,
     "name": "Etsy Shop for jefflangevin",
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:8de4f99272220c474158de2bd70c20fa\"",
+    "etag": "\"cacheable:0fd09c6859e912b5b9c60bae517ec807\"",
     "last_updated": 1695745515,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -549,7 +549,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/punderworld/rss?title_no=312584": {
-    "last_updated": 1687570512,
+    "last_updated": 1696459800,
     "name": "Punderworld",
     "seen_entries": []
   },
@@ -809,9 +809,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"651b1d80-911\"",
-    "last_updated": 1696219200,
-    "modified": "Mon, 02 Oct 2023 19:44:00 GMT",
+    "etag": "W/\"651dd595-91f\"",
+    "last_updated": 1696392000,
+    "modified": "Wed, 04 Oct 2023 21:13:57 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
