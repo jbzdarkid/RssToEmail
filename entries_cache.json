@@ -86,7 +86,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1696802400,
+    "last_updated": 1696975200,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,16 +259,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"109d75ba074ae3431b7d60cf41fe0a6568c1dc2af69cb0b5963242028d873c79\"",
+    "etag": "W/\"f7e94414ea59bfd4d7f64ce9b7d93bccb097e02bef0d3c844b019c84fde5ca0f\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 11 Oct 2023 11:22:59 GMT",
+    "modified": "Wed, 11 Oct 2023 15:01:44 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"af24d7382f168d5b3f8244d379778afdb691f86fec32011b55267984af9f06cd\"",
+    "etag": "W/\"ab25772f4177d06c35e53057ee518e88bcbc655095ae4bf71e36bc0d0d0f1ca1\"",
     "last_updated": 1695139260,
-    "modified": "Wed, 11 Oct 2023 10:04:21 GMT",
+    "modified": "Wed, 11 Oct 2023 12:27:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1696430101,
-    "modified": "Wed, 11 Oct 2023 12:04:00 GMT",
+    "modified": "Wed, 11 Oct 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 11 Oct 2023 12:04:00 GMT",
+    "modified": "Wed, 11 Oct 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"6dc0341187311e00a7d795e356ce296a\"",
+    "etag": "W/\"d7c792c8df3cb6a36f9d5e1d69160d90\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 11 Oct 2023 03:48:24 GMT",
+    "modified": "Wed, 11 Oct 2023 14:22:31 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:ce12cf1966297068eb931397ade01226\"",
+    "etag": "\"cacheable:8a70b976fa8ec3b49bf182b38d0af114\"",
     "last_updated": 1695745515,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -569,7 +569,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1696859587,
+    "last_updated": 1697032052,
     "name": "GDC",
     "seen_entries": []
   },
