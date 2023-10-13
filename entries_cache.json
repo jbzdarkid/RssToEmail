@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -116,8 +116,8 @@
   },
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
-    "last_updated": 1694527200,
-    "modified": "Sat, 7 Oct 2023 12:05:07 GMT",
+    "last_updated": 1697207309,
+    "modified": "Fri, 13 Oct 2023 15:46:33 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 03 May 2023 08:03:00 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1696430101,
-    "modified": "Fri, 13 Oct 2023 15:04:00 GMT",
+    "modified": "Fri, 13 Oct 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 13 Oct 2023 15:04:00 GMT",
+    "modified": "Fri, 13 Oct 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1697207246,
+    "last_updated": 1697210114,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"de354c74431b1338703afbe96f0e581a\"",
+    "etag": "W/\"64e2d7ec460cff34c1d420081abd97ed\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 13 Oct 2023 13:48:19 GMT",
+    "modified": "Fri, 13 Oct 2023 17:47:56 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:960dfbcb86a1da10f052c416b5b62e7d\"",
+    "etag": "\"cacheable:f0e157ca034795c4ed2302315f3720ee\"",
     "last_updated": 1695745515,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -474,9 +474,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"13eaa350093f70dcbcf606d8ea198c0e\"",
+    "etag": "\"92db89fa7c75b22044bc818cb3e5e8f8\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 13 Oct 2023 13:54:50 GMT",
+    "modified": "Fri, 13 Oct 2023 17:43:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -569,7 +569,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1697032052,
+    "last_updated": 1697209067,
     "name": "GDC",
     "seen_entries": []
   },
