@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -109,8 +109,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"16a4fbece69f10e7cbe25e5d798a4850-ssl-df\"",
-    "last_updated": 1697500849,
+    "etag": "\"5f11977e9e3462041314a3e5037f04a2-ssl-df\"",
+    "last_updated": 1697628210,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -259,9 +259,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8418e9402051194287f26a4a6507bc0c62ec7cd02d1f3e5a572f2406ffac9511\"",
+    "etag": "W/\"5823a676f80c2147428522c0fd5fd7c75d7725b5ad23a4ca42bcabab360bdf6c\"",
     "last_updated": 1639079280,
-    "modified": "Wed, 18 Oct 2023 14:56:26 GMT",
+    "modified": "Wed, 18 Oct 2023 16:54:06 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 03 May 2023 08:03:00 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1696430101,
-    "modified": "Wed, 18 Oct 2023 15:04:00 GMT",
+    "modified": "Wed, 18 Oct 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 18 Oct 2023 15:04:00 GMT",
+    "modified": "Wed, 18 Oct 2023 18:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"fdefaba4216ee64dcbe18d599b2ed828\"",
+    "etag": "W/\"099b7a7daba4c8035084b9bc1d91c6de\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 18 Oct 2023 14:47:21 GMT",
+    "modified": "Wed, 18 Oct 2023 17:58:03 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:d60743e03e570e9d8bb0bd95713a757d\"",
+    "etag": "\"cacheable:a437533a860de7d7bca94c9b8a9c7e5c\"",
     "last_updated": 1697560789,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -474,9 +474,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"fd954845c8e8eb03b454262576325d3d\"",
+    "etag": "\"e6c0e59cbc1f625ddf03432b5cbea704\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 18 Oct 2023 06:21:48 GMT",
+    "modified": "Wed, 18 Oct 2023 17:36:48 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -584,7 +584,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1697475617,
+    "last_updated": 1697648419,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -669,7 +669,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1696178057,
+    "last_updated": 1697642330,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
@@ -734,7 +734,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1696431254,
+    "last_updated": 1697642009,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
@@ -769,7 +769,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X": {
-    "last_updated": 1697040043,
+    "last_updated": 1697644847,
     "name": "Zero Punctuation Complete Series",
     "seen_entries": []
   },
