@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 03 May 2023 08:03:00 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1697725088,
-    "modified": "Fri, 20 Oct 2023 18:04:00 GMT",
+    "modified": "Fri, 20 Oct 2023 21:02:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 20 Oct 2023 18:04:00 GMT",
+    "modified": "Fri, 20 Oct 2023 21:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f4f2bfd104eebd0d3f22100e3f557ae7\"",
+    "etag": "W/\"6dd24bf6047e917971e92df7e2bdbe0b\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 20 Oct 2023 18:01:53 GMT",
+    "modified": "Fri, 20 Oct 2023 15:56:39 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:42b73e050247d45e660ee3346e9ae2a6\"",
+    "etag": "\"cacheable:d1e2c6dcec453043c738fdd0e513ca58\"",
     "last_updated": 1697560789,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -474,9 +474,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9ca1f6e717c8ce60f403453c469e7c94\"",
+    "etag": "\"c84b401dd17496d0005853773d246f08\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 20 Oct 2023 17:20:28 GMT",
+    "modified": "Fri, 20 Oct 2023 20:11:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -584,7 +584,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1697754321,
+    "last_updated": 1697832007,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -789,7 +789,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
-    "last_updated": 1697653845,
+    "last_updated": 1697818008,
     "name": "Music Videos | League of Legends",
     "seen_entries": []
   },
@@ -799,7 +799,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1695128426,
+    "last_updated": 1697806806,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
