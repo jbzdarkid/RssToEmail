@@ -266,9 +266,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a083ceb3834188f198bef6de1162f70a3b64d214965e4b6c444f78137a12b4c1\"",
+    "etag": "W/\"41f2883665e0d686f79225a7d3b37e62c7558b131a3590ae06b3eedad667e511\"",
     "last_updated": 1697194020,
-    "modified": "Fri, 20 Oct 2023 01:05:30 GMT",
+    "modified": "Fri, 20 Oct 2023 05:03:01 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1697725088,
-    "modified": "Fri, 20 Oct 2023 03:04:00 GMT",
+    "modified": "Fri, 20 Oct 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 20 Oct 2023 03:04:00 GMT",
+    "modified": "Fri, 20 Oct 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -386,7 +386,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1697421348,
+    "last_updated": 1697774893,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:25251d51e5ee65e87a3bce226bf496e3\"",
+    "etag": "\"cacheable:07a808352dd378ff568069f4456b7629\"",
     "last_updated": 1697560789,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,14 +469,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1697688000,
+    "last_updated": 1697774400,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a34ce8668fc0b79202a37c10c2d16279\"",
+    "etag": "\"8921b6800b90e325c57f86cdebc123da\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 19 Oct 2023 21:21:34 GMT",
+    "modified": "Fri, 20 Oct 2023 05:55:03 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -554,7 +554,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1697605649,
+    "last_updated": 1697776204,
     "name": "Wilde Life",
     "seen_entries": []
   },
