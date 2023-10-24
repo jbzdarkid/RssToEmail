@@ -81,7 +81,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Sun, 01 Oct 2023 12:05:01 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1697725088,
-    "modified": "Tue, 24 Oct 2023 03:04:00 GMT",
+    "modified": "Tue, 24 Oct 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 24 Oct 2023 03:04:00 GMT",
+    "modified": "Tue, 24 Oct 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -415,9 +415,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"18b87650c1755fad7f9dba20f803ec59\"",
+    "etag": "W/\"f6c363eb8d3ab72f52188cdd2768c83a\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 23 Oct 2023 19:52:06 GMT",
+    "modified": "Mon, 23 Oct 2023 18:27:24 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -434,7 +434,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:32e15d17bc230b21077590b0c32c52a7\"",
+    "etag": "\"cacheable:b9a6244f5df4b795b27f64b7464a607e\"",
     "last_updated": 1697560789,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,7 +469,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1698033600,
+    "last_updated": 1698120000,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
