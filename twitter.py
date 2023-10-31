@@ -76,7 +76,7 @@ def get_entries(user_id):
     entry = Entry()
     entry.title = f'@{handle} on Twitter'
     entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
-    entry.date = datetime.strptime(content['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp()
+    entry.date = int(datetime.strptime(content['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
     entry.content = content['full_text']
     entries.append(entry)
 
