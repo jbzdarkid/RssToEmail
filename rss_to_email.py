@@ -160,13 +160,13 @@ def handle_entries(entries, cache, email_server):
 
     print(f'Found {len(new_entries)} total new entries, sending emails')
 
-    for entry in new_entries:
-        entry.send_email(email_server, cache[entry.url]['name'])
-
-    print('Done sending emails')
-
-    with open('entries_cache.json', 'w') as f:
-        dump(cache, f, sort_keys=True, indent=2)
+    try:
+        for entry in new_entries:
+            entry.send_email(email_server, cache[entry.url]['name'])
+        print('Done sending emails')
+    finally:
+        with open('entries_cache.json', 'w') as f:
+            dump(cache, f, sort_keys=True, indent=2)
 
 
 if __name__ == '__main__':
