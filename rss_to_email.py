@@ -110,7 +110,7 @@ def wrap_generator(feed_title, feed_url, generator):
     if feed_url not in cache:
         cache[feed_url] = {
             'name': feed_title,
-            'last_updated': 0,
+            'last_updated': int(time()),
             'seen_entries': [],
         }
 
@@ -160,14 +160,13 @@ def handle_entries(entries, cache, email_server):
 
     print(f'Found {len(new_entries)} total new entries, sending emails')
 
-    try:
-        for entry in new_entries:
-            entry.send_email(email_server, cache[entry.url]['name'])
-        print('Done sending emails')
-    finally:
-        with open('entries_cache.json', 'w') as f:
-            dump(cache, f, sort_keys=True, indent=2)
+    for entry in new_entries:
+        entry.send_email(email_server, cache[entry.url]['name'])
 
+    print('Done sending emails')
+
+    with open('entries_cache.json', 'w') as f:
+        dump(cache, f, sort_keys=True, indent=2)
 
 if __name__ == '__main__':
     with open('entries_cache.json', 'r') as f:
