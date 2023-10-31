@@ -1,5 +1,7 @@
 import requests
 import json
+from datetime import datetime
+from entry import Entry
 
 # Elon why are there this many required arguments
 features = {
@@ -43,12 +45,15 @@ def get(graphql, **kwargs):
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers)
-  return r.json()
+  j = r.json()
+  if 'errors' in j:
+      raise ValueError(j['errors'])
+  return j['data']
 
 
 def get_user_id(screen_name):
   j = get('oUZZZ8Oddwxs8Cd3iW3UEA/UserByScreenName', screen_name=screen_name)
-  return j['data']['user']['result']['rest_id']
+  return j['user']['result']['rest_id']
 
 
 def get_entries(user_id):
@@ -58,7 +63,7 @@ def get_entries(user_id):
     'withVoice': False,
   }
   j = get('QqZBEqganhHwmU9QscmIug/UserTweets', **kwargs)
-  instructions = r.json()['data']['user']['result']['timeline']['timeline']['instructions']
+  instructions = j['user']['result']['timeline']['timeline']['instructions']
   tweets = next((i for i in instructions if i['type'] == 'TimelineAddEntries'))['entries']
 
   entries = []
@@ -66,14 +71,16 @@ def get_entries(user_id):
     content = tweet['content']['itemContent']['tweet_results']['result']['legacy']
     user = tweet['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']
     handle = user['legacy']['screen_name']
+    tweet_id = content['conversation_id_str'] # Avoids duplicate entries for conversations.
 
     entry = Entry()
     entry.title = f'@{handle} on Twitter'
-    entry.link = 'https://twitter.com/{handle}/status/' + content['conversation_id_str'] # Avoids duplicate entries for conversations.
-    entry.url = feed_url
-    entry.date = content['created_at']
+    entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
+    entry.date = datetime.strptime(content['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp()
     entry.content = content['full_text']
     entries.append(entry)
+
+  entries.sort(key = lambda e: e.date, reverse=True)
 
   return entries
 

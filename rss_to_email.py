@@ -17,6 +17,7 @@ from urllib import request
 from urllib.error import URLError
 from xml.sax import SAXException
 
+import hearthstone, twitter
 from entry import *
 
 
@@ -99,30 +100,22 @@ def parse_feeds(cache, feed_url):
     return entries
 
 
-def get_hearthstone_patch_notes():
-    feed_url = 'https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch'
+def wrap_generator(feed_title, feed_url, generator):
     try:
-        data = load(request.urlopen(feed_url))
+        entries = list(generator())
     except:
         print_exc()
         return []
+
     if feed_url not in cache:
         cache[feed_url] = {
-            'name': 'Hearthstone Patch Notes',
+            'name': feed_title,
             'last_updated': 0,
             'seen_entries': [],
         }
 
-    entries = []
-    for row in data:
-        entry = Entry()
-        entry.title = row['title']
-        entry.link = row['defaultUrl']
+    for entry in entries: # Small fixup to avoid redundancy. Eh.
         entry.url = feed_url
-        entry.date = row['created'] // 1000
-        entry.content = row['content']
-        entries.append(entry)
-
     return entries
 
 
@@ -184,15 +177,31 @@ if __name__ == '__main__':
     entries = []
 
     feeds = []
+    twitter_feeds = []
     with open('feed_list.txt', 'r') as f:
         for line in f:
             feed_url = line[:line.find('#')].strip()
             if feed_url == '':
                 continue
-            elif 'deviantart' in feed_url and datetime.now() < datetime(2021, 8, 1):
-                continue # DeviantArt RSS is broken right now. Disable until Oct 1.
+            elif feed_url == 'stop':
+                break
+            elif 'twitter' in feed_url:
+                twitter_feeds.append(feed_url)
             else:
                 feeds.append(feed_url)
+
+    for feed_url in twitter_feeds:
+        if not feed_url[-1].isdigit(): # Normalize twitter URLs to use IDs, not names.
+            old_url = feed_url
+            user_id = twitter.get_user_id(feed_url.split('/')[-1])
+            feed_url = 'https://twitter.com/i/user/' + user_id
+            for line in fileinput('feed_list.txt', inplace=True):
+                print(line.replace(old_url, feed_url), end='')
+
+        user_id = feed_url.split('/')[-1]
+        entries += wrap_generator('Twitter user ' + user_id, feed_url, lambda user_id=user_id: twitter.get_entries(user_id))
+
+    entries += wrap_generator('Hearthstone Patch Notes', 'hearthstone_patch_notes', lambda: hearthstone.get_entries())
 
     for feed_url in feeds:
         try:
@@ -205,8 +214,6 @@ if __name__ == '__main__':
             print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
             success = False
             continue
-
-    entries += get_hearthstone_patch_notes()
 
     print(f'Found {len(entries)} entries to process')
 
