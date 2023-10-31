@@ -1,4 +1,9 @@
 {
+  "hearthstone_patch_notes": {
+    "last_updated": 1698771772,
+    "name": "Hearthstone Patch Notes",
+    "seen_entries": []
+  },
   "http://feeds.sydv.net/latest-bash-quotes": {
     "etag": "S5lAOrJg0eNrqJa1aZk+tbOWcKk",
     "last_updated": 1653944659,
@@ -81,12 +86,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1698620400,
+    "last_updated": 1698706800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -259,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6932b8801ed9ed44e343af669cc06230408912b2bfdd1a4d3b3962a12afa8f3c\"",
+    "etag": "W/\"df2d386acfbc1e602e935c479d65c3ff864ac66dedd3dca57ec9010ca42de8e2\"",
     "last_updated": 1639079280,
-    "modified": "Mon, 30 Oct 2023 19:24:53 GMT",
+    "modified": "Tue, 31 Oct 2023 16:10:12 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d0e3ee1a86366c5347d5e9895ee4a81efea354735aa1def01f6019e8e7c6acd5\"",
+    "etag": "W/\"a58d606722cce727889a7acf7475a0c9ad2fb2f1f5f2857a4e16bf9d6b627abc\"",
     "last_updated": 1697194020,
-    "modified": "Mon, 30 Oct 2023 22:52:02 GMT",
+    "modified": "Tue, 31 Oct 2023 11:52:13 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Sun, 01 Oct 2023 12:05:01 GMT",
+    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1697725088,
-    "modified": "Tue, 31 Oct 2023 03:04:00 GMT",
+    "modified": "Tue, 31 Oct 2023 17:02:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 31 Oct 2023 03:04:00 GMT",
+    "modified": "Tue, 31 Oct 2023 17:02:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -350,6 +355,21 @@
     "last_updated": 1684835128,
     "modified": "Fri, 07 Jul 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
+    "seen_entries": []
+  },
+  "https://twitter.com/i/user/1104477640017264640": {
+    "last_updated": 1698771770,
+    "name": "Twitter user 1104477640017264640",
+    "seen_entries": []
+  },
+  "https://twitter.com/i/user/1141417774201184257": {
+    "last_updated": 1698771771,
+    "name": "Twitter user 1141417774201184257",
+    "seen_entries": []
+  },
+  "https://twitter.com/i/user/721822537513086978": {
+    "last_updated": 1698771769,
+    "name": "Twitter user 721822537513086978",
     "seen_entries": []
   },
   "https://w3techs.com/blogfeed/category/news": {
@@ -415,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"813b43cbe56e8394a58e6e5777be858c\"",
+    "etag": "W/\"a588e3f04701884b5e22c6e166863d93\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 30 Oct 2023 23:46:54 GMT",
+    "modified": "Tue, 31 Oct 2023 16:54:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -434,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:0f0deda412109c9e4ee1222d0653f767\"",
+    "etag": "\"cacheable:03c5fd0cd7a1b564f9e75d560fbb69eb\"",
     "last_updated": 1698165846,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -469,14 +489,14 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1698638400,
+    "last_updated": 1698724800,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d16a47595606f51a85b20b6e13d36cf1\"",
+    "etag": "\"f461ebe0f8de69f0f7333b48d6b69c9c\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 31 Oct 2023 02:05:38 GMT",
+    "modified": "Tue, 31 Oct 2023 08:55:23 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -530,16 +550,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"138cdb4597a572a7a5bd0f961a9818f8\"",
+    "etag": "W/\"0487ab3da38f1714ce23b539e6c06ebd\"",
     "last_updated": 1697731257,
-    "modified": "Thu, 19 Oct 2023 16:07:16 GMT",
+    "modified": "Tue, 31 Oct 2023 08:23:25 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"138cdb4597a572a7a5bd0f961a9818f8\"",
+    "etag": "W/\"0487ab3da38f1714ce23b539e6c06ebd\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 19 Oct 2023 16:07:16 GMT",
+    "modified": "Tue, 31 Oct 2023 08:23:25 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -589,7 +609,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA": {
-    "last_updated": 1690814449,
+    "last_updated": 1698764191,
     "name": "Innuendo Studios",
     "seen_entries": []
   },
@@ -684,7 +704,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1698516659,
+    "last_updated": 1698735611,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
