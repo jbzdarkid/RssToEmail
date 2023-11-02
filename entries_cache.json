@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7686081c4943f2c7f912723804ac3cf2c84c181cbb7b1662415367c2d10cb257\"",
+    "etag": "W/\"e83997a751fd2955a66d2055bf7b93f87cb424159b1431b51e9864bc7820c03c\"",
     "last_updated": 1639079280,
-    "modified": "Thu, 02 Nov 2023 14:57:42 GMT",
+    "modified": "Thu, 02 Nov 2023 15:54:53 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"1543a5dc795d25834eb55fc3d67236b3f56e176f169ac8a0c8e89465c392b52b\"",
+    "etag": "W/\"c51463b9932de3a19a482f535e08a5a5bfcf5aebdd99888faa583fe87dc49c9c\"",
     "last_updated": 1697194020,
-    "modified": "Thu, 02 Nov 2023 11:58:26 GMT",
+    "modified": "Thu, 02 Nov 2023 16:50:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Sun, 01 Oct 2023 12:05:01 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1697725088,
-    "modified": "Thu, 02 Nov 2023 15:04:00 GMT",
+    "modified": "Thu, 02 Nov 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 02 Nov 2023 15:04:00 GMT",
+    "modified": "Thu, 02 Nov 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"29c787289649e8cdc8b41e772463a4e4\"",
+    "etag": "W/\"5f33e36f069235abc2562b2894f289f1\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 01 Nov 2023 20:26:30 GMT",
+    "modified": "Thu, 02 Nov 2023 17:58:19 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:78fa703cf67d9ac854d32fdb9773e551\"",
+    "etag": "\"cacheable:e28ddf6da977abb59ee4c1fb78dc0156\"",
     "last_updated": 1698165846,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -494,9 +494,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8d212cce5792a5637635ca0ebf0eee36\"",
+    "etag": "\"b7814b64be687226bbe745fda712db69\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 02 Nov 2023 12:30:18 GMT",
+    "modified": "Thu, 02 Nov 2023 17:37:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -550,16 +550,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"96b9903e39d98c5a6ab2a5129a59daad\"",
-    "last_updated": 1697731257,
-    "modified": "Thu, 02 Nov 2023 14:30:24 GMT",
+    "etag": "W/\"00f36876a16c094558c0b3310fd8300c\"",
+    "last_updated": 1698940727,
+    "modified": "Thu, 02 Nov 2023 16:44:19 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"96b9903e39d98c5a6ab2a5129a59daad\"",
+    "etag": "W/\"00f36876a16c094558c0b3310fd8300c\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 02 Nov 2023 14:30:24 GMT",
+    "modified": "Thu, 02 Nov 2023 16:44:19 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -689,7 +689,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1697642330,
+    "last_updated": 1698943634,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
