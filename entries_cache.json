@@ -259,21 +259,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1698836981,
+    "last_updated": 1699013084,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"bd976eea492a4b6fc0b1a3e10a60dda88c27cf84e6dededa20ccde61a255e473\"",
+    "etag": "W/\"f0a2c425a690e29ef120e21e3a695cfafa653167a3d588043049a1360cab0a9a\"",
     "last_updated": 1639079280,
-    "modified": "Fri, 03 Nov 2023 09:46:26 GMT",
+    "modified": "Fri, 03 Nov 2023 14:59:49 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"ca7b868be00709ca7561de8ed4b261024829957e693ce183a586380f61a35b37\"",
+    "etag": "W/\"5c1918cf35cd030c357e1834057654cb2b4af0036a3ab2c70b7aad69c7e461ab\"",
     "last_updated": 1697194020,
-    "modified": "Fri, 03 Nov 2023 10:47:46 GMT",
+    "modified": "Fri, 03 Nov 2023 12:46:55 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -335,19 +335,19 @@
   },
   "https://steamdb.info/api/BlogRSS/": {
     "last_updated": 1698219447,
-    "modified": "Thu, 26 Oct 2023 07:55:52 GMT",
+    "modified": "Fri, 03 Nov 2023 11:44:07 GMT",
     "name": "Steam Database",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1697725088,
-    "modified": "Fri, 03 Nov 2023 12:04:00 GMT",
+    "modified": "Fri, 03 Nov 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 03 Nov 2023 12:04:00 GMT",
+    "modified": "Fri, 03 Nov 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"e12302bb4de5073e2a8afa0501a9d0fc\"",
+    "etag": "W/\"6c765bf4b2985489349a55d42f7b856a\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 03 Nov 2023 03:44:28 GMT",
+    "modified": "Fri, 03 Nov 2023 09:23:44 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,19 +454,18 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:b8d70d7d8a2e00d87f74f5ec0a6227ae\"",
+    "etag": "\"cacheable:1d383649616ac96304278b6120ea7f9e\"",
     "last_updated": 1698165846,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "\"0x8DBC997BC55029F\"",
+    "etag": "W/\"0x8DBDC6DC166A3BE\"",
     "last_updated": 0,
-    "modified": "Tue, 10 Oct 2023 13:49:33 GMT",
+    "modified": "Fri, 03 Nov 2023 13:06:55 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1270.html",
       "http://www.giantitp.com/comics/oots1271.html",
       "http://www.giantitp.com/comics/oots1272.html",
       "http://www.giantitp.com/comics/oots1273.html",
@@ -485,7 +484,8 @@
       "http://www.giantitp.com/comics/oots1286.html",
       "http://www.giantitp.com/comics/oots1287.html",
       "http://www.giantitp.com/comics/oots1288.html",
-      "http://www.giantitp.com/comics/oots1289.html"
+      "http://www.giantitp.com/comics/oots1289.html",
+      "http://www.giantitp.com/comics/oots1290.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -494,9 +494,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9345a1e8582624a6f65c1b9ae762981d\"",
+    "etag": "\"b8d8c17c53fe4905f3e9adb45103b5d5\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 03 Nov 2023 11:44:47 GMT",
+    "modified": "Fri, 03 Nov 2023 14:44:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
