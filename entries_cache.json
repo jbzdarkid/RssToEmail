@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7112dd19945bb08a34ded63025582d07409f5f0be509be86a9f6e11b32a861df\"",
+    "etag": "W/\"d6ba58e95619b1cc39768e4d441b6883fe9814812846936d63e80e5f59c7bfb4\"",
     "last_updated": 1699588560,
-    "modified": "Fri, 10 Nov 2023 10:29:52 GMT",
+    "modified": "Fri, 10 Nov 2023 16:21:08 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f1a5a8d1eb7703bbfce2b7b4bde34d4ef49d9165e55624dcdaae8bb676f77ad8\"",
+    "etag": "W/\"5d283f5bb26e0c4a5b9352e475d0e731fb3f35a324452f3d9d3c88d8430afe62\"",
     "last_updated": 1699031040,
-    "modified": "Fri, 10 Nov 2023 10:29:44 GMT",
+    "modified": "Fri, 10 Nov 2023 15:46:50 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Sun, 01 Oct 2023 12:05:01 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1699535320,
-    "modified": "Fri, 10 Nov 2023 15:04:00 GMT",
+    "modified": "Fri, 10 Nov 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 10 Nov 2023 15:04:00 GMT",
+    "modified": "Fri, 10 Nov 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"16b17b31f258a88f34f225e3287c2dbe\"",
+    "etag": "W/\"1cb092c8052df014ef9f4ac7b121c32d\"",
     "last_updated": 1633449624,
-    "modified": "Fri, 10 Nov 2023 03:45:11 GMT",
+    "modified": "Fri, 10 Nov 2023 17:15:27 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:9a9f2e21b8eea881d816691500a62e62\"",
+    "etag": "\"cacheable:a936ab632f98b69f61d5b50ad86e7faa\"",
     "last_updated": 1699375668,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -494,9 +494,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"270c75b51adf33e78b163b0ef154d52a\"",
+    "etag": "\"d58767574ece36a9566416355eec8436\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 10 Nov 2023 15:02:45 GMT",
+    "modified": "Fri, 10 Nov 2023 18:00:12 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -550,16 +550,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"72c2799db719fd18618e507172c71243\"",
+    "etag": "W/\"2a19dd907b7c5cad49f01865786f6544\"",
     "last_updated": 1698940727,
-    "modified": "Mon, 06 Nov 2023 11:41:38 GMT",
+    "modified": "Fri, 10 Nov 2023 17:57:58 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"72c2799db719fd18618e507172c71243\"",
+    "etag": "W/\"f139fad0b84fb0cd2159b3215bf70359\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 06 Nov 2023 11:41:38 GMT",
+    "modified": "Fri, 10 Nov 2023 18:02:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
