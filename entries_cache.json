@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 16 Dec 2022 15:22:10 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"bd6077c1819a89c8a88f31ac718df5ab4e65f79da2b83ca10f4e27fd3cc75807\"",
+    "etag": "W/\"ee5381adda4abbdaeff2d7316cb07dca814cdebaca3d7b7cad6529358a9dcd72\"",
     "last_updated": 1699588560,
-    "modified": "Mon, 13 Nov 2023 20:57:00 GMT",
+    "modified": "Tue, 14 Nov 2023 00:05:02 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"18ad77f595e068b189393a5c4788a00c56f972949c20d21bbc851abd17c7baec\"",
+    "etag": "W/\"5b271c6ae1005a044bd6b9a7fc1694b74e452d9d0de253327b8831116324c844\"",
     "last_updated": 1699031040,
-    "modified": "Mon, 13 Nov 2023 09:29:55 GMT",
+    "modified": "Tue, 14 Nov 2023 00:05:09 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Sun, 01 Oct 2023 12:05:01 GMT",
+    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1699535320,
-    "modified": "Mon, 13 Nov 2023 21:04:00 GMT",
+    "modified": "Tue, 14 Nov 2023 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 13 Nov 2023 21:04:00 GMT",
+    "modified": "Tue, 14 Nov 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f6fb2d630e7517acb1b431e04fcacc34\"",
+    "etag": "W/\"87db6bc80601eeee0847ec60d7a4fecf\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 13 Nov 2023 14:49:11 GMT",
+    "modified": "Mon, 13 Nov 2023 23:09:58 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:93f763c8574f136f065e773d3121a318\"",
+    "etag": "\"cacheable:f1d2fe5ac7bbb1cbce06be1f2bce9362\"",
     "last_updated": 1699893792,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -500,9 +500,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6ab9c9a487310842a7b6bdb9c958ea39\"",
+    "etag": "\"031357aa0d111c6ad6cd7075a92e89ac\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 13 Nov 2023 21:01:02 GMT",
+    "modified": "Mon, 13 Nov 2023 23:34:53 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -563,9 +563,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"324e9c215c0fbf9341df89675fb5aa8f\"",
+    "etag": "W/\"a3c3af117d7fab648bce206cbd1d59f1\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 13 Nov 2023 20:58:28 GMT",
+    "modified": "Mon, 13 Nov 2023 21:48:43 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -845,9 +845,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"654e9083-972\"",
-    "last_updated": 1699592400,
-    "modified": "Fri, 10 Nov 2023 20:20:19 GMT",
+    "etag": "W/\"6552a8e7-867\"",
+    "last_updated": 1699851600,
+    "modified": "Mon, 13 Nov 2023 22:53:27 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
