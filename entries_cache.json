@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1699535320,
-    "modified": "Sun, 19 Nov 2023 03:04:00 GMT",
+    "modified": "Sun, 19 Nov 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 19 Nov 2023 03:04:00 GMT",
+    "modified": "Sun, 19 Nov 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1700360455,
+    "last_updated": 1700370984,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -454,14 +454,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:10d7f8b7c6771b2a4126a30d34ae459d\"",
+    "etag": "\"cacheable:2b53bf392d766be9725e05da2b541eb0\"",
     "last_updated": 1700239580,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"02b9ae1b177fba7661538a6dc7b90b75\"",
+    "etag": "W/\"3049a4deb7bd80527f0fe46625802a19\"",
     "last_updated": 1699877148,
     "name": "Four Island",
     "seen_entries": []
@@ -500,9 +500,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"21009002bf0dd44860df62e7e8e942f9\"",
+    "etag": "\"3ae48483d1039154222e6a001e05e591\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 19 Nov 2023 01:39:05 GMT",
+    "modified": "Sun, 19 Nov 2023 04:55:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
