@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1ca554deeff37c8fb55a6027728526698bc46f702f9b0b9d24a0ad7d2f3f9ac8\"",
+    "etag": "W/\"b4135aff04619f035b9f3bf13615cf369a9a18ae2a335780d4a91a6ace18d42c\"",
     "last_updated": 1699588560,
-    "modified": "Mon, 20 Nov 2023 06:36:50 GMT",
+    "modified": "Mon, 20 Nov 2023 09:13:41 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1699535320,
-    "modified": "Mon, 20 Nov 2023 09:04:00 GMT",
+    "modified": "Mon, 20 Nov 2023 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 20 Nov 2023 09:04:00 GMT",
+    "modified": "Mon, 20 Nov 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1700467479,
+    "last_updated": 1700477310,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:d0a86e3032908f8e8a6aaa142438e273\"",
+    "etag": "\"cacheable:2a75fb948d446152f40437f92235ce70\"",
     "last_updated": 1700239580,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -590,7 +590,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1700192919,
+    "last_updated": 1700471607,
     "name": "Wilde Life",
     "seen_entries": []
   },
