@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1699535320,
-    "modified": "Mon, 20 Nov 2023 21:04:00 GMT",
+    "modified": "Tue, 21 Nov 2023 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 20 Nov 2023 21:04:00 GMT",
+    "modified": "Tue, 21 Nov 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1700483038,
+    "last_updated": 1700519932,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"d294127dc2c2eabd34ec860aa873835d\"",
+    "etag": "W/\"4a6841eb062983f266dfe69e8a97ee83\"",
     "last_updated": 1633449624,
-    "modified": "Mon, 20 Nov 2023 21:03:54 GMT",
+    "modified": "Mon, 20 Nov 2023 22:18:43 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:1ec9f4c51d2fd9c473516d9f5f08cada\"",
+    "etag": "\"cacheable:22ac2c403e75acd3949815dcd46ec63a\"",
     "last_updated": 1700239580,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -845,9 +845,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"65582878-7cd\"",
-    "last_updated": 1700197200,
-    "modified": "Sat, 18 Nov 2023 02:59:04 GMT",
+    "etag": "W/\"655beda2-8b1\"",
+    "last_updated": 1700456400,
+    "modified": "Mon, 20 Nov 2023 23:37:06 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
