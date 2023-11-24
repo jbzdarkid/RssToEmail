@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"13f8bd6ea89a90b3ca796bf93e27c7022f66a35562ac78ff560286183d34b5e8\"",
+    "etag": "W/\"2104a6ccd7a993ed808bf832ec72acf5df1fd1e610f8a32a145071348bf02c1c\"",
     "last_updated": 1699588560,
-    "modified": "Thu, 23 Nov 2023 19:27:07 GMT",
+    "modified": "Thu, 23 Nov 2023 21:58:47 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"316bdbda31c200927aea06251d7272906b3127333e15c019279da8f26849730e\"",
+    "etag": "W/\"ebe3094346bb338138ccd3a3e0a769b1c7803ccc6a7971a9c966db5ed5f56662\"",
     "last_updated": 1699031040,
-    "modified": "Wed, 22 Nov 2023 11:40:39 GMT",
+    "modified": "Thu, 23 Nov 2023 21:59:14 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1700600251,
-    "modified": "Thu, 23 Nov 2023 21:02:00 GMT",
+    "modified": "Fri, 24 Nov 2023 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 23 Nov 2023 21:02:00 GMT",
+    "modified": "Fri, 24 Nov 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1700760741,
+    "last_updated": 1700782899,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"a1c504c139b9796d4d677ee8be445348\"",
+    "etag": "W/\"51655e12ae0baebcf3a70c8e92866b34\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 22 Nov 2023 19:38:26 GMT",
+    "modified": "Thu, 23 Nov 2023 23:38:05 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:8bfad292fcef194fcf845147e0fbf27b\"",
+    "etag": "\"cacheable:0943b947ae0a721f252acdb49362f3a8\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -620,7 +620,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1700676003,
+    "last_updated": 1700782790,
     "name": "LRR Videogames",
     "seen_entries": []
   },
