@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"81aaa083b541734b552b73083f2e6e6c9db0e2dbbc9e739c184d301e9a729250\"",
+    "etag": "W/\"a30dd22dea8406a1416c58c814b3f5441f57441ec7480184b3b4199d29212c47\"",
     "last_updated": 1699588560,
-    "modified": "Fri, 24 Nov 2023 11:01:41 GMT",
+    "modified": "Fri, 24 Nov 2023 20:46:17 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1700600251,
-    "modified": "Fri, 24 Nov 2023 18:04:00 GMT",
+    "modified": "Fri, 24 Nov 2023 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 24 Nov 2023 18:04:00 GMT",
+    "modified": "Fri, 24 Nov 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:0e2f461abd6eac04e36af3da44cb1be5\"",
+    "etag": "\"cacheable:0b79a1116436f30282bbe9eefd7e847f\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -845,9 +845,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"655e7a4b-9e1\"",
-    "last_updated": 1700629200,
-    "modified": "Wed, 22 Nov 2023 22:01:47 GMT",
+    "etag": "W/\"65610748-b4f\"",
+    "last_updated": 1700802000,
+    "modified": "Fri, 24 Nov 2023 20:27:52 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
