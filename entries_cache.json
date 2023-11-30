@@ -91,7 +91,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1701212400,
+    "last_updated": 1701298800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1700600251,
-    "modified": "Thu, 30 Nov 2023 15:04:00 GMT",
+    "modified": "Thu, 30 Nov 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 30 Nov 2023 15:04:00 GMT",
+    "modified": "Thu, 30 Nov 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"c4f17b4728184adb92b298322b022afa\"",
+    "etag": "W/\"afc3742ecc3931ee4475c13e5513c7b6\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 30 Nov 2023 14:30:23 GMT",
+    "modified": "Thu, 30 Nov 2023 17:43:14 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:3cf0f6e022fe206a3ff30c1799aa2877\"",
+    "etag": "\"cacheable:203d99a2a5a26754b9f22f3faa870e12\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -500,9 +500,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"aba66c69baa0718e113e8fdfe1130fbc\"",
+    "etag": "\"f2db972443b94c0d2467f47dc283ed26\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 30 Nov 2023 13:45:17 GMT",
+    "modified": "Thu, 30 Nov 2023 16:55:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -785,7 +785,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw": {
-    "last_updated": 1689263240,
+    "last_updated": 1701366656,
     "name": "New Frame Plus",
     "seen_entries": []
   },
