@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6c453c9c028c5bc5d1fdbd75f27c97663a56aeb70e1fbef80a6925d2be233cf5\"",
+    "etag": "W/\"535e57ea65b8bdf0e2940814f983e69c5101a46fcbcc23ebd952a621b95cb3c8\"",
     "last_updated": 1699588560,
-    "modified": "Wed, 29 Nov 2023 21:03:56 GMT",
+    "modified": "Wed, 29 Nov 2023 23:55:39 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1700600251,
-    "modified": "Wed, 29 Nov 2023 21:04:00 GMT",
+    "modified": "Thu, 30 Nov 2023 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 29 Nov 2023 21:04:00 GMT",
+    "modified": "Thu, 30 Nov 2023 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"b9bc335204efe617d90e4247152da41f\"",
+    "etag": "W/\"9c82ed46ee1d3273fa3f2e7d1f97277b\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 29 Nov 2023 20:24:37 GMT",
+    "modified": "Wed, 29 Nov 2023 17:04:20 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:fc51540c565fa3c44468c29ffedd822d\"",
+    "etag": "\"cacheable:810ea8889eb1008b78a362b6c5ccef24\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -580,7 +580,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/punderworld/rss?title_no=312584": {
-    "last_updated": 1700089800,
+    "last_updated": 1701299400,
     "name": "Punderworld",
     "seen_entries": []
   },
