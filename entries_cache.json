@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"80d5f7f533b63dd4d8e548f15637e840-ssl-df\"",
-    "last_updated": 1701394296,
+    "etag": "\"5a6d3ce475dfe258930f8b8f74d52fe5-ssl-df\"",
+    "last_updated": 1701475244,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3ac159dfa243359e64ae88775ea6b19058f45fc4173efb78ab72896670c11256\"",
+    "etag": "W/\"9f52aa0ca011308889578f4d9eefa53c02150ed813966f86465d69f69fae0bc3\"",
     "last_updated": 1699588560,
-    "modified": "Sat, 02 Dec 2023 02:39:41 GMT",
+    "modified": "Sat, 02 Dec 2023 08:47:38 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"cd1607acc1fc400918e4efd391b0beb29aef89b46a2bea7f22f0e155eb987446\"",
+    "etag": "W/\"e9c7b87368fda123e287aaf69acfe701a39b92f1108cefdfcb88e8f5b9f02d89\"",
     "last_updated": 1699031040,
-    "modified": "Sat, 02 Dec 2023 02:39:48 GMT",
+    "modified": "Sat, 02 Dec 2023 08:55:28 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 25 Oct 2023 02:07:23 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1701454281,
-    "modified": "Sat, 02 Dec 2023 06:04:00 GMT",
+    "modified": "Sat, 02 Dec 2023 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 02 Dec 2023 06:02:00 GMT",
+    "modified": "Sat, 02 Dec 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1701411635,
+    "last_updated": 1701502716,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:f90bdf6f5a5959746075288a193417b8\"",
+    "etag": "\"cacheable:5e4fa2affc10733b18c5a70efd78b742\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -630,7 +630,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1700682909,
+    "last_updated": 1701499795,
     "name": "Team PLC",
     "seen_entries": []
   },
