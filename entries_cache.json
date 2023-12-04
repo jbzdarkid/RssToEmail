@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1701454281,
-    "modified": "Mon, 04 Dec 2023 12:04:00 GMT",
+    "modified": "Mon, 04 Dec 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 04 Dec 2023 12:04:00 GMT",
+    "modified": "Mon, 04 Dec 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1701680703,
+    "last_updated": 1701698898,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"96f8cbc0d3428b007b7f20f557f56a3e\"",
+    "etag": "W/\"5f69d711ece99ca8e541e32fa0e8656a\"",
     "last_updated": 1633449624,
-    "modified": "Sun, 03 Dec 2023 18:11:36 GMT",
+    "modified": "Mon, 04 Dec 2023 14:43:21 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:b4219c67c7f787ce0faff64cf5eb75ed\"",
+    "etag": "\"cacheable:671b6e8a94e10f6d936b9ed6d3f94705\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -467,12 +467,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DBEF6551A4C825\"",
+    "etag": "W/\"0x8DBF4D188F7222C\"",
     "last_updated": 0,
-    "modified": "Mon, 27 Nov 2023 16:24:24 GMT",
+    "modified": "Mon, 04 Dec 2023 14:01:38 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1272.html",
       "http://www.giantitp.com/comics/oots1273.html",
       "http://www.giantitp.com/comics/oots1274.html",
       "http://www.giantitp.com/comics/oots1275.html",
@@ -491,7 +490,8 @@
       "http://www.giantitp.com/comics/oots1288.html",
       "http://www.giantitp.com/comics/oots1289.html",
       "http://www.giantitp.com/comics/oots1290.html",
-      "http://www.giantitp.com/comics/oots1291.html"
+      "http://www.giantitp.com/comics/oots1291.html",
+      "http://www.giantitp.com/comics/oots1292.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
