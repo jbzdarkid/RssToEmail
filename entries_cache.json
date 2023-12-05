@@ -91,7 +91,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1701558000,
+    "last_updated": 1701730800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1701712849,
-    "modified": "Tue, 05 Dec 2023 15:04:00 GMT",
+    "modified": "Tue, 05 Dec 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 05 Dec 2023 15:04:00 GMT",
+    "modified": "Tue, 05 Dec 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -406,7 +406,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1701698898,
+    "last_updated": 1701798868,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:5ba3835a499dd6500e72d3e8cb2afada\"",
+    "etag": "\"cacheable:61f8f8d84fadbdf7ec531bd2a6db2a6e\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -500,9 +500,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c071c9dee09299243c9028204749772a\"",
+    "etag": "\"c330b75d70f361a5289ad2a195171dae\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 05 Dec 2023 11:17:40 GMT",
+    "modified": "Tue, 05 Dec 2023 17:45:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -563,9 +563,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"33fe0d95f753f3f1acbd91237349e720\"",
+    "etag": "W/\"3e16d021a4e388e4fe96de9333da34e7\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 05 Dec 2023 14:48:07 GMT",
+    "modified": "Tue, 05 Dec 2023 16:01:59 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
