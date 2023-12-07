@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 15 Dec 2022 13:43:01 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"82a2827347ba2ab198ee4d45c084e7fa25c163c9b4cfbf42974483af6ac6a2bc\"",
+    "etag": "W/\"e96813a6c681eceff3d536de1041c67c7fa6a6a45966903c2fca74a4179f70b5\"",
     "last_updated": 1699588560,
-    "modified": "Thu, 07 Dec 2023 02:30:06 GMT",
+    "modified": "Thu, 07 Dec 2023 05:47:44 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,13 +341,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1701712849,
-    "modified": "Thu, 07 Dec 2023 03:04:00 GMT",
+    "modified": "Thu, 07 Dec 2023 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 07 Dec 2023 03:04:00 GMT",
+    "modified": "Thu, 07 Dec 2023 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -435,9 +435,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"67576d71a11655cd4b265122e094e195\"",
+    "etag": "W/\"88efa28b6034a206c852dac22edf851b\"",
     "last_updated": 1633449624,
-    "modified": "Thu, 07 Dec 2023 02:07:54 GMT",
+    "modified": "Wed, 06 Dec 2023 20:05:37 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -454,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:874add3f64ef283bad6ae6850b023d5e\"",
+    "etag": "\"cacheable:b77881cc4f6043a17f0363bd0789f0e7\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,7 +495,7 @@
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
-    "last_updated": 1701838800,
+    "last_updated": 1701925200,
     "name": "Go Get a Roomie!",
     "seen_entries": []
   },
