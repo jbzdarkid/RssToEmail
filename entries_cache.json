@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"479dc9ead11ba30c4dd3c42857db2a6a-ssl-df\"",
-    "last_updated": 1702345274,
+    "etag": "\"79b9c23f4a8ea171ea2dc873cd39b6b8-ssl-df\"",
+    "last_updated": 1702457681,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -259,7 +259,7 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1702290610,
+    "last_updated": 1702464933,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1701712849,
-    "modified": "Wed, 13 Dec 2023 12:04:00 GMT",
+    "modified": "Wed, 13 Dec 2023 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 13 Dec 2023 12:04:00 GMT",
+    "modified": "Wed, 13 Dec 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -430,9 +430,9 @@
     "seen_entries": []
   },
   "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"f53eea1f417b735c4db4a13b64240798\"",
+    "etag": "W/\"2efd43ac02e1174c3a0fa9c9333403f1\"",
     "last_updated": 1633449624,
-    "modified": "Wed, 13 Dec 2023 05:36:46 GMT",
+    "modified": "Wed, 13 Dec 2023 13:55:39 GMT",
     "name": "Yahtzee's Dev Diary",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:89f86d79a7b5053f6f83801a37f0fe31\"",
+    "etag": "\"cacheable:7790c6a5d50323fb4894ce52b6922f0a\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
