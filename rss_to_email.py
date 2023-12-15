@@ -114,6 +114,8 @@ def wrap_generator(feed_title, feed_url, generator):
             'seen_entries': [],
         }
 
+    # Entries should be sorted from newest to oldest.
+    entries.sort(key = lambda e: e.date, reverse=True)
     for entry in entries: # Small fixup to avoid redundancy. Eh.
         entry.url = feed_url
     return entries

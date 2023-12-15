@@ -87,8 +87,6 @@ def get_entries(user_id):
     entry.content = content['full_text']
     entries.append(entry)
 
-  entries.sort(key = lambda e: e.date, reverse=True)
-
   return entries
 
 

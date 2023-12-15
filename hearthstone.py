@@ -10,7 +10,7 @@ def get_entries():
         entry = Entry()
         entry.title = row['title']
         entry.link = row['defaultUrl']
-        entry.date = row['created'] // 1000
+        entry.date = row['publish'] // 1000
         entry.url = feed_url
         entry.content = row['content']
         yield entry
