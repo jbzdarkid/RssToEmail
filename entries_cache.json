@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"fd7f36e4ac1a301eaa350e49663c1988-ssl-df\"",
-    "last_updated": 1702684859,
+    "etag": "\"2170406fc7e1f1fdca5ef1b13e1d314c-ssl-df\"",
+    "last_updated": 1702771222,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1702564133,
-    "modified": "Sun, 17 Dec 2023 06:04:00 GMT",
+    "modified": "Sun, 17 Dec 2023 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 17 Dec 2023 06:04:00 GMT",
+    "modified": "Sun, 17 Dec 2023 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:738b888c0c6b3ed23a24ae0cdc984aca\"",
+    "etag": "\"cacheable:77af3144e9e0fbabb690601128148dc5\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -807,6 +807,16 @@
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAbMhAYRuCUjTFTU63WTuXDwT3bP3v2kN": {
     "last_updated": 1698937207,
     "name": "Extra Punctuation",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
+    "last_updated": 1702803885,
+    "name": "Fully Ramblomatic",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
+    "last_updated": 1702803885,
+    "name": "Semi-Ramblomatic",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUPKuAVC8PO4N7wmS4OlXS_m0vMSTqUyY": {
