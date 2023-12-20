@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1702564133,
-    "modified": "Wed, 20 Dec 2023 18:04:00 GMT",
+    "modified": "Wed, 20 Dec 2023 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 20 Dec 2023 18:04:00 GMT",
+    "modified": "Wed, 20 Dec 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -401,7 +401,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1703087149,
+    "last_updated": 1703096825,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:b77ebd7640d01726d0cf3abd87a6f8dd\"",
+    "etag": "\"cacheable:387fc4eef9ffcd1e4e5cfbb465723939\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"448b1053a971988003161c278a78f37f\"",
+    "etag": "\"2f104761cd26982862e16c4549b1283a\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 20 Dec 2023 17:45:39 GMT",
+    "modified": "Wed, 20 Dec 2023 20:45:56 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -539,8 +539,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1703037120,
-    "modified": "Wed, 20 Dec 2023 01:52:00 +0000",
+    "last_updated": 1703098380,
+    "modified": "Wed, 20 Dec 2023 18:53:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -600,7 +600,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1702487949,
+    "last_updated": 1703103788,
     "name": "GDC",
     "seen_entries": []
   },
