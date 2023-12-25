@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1703258442,
-    "modified": "Mon, 25 Dec 2023 15:04:00 GMT",
+    "modified": "Mon, 25 Dec 2023 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 25 Dec 2023 15:04:00 GMT",
+    "modified": "Mon, 25 Dec 2023 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:1a54ad6457777e36b74b721dfed740e8\"",
+    "etag": "\"cacheable:9991ba43e7d13d2a3995600adb6b3f9b\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -850,9 +850,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6585dce1-845\"",
-    "last_updated": 1703221200,
-    "modified": "Fri, 22 Dec 2023 19:00:49 GMT",
+    "etag": "W/\"6589b891-933\"",
+    "last_updated": 1703480400,
+    "modified": "Mon, 25 Dec 2023 17:14:57 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
