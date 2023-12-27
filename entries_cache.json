@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"458ca051099c0278e44c9d76b16a8a2bb30d706d27a92976afb11a22b6765d8a\"",
+    "etag": "W/\"993e2249316999868bdb6e953c7c10c35232255181fb7a2e1e512ba6107713a7\"",
     "last_updated": 1699588560,
-    "modified": "Tue, 26 Dec 2023 20:10:04 GMT",
+    "modified": "Wed, 27 Dec 2023 19:36:28 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"15662cc64962884271b9d8334aa72808eb4d6d4ebfb8828c9656a5fa1d9016a3\"",
+    "etag": "W/\"9f7f9a3f79d09d8ebf54a3a8d06f22ed04b3460a3ab44ce488e3a2633bf02783\"",
     "last_updated": 1699031040,
-    "modified": "Wed, 27 Dec 2023 16:59:01 GMT",
+    "modified": "Wed, 27 Dec 2023 19:15:41 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1703258442,
-    "modified": "Wed, 27 Dec 2023 18:04:00 GMT",
+    "modified": "Wed, 27 Dec 2023 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 27 Dec 2023 18:04:00 GMT",
+    "modified": "Wed, 27 Dec 2023 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -401,7 +401,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1703689744,
+    "last_updated": 1703704274,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:f15083dfade0715d25e52af3216f7252\"",
+    "etag": "\"cacheable:655ef33df78a93643151e04114dc5e06\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"88c19c78a8eeb26fc68b4e8f985cd4d6\"",
+    "etag": "\"7c850dfcbbbf029715f3012f029a3b5a\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 27 Dec 2023 17:39:16 GMT",
+    "modified": "Wed, 27 Dec 2023 20:36:03 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -615,7 +615,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1703624404,
+    "last_updated": 1703700020,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -850,9 +850,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6589b891-933\"",
-    "last_updated": 1703480400,
-    "modified": "Mon, 25 Dec 2023 17:14:57 GMT",
+    "etag": "W/\"658c7c44-9c5\"",
+    "last_updated": 1703653200,
+    "modified": "Wed, 27 Dec 2023 19:34:28 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
