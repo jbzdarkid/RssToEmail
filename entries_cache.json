@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"42b0ca3a347a60fc4f610b9ddac558ca970b1f8020c7f6f0eeaa1149a1fda794\"",
+    "etag": "W/\"777de82894e107508fa22ffc1d2589efdf0c1221cb51e25e16da13d3b52cdef2\"",
     "last_updated": 1699588560,
-    "modified": "Fri, 29 Dec 2023 23:08:17 GMT",
+    "modified": "Sat, 30 Dec 2023 10:21:08 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1703258442,
-    "modified": "Sat, 30 Dec 2023 09:04:00 GMT",
+    "modified": "Sat, 30 Dec 2023 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 30 Dec 2023 09:04:00 GMT",
+    "modified": "Sat, 30 Dec 2023 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:a1183077860026569d54ec97050a6f45\"",
+    "etag": "\"cacheable:04f129768a0239d85484bd6cc652cacd\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -462,12 +462,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DBFA52B544C202\"",
+    "etag": "W/\"0x8DC092625ECDF78\"",
     "last_updated": 0,
-    "modified": "Mon, 11 Dec 2023 14:08:53 GMT",
+    "modified": "Sat, 30 Dec 2023 10:57:42 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1274.html",
       "http://www.giantitp.com/comics/oots1275.html",
       "http://www.giantitp.com/comics/oots1276.html",
       "http://www.giantitp.com/comics/oots1277.html",
@@ -486,7 +485,8 @@
       "http://www.giantitp.com/comics/oots1290.html",
       "http://www.giantitp.com/comics/oots1291.html",
       "http://www.giantitp.com/comics/oots1292.html",
-      "http://www.giantitp.com/comics/oots1293.html"
+      "http://www.giantitp.com/comics/oots1293.html",
+      "http://www.giantitp.com/comics/oots1294.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
