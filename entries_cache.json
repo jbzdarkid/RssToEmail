@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1703258442,
-    "modified": "Tue, 02 Jan 2024 15:04:00 GMT",
+    "modified": "Tue, 02 Jan 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 02 Jan 2024 15:04:00 GMT",
+    "modified": "Tue, 02 Jan 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -371,7 +371,6 @@
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
     "seen_entries": [
-      "https://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress",
       "https://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache",
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2021",
       "https://w3techs.com/blog/entry/new_survey_on_css_frameworks",
@@ -390,7 +389,8 @@
       "http://w3techs.com/blog/entry/our_website_sample_set_has_been_extended",
       "http://w3techs.com/blog/entry/web_technologies_of_the_year_2022",
       "http://w3techs.com/blog/entry/new_reports_on_page_loading_speeds",
-      "http://w3techs.com/blog/entry/new_api_to_access_w3techs_data"
+      "http://w3techs.com/blog/entry/new_api_to_access_w3techs_data",
+      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2023"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -401,7 +401,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1704204563,
+    "last_updated": 1704211792,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:00170602236a9f9917ef884b2632ed34\"",
+    "etag": "\"cacheable:703e69d7016cf2074b24a0936a45a50b\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ce56cd34fc15cddde44ff8dce34ff69a\"",
+    "etag": "\"0476d04d726f2e634adb30bae6e4fc7e\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 02 Jan 2024 13:40:27 GMT",
+    "modified": "Tue, 02 Jan 2024 18:00:45 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -558,9 +558,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"1abd1ea5cbeb6b1fa706adf3243d6563\"",
+    "etag": "W/\"28d090352c0c980152430a3a8d215f06\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 01 Jan 2024 19:18:20 GMT",
+    "modified": "Tue, 02 Jan 2024 17:10:14 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -650,7 +650,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA": {
-    "last_updated": 1686412807,
+    "last_updated": 1704211309,
     "name": "I Fight Dragons",
     "seen_entries": []
   },
