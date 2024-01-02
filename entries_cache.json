@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"749ebc48416df3b2448da288b685f9b24c88224c8d1ee31f5c09754f9099eb3d\"",
+    "etag": "W/\"3d910f705bbc6fbb4695978deb508a58d9766e29658d93e4380ff67d35da414a\"",
     "last_updated": 1699588560,
-    "modified": "Mon, 01 Jan 2024 09:05:20 GMT",
+    "modified": "Mon, 01 Jan 2024 22:05:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1703258442,
-    "modified": "Mon, 01 Jan 2024 21:04:00 GMT",
+    "modified": "Tue, 02 Jan 2024 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 01 Jan 2024 21:04:00 GMT",
+    "modified": "Tue, 02 Jan 2024 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:7b75e7e69287a301feaea1dc8364a02b\"",
+    "etag": "\"cacheable:ed74805ecc18f5a09bb215805c043e9e\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8f2fb682f935df7ed68ca92f628cab8c\"",
+    "etag": "\"92e8c5e4c47bcbff769641a3342c92c7\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 01 Jan 2024 20:26:22 GMT",
+    "modified": "Tue, 02 Jan 2024 00:14:47 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -551,9 +551,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"7fdcb45eadb65da0a01cd9226013a2b9\"",
+    "etag": "W/\"1abd1ea5cbeb6b1fa706adf3243d6563\"",
     "last_updated": 1703869202,
-    "modified": "Fri, 29 Dec 2023 17:29:50 GMT",
+    "modified": "Mon, 01 Jan 2024 19:18:20 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
@@ -850,9 +850,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"658f58d5-985\"",
-    "last_updated": 1703826000,
-    "modified": "Fri, 29 Dec 2023 23:40:05 GMT",
+    "etag": "W/\"65933316-99d\"",
+    "last_updated": 1704085200,
+    "modified": "Mon, 01 Jan 2024 21:48:06 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
