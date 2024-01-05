@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Thu, 02 Feb 2023 02:08:23 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1704304803,
-    "modified": "Fri, 05 Jan 2024 18:04:00 GMT",
+    "modified": "Fri, 05 Jan 2024 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 05 Jan 2024 18:04:00 GMT",
+    "modified": "Fri, 05 Jan 2024 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:90cbceb42c75472db02a96f3ba91de04\"",
+    "etag": "\"cacheable:0aefec571b352cfdac7a87876619f492\"",
     "last_updated": 1700671563,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8a817866c33f12c40c014b6ec95841d1\"",
+    "etag": "\"0a7edceb912ec47c6e479e94753783ac\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 05 Jan 2024 15:43:55 GMT",
+    "modified": "Fri, 05 Jan 2024 18:58:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -850,9 +850,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"65957aae-917\"",
-    "last_updated": 1704258000,
-    "modified": "Wed, 03 Jan 2024 15:18:06 GMT",
+    "etag": "W/\"65986259-8a3\"",
+    "last_updated": 1704430800,
+    "modified": "Fri, 05 Jan 2024 20:11:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
