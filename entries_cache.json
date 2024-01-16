@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9b92ab8266cc52c5f642e3d1de91dfb3-ssl-df\"",
-    "last_updated": 1705287838,
+    "etag": "\"8fde73abde4bf02ff8890f6bc681a6cd-ssl-df\"",
+    "last_updated": 1705363208,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1704304803,
-    "modified": "Tue, 16 Jan 2024 03:04:00 GMT",
+    "modified": "Tue, 16 Jan 2024 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 16 Jan 2024 03:04:00 GMT",
+    "modified": "Tue, 16 Jan 2024 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:9758587ab289d7c9762fc6ea957fd126\"",
+    "etag": "\"cacheable:96b7a83db320a0516ed8a79abfd07e1f\"",
     "last_updated": 1704818856,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7a460fa6ee366b1f769f80765223f9c4\"",
+    "etag": "\"9794ce658706afc0759dc2e5bb524427\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 15 Jan 2024 23:59:57 GMT",
+    "modified": "Tue, 16 Jan 2024 06:03:15 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -850,9 +850,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"65a1a315-8df\"",
-    "last_updated": 1705035600,
-    "modified": "Fri, 12 Jan 2024 20:37:41 GMT",
+    "etag": "W/\"65a61050-8c5\"",
+    "last_updated": 1705294800,
+    "modified": "Tue, 16 Jan 2024 05:12:48 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
