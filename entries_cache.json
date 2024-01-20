@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4d82be80cc35f89ba91e7a66ac53386c-ssl-df\"",
-    "last_updated": 1705449617,
+    "etag": "\"5b791c79b2dcd057fc3c2f022e8e2002-ssl-df\"",
+    "last_updated": 1705681024,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"af0dddf3f0cb947440a3ca9b913e5b28fdb08a357b2cc2cf08f10ec1796ba466\"",
+    "etag": "W/\"215135482166546ebadd987a177ed87fcd1492ba15c767bf2a41846184b4b02d\"",
     "last_updated": 1699588560,
-    "modified": "Fri, 19 Jan 2024 08:35:36 GMT",
+    "modified": "Fri, 19 Jan 2024 21:05:51 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1705424400,
-    "modified": "Fri, 19 Jan 2024 21:02:00 GMT",
+    "modified": "Sat, 20 Jan 2024 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 19 Jan 2024 21:02:00 GMT",
+    "modified": "Sat, 20 Jan 2024 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:7f49dea73ef1fb99fd286a8c43aca956\"",
+    "etag": "\"cacheable:e963e301d1344340316ad7ae7a106626\"",
     "last_updated": 1705509585,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"842ebb19d962eb2397a80cd20cf78c3f\"",
+    "etag": "\"26e73da435a279eaf39724a7d911d53c\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 19 Jan 2024 20:43:31 GMT",
+    "modified": "Fri, 19 Jan 2024 23:48:11 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -615,7 +615,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1705619499,
+    "last_updated": 1705698036,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -670,7 +670,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1703878009,
+    "last_updated": 1705698389,
     "name": "Tom Francis",
     "seen_entries": []
   },
