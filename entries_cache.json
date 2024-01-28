@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"9a2279d9dc23abc2f785eb9ff29aded5-ssl-df\"",
-    "last_updated": 1706272960,
+    "etag": "\"1db64883e9423c50bb2922af7992df8f-ssl-df\"",
+    "last_updated": 1706445492,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1706202014,
-    "modified": "Sun, 28 Jan 2024 18:04:00 GMT",
+    "modified": "Sun, 28 Jan 2024 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 28 Jan 2024 18:04:00 GMT",
+    "modified": "Sun, 28 Jan 2024 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:84955d1081f0f7afa6936e86aef2855d\"",
+    "etag": "\"cacheable:151c9aa59994d225563758adb98715e5\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -495,9 +495,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9601f6a5f190625620d769382fbe5ece\"",
+    "etag": "\"59630cd68f28c4bbc29069f54ff7be58\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 28 Jan 2024 16:01:29 GMT",
+    "modified": "Sun, 28 Jan 2024 20:51:31 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -615,7 +615,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1706389217,
+    "last_updated": 1706475603,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -700,7 +700,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1706022361,
+    "last_updated": 1706469962,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
