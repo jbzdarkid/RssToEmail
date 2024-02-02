@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1706202014,
-    "modified": "Fri, 02 Feb 2024 12:04:00 GMT",
+    "modified": "Fri, 02 Feb 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 02 Feb 2024 12:04:00 GMT",
+    "modified": "Fri, 02 Feb 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:24b336898b7f972f50ad3a8a01a3133a\"",
+    "etag": "\"cacheable:49b286bddf32fc159574d9346e0a9ef3\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -462,12 +462,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DC1C1D20E0BD3A\"",
+    "etag": "W/\"0x8DC23F67F05629F\"",
     "last_updated": 0,
-    "modified": "Tue, 23 Jan 2024 14:11:01 GMT",
+    "modified": "Fri, 02 Feb 2024 13:54:37 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1277.html",
       "http://www.giantitp.com/comics/oots1278.html",
       "http://www.giantitp.com/comics/oots1279.html",
       "http://www.giantitp.com/comics/oots1280.html",
@@ -486,7 +485,8 @@
       "http://www.giantitp.com/comics/oots1293.html",
       "http://www.giantitp.com/comics/oots1294.html",
       "http://www.giantitp.com/comics/oots1295.html",
-      "http://www.giantitp.com/comics/oots1296.html"
+      "http://www.giantitp.com/comics/oots1296.html",
+      "http://www.giantitp.com/comics/oots1297.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
