@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -259,21 +259,21 @@
     ]
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1706965477,
+    "last_updated": 1707129871,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"8a3d58086caeffbb1f259a6f3de85255ab2b59bdfc0810baa498ecb55bf13e5a\"",
+    "etag": "W/\"049d9c4e70f7ac9241f7899bdf93a12782e68b8e414376740b2cf7ba7e560c2d\"",
     "last_updated": 1699588560,
-    "modified": "Mon, 05 Feb 2024 09:01:03 GMT",
+    "modified": "Mon, 05 Feb 2024 10:27:25 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"01224219a0cefbb7660328dcabe234cf915ad9ca09df972c7da46aaf4ca4cb3e\"",
+    "etag": "W/\"3ea6bb17a8b9ac7e67d2cc4e2ba5e6bd692711fe2751b3c811f7e1f35fd2243f\"",
     "last_updated": 1699031040,
-    "modified": "Sat, 03 Feb 2024 12:04:08 GMT",
+    "modified": "Mon, 05 Feb 2024 10:27:17 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1706202014,
-    "modified": "Mon, 05 Feb 2024 09:04:00 GMT",
+    "modified": "Mon, 05 Feb 2024 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 05 Feb 2024 09:04:00 GMT",
+    "modified": "Mon, 05 Feb 2024 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -371,7 +371,6 @@
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
     "seen_entries": [
-      "https://w3techs.com/blog/entry/nginx_is_now_the_most_popular_web_server_overtaking_apache",
       "https://w3techs.com/blog/entry/web_technologies_of_the_year_2021",
       "https://w3techs.com/blog/entry/new_survey_on_css_frameworks",
       "https://w3techs.com/blog/entry/the_evolution_of_web_server_market_shares_2010_2022",
@@ -390,7 +389,8 @@
       "http://w3techs.com/blog/entry/web_technologies_of_the_year_2022",
       "http://w3techs.com/blog/entry/new_reports_on_page_loading_speeds",
       "http://w3techs.com/blog/entry/new_api_to_access_w3techs_data",
-      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2023"
+      "http://w3techs.com/blog/entry/web_technologies_of_the_year_2023",
+      "http://w3techs.com/blog/entry/performance_trends_reports"
     ]
   },
   "https://what-if.xkcd.com/feed.atom": {
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:ce7c650bc5715aaa28d642daaa85dd3f\"",
+    "etag": "\"cacheable:d1aec89c6ac88d266502c5ce448771f1\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -526,7 +526,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1706860800,
+    "last_updated": 1707120000,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
