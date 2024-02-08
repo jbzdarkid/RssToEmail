@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -271,9 +271,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"182dc9df18b799bea76a7288e2296635aa5dea6e66ea96c7fa9157eef674ec1a\"",
+    "etag": "W/\"a5fe3bbe79ac3a7bee2d8cbd7a181ae4d05e9b133bc25589404dba24f1313553\"",
     "last_updated": 1699031040,
-    "modified": "Thu, 08 Feb 2024 00:57:09 GMT",
+    "modified": "Thu, 08 Feb 2024 12:32:29 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +336,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707152003,
-    "modified": "Thu, 08 Feb 2024 12:04:00 GMT",
+    "modified": "Thu, 08 Feb 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 08 Feb 2024 12:04:00 GMT",
+    "modified": "Thu, 08 Feb 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +449,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:9336e895be3ec2780611bb9d2e325b06\"",
+    "etag": "\"cacheable:9ae6ecd56daf88a2c616dacce6b800d9\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -715,7 +715,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1707228031,
+    "last_updated": 1707400802,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
