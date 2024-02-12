@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"cbda3b63a28e32073e3a06f0d2d837c0-ssl-df\"",
-    "last_updated": 1707612851,
+    "etag": "\"131d19bcd5469948987cd46c2fc503ee-ssl-df\"",
+    "last_updated": 1707702598,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"070a358f2929b758370bdd0beb9471536fb9cef88901fb369cc1fa05c6f50d83\"",
+    "etag": "W/\"b862d024de4dbff9294b64970b55560ab35ad62a68b8392660f9b4e7d234ef87\"",
     "last_updated": 1699588560,
-    "modified": "Sun, 11 Feb 2024 23:44:59 GMT",
+    "modified": "Mon, 12 Feb 2024 08:33:02 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707152003,
-    "modified": "Mon, 12 Feb 2024 06:04:00 GMT",
+    "modified": "Mon, 12 Feb 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 12 Feb 2024 06:04:00 GMT",
+    "modified": "Mon, 12 Feb 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -455,7 +455,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:78f81e442767ba2855fc33a38576feeb\"",
+    "etag": "\"cacheable:cc4b56fe008133727f1bae1442d5a18d\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -532,7 +532,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1707465600,
+    "last_updated": 1707724800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -591,7 +591,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1707464455,
+    "last_updated": 1707724840,
     "name": "Wilde Life",
     "seen_entries": []
   },
