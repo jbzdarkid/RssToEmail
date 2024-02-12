@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"59df4eb6da79cadc2f621908360d74884c55599d3024470c696acbcb9421d9ca\"",
+    "etag": "W/\"070a358f2929b758370bdd0beb9471536fb9cef88901fb369cc1fa05c6f50d83\"",
     "last_updated": 1699588560,
-    "modified": "Sun, 11 Feb 2024 08:33:52 GMT",
+    "modified": "Sun, 11 Feb 2024 23:44:59 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -291,6 +291,12 @@
     "name": "MSRC \u2013 Microsoft Security Response Center",
     "seen_entries": []
   },
+  "https://nortverse.com/comic/feed/": {
+    "last_updated": 1707696919,
+    "modified": "Sun, 11 Feb 2024 11:52:20 GMT",
+    "name": "Comics \u2013 Nortverse",
+    "seen_entries": []
+  },
   "https://pi-hole.net/category/updates/feed/": {
     "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
     "last_updated": 1641407553,
@@ -305,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707152003,
-    "modified": "Sun, 11 Feb 2024 21:04:00 GMT",
+    "modified": "Mon, 12 Feb 2024 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 11 Feb 2024 21:04:00 GMT",
+    "modified": "Mon, 12 Feb 2024 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -449,7 +455,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:b4fba867afba4b7a5058b0c42f9b51b2\"",
+    "etag": "\"cacheable:9066aed08663301534d7380893a7ddcf\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -521,7 +527,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1689432756,
+    "last_updated": 1707576893,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
