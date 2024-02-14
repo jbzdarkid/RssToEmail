@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707843621,
-    "modified": "Wed, 14 Feb 2024 06:04:00 GMT",
+    "modified": "Wed, 14 Feb 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 14 Feb 2024 06:04:00 GMT",
+    "modified": "Wed, 14 Feb 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -407,7 +407,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1707854989,
+    "last_updated": 1707896002,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -455,7 +455,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:2789d16dea3eed57bc4ec75639725a3b\"",
+    "etag": "\"cacheable:76233ca4bed00e4c66e08d0775a60b9f\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -557,16 +557,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"4dccaf692320179411aa25f59b424956\"",
+    "etag": "W/\"1877371a3aa4c0ecb8f9a2893ac51927\"",
     "last_updated": 1707411644,
-    "modified": "Tue, 13 Feb 2024 09:10:47 GMT",
+    "modified": "Wed, 14 Feb 2024 07:39:28 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"4dccaf692320179411aa25f59b424956\"",
+    "etag": "W/\"1877371a3aa4c0ecb8f9a2893ac51927\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 13 Feb 2024 09:10:47 GMT",
+    "modified": "Wed, 14 Feb 2024 07:39:28 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
