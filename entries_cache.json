@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -292,8 +292,8 @@
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1707828429,
-    "modified": "Tue, 13 Feb 2024 12:47:09 GMT",
+    "last_updated": 1708015646,
+    "modified": "Thu, 15 Feb 2024 16:47:26 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707843621,
-    "modified": "Thu, 15 Feb 2024 15:04:00 GMT",
+    "modified": "Thu, 15 Feb 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 15 Feb 2024 15:04:00 GMT",
+    "modified": "Thu, 15 Feb 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -407,7 +407,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1707994719,
+    "last_updated": 1708012254,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -455,7 +455,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:3443f4d0f5f84dc01d211478da393d15\"",
+    "etag": "\"cacheable:4b487df8f6a732b69dd887b89f98f170\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -557,16 +557,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"8dee0cee81b8d9c3a13aaf07b6641a66\"",
-    "last_updated": 1707411644,
-    "modified": "Thu, 15 Feb 2024 02:36:17 GMT",
+    "etag": "W/\"07041ba783b05b0906f21b3aad70f228\"",
+    "last_updated": 1708016411,
+    "modified": "Thu, 15 Feb 2024 17:26:24 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"8dee0cee81b8d9c3a13aaf07b6641a66\"",
+    "etag": "W/\"07041ba783b05b0906f21b3aad70f228\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 15 Feb 2024 02:36:17 GMT",
+    "modified": "Thu, 15 Feb 2024 17:26:24 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -721,7 +721,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1707922845,
+    "last_updated": 1708009249,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
