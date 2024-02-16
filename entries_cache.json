@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -271,9 +271,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e00fdf8074f7b17776f4d1cb8a0d4d98b09b7b9e3788b3817f6b8f40e01a6451\"",
+    "etag": "W/\"27fe1cf6bd4961520943dd6f25dde146e3ca634826fe3131f463a6572c5a6507\"",
     "last_updated": 1699031040,
-    "modified": "Thu, 15 Feb 2024 09:44:31 GMT",
+    "modified": "Fri, 16 Feb 2024 04:34:29 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707843621,
-    "modified": "Fri, 16 Feb 2024 03:04:00 GMT",
+    "modified": "Fri, 16 Feb 2024 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 16 Feb 2024 03:02:00 GMT",
+    "modified": "Fri, 16 Feb 2024 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -455,7 +455,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:2fd3b7c34c557a3069f722a4348cb1a6\"",
+    "etag": "\"cacheable:1dfa9486943b2b2818f9e53d4e18ef88\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -591,7 +591,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1707890400,
+    "last_updated": 1708063200,
     "name": "Wilde Life",
     "seen_entries": []
   },
