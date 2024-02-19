@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1707843621,
-    "modified": "Mon, 19 Feb 2024 15:04:00 GMT",
+    "modified": "Mon, 19 Feb 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 19 Feb 2024 15:04:00 GMT",
+    "modified": "Mon, 19 Feb 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -455,7 +455,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:c6079d42c497070873871990dab8e724\"",
+    "etag": "\"cacheable:2bfa4d71882fa41b5d6b5528e44c4dd4\"",
     "last_updated": 1706027519,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -501,9 +501,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"cec64d9c6c6a359f4dbe0a8fb004f577\"",
+    "etag": "\"5b92c59de3803aa33fa3caa8a3d6c341\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 19 Feb 2024 02:08:49 GMT",
+    "modified": "Mon, 19 Feb 2024 16:43:34 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -621,7 +621,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1708279232,
+    "last_updated": 1708365632,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -781,7 +781,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1708297217,
+    "last_updated": 1708362008,
     "name": "loadingreadyrun",
     "seen_entries": []
   },
