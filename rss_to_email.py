@@ -20,8 +20,7 @@ def wrap_generator(feed_title, feed_url, generator):
     global success
     entries = []
     try:
-        for entry in generator():
-            entries.append(entry)
+        entries = list(generator()) # TODO: We could maybe do a partial update here?
     except KeyboardInterrupt:
         print_exc()
         success = False
