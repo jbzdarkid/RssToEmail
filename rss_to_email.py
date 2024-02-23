@@ -33,10 +33,12 @@ def wrap_generator(feed_title, feed_url, generator):
     if feed_title and feed_url not in cache:
         cache[feed_url] = {
             'name': feed_title,
-            'last_updated': 0,
+            'last_updated': int(time()),
             'seen_entries': [],
         }
 
+    # Entries should be sorted from newest to oldest.
+    entries.sort(key = lambda e: e.date, reverse=True)
     for entry in entries: # Small fixup to avoid redundancy. Eh.
         entry.url = feed_url
     return entries
@@ -69,7 +71,6 @@ def handle_entries(entries, cache, email_server):
 
     with open('entries_cache.json', 'w') as f:
         dump(cache, f, sort_keys=True, indent=2)
-
 
 if __name__ == '__main__':
     with open('entries_cache.json', 'r') as f:

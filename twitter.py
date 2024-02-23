@@ -64,10 +64,17 @@ def get_entries(user_id):
   }
   j = get('QqZBEqganhHwmU9QscmIug/UserTweets', **kwargs)
   instructions = j['user']['result']['timeline']['timeline']['instructions']
-  tweets = next((i for i in instructions if i['type'] == 'TimelineAddEntries'))['entries']
+  instructions = {i['type']: i for i in instructions}
+  if 'TimelineAddEntries' not in instructions:
+    print(f'TimelineAddEntries not found in instruction keys: {instructions.keys()}')
+    return []
+  tweets = instructions['TimelineAddEntries']['entries']
 
   entries = []
   for tweet in tweets:
+    if tweet['content']['entryType'] != 'TimelineTimelineItem':
+      print('Skipping non-tweet: ' + tweet['content']['entryType'])
+      continue
     content = tweet['content']['itemContent']['tweet_results']['result']['legacy']
     user = tweet['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']
     handle = user['legacy']['screen_name']
@@ -80,10 +87,9 @@ def get_entries(user_id):
     entry.content = content['full_text']
     entries.append(entry)
 
-  entries.sort(key = lambda e: e.date, reverse=True)
-
   return entries
 
 
 if __name__ == '__main__':
-  print(get_user_id('breachwizards'))
+  user_id = get_user_id('valvesoftware')
+  print(get_entries(user_id))
