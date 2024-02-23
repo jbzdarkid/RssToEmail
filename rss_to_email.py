@@ -78,6 +78,7 @@ if __name__ == '__main__':
     entries = []
 
     feeds = []
+    youtube_feeds = []
     twitter_feeds = []
     with open('feed_list.txt', 'r') as f:
         for line in f:
