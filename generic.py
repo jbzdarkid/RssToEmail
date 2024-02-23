@@ -2,9 +2,10 @@ import defusedxml
 defusedxml.defuse_stdlib() # For safety around SAXException
 
 import feedparser
+from html import unescape
+from traceback import print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
-from traceback import print_exception
 
 from entry import Entry
 
