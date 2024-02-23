@@ -1,10 +1,11 @@
-from urllib import request
-from json import load
+import requests
+
 from entry import Entry
 
 def get_entries():
     feed_url = 'https://playhearthstone.com/en-us/api/blog/articleList/?page=1&pageSize=10&tagsList[]=patch'
-    data = load(request.urlopen(feed_url))
+    r = requests.get(feed_url)
+    data = r.json()
 
     for row in data:
         entry = Entry()

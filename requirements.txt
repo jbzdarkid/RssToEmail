@@ -1,4 +1,3 @@
-﻿defusedxml==0.7.1
-feedparser==6.0.10
-sgmllib3k==1.0.0
-requests
+defusedxml==0.7.1
+requests==2.31.0
+feedparser==6.0.11
