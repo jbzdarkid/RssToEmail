@@ -1,6 +1,3 @@
-import defusedxml
-defusedxml.defuse_stdlib()
-
 import ssl
 import sys
 from calendar import timegm
@@ -133,6 +130,5 @@ if __name__ == '__main__':
     if SENDER_EMAIL:
         email_server.quit()
         
-    global success # If any feeds failed while parsing
+    # If any feeds failed while parsing return nonzero to make the user pay attention
     sys.exit(0 if success else 1)
-

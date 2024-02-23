@@ -1,10 +1,12 @@
+import requests
+
 import generic
-from urllib import request
 
 def get_entries(cache, feed_url):
     # Special handling to discard youtube premiers, otherwise identical to the generic RSS handler
     for entry in generic.get_entries(cache, feed_url):
-        data = request.urlopen(entry.link).read().decode('utf-8', errors='surrogateescape')
+        r = requests.get(entry.link)
+        data = r.text
 
         # "Live Broadcast" means premier
         if '<meta itemprop="isLiveBroadcast" content="True">' in data:

@@ -1,3 +1,6 @@
+import defusedxml
+defusedxml.defuse_stdlib() # For safety around SAXException
+
 import feedparser
 from urllib.error import URLError
 from xml.sax import SAXException
