@@ -1,17 +1,11 @@
 import ssl
 import sys
-from calendar import timegm
-from datetime import datetime, timezone
 from fileinput import input as fileinput
-from html import unescape
-from http.client import responses as http_codes
 from json import load, dump
-from smtplib import SMTP, SMTPException
-from time import time
+from smtplib import SMTP
 from traceback import format_exc, print_exc
 
 import generic, youtube, hearthstone, twitter
-# from entry import *
 
 
 # Disable SSL verification, because many of these websites are run by small developers who don't care about https
@@ -100,10 +94,10 @@ if __name__ == '__main__':
                 feeds.append(feed_url)
 
     for feed_url in feeds:
-        entries += wrap_generator(None, feed_url, lambda: generic.get_entries(cache, feed_url))
+        entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: generic.get_entries(cache, feed_url))
 
     for feed_url in youtube_feeds:
-        entries += wrap_generator(None, feed_url, lambda: youtube.get_entries(cache, feed_url))
+        entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: youtube.get_entries(cache, feed_url))
 
     for feed_url in twitter_feeds:
         if not feed_url[-1].isdigit(): # Normalize twitter URLs to use IDs, not names.
@@ -129,6 +123,6 @@ if __name__ == '__main__':
 
     if SENDER_EMAIL:
         email_server.quit()
-        
+
     # If any feeds failed while parsing return nonzero to make the user pay attention
     sys.exit(0 if success else 1)
