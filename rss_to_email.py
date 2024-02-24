@@ -6,6 +6,7 @@ from smtplib import SMTP
 from traceback import format_exc, print_exc
 
 import generic, youtube, hearthstone, twitter
+from entry import SENDER_EMAIL, SENDER_PWORD, TARGET_EMAIL, EMAIL_SERVER
 
 
 # Disable SSL verification, because many of these websites are run by small developers who don't care about https
@@ -37,7 +38,7 @@ def wrap_generator(feed_title, feed_url, generator):
         }
 
     # Entries should be sorted from newest to oldest.
-    entries.sort(key = lambda e: e.date, reverse=True)
+    entries.sort(key = lambda e: e.date if e.date else 0, reverse=True)
     for entry in entries: # Small fixup to avoid redundancy. Eh.
         entry.url = feed_url
     return entries

@@ -2,6 +2,7 @@ import defusedxml
 defusedxml.defuse_stdlib() # For safety around SAXException
 
 import feedparser
+from calendar import timegm
 from html import unescape
 from traceback import print_exception
 from urllib.error import URLError
