@@ -91,5 +91,5 @@ def get_entries(user_id):
 
 
 if __name__ == '__main__':
-  user_id = get_user_id('valvesoftware')
+  user_id = get_user_id('breachwizards')
   print(get_entries(user_id))
