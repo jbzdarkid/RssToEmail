@@ -105,8 +105,8 @@ if __name__ == '__main__':
         if not feed_url[-1].isdigit(): # Normalize twitter URLs to use IDs, not names.
             old_url = feed_url
             user_id = twitter.get_user_id(feed_url.split('/')[-1])
-            """ Disabled for now, seeing some issues which might be due to this
             feed_url = 'https://twitter.com/i/user/' + user_id
+            """ Disabled for now, seeing some issues which might be due to this
             for line in fileinput('feed_list.txt', inplace=True):
                 print(line.replace(old_url, feed_url), end='')
             """
