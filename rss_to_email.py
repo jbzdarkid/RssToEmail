@@ -3,6 +3,7 @@ import sys
 from fileinput import input as fileinput
 from json import load, dump
 from smtplib import SMTP
+from time import time
 from traceback import format_exc, print_exc
 
 import generic, youtube, hearthstone, twitter

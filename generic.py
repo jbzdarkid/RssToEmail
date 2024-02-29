@@ -4,6 +4,7 @@ defusedxml.defuse_stdlib() # For safety around SAXException
 import feedparser
 from calendar import timegm
 from html import unescape
+from time import time
 from traceback import print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
