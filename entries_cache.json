@@ -114,8 +114,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"d61513d5346c491bb77eb0364c595441-ssl-df\"",
-    "last_updated": 1709258776,
+    "etag": "\"9a70b4fc534fb969425dc807649d2baa-ssl-df\"",
+    "last_updated": 1709337606,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -271,9 +271,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"51ddb9413ff3e53bcdcc590814622ec3f050d438319e2c43e05b4797f38a83da\"",
+    "etag": "W/\"0c6a619bf8b3b0c10986be1e125f56c454ebb110a39a4b79b49cf28030d6c894\"",
     "last_updated": 1699031040,
-    "modified": "Fri, 01 Mar 2024 06:42:18 GMT",
+    "modified": "Sat, 02 Mar 2024 05:03:06 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1709148791,
-    "modified": "Sat, 02 Mar 2024 03:04:00 GMT",
+    "modified": "Sat, 02 Mar 2024 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 02 Mar 2024 03:04:00 GMT",
+    "modified": "Sat, 02 Mar 2024 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -465,7 +465,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:ff93f023fffdfb9d382c90dbf46e43da\"",
+    "etag": "\"cacheable:33c1cfaa6ba7d37c7503c0ae764671f6\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -511,9 +511,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a3151825a96c834c19f869f3d93abddb\"",
+    "etag": "\"f35fcfe78d0a1748207dc2979d73e583\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 02 Mar 2024 02:37:37 GMT",
+    "modified": "Sat, 02 Mar 2024 11:05:02 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -537,7 +537,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1709159013,
+    "last_updated": 1709292425,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
