@@ -41,7 +41,7 @@ headers = {
 def get(graphql, **kwargs):
   if 'x-guest-token' not in headers:
     r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
-    print(r.sjon())
+    print(r.json())
     headers['x-guest-token'] = r.json()['guest_token']
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
