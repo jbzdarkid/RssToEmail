@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -264,9 +264,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"831b0c318933ad88afdb5716beed5615becea02e921f7ae416522988e1920e8f\"",
+    "etag": "W/\"cd64cc1a58b65c93afbc4b8f53807786a771104308c778ad41d6c2aac4202399\"",
     "last_updated": 1699588560,
-    "modified": "Wed, 06 Mar 2024 10:26:36 GMT",
+    "modified": "Thu, 07 Mar 2024 03:34:51 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1709658018,
-    "modified": "Thu, 07 Mar 2024 03:04:00 GMT",
+    "modified": "Thu, 07 Mar 2024 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 07 Mar 2024 03:04:00 GMT",
+    "modified": "Thu, 07 Mar 2024 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -465,7 +465,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:c5868aa0ac19bfeb54e7a75b4882296e\"",
+    "etag": "\"cacheable:f768b380038e9cb9f0fabadcd9e1769e\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -537,7 +537,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1709563863,
+    "last_updated": 1709675908,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
