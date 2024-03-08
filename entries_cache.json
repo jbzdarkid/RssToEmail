@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -102,7 +102,7 @@
   },
   "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
     "last_updated": 1609259209,
-    "modified": "Wed, 06 Mar 2024 00:26:29 GMT",
+    "modified": "Wed, 06 Mar 2024 10:00:37 GMT",
     "name": "Dumb_RWBY",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"cd64cc1a58b65c93afbc4b8f53807786a771104308c778ad41d6c2aac4202399\"",
+    "etag": "W/\"7be9ac547950860ae42a2562d73e21e8682e94808f741f90f6b701e357f8ae41\"",
     "last_updated": 1699588560,
-    "modified": "Thu, 07 Mar 2024 03:34:51 GMT",
+    "modified": "Thu, 07 Mar 2024 21:54:38 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"25a683de3198aea92fa2c0f9cfd9a45273f30b3f38457e37d1dc76745b333794\"",
+    "etag": "W/\"8a8c7103702e0d93f932bd408779f6d07e45a1881e9ad1e5567dca73cbb82aab\"",
     "last_updated": 1699031040,
-    "modified": "Wed, 06 Mar 2024 20:01:31 GMT",
+    "modified": "Thu, 07 Mar 2024 10:26:25 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -292,8 +292,8 @@
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1709637769,
-    "modified": "Tue, 05 Mar 2024 11:22:49 GMT",
+    "last_updated": 1709814326,
+    "modified": "Thu, 07 Mar 2024 12:25:26 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,14 +341,14 @@
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
-    "last_updated": 1709658018,
-    "modified": "Thu, 07 Mar 2024 06:04:00 GMT",
+    "last_updated": 1709806898,
+    "modified": "Fri, 08 Mar 2024 00:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 07 Mar 2024 06:04:00 GMT",
+    "modified": "Fri, 08 Mar 2024 00:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -417,7 +417,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1709743675,
+    "last_updated": 1709801162,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -465,7 +465,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:f768b380038e9cb9f0fabadcd9e1769e\"",
+    "etag": "\"cacheable:43aff6b716331c1ed93b59c331d4156a\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -511,9 +511,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"8a97a9a6b2a172ba9ae5ea649226d7f2\"",
+    "etag": "\"c95da308246cebd935c89afd429ee90b\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 07 Mar 2024 01:04:22 GMT",
+    "modified": "Fri, 08 Mar 2024 00:07:57 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -567,16 +567,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"366bc0b701d70eb026b9f47ddc09566f\"",
-    "last_updated": 1709226034,
-    "modified": "Thu, 07 Mar 2024 01:06:02 GMT",
+    "etag": "W/\"9250917b315cecabca55e075216b98fc\"",
+    "last_updated": 1709830849,
+    "modified": "Thu, 07 Mar 2024 19:52:42 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"366bc0b701d70eb026b9f47ddc09566f\"",
+    "etag": "W/\"de647cdf55788110c7d27860e365ea27\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 07 Mar 2024 01:06:02 GMT",
+    "modified": "Thu, 07 Mar 2024 21:01:49 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
