@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1709806898,
-    "modified": "Sun, 10 Mar 2024 03:04:00 GMT",
+    "modified": "Sun, 10 Mar 2024 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 10 Mar 2024 03:04:00 GMT",
+    "modified": "Sun, 10 Mar 2024 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -376,6 +376,16 @@
   "https://twitter.com/i/user/721822537513086978": {
     "last_updated": 1698771769,
     "name": "Twitter user 721822537513086978",
+    "seen_entries": []
+  },
+  "https://twitter.com/intent/user?user_id=1104477640017264640": {
+    "last_updated": 1710050965,
+    "name": "Twitter user 1104477640017264640",
+    "seen_entries": []
+  },
+  "https://twitter.com/intent/user?user_id=1141417774201184257": {
+    "last_updated": 1710050966,
+    "name": "Twitter user 1141417774201184257",
     "seen_entries": []
   },
   "https://twitter.com/valvesoftware": {
@@ -465,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:05e9dc2e118c7bba7cd0210fa01937b4\"",
+    "etag": "\"cacheable:0bb831e844a6158abf2638bc910e8f95\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -511,9 +521,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2d3b789ecff4d0ade200b3f7a68562a3\"",
+    "etag": "\"c6779ada14ea249d987b53e59d211419\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 10 Mar 2024 01:52:50 GMT",
+    "modified": "Sun, 10 Mar 2024 05:55:47 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -537,7 +547,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1709815930,
+    "last_updated": 1709957760,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
