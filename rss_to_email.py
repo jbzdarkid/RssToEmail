@@ -110,7 +110,7 @@ if __name__ == '__main__':
             for line in fileinput('feed_list.txt', inplace=True):
                 print(line.replace(old_url, feed_url), end='')
         else:
-            user_id = feed_url.split('?userid=')[-1]
+            user_id = feed_url.split('?user_id=')[-1]
         entries += wrap_generator('Twitter user ' + user_id, feed_url, lambda user_id=user_id: twitter.get_entries(user_id))
 
     entries += wrap_generator('Hearthstone Patch Notes', 'hearthstone_patch_notes', lambda: hearthstone.get_entries())
