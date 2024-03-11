@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime
 from entry import Entry
+from time import sleep
 
 # Elon why are there this many required arguments
 features = {
@@ -40,8 +41,14 @@ headers = {
 
 def get(graphql, **kwargs):
   if 'x-guest-token' not in headers:
-    r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
-    headers['x-guest-token'] = r.json()['guest_token']
+    for _ in range(5):
+      r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
+      j = r.json()
+      if 'x-guest-token' in j:
+        headers['x-guest-token'] = r.json()['guest_token']
+        break
+    else:
+      raise ValueError('Failed to generate guest token for 25s')
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers)
