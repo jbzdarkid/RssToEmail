@@ -114,15 +114,15 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4b39fddfda84d21ad244fce3bcc67f67-ssl-df\"",
-    "last_updated": 1709942437,
+    "etag": "\"8bb2cf529c162bcaf3a3d3b8daaf0e86-ssl-df\"",
+    "last_updated": 1710028811,
     "name": "Explosm.net",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
     "last_updated": 1697207309,
-    "modified": "Sun, 25 Feb 2024 03:34:02 GMT",
+    "modified": "Sun, 10 Mar 2024 09:44:37 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -264,16 +264,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"1b1de2e9a250b9568b3cd9fd78cf3aba7230e6378a38ea82f775dc717b6afe4e\"",
+    "etag": "W/\"65a55c2ec9bffb61f23064df133c85cc59bd2d8dd31ff65fdf896022c9a53971\"",
     "last_updated": 1699588560,
-    "modified": "Sun, 10 Mar 2024 02:46:45 GMT",
+    "modified": "Sun, 10 Mar 2024 19:13:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"6d84dbe9984562bb27d9d4cf34f1b75797be130f3ab7e59f7268a49082eefe64\"",
+    "etag": "W/\"34a404f59d8938d142a9f8c4dfb267bee1c9eefb847dad851a4ca7d7d2a7c35a\"",
     "last_updated": 1699031040,
-    "modified": "Sun, 10 Mar 2024 02:46:06 GMT",
+    "modified": "Sun, 10 Mar 2024 19:13:30 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -292,8 +292,8 @@
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1709814326,
-    "modified": "Thu, 07 Mar 2024 12:25:26 GMT",
+    "last_updated": 1710064733,
+    "modified": "Sun, 10 Mar 2024 09:58:53 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1709806898,
-    "modified": "Sun, 10 Mar 2024 03:04:00 GMT",
+    "modified": "Mon, 11 Mar 2024 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 10 Mar 2024 03:04:00 GMT",
+    "modified": "Mon, 11 Mar 2024 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -376,6 +376,16 @@
   "https://twitter.com/i/user/721822537513086978": {
     "last_updated": 1698771769,
     "name": "Twitter user 721822537513086978",
+    "seen_entries": []
+  },
+  "https://twitter.com/intent/user?user_id=1104477640017264640": {
+    "last_updated": 1710050965,
+    "name": "Twitter user 1104477640017264640",
+    "seen_entries": []
+  },
+  "https://twitter.com/intent/user?user_id=1141417774201184257": {
+    "last_updated": 1710050966,
+    "name": "Twitter user 1141417774201184257",
     "seen_entries": []
   },
   "https://twitter.com/valvesoftware": {
@@ -417,7 +427,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1709901662,
+    "last_updated": 1710124831,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": [
       ""
@@ -465,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:05e9dc2e118c7bba7cd0210fa01937b4\"",
+    "etag": "\"cacheable:a5b8c93127c5555a2977cf5f42897c2f\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -511,9 +521,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2d3b789ecff4d0ade200b3f7a68562a3\"",
+    "etag": "\"1ddca1f3ef6b237a01b75d0c7760737b\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 10 Mar 2024 01:52:50 GMT",
+    "modified": "Mon, 11 Mar 2024 01:32:47 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -537,7 +547,7 @@
     ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1709815930,
+    "last_updated": 1709957760,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -631,7 +641,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1708645527,
+    "last_updated": 1708711225,
     "name": "LRR Videogames",
     "seen_entries": []
   },
