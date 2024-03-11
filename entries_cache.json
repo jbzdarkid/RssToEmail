@@ -86,7 +86,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -311,7 +311,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -342,13 +342,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1709806898,
-    "modified": "Mon, 11 Mar 2024 12:04:00 GMT",
+    "modified": "Mon, 11 Mar 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 11 Mar 2024 12:04:00 GMT",
+    "modified": "Mon, 11 Mar 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -475,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:8e44b4bfb6f131683d27d92a685c5bdd\"",
+    "etag": "\"cacheable:e164c2afa8e79f1cc9a07a65a613492c\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -488,12 +488,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DC314FE1D8404B\"",
+    "etag": "W/\"0x8DC41C46D9EC376\"",
     "last_updated": 0,
-    "modified": "Mon, 19 Feb 2024 13:37:14 GMT",
+    "modified": "Mon, 11 Mar 2024 12:11:48 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1279.html",
       "http://www.giantitp.com/comics/oots1280.html",
       "http://www.giantitp.com/comics/oots1281.html",
       "http://www.giantitp.com/comics/oots1282.html",
@@ -512,7 +511,8 @@
       "http://www.giantitp.com/comics/oots1295.html",
       "http://www.giantitp.com/comics/oots1296.html",
       "http://www.giantitp.com/comics/oots1297.html",
-      "http://www.giantitp.com/comics/oots1298.html"
+      "http://www.giantitp.com/comics/oots1298.html",
+      "http://www.giantitp.com/comics/oots1299.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -521,9 +521,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ac1f19811ee3596aa43cdf079c01445a\"",
+    "etag": "\"111a571ba31bebda6b9057193d5a9619\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 11 Mar 2024 11:43:36 GMT",
+    "modified": "Mon, 11 Mar 2024 14:49:58 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
