@@ -135,6 +135,12 @@
     "name": "HearthSim",
     "seen_entries": []
   },
+  "https://msrc.microsoft.com/blog/tags/attack/feed": {
+    "last_updated": 1710474492,
+    "modified": "Friday, 15-Mar-2024 03:48:11 GMT",
+    "name": "Attack on Microsoft Security Response Center",
+    "seen_entries": []
+  },
   "https://nortverse.com/comic/feed/": {
     "last_updated": 1710426118,
     "modified": "Thu, 14 Mar 2024 14:21:58 GMT",
@@ -188,6 +194,16 @@
     "last_updated": 1684835128,
     "modified": "Fri, 07 Jul 2023 15:04:00 GMT",
     "name": "648800 RSS Feed",
+    "seen_entries": []
+  },
+  "https://twitter.com/intent/user?user_id=1104477640017264640": {
+    "last_updated": 1710474982,
+    "name": "Twitter user 1104477640017264640",
+    "seen_entries": []
+  },
+  "https://twitter.com/intent/user?user_id=1141417774201184257": {
+    "last_updated": 1710474983,
+    "name": "Twitter user 1141417774201184257",
     "seen_entries": []
   },
   "https://w3techs.com/blogfeed/category/news": {
@@ -372,8 +388,208 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1710302400,
+    "last_updated": 1710472540,
     "name": "Wilde Life",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA": {
+    "last_updated": 1708668005,
+    "name": "dillongoo",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Q4WBqNtMF_2GbIsGjic4A": {
+    "last_updated": 1708668005,
+    "name": "yahtzee19",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
+    "last_updated": 1708668005,
+    "name": "GDC",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC3bQlN3L10pHmVLeC5tXRGw": {
+    "last_updated": 1708668005,
+    "name": "dukope1",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5BTcArAnit9p5W7etFsPsA": {
+    "last_updated": 1708668005,
+    "name": "teamfortress",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
+    "last_updated": 1708668005,
+    "name": "LRR Videogames",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA": {
+    "last_updated": 1708668005,
+    "name": "Innuendo Studios",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
+    "last_updated": 1708668005,
+    "name": "Team PLC",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w": {
+    "name": "boburnham",
+    "last_updated": 1708668005,
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
+    "last_updated": 1708668005,
+    "name": "roberttiso",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA": {
+    "last_updated": 1708668005,
+    "name": "I Fight Dragons",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCNpOzBfV89Q7PS4TarkLjsw": {
+    "last_updated": 1708668005,
+    "name": "Starry Expanse",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCOywx5hjexDJUP-trlckYNA": {
+    "last_updated": 1708668005,
+    "name": "Gears for Breakfast",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
+    "last_updated": 1708668005,
+    "name": "Tom Francis",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
+    "last_updated": 1708668005,
+    "name": "Steamworks Development",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU4Ffbehftics2IPq46_w": {
+    "last_updated": 1708668005,
+    "name": "TheSuperSNES",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
+    "last_updated": 1708668005,
+    "name": "Harry101UK",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
+    "last_updated": 1708668005,
+    "name": "The Slow Mo Guys",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
+    "last_updated": 1708668005,
+    "name": "ShadyParadox",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
+    "last_updated": 1708668005,
+    "name": "LRR Tabletop",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
+    "last_updated": 1708668005,
+    "name": "8-bit Music Theory",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
+    "last_updated": 1708668005,
+    "name": "Valve",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
+    "last_updated": 1708668005,
+    "name": "The Slow Mo Guys 2",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UChW-TZWEQCOWw9G80-LAGZw": {
+    "last_updated": 1708668005,
+    "name": "MousseMoose",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCiQViNg9NilR911MSxwaomQ": {
+    "last_updated": 1708668005,
+    "name": "Taioo",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
+    "last_updated": 1708668005,
+    "name": "Proton Jon",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCq71f9hMufSaXPBtcrujjfQ": {
+    "last_updated": 1708668005,
+    "name": "Req",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
+    "last_updated": 1708668005,
+    "name": "Game Maker's Toolkit",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
+    "last_updated": 1708668005,
+    "name": "Retro Game Mechanics Explained",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
+    "last_updated": 1708668005,
+    "name": "LoadingReadyRun",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw": {
+    "last_updated": 1708668005,
+    "name": "New Frame Plus",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCxj-zfOhKarvzLSjt1jjgWA": {
+    "last_updated": 1708668005,
+    "name": "HydrantDude",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
+    "last_updated": 1708668005,
+    "name": "SourceRuns",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66": {
+    "last_updated": 1708668005,
+    "name": "Overwatch Lore",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
+    "last_updated": 1708668005,
+    "name": "Fully Ramblomatic",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
+    "last_updated": 1708668005,
+    "name": "Semi-Ramblomatic",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
+    "last_updated": 1708668005,
+    "name": "Arcane | League of Legends",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
+    "last_updated": 1708668005,
+    "name": "Music Videos | League of Legends",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
+    "last_updated": 1708668005,
+    "name": "Elder Dragon Social Club",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlepkv7m88Ma2sabQJbelzRn": {
+    "last_updated": 1708668005,
+    "name": "Friday Night Paper Fight",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
