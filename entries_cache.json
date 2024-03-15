@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 15-Mar-2024 03:48:11 GMT",
+    "modified": "Friday, 15-Mar-2024 04:08:31 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -149,7 +149,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -180,13 +180,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Fri, 15 Mar 2024 00:14:00 GMT",
+    "modified": "Fri, 15 Mar 2024 04:08:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 15 Mar 2024 00:14:00 GMT",
+    "modified": "Fri, 15 Mar 2024 04:08:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -240,7 +240,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1710447414,
+    "last_updated": 1710469530,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:84bbbb0750fa2bb6136395e1f4d5e7e7\"",
+    "etag": "\"cacheable:9dd45e781b2e0d361fb0817416dea2f1\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -311,9 +311,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"675e702d47f0404eee0cda6b21497f42\"",
+    "etag": "\"baedae1c1f5ca3218cd62f8e10fcc682\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 14 Mar 2024 23:47:20 GMT",
+    "modified": "Fri, 15 Mar 2024 03:15:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA": {
-    "last_updated": 1708668005,
+    "last_updated": 1710331258,
     "name": "dillongoo",
     "seen_entries": []
   },
@@ -403,12 +403,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1708668005,
+    "last_updated": 1710340541,
     "name": "GDC",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC3bQlN3L10pHmVLeC5tXRGw": {
-    "last_updated": 1708668005,
+    "last_updated": 1710263060,
     "name": "dukope1",
     "seen_entries": []
   },
@@ -418,7 +418,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1708668005,
+    "last_updated": 1710349236,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -428,13 +428,13 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1708668005,
+    "last_updated": 1710275280,
     "name": "Team PLC",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w": {
-    "name": "boburnham",
     "last_updated": 1708668005,
+    "name": "boburnham",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
@@ -458,7 +458,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1708668005,
+    "last_updated": 1709282157,
     "name": "Tom Francis",
     "seen_entries": []
   },
@@ -473,7 +473,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
-    "last_updated": 1708668005,
+    "last_updated": 1709878609,
     "name": "Harry101UK",
     "seen_entries": []
   },
@@ -488,12 +488,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1708668005,
+    "last_updated": 1710445357,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1708668005,
+    "last_updated": 1710437403,
     "name": "8-bit Music Theory",
     "seen_entries": []
   },
@@ -528,17 +528,17 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1708668005,
+    "last_updated": 1710167552,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1708668005,
+    "last_updated": 1709760958,
     "name": "Retro Game Mechanics Explained",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1708668005,
+    "last_updated": 1710262807,
     "name": "LoadingReadyRun",
     "seen_entries": []
   },
@@ -563,12 +563,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1708668005,
+    "last_updated": 1710345603,
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
-    "last_updated": 1708668005,
+    "last_updated": 1709830811,
     "name": "Semi-Ramblomatic",
     "seen_entries": []
   },
@@ -583,7 +583,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1708668005,
+    "last_updated": 1709215226,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
