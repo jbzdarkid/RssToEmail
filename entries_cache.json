@@ -4,34 +4,6 @@
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
-  "http://feeds.sydv.net/latest-bash-quotes": {
-    "etag": "S5lAOrJg0eNrqJa1aZk+tbOWcKk",
-    "last_updated": 1653944659,
-    "modified": "Tue, 31 May 2022 03:30:06 GMT",
-    "name": "Latest Bash.org QDB Quotes",
-    "seen_entries": [
-      "http://bash.org/?965959",
-      "http://bash.org/?966109",
-      "http://bash.org/?966114",
-      "http://bash.org/?966166",
-      "http://bash.org/?966181",
-      "http://bash.org/?966182",
-      "http://bash.org/?966184",
-      "http://bash.org/?966216",
-      "http://bash.org/?966218",
-      "http://bash.org/?966225",
-      "http://bash.org/?966228",
-      "http://bash.org/?966229",
-      "http://bash.org/?966243",
-      "http://bash.org/?966262",
-      "http://bash.org/?966357",
-      "http://bash.org/?966447",
-      "http://bash.org/?966452",
-      "http://bash.org/?966453",
-      "http://bash.org/?966459",
-      "http://bash.org/?966506"
-    ]
-  },
   "https://backend.deviantart.com/rss.xml?q=gallery:DrFaustusAU": {
     "last_updated": 1709437648,
     "name": "DeviantArt: DrFaustusAU's gallery",
@@ -78,11 +50,6 @@
     "name": "Momentum Mod Dev Blog",
     "seen_entries": []
   },
-  "https://blog.momentum-mod.org/rss": {
-    "last_updated": 1638052522,
-    "name": "Momentum Mod Dev Blog",
-    "seen_entries": []
-  },
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
@@ -93,24 +60,6 @@
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1709852400,
     "name": "Valorant RSS News",
-    "seen_entries": []
-  },
-  "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=rss": {
-    "last_updated": 1642204800,
-    "name": "Wikipedia featured articles feed",
-    "seen_entries": []
-  },
-  "https://eunnieverse.com/chapter/dumb_rwby/feed/": {
-    "last_updated": 1609259209,
-    "modified": "Wed, 13 Mar 2024 23:40:03 GMT",
-    "name": "Dumb_RWBY",
-    "seen_entries": []
-  },
-  "https://explosm.net/rss.php": {
-    "etag": "\"8f40-axGwejRzQvrDFJAfezTEi+LtfSg-df\"",
-    "last_updated": 1640066400,
-    "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
-    "name": "Cyanide and Happiness",
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
@@ -124,13 +73,6 @@
     "last_updated": 1697207309,
     "modified": "Sun, 10 Mar 2024 09:44:37 GMT",
     "name": "Jonathan Coulton",
-    "seen_entries": []
-  },
-  "https://feeds.feedburner.com/kff/kaiserpolls": {
-    "etag": "Ox73PqARDN4WYnXiSIcjQLPrzdg",
-    "last_updated": 1626181213,
-    "modified": "Tue, 13 Jul 2021 17:22:54 GMT",
-    "name": "Polls and Surveys about Health Policy from the Kaiser Family Foundation",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/nerfnow/full": {
@@ -167,97 +109,6 @@
     "name": "Strong Female Protagonist",
     "seen_entries": []
   },
-  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f260cfc761181ad801f97eae62.atom": {
-    "last_updated": 0,
-    "name": "@breachwizards on Twitter",
-    "seen_entries": [
-      "https://twitter.com/BreachWizards/status/1513960374185340932",
-      "https://twitter.com/BreachWizards/status/1519424470171017216",
-      "https://twitter.com/BreachWizards/status/1530252517057081344",
-      "https://twitter.com/BreachWizards/status/1534964813020860416",
-      "https://twitter.com/BreachWizards/status/1536038119341838336",
-      "https://twitter.com/BreachWizards/status/1536070504695549952",
-      "https://twitter.com/BreachWizards/status/1536795116689498112",
-      "https://twitter.com/BreachWizards/status/1538198269524049921",
-      "https://twitter.com/BreachWizards/status/1547302245313572864",
-      "https://twitter.com/BreachWizards/status/1555364632344539136",
-      "http://twitter.com/BreachWizards/status/1536070504695549952",
-      "http://twitter.com/BreachWizards/status/1536795116689498112",
-      "http://twitter.com/BreachWizards/status/1538198269524049921",
-      "http://twitter.com/BreachWizards/status/1547302245313572864",
-      "http://twitter.com/BreachWizards/status/1555364632344539136",
-      "http://twitter.com/BreachWizards/status/1616492385080602629",
-      "http://twitter.com/BreachWizards/status/1620535302464102400",
-      "http://twitter.com/BreachWizards/status/1628141902351724544",
-      "http://twitter.com/BreachWizards/status/1634629786504171525",
-      "http://twitter.com/BreachWizards/status/1638349881000755200"
-    ]
-  },
-  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f26213c2c16a2dd3506376f912.atom": {
-    "last_updated": 1645466654,
-    "name": "@valvesoftware on Twitter",
-    "seen_entries": [
-      "https://twitter.com/valvesoftware/status/1559670297124515840",
-      "http://twitter.com/valvesoftware/status/1540019375712808961",
-      "http://twitter.com/valvesoftware/status/1541801177213304832",
-      "http://twitter.com/valvesoftware/status/1555447590367272960",
-      "http://twitter.com/valvesoftware/status/1558531865367158786",
-      "http://twitter.com/valvesoftware/status/1559670297124515840",
-      "http://twitter.com/valvesoftware/status/1572299900947410949",
-      "http://twitter.com/valvesoftware/status/1578094148644925441",
-      "http://twitter.com/valvesoftware/status/1580297990153342976",
-      "http://twitter.com/valvesoftware/status/1581019610035654659",
-      "http://twitter.com/valvesoftware/status/1582981184480456705",
-      "http://twitter.com/valvesoftware/status/1586231062359085058",
-      "http://twitter.com/valvesoftware/status/1586682138103287814",
-      "http://twitter.com/valvesoftware/status/1590751434248978433",
-      "http://twitter.com/valvesoftware/status/1607456078782148608",
-      "http://twitter.com/valvesoftware/status/1629592817277493248",
-      "http://twitter.com/valvesoftware/status/1633300733591441408",
-      "http://twitter.com/valvesoftware/status/1636477937007607808",
-      "http://twitter.com/valvesoftware/status/1638594233086119937",
-      "http://twitter.com/valvesoftware/status/1638594272877502466"
-    ]
-  },
-  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950749e1574860d514a2c2.atom": {
-    "last_updated": 1653944660,
-    "name": "AFK - YouTube",
-    "seen_entries": [
-      "https://www.youtube.com/watch?v=hpS9-kKu1Co",
-      "https://www.youtube.com/watch?v=hSntzpqD3Hs",
-      "https://www.youtube.com/watch?v=Y7uL53UMu7M",
-      "https://www.youtube.com/watch?v=qI5OryrOmwY",
-      "https://www.youtube.com/watch?v=WJEEwonBNNI",
-      "https://www.youtube.com/watch?v=xeRmBOChCZE",
-      "https://www.youtube.com/watch?v=27n9aDQiTig",
-      "https://www.youtube.com/watch?v=ZGkr7IwNTFU",
-      "https://www.youtube.com/watch?v=nth6xbpmxfA",
-      "https://www.youtube.com/watch?v=7FEuE-jkxnU",
-      "https://www.youtube.com/watch?v=L3_YNXvD11U",
-      "https://www.youtube.com/watch?v=fxeochlR4pU",
-      "http://www.youtube.com/watch?v=7FEuE-jkxnU",
-      "http://www.youtube.com/watch?v=L3_YNXvD11U",
-      "http://www.youtube.com/watch?v=fxeochlR4pU",
-      "http://www.youtube.com/watch?v=hpS9-kKu1Co",
-      "http://www.youtube.com/watch?v=hSntzpqD3Hs"
-    ]
-  },
-  "https://fetchrss.com/rss/60cfc7c47ebe836aea6491f262950866c31d8a36990a8932.atom": {
-    "last_updated": 1653944659,
-    "name": "HAZBIN HOTEL (PILOT) \"That's Entertainment\" - YouTube",
-    "seen_entries": [
-      "https://www.youtube.com/watch?v=0OxnM9Mpvg0",
-      "https://www.youtube.com/watch?v=R33zrbWKWEY",
-      "https://www.youtube.com/watch?v=yfYbf5fADyY",
-      "https://www.youtube.com/watch?v=r_YRZSluMGg",
-      "https://www.youtube.com/watch?v=Zlmswo0S0e0",
-      "http://www.youtube.com/watch?v=0OxnM9Mpvg0",
-      "http://www.youtube.com/watch?v=R33zrbWKWEY",
-      "http://www.youtube.com/watch?v=yfYbf5fADyY",
-      "http://www.youtube.com/watch?v=r_YRZSluMGg",
-      "http://www.youtube.com/watch?v=Zlmswo0S0e0"
-    ]
-  },
   "https://foxes-in-love.tumblr.com/rss": {
     "last_updated": 1709553516,
     "name": "Foxes in Love",
@@ -284,29 +135,10 @@
     "name": "HearthSim",
     "seen_entries": []
   },
-  "https://msrc-blog.microsoft.com/category/msrc/feed/": {
-    "etag": "\"d15dd4c8027d31299718e423d4564cd9\"",
-    "last_updated": 1626714000,
-    "modified": "Mon, 19 Jul 2021 17:00:00 GMT",
-    "name": "MSRC \u2013 Microsoft Security Response Center",
-    "seen_entries": []
-  },
   "https://nortverse.com/comic/feed/": {
     "last_updated": 1710426118,
     "modified": "Thu, 14 Mar 2024 14:21:58 GMT",
     "name": "Comics \u2013 Nortverse",
-    "seen_entries": []
-  },
-  "https://pi-hole.net/category/updates/feed/": {
-    "etag": "\"069da8b1c5036a8d74a73bc1226fe168\"",
-    "last_updated": 1641407553,
-    "modified": "Mon, 03 Oct 2022 01:11:19 GMT",
-    "name": "Updates \u2013 Pi-hole",
-    "seen_entries": []
-  },
-  "https://politepol.com/fd/oaAc0yT3zDbO": {
-    "last_updated": 1612721727,
-    "name": "Jolly Jack's Collected Curios",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
@@ -358,41 +190,6 @@
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
-  "https://twitter.com/breachwizards": {
-    "last_updated": 1709176206,
-    "name": "Twitter user breachwizards",
-    "seen_entries": []
-  },
-  "https://twitter.com/i/user/1104477640017264640": {
-    "last_updated": 1698771770,
-    "name": "Twitter user 1104477640017264640",
-    "seen_entries": []
-  },
-  "https://twitter.com/i/user/1141417774201184257": {
-    "last_updated": 1703823834,
-    "name": "Twitter user 1141417774201184257",
-    "seen_entries": []
-  },
-  "https://twitter.com/i/user/721822537513086978": {
-    "last_updated": 1698771769,
-    "name": "Twitter user 721822537513086978",
-    "seen_entries": []
-  },
-  "https://twitter.com/intent/user?user_id=1104477640017264640": {
-    "last_updated": 1710050965,
-    "name": "Twitter user 1104477640017264640",
-    "seen_entries": []
-  },
-  "https://twitter.com/intent/user?user_id=1141417774201184257": {
-    "last_updated": 1710050966,
-    "name": "Twitter user 1141417774201184257",
-    "seen_entries": []
-  },
-  "https://twitter.com/valvesoftware": {
-    "last_updated": 1709176207,
-    "name": "Twitter user valvesoftware",
-    "seen_entries": []
-  },
   "https://w3techs.com/blogfeed/category/news": {
     "last_updated": 0,
     "name": "W3Techs.com - News Blog",
@@ -429,9 +226,7 @@
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
     "last_updated": 1710447414,
     "name": "Team Fortress Wiki - Watchlist",
-    "seen_entries": [
-      ""
-    ]
+    "seen_entries": []
   },
   "https://www.atomic-robo.com/atomicrobo/rss": {
     "last_updated": 1639137658,
@@ -446,27 +241,6 @@
   "https://www.doh.wa.gov/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=10785&ModuleID=33583&MaxCount=25": {
     "last_updated": 1631136180,
     "name": "Washington State Department of Health",
-    "seen_entries": []
-  },
-  "https://www.escapistmagazine.com/category/extra-punctuation/feed/": {
-    "etag": "W/\"e731f27c0b565ceff5d9786d54c93690\"",
-    "last_updated": 1694101133,
-    "modified": "Wed, 13 Sep 2023 18:04:38 GMT",
-    "name": "Extra Punctuation Archives - The Escapist",
-    "seen_entries": []
-  },
-  "https://www.escapistmagazine.com/category/yahtzees-dev-diary/feed/": {
-    "etag": "W/\"82495ea48e93e4db40626296e5459e9d\"",
-    "last_updated": 1633449624,
-    "modified": "Fri, 15 Dec 2023 18:50:20 GMT",
-    "name": "Yahtzee's Dev Diary",
-    "seen_entries": []
-  },
-  "https://www.escapistmagazine.com/category/zero-punctuation/feed/": {
-    "etag": "W/\"11f29c1344848ddcb0659f46cd719dfd\"",
-    "last_updated": 1694620811,
-    "modified": "Wed, 13 Sep 2023 20:22:25 GMT",
-    "name": "Zero Punctuation",
     "seen_entries": []
   },
   "https://www.etsy.com/shop/jefflangevin/rss": {
@@ -527,24 +301,11 @@
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
-  "https://www.insertcoinclothing.com/blog/feed/": {
-    "last_updated": 1638378000,
-    "modified": "Wed, 01 Dec 2021 17:00:00 GMT",
-    "name": "Insert Coin Clothing \u2013 the world's favourite videogame t-shirts & hoodies \u2013 blog",
-    "seen_entries": []
-  },
   "https://www.l4d.com/blog/rss.xml": {
     "last_updated": 1613686620,
     "modified": "Thu, 18 Feb 2021 22:17:00 +0000",
     "name": "L4D Official Blog",
     "seen_entries": []
-  },
-  "https://www.reddit.com/message/unread/.rss?feed=b8572a3b0666842ff05528c742145600cfc57a5f&user=darkid": {
-    "last_updated": 0,
-    "name": "Reddit DMs",
-    "seen_entries": [
-      "https://www.reddit.com/message/messages/txtnqq"
-    ]
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
     "last_updated": 1710247629,
@@ -613,271 +374,6 @@
   "https://www.wildelifecomic.com/comic/rss": {
     "last_updated": 1710302400,
     "name": "Wilde Life",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA": {
-    "last_updated": 1703942071,
-    "name": "dillongoo",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Q4WBqNtMF_2GbIsGjic4A": {
-    "last_updated": 1687795228,
-    "name": "yahtzee19",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1708552527,
-    "name": "GDC",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC3bQlN3L10pHmVLeC5tXRGw": {
-    "last_updated": 1692290547,
-    "name": "dukope1",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5BTcArAnit9p5W7etFsPsA": {
-    "last_updated": 1509054261,
-    "name": "teamfortress",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1708808433,
-    "name": "LRR Videogames",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA": {
-    "last_updated": 1706622402,
-    "name": "Innuendo Studios",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1708301194,
-    "name": "Team PLC",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w": {
-    "last_updated": 1654628687,
-    "name": "boburnham",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
-    "last_updated": 1704914486,
-    "name": "roberttiso",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCFb3g4C4wVdWut2BkgccgDQ": {
-    "last_updated": 1634472790,
-    "name": "RGLgg",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCHCph-_jLba_9atyCZJPLQQ": {
-    "last_updated": 1623776419,
-    "name": "How It Should Have Ended",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA": {
-    "last_updated": 1704211309,
-    "name": "I Fight Dragons",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCNpOzBfV89Q7PS4TarkLjsw": {
-    "last_updated": 1549094394,
-    "name": "Starry Expanse",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCOywx5hjexDJUP-trlckYNA": {
-    "last_updated": 1657799102,
-    "name": "Gears for Breakfast",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCPxdJxWcGC1H5wIE42kEVpQ": {
-    "last_updated": 1639515598,
-    "name": "ToughThought",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1707773037,
-    "name": "Tom Francis",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCS2EY3XJCvXi5QGTN6mxUtA": {
-    "last_updated": 1671310814,
-    "name": "TheRunawayGuys",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCSfoxYTlCPFfglckBLrjpsA": {
-    "last_updated": 1671208224,
-    "name": "miracleofsound",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
-    "last_updated": 1706747020,
-    "name": "Steamworks Development",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU4Ffbehftics2IPq46_w": {
-    "last_updated": 1669691636,
-    "name": "TheSuperSNES",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
-    "last_updated": 1696721289,
-    "name": "Harry101UK",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1708633597,
-    "name": "The Slow Mo Guys",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCVBN-jv_fJiNOddCBo9Vt9Q": {
-    "last_updated": 1676515918,
-    "name": "bluecheetah001",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
-    "last_updated": 1699154947,
-    "name": "shadyparadox",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1708614027,
-    "name": "LRR Tabletop",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1706991018,
-    "name": "8-bit Music Theory",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
-    "last_updated": 1700245746,
-    "name": "Valve",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
-    "last_updated": 1699037918,
-    "name": "The Slow Mo Guys 2",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UChW-TZWEQCOWw9G80-LAGZw": {
-    "last_updated": 1675094889,
-    "name": "MousseMoose",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCiQViNg9NilR911MSxwaomQ": {
-    "last_updated": 1558621803,
-    "name": "Taioo",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
-    "last_updated": 1633904672,
-    "name": "Proton Jon",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UClOf1XXinvZsy4wKPAkro2A": {
-    "last_updated": 1620458409,
-    "name": "PlayOverwatch",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCnV5HYjb358rUDcAnrlxUkw": {
-    "last_updated": 1613707204,
-    "name": "HTC VIVE",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCq71f9hMufSaXPBtcrujjfQ": {
-    "last_updated": 1672244812,
-    "name": "Req",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1707835711,
-    "name": "Game Maker's Toolkit",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1703008006,
-    "name": "Retro Game Mechanics Explained",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1708362008,
-    "name": "loadingreadyrun",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw": {
-    "last_updated": 1708106442,
-    "name": "New Frame Plus",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCxj-zfOhKarvzLSjt1jjgWA": {
-    "last_updated": 1709727071,
-    "name": "HydrantDude",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1707674410,
-    "name": "SourceRuns",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S": {
-    "last_updated": 1651698267,
-    "name": "HELLUVA BOSS",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66": {
-    "last_updated": 1692867869,
-    "name": "Overwatch Lore",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X": {
-    "last_updated": 1698854416,
-    "name": "Zero Punctuation Complete Series",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAbMhAYRuCUjTFTU63WTuXDwT3bP3v2kN": {
-    "last_updated": 1698937207,
-    "name": "Extra Punctuation",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1708534825,
-    "name": "Fully Ramblomatic",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
-    "last_updated": 1708617641,
-    "name": "Semi-Ramblomatic",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUPKuAVC8PO4N7wmS4OlXS_m0vMSTqUyY": {
-    "last_updated": 1690303772,
-    "name": "Brace Yourself Games Trailers",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
-    "last_updated": 1668783633,
-    "name": "Arcane | League of Legends",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
-    "last_updated": 1704898510,
-    "name": "Music Videos | League of Legends",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLsy9DTCWSlng5ZWtcYy_PrAy6Otr_zUm7": {
-    "last_updated": 1651827899,
-    "name": "AFK",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1706299212,
-    "name": "Elder Dragon Social Club",
-    "seen_entries": []
-  },
-  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlepkv7m88Ma2sabQJbelzRn": {
-    "last_updated": 1680804268,
-    "name": "Friday Night Paper Fight",
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
