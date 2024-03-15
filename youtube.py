@@ -20,5 +20,5 @@ def get_entries(cache, feed_url):
             if start_date > datetime.now(timezone.utc):
                 continue
 
-    # Not a youtube premier or the premier has released
-    yield entry
+        # Not a youtube premier or the premier has released
+        yield entry
