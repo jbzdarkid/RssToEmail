@@ -41,15 +41,15 @@ headers = {
 
 def get(graphql, **kwargs):
   if 'x-guest-token' not in headers:
-    for _ in range(5):
+    for _ in range(10):
       r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
       j = r.json()
       if 'guest_token' in j:
         headers['x-guest-token'] = j['guest_token']
         break
-      sleep(5)
+      sleep(30)
     if 'x-guest-token' not in headers:
-      raise ValueError('Failed to generate guest token for 25s')
+      raise ValueError('Failed to generate guest token for 5m')
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers)
