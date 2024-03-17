@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 17-Mar-2024 09:04:02 GMT",
+    "modified": "Sunday, 17-Mar-2024 12:05:50 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -149,7 +149,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Tue, 21 Mar 2023 22:22:07 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -180,13 +180,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Sun, 17 Mar 2024 09:04:00 GMT",
+    "modified": "Sun, 17 Mar 2024 12:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 17 Mar 2024 09:04:00 GMT",
+    "modified": "Sun, 17 Mar 2024 12:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "\"cacheable:1a3a3b28800a63f32bfa12fcc7d59879\"",
+    "etag": "\"cacheable:115a9d8cd11550d36fbabbe6670ec246\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -311,9 +311,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3d19cdee96141b34f8967b1bc8756b05\"",
+    "etag": "\"0de2954f412fdd561350077d8d52fe18\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 17 Mar 2024 08:48:05 GMT",
+    "modified": "Sun, 17 Mar 2024 11:34:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -361,9 +361,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"b10e1d6dace7357a56e6ac4efafffd90\"",
+    "etag": "W/\"698c703e98a964ad5d9069f4060e3dd2\"",
     "last_updated": 1689004753,
-    "modified": "Sun, 17 Mar 2024 09:03:58 GMT",
+    "modified": "Sun, 17 Mar 2024 11:18:57 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
