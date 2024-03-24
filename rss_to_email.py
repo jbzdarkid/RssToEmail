@@ -51,7 +51,7 @@ def handle_entries(entries, cache, email_server):
     # and send multiple emails if there we multiple entries since the last_updated time.
     for entry in reversed(entries):
         if entry.date:
-            if entry.date >= cache[entry.url]['last_updated']:
+            if entry.date > cache[entry.url]['last_updated']:
                 print(f'Found new entry for {entry.url} by date')
                 cache[entry.url]['last_updated'] = entry.date
                 new_entries.append(entry)
