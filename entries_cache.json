@@ -53,12 +53,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1710889200,
+    "last_updated": 1711234800,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -71,7 +71,7 @@
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
     "last_updated": 1697207309,
-    "modified": "Sun, 10 Mar 2024 09:44:37 GMT",
+    "modified": "Sun, 24 Mar 2024 12:07:14 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -105,12 +105,12 @@
   "https://feeds.feedburner.com/strongfemaleprotagonist/UHnv": {
     "etag": "IQUMdUSZTdiZo7nDZZPMFih1pZ4",
     "last_updated": 1537863120,
-    "modified": "Mon, 5 Feb 2024 21:25:07 GMT",
+    "modified": "Sun, 24 Mar 2024 14:15:10 GMT",
     "name": "Strong Female Protagonist",
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1711106794,
+    "last_updated": 1711289362,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 24-Mar-2024 12:05:03 GMT",
+    "modified": "Sunday, 24-Mar-2024 15:04:09 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -149,7 +149,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -180,13 +180,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Sun, 24 Mar 2024 12:04:00 GMT",
+    "modified": "Sun, 24 Mar 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 24 Mar 2024 12:04:00 GMT",
+    "modified": "Sun, 24 Mar 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:1ff40c5f9007090f27f3b99db943b363\"",
+    "etag": "W/\"cacheable:410ab4a0cac1b103fdc6556d36d2ec57\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -311,9 +311,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"848cea11d12f1c4c635120bfd3ab519c\"",
+    "etag": "\"0b89ee13393e639a0f4812cefa3db7d5\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 24 Mar 2024 10:47:15 GMT",
+    "modified": "Sun, 24 Mar 2024 13:36:25 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
