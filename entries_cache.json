@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -63,8 +63,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"90c6e4df14c37baed38823ac207f1015-ssl-df\"",
-    "last_updated": 1711323666,
+    "etag": "\"d8855c211981a0b44c166edc69889885-ssl-df\"",
+    "last_updated": 1711419278,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -115,16 +115,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a788b115fcc9ede498cc547629fa870b234d3ec2858ddc0718237790b0259446\"",
+    "etag": "W/\"73c740782e17b02e141e36bdfed87ee7ee0301e5704804f3d6a34af2c4c0b3a1\"",
     "last_updated": 1699588560,
-    "modified": "Tue, 26 Mar 2024 04:57:12 GMT",
+    "modified": "Tue, 26 Mar 2024 06:34:26 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"45c3773263eb7ace081e1b200ca1c688e837845c8b7c4a3c82b13715ef0481a1\"",
+    "etag": "W/\"591d579e6c0f8ec63559cad666b79426a20340f24d90cafb6ecbb73f070619dc\"",
     "last_updated": 1699031040,
-    "modified": "Mon, 25 Mar 2024 18:53:26 GMT",
+    "modified": "Tue, 26 Mar 2024 07:14:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 26-Mar-2024 06:05:30 GMT",
+    "modified": "Tuesday, 26-Mar-2024 09:04:20 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -149,7 +149,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -180,13 +180,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Tue, 26 Mar 2024 06:04:00 GMT",
+    "modified": "Tue, 26 Mar 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 26 Mar 2024 06:04:00 GMT",
+    "modified": "Tue, 26 Mar 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:e1e4b7c1787a63c7f9e1be965cadd645\"",
+    "etag": "W/\"cacheable:b1ab4c04beb6757e4c0d1ae4e17e98ac\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -361,9 +361,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"d867b953171c6b4b2c4267dfab26d199\"",
+    "etag": "W/\"325fb19c739d41a0edab17c4624e380f\"",
     "last_updated": 1689004753,
-    "modified": "Sun, 24 Mar 2024 18:54:43 GMT",
+    "modified": "Tue, 26 Mar 2024 08:54:44 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
