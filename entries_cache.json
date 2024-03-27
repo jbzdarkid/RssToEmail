@@ -63,8 +63,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"d8855c211981a0b44c166edc69889885-ssl-df\"",
-    "last_updated": 1711419278,
+    "etag": "\"e1930540b2eef7f2b744a856c9ae1b8b-ssl-df\"",
+    "last_updated": 1711497637,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -115,16 +115,16 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"73c740782e17b02e141e36bdfed87ee7ee0301e5704804f3d6a34af2c4c0b3a1\"",
+    "etag": "W/\"35de58216ba03cead2c224ddf69526d5137a6241a52b904904f9643fb48c71e0\"",
     "last_updated": 1699588560,
-    "modified": "Tue, 26 Mar 2024 06:34:26 GMT",
+    "modified": "Wed, 27 Mar 2024 07:28:55 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"591d579e6c0f8ec63559cad666b79426a20340f24d90cafb6ecbb73f070619dc\"",
+    "etag": "W/\"852e2810227c89abac311842ce47100713b04d6ce3fe1be52df34c4d6c6c1f31\"",
     "last_updated": 1699031040,
-    "modified": "Tue, 26 Mar 2024 07:14:54 GMT",
+    "modified": "Wed, 27 Mar 2024 06:37:58 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -137,7 +137,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 27-Mar-2024 03:04:06 GMT",
+    "modified": "Wednesday, 27-Mar-2024 09:04:31 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -180,13 +180,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Wed, 27 Mar 2024 03:04:00 GMT",
+    "modified": "Wed, 27 Mar 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 27 Mar 2024 03:04:00 GMT",
+    "modified": "Wed, 27 Mar 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:d65acd0d65639695f1c333e7a99dd1d8\"",
+    "etag": "W/\"cacheable:a97f58cece484dd761eb94a50f7fbe41\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -311,9 +311,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"47b33e7e21bcd8a4ca9cfdac147b9c0d\"",
+    "etag": "\"f6493cef4bd55b3066b16217473713ab\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 27 Mar 2024 02:54:35 GMT",
+    "modified": "Wed, 27 Mar 2024 08:16:45 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -324,12 +324,12 @@
     "seen_entries": []
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1711264499,
+    "last_updated": 1711439165,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1711350000,
+    "last_updated": 1711522800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -361,9 +361,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"80e6fa6a2e03e05108ce76976e3b9552\"",
+    "etag": "W/\"d83530172f458f59f5cccbab6e5239a4\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 26 Mar 2024 16:40:22 GMT",
+    "modified": "Wed, 27 Mar 2024 08:08:27 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -388,7 +388,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1711344547,
+    "last_updated": 1711523526,
     "name": "Wilde Life",
     "seen_entries": []
   },
