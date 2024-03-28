@@ -17,7 +17,10 @@ try:
 except AttributeError:
     pass
 
+cache = None
+cache_name = 'entries_cache.json'
 success = True
+
 def wrap_generator(feed_title, feed_url, generator):
     global success
     entries = []
@@ -45,7 +48,7 @@ def wrap_generator(feed_title, feed_url, generator):
     return entries
 
 
-def handle_entries(entries, cache, email_server):
+def handle_entries(entries, email_server):
     new_entries = []
     # Reversed so that older entries are first, that way we send emails in chronological order,
     # and send multiple emails if there we multiple entries since the last_updated time.
@@ -70,11 +73,11 @@ def handle_entries(entries, cache, email_server):
 
     print('Done sending emails')
 
-    with open('entries_cache.json', 'w') as f:
+    with open(cache_name, 'w') as f:
         dump(cache, f, sort_keys=True, indent=2)
 
 if __name__ == '__main__':
-    with open('entries_cache.json', 'r') as f:
+    with open(cache_name, 'r') as f:
         cache = load(f)
 
     entries = []
@@ -122,7 +125,7 @@ if __name__ == '__main__':
         email_server.starttls()
         email_server.login(SENDER_EMAIL, SENDER_PWORD);
 
-    handle_entries(entries, cache, email_server)
+    handle_entries(entries, email_server)
 
     if SENDER_EMAIL:
         email_server.quit()
