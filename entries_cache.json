@@ -62,6 +62,15 @@
     "name": "Valorant RSS News",
     "seen_entries": []
   },
+  "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
+    "last_updated": 1711595045,
+    "name": "Microsoft Environmental Sustainability Report",
+    "seen_entries": [
+      "http://aka.ms/MSFTSustainabilityReport2020",
+      "http://aka.ms/MSFTsustainabilityreport2021",
+      "http://aka.ms/SustainabilityReport2022"
+    ]
+  },
   "https://explosm.net/rss.xml": {
     "etag": "\"e1930540b2eef7f2b744a856c9ae1b8b-ssl-df\"",
     "last_updated": 1711497637,
@@ -137,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 28-Mar-2024 00:15:07 GMT",
+    "modified": "Thursday, 28-Mar-2024 03:04:08 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -180,13 +189,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Thu, 28 Mar 2024 00:14:00 GMT",
+    "modified": "Thu, 28 Mar 2024 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 28 Mar 2024 00:14:00 GMT",
+    "modified": "Thu, 28 Mar 2024 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -265,7 +274,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:9b1f12a68d828892b54a272c0f937518\"",
+    "etag": "W/\"cacheable:fc62bc61073b83015f6b0a4ce89c573b\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -354,16 +363,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"6891ed1e2708cc1fa0125536a938017b\"",
+    "etag": "W/\"a3a43309aa73f6e27ba94c68e5a12c7c\"",
     "last_updated": 1710777627,
-    "modified": "Wed, 27 Mar 2024 23:56:44 GMT",
+    "modified": "Thu, 28 Mar 2024 00:01:04 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a3a43309aa73f6e27ba94c68e5a12c7c\"",
+    "etag": "W/\"b9b6c9d290c8a6be0fdef6d01050e98d\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 28 Mar 2024 00:01:04 GMT",
+    "modified": "Thu, 28 Mar 2024 01:55:16 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
