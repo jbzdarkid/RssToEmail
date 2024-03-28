@@ -23,7 +23,7 @@ class MockEntry:
     self.sent = False
 
   def __repr__(self):
-    return Entry.__repr__(self)
+    return f'MockEntry(id={self.id}, sent={self.sent})'
 
   def send_email(self, *args):
     self.sent = True
@@ -41,7 +41,7 @@ class Tests:
   def test_new_feed(self):
     main.cache = {}
     entries = self.mock_get_entries(1, 2, 3)
-    main.handle_entries(entries, main.cache)
+    main.handle_entries(entries, None)
     assert not entries[0].sent
     assert not entries[1].sent
     assert not entries[2].sent
@@ -52,7 +52,7 @@ class Tests:
   def test_existing_feed(self):
     main.cache[self.feed_url]['last_updated'] = 0
     entries = self.mock_get_entries(1, 2, 3)
-    main.handle_entries(entries, main.cache)
+    main.handle_entries(entries, None)
     assert entries[0].sent
     assert entries[1].sent
     assert entries[2].sent
@@ -60,10 +60,26 @@ class Tests:
   def test_existing_feed_by_url(self):
     del main.cache[self.feed_url]['last_updated']
     entries = self.mock_get_entries(None, None, None)
-    main.handle_entries(entries, main.cache)
+    main.handle_entries(entries, None)
     assert entries[0].sent
     assert entries[1].sent
     assert entries[2].sent
+
+  def test_simulatneous_entries(self):
+    entries = self.mock_get_entries(200, 200, 200)
+    main.handle_entries(entries, None)
+    assert entries[0].sent
+    assert entries[1].sent
+    assert entries[2].sent
+
+    entries[0].sent = False
+    entries[1].sent = False
+    entries[2].sent = False
+    main.handle_entries(entries, None)
+    assert not entries[0].sent
+    assert not entries[1].sent
+    assert not entries[2].sent
+
 
 if __name__ == '__main__':
   test_class = Tests()

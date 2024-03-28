@@ -58,6 +58,9 @@ def handle_entries(entries, email_server):
                 print(f'Found new entry for {entry.url} by date')
                 cache[entry.url]['last_updated'] = entry.date
                 new_entries.append(entry)
+            elif len(new_entries) > 0 and entry.url == new_entries[-1].url and entry.date == cache[entry.url]['last_updated']:
+                print(f'Found new entry for {entry.url} by date')
+                new_entries.append(entry)
         else:
             cache_key = entry.link.replace('https://', 'http://')
             if cache_key not in cache[entry.url]['seen_entries']:
