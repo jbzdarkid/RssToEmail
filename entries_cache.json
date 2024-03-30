@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Saturday, 30-Mar-2024 15:04:05 GMT",
+    "modified": "Saturday, 30-Mar-2024 18:05:19 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -189,13 +189,13 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1710367250,
-    "modified": "Sat, 30 Mar 2024 15:04:00 GMT",
+    "modified": "Sat, 30 Mar 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 30 Mar 2024 15:04:00 GMT",
+    "modified": "Sat, 30 Mar 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -274,7 +274,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:ba00533836acb246d8c1ca5689026cff\"",
+    "etag": "W/\"cacheable:93678c106e7a201aa637eefa27a448c9\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -320,9 +320,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9d5905ec79266b13f9af4311dea5f17b\"",
+    "etag": "\"074a9950ac257b886574a70b7a1471a3\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 30 Mar 2024 14:49:45 GMT",
+    "modified": "Sat, 30 Mar 2024 17:57:59 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -497,7 +497,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1711634433,
+    "last_updated": 1711817899,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
