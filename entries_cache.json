@@ -58,7 +58,7 @@
     "seen_entries": []
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
-    "last_updated": 1712095200,
+    "last_updated": 1712268000,
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 05-Apr-2024 15:04:10 GMT",
+    "modified": "Friday, 05-Apr-2024 18:04:39 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -188,14 +188,14 @@
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
-    "last_updated": 1712073664,
-    "modified": "Fri, 05 Apr 2024 15:04:00 GMT",
+    "last_updated": 1712331866,
+    "modified": "Fri, 05 Apr 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 05 Apr 2024 15:04:00 GMT",
+    "modified": "Fri, 05 Apr 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -274,7 +274,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:ef3d079f4e82a2e913a7cc4c3a3357d9\"",
+    "etag": "W/\"cacheable:97678d8c90b2582797a7714af3c08752\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -320,9 +320,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"149e7c52caf39c5a9a4d462f76649402\"",
+    "etag": "\"7d2cc6858647de07640e9abe6f13f312\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 05 Apr 2024 15:03:40 GMT",
+    "modified": "Fri, 05 Apr 2024 17:00:20 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -412,7 +412,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1711729839,
+    "last_updated": 1712337220,
     "name": "GDC",
     "seen_entries": []
   },
@@ -547,7 +547,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1712095227,
+    "last_updated": 1712334202,
     "name": "LoadingReadyRun",
     "seen_entries": []
   },
