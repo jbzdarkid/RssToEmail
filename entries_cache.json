@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -131,9 +131,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f0c9dd3a5dcde71d9c31e4e6e0f2265808dfdf295206c9e9a258cd0e0c4ab820\"",
+    "etag": "W/\"3876fce2d6c66d5652fa60e1778bc5486663ca2fbe674da9258cfdaa360106f3\"",
     "last_updated": 1699031040,
-    "modified": "Fri, 05 Apr 2024 12:17:08 GMT",
+    "modified": "Mon, 08 Apr 2024 16:03:54 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 08-Apr-2024 15:04:13 GMT",
+    "modified": "Monday, 08-Apr-2024 18:06:03 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -189,19 +189,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1712469890,
-    "modified": "Mon, 08 Apr 2024 15:04:00 GMT",
+    "modified": "Mon, 08 Apr 2024 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1712331866,
-    "modified": "Mon, 08 Apr 2024 15:04:00 GMT",
+    "modified": "Mon, 08 Apr 2024 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 08 Apr 2024 15:04:00 GMT",
+    "modified": "Mon, 08 Apr 2024 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:effed4d980637d64815eeabc025224d1\"",
+    "etag": "W/\"cacheable:337495e5c0592d2e8abffcf043020d75\"",
     "last_updated": 1708533910,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -332,9 +332,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ef5de50b31ac704bc1d6fc382a3663dc\"",
+    "etag": "\"62162ae752e3eb21f62d118eeb24438a\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 08 Apr 2024 03:40:31 GMT",
+    "modified": "Mon, 08 Apr 2024 17:28:53 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -439,7 +439,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1712433614,
+    "last_updated": 1712595623,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -559,7 +559,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1712334202,
+    "last_updated": 1712592007,
     "name": "LoadingReadyRun",
     "seen_entries": []
   },
