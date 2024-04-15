@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 15-Apr-2024 15:04:08 GMT",
+    "modified": "Monday, 15-Apr-2024 18:04:34 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -189,19 +189,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1712469890,
-    "modified": "Mon, 15 Apr 2024 15:04:00 GMT",
+    "modified": "Mon, 15 Apr 2024 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1712678486,
-    "modified": "Mon, 15 Apr 2024 15:04:00 GMT",
+    "modified": "Mon, 15 Apr 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 15 Apr 2024 15:04:00 GMT",
+    "modified": "Mon, 15 Apr 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:3a8286e86be1ee0af05ea8e9ce692ab8\"",
+    "etag": "W/\"cacheable:02957eda17ebfd24dc64040b1ecec6b9\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -332,9 +332,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2560549652f219e567df2173370c74ae\"",
+    "etag": "\"0d70f7762514fe8f9f37db0316b0e4d1\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 15 Apr 2024 12:48:10 GMT",
+    "modified": "Mon, 15 Apr 2024 17:44:08 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -439,7 +439,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1713114005,
+    "last_updated": 1713200434,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -509,7 +509,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1712127611,
+    "last_updated": 1713198529,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
@@ -559,7 +559,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1713048318,
+    "last_updated": 1713196807,
     "name": "LoadingReadyRun",
     "seen_entries": []
   },
@@ -604,7 +604,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1711371612,
+    "last_updated": 1713186017,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
