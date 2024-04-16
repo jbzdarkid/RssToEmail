@@ -49,7 +49,7 @@ def get(graphql, **kwargs):
         break
       sleep(30)
     if 'x-guest-token' not in headers:
-      raise ValueError('Failed to generate guest token for 5m')
+      return None
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers)
@@ -61,6 +61,8 @@ def get(graphql, **kwargs):
 
 def get_user_id(screen_name):
   j = get('oUZZZ8Oddwxs8Cd3iW3UEA/UserByScreenName', screen_name=screen_name)
+  if not j:
+    raise ValueError('Failed to look up user id')
   return j['user']['result']['rest_id']
 
 
@@ -71,6 +73,8 @@ def get_entries(user_id):
     'withVoice': False,
   }
   j = get('QqZBEqganhHwmU9QscmIug/UserTweets', **kwargs)
+  if not j:
+    return []
   instructions = j['user']['result']['timeline']['timeline']['instructions']
   instructions = {i['type']: i for i in instructions}
   if 'TimelineAddEntries' not in instructions:
