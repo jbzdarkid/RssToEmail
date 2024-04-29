@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -72,8 +72,8 @@
     ]
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"ef9678ad7e53157baa789ea9f27ba708-ssl-df\"",
-    "last_updated": 1714262409,
+    "etag": "\"b73995f2f9a005150f8a06b690428e76-ssl-df\"",
+    "last_updated": 1714348855,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 29-Apr-2024 03:04:34 GMT",
+    "modified": "Monday, 29-Apr-2024 06:05:07 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -189,19 +189,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1713801619,
-    "modified": "Mon, 29 Apr 2024 03:04:00 GMT",
+    "modified": "Mon, 29 Apr 2024 06:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1714162148,
-    "modified": "Mon, 29 Apr 2024 03:04:00 GMT",
+    "modified": "Mon, 29 Apr 2024 06:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 29 Apr 2024 03:04:00 GMT",
+    "modified": "Mon, 29 Apr 2024 06:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -265,7 +265,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1713758400,
+    "last_updated": 1714363200,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -280,7 +280,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:4c3d01dee031df4d8b84a97d32ec874d\"",
+    "etag": "W/\"cacheable:f11e11af186d4fdf9498ccd053d80c5d\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -345,7 +345,7 @@
     "seen_entries": []
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1714162808,
+    "last_updated": 1714255560,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -409,7 +409,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1714111784,
+    "last_updated": 1714370400,
     "name": "Wilde Life",
     "seen_entries": []
   },
