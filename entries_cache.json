@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -119,7 +119,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1714901217,
+    "last_updated": 1715075303,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 07-May-2024 12:06:21 GMT",
+    "modified": "Tuesday, 07-May-2024 15:04:26 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -189,19 +189,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1713801619,
-    "modified": "Tue, 07 May 2024 12:06:00 GMT",
+    "modified": "Tue, 07 May 2024 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1714162148,
-    "modified": "Tue, 07 May 2024 12:06:00 GMT",
+    "modified": "Tue, 07 May 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 07 May 2024 12:06:00 GMT",
+    "modified": "Tue, 07 May 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -255,7 +255,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1714962281,
+    "last_updated": 1715086438,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": []
   },
@@ -287,7 +287,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:0c3a4c99171bcdc81941332fa766d30c\"",
+    "etag": "W/\"cacheable:97d595310c966427a187ef5122e91262\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -306,12 +306,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DC596550142BFB\"",
+    "etag": "W/\"0x8DC6E9E7EF95FFF\"",
     "last_updated": 0,
-    "modified": "Wed, 10 Apr 2024 13:51:24 GMT",
+    "modified": "Tue, 07 May 2024 14:03:39 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1282.html",
       "http://www.giantitp.com/comics/oots1283.html",
       "http://www.giantitp.com/comics/oots1284.html",
       "http://www.giantitp.com/comics/oots1285.html",
@@ -330,7 +329,8 @@
       "http://www.giantitp.com/comics/oots1298.html",
       "http://www.giantitp.com/comics/oots1299.html",
       "http://www.giantitp.com/comics/oots1300.html",
-      "http://www.giantitp.com/comics/oots1301.html"
+      "http://www.giantitp.com/comics/oots1301.html",
+      "http://www.giantitp.com/comics/oots1302.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -339,9 +339,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4171925bcbb6059c11c86091a8b313d8\"",
+    "etag": "\"088e37d5fe5ce8f49c546a0380031bcd\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 07 May 2024 11:57:27 GMT",
+    "modified": "Tue, 07 May 2024 14:59:39 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -389,9 +389,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"8d7aea49e9506cfaea3ce84cfef699e2\"",
+    "etag": "W/\"76314e2bc6c53d46beba7ba87914cddf\"",
     "last_updated": 1689004753,
-    "modified": "Sun, 05 May 2024 14:55:47 GMT",
+    "modified": "Tue, 07 May 2024 14:29:31 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -431,7 +431,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1714747339,
+    "last_updated": 1715091129,
     "name": "GDC",
     "seen_entries": []
   },
