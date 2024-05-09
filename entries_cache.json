@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -119,14 +119,14 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1715075303,
+    "last_updated": 1715250467,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"42c5542f38c39e4140cdd33787c0ed94386673a1b078abc2da5873e44ab8c5f2\"",
+    "etag": "W/\"5f59c7ee31b2e515f79c5d3a622c8021eda21138f37d75d78dde23aff18fd237\"",
     "last_updated": 1712276400,
-    "modified": "Thu, 09 May 2024 11:52:55 GMT",
+    "modified": "Thu, 09 May 2024 13:21:46 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -146,7 +146,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 09-May-2024 12:06:20 GMT",
+    "modified": "Thursday, 09-May-2024 15:04:52 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -189,19 +189,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1715096421,
-    "modified": "Thu, 09 May 2024 12:06:00 GMT",
+    "modified": "Thu, 09 May 2024 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1715098263,
-    "modified": "Thu, 09 May 2024 12:06:00 GMT",
+    "modified": "Thu, 09 May 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 09 May 2024 12:06:00 GMT",
+    "modified": "Thu, 09 May 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -287,7 +287,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:c706f87f156ffd427ad2e953456313ec\"",
+    "etag": "W/\"cacheable:a3eb8f9ba6bfbf25913bcee8c145def1\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -339,9 +339,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"99a18b5ae9472a8c02c981654251194c\"",
+    "etag": "\"6ae20eb9515ace154d57a79f65696562\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 09 May 2024 11:04:48 GMT",
+    "modified": "Thu, 09 May 2024 14:24:19 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -382,16 +382,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e166bde63c93f5d8159808d50253a1f1\"",
+    "etag": "W/\"aeabca318119103a54f0ecb445250bcb\"",
     "last_updated": 1714665604,
-    "modified": "Wed, 08 May 2024 21:32:56 GMT",
+    "modified": "Thu, 09 May 2024 13:56:08 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"cbed4078c8a5a647673907aa44f7a967\"",
+    "etag": "W/\"aeabca318119103a54f0ecb445250bcb\"",
     "last_updated": 1689004753,
-    "modified": "Wed, 08 May 2024 22:03:24 GMT",
+    "modified": "Thu, 09 May 2024 13:56:08 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -431,7 +431,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1715091129,
+    "last_updated": 1715266295,
     "name": "GDC",
     "seen_entries": []
   },
@@ -596,7 +596,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
-    "last_updated": 1714057221,
+    "last_updated": 1715266810,
     "name": "Semi-Ramblomatic",
     "seen_entries": []
   },
