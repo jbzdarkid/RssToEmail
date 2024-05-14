@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -124,9 +124,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"626b8f01852b489c68e75e96ef9d78876d008a943a63798e1a32961b738d3a4a\"",
+    "etag": "W/\"adb8d399e8049c10956a8f81c943af78179db1b8fabcae76ed058d791f99c1e4\"",
     "last_updated": 1712276400,
-    "modified": "Tue, 14 May 2024 02:06:25 GMT",
+    "modified": "Tue, 14 May 2024 08:11:13 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -136,9 +136,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"151fdd68c8408f53c659649c70a7831a1f322aa59ad732060d4c877218284ad2\"",
+    "etag": "W/\"a07fcd5555c322cd27d3b3989f8f6098355e620903296bbd6d139292f9a0ba76\"",
     "last_updated": 1713458760,
-    "modified": "Tue, 14 May 2024 05:51:07 GMT",
+    "modified": "Tue, 14 May 2024 07:18:03 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -151,7 +151,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 14-May-2024 06:06:33 GMT",
+    "modified": "Tuesday, 14-May-2024 09:05:19 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -194,19 +194,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1715619631,
-    "modified": "Tue, 14 May 2024 06:06:00 GMT",
+    "modified": "Tue, 14 May 2024 09:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1715363221,
-    "modified": "Tue, 14 May 2024 06:06:00 GMT",
+    "modified": "Tue, 14 May 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 14 May 2024 06:06:00 GMT",
+    "modified": "Tue, 14 May 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -260,7 +260,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1715567891,
+    "last_updated": 1715671988,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": []
   },
@@ -292,7 +292,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:c7da74020fcc944c27eccd32c5c582c5\"",
+    "etag": "W/\"cacheable:46d64d03addc42a7ea53b3cd14fca6d6\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -387,16 +387,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"036d439b051c83edf830e3b5db6217dd\"",
-    "last_updated": 1715270416,
-    "modified": "Sun, 12 May 2024 14:47:53 GMT",
+    "etag": "W/\"0373082e8611b17e63de582c9305e2fd\"",
+    "last_updated": 1715616024,
+    "modified": "Tue, 14 May 2024 06:19:46 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"432d8f4c1203f02c53ba6bbb6c818ce4\"",
+    "etag": "W/\"0373082e8611b17e63de582c9305e2fd\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 13 May 2024 16:01:24 GMT",
+    "modified": "Tue, 14 May 2024 06:19:46 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
