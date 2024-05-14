@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -72,8 +72,8 @@
     ]
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"e943d1dabb27bbc0de8e8f78a9c8c5da-ssl-df\"",
-    "last_updated": 1715617569,
+    "etag": "\"b95802d7db9b357979f5016c7629fda4-ssl-df\"",
+    "last_updated": 1715640064,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -136,9 +136,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"7d14c53d0e3f3959b06726fdeba02f8b85ada9eb7842dc79ba325fe5ad81e612\"",
+    "etag": "W/\"151fdd68c8408f53c659649c70a7831a1f322aa59ad732060d4c877218284ad2\"",
     "last_updated": 1713458760,
-    "modified": "Mon, 13 May 2024 10:04:38 GMT",
+    "modified": "Tue, 14 May 2024 05:51:07 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -151,7 +151,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 14-May-2024 03:05:15 GMT",
+    "modified": "Tuesday, 14-May-2024 06:06:33 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -163,7 +163,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -194,19 +194,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1715619631,
-    "modified": "Tue, 14 May 2024 03:04:00 GMT",
+    "modified": "Tue, 14 May 2024 06:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1715363221,
-    "modified": "Tue, 14 May 2024 03:04:00 GMT",
+    "modified": "Tue, 14 May 2024 06:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 14 May 2024 03:04:00 GMT",
+    "modified": "Tue, 14 May 2024 06:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -292,7 +292,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:8c0fe82d7e62a73a840810fc649143eb\"",
+    "etag": "W/\"cacheable:c7da74020fcc944c27eccd32c5c582c5\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -631,9 +631,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"663e7fe8-9b9\"",
-    "last_updated": 1715313600,
-    "modified": "Fri, 10 May 2024 20:13:28 GMT",
+    "etag": "W/\"6642d82d-9c3\"",
+    "last_updated": 1715572800,
+    "modified": "Tue, 14 May 2024 03:19:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
