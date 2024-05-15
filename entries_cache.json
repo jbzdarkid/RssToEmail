@@ -68,7 +68,8 @@
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
       "http://aka.ms/MSFTsustainabilityreport2021",
-      "http://aka.ms/SustainabilityReport2022"
+      "http://aka.ms/SustainabilityReport2022",
+      "http://aka.ms/SustainabilityReport2024#page=1"
     ]
   },
   "https://explosm.net/rss.xml": {
@@ -153,7 +154,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 15-May-2024 15:04:19 GMT",
+    "modified": "Wednesday, 15-May-2024 18:04:46 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -196,19 +197,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1715619631,
-    "modified": "Wed, 15 May 2024 15:04:00 GMT",
+    "modified": "Wed, 15 May 2024 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1715363221,
-    "modified": "Wed, 15 May 2024 15:04:00 GMT",
+    "modified": "Wed, 15 May 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 15 May 2024 15:04:00 GMT",
+    "modified": "Wed, 15 May 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -294,7 +295,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:5804bd5076e3c85cc578e7e02c8fe8a1\"",
+    "etag": "W/\"cacheable:f5446208fd724b5611bbf1394a34651f\"",
     "last_updated": 1712681811,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -346,9 +347,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"16798ffc358599515baa274199122b32\"",
+    "etag": "\"41a34d27d7fe41cdeaa195056baf283d\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 15 May 2024 15:03:52 GMT",
+    "modified": "Wed, 15 May 2024 17:15:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -453,7 +454,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1715716826,
+    "last_updated": 1715792432,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -603,7 +604,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1715184042,
+    "last_updated": 1715788858,
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -633,9 +634,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6642d82d-9c3\"",
+    "etag": "W/\"6644e917-9c3\"",
     "last_updated": 1715572800,
-    "modified": "Tue, 14 May 2024 03:19:09 GMT",
+    "modified": "Wed, 15 May 2024 16:55:51 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
