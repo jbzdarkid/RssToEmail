@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -157,7 +157,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 04-Jun-2024 12:06:28 GMT",
+    "modified": "Tuesday, 04-Jun-2024 15:04:42 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -169,7 +169,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -200,19 +200,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 04 Jun 2024 12:06:00 GMT",
+    "modified": "Tue, 04 Jun 2024 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1715363221,
-    "modified": "Tue, 04 Jun 2024 12:06:00 GMT",
+    "modified": "Tue, 04 Jun 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 04 Jun 2024 12:06:00 GMT",
+    "modified": "Tue, 04 Jun 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -303,14 +303,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:53e80f5fb18257a094f7103dda96c73f\"",
+    "etag": "W/\"cacheable:c7cdfdd2edc102e3d58d4b9b50799d81\"",
     "last_updated": 1716223549,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-gGzTuwLlZXAKEVGrOlzZo/vzG3g\"",
+    "etag": "W/\"72f82-uutwPEd5wxqozVdzrVY7U6hPahU\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -322,12 +322,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DC6E9E7EF95FFF\"",
+    "etag": "W/\"0x8DC849EFF18F5CC\"",
     "last_updated": 0,
-    "modified": "Tue, 07 May 2024 14:03:39 GMT",
+    "modified": "Tue, 04 Jun 2024 14:02:39 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1283.html",
       "http://www.giantitp.com/comics/oots1284.html",
       "http://www.giantitp.com/comics/oots1285.html",
       "http://www.giantitp.com/comics/oots1286.html",
@@ -346,7 +345,8 @@
       "http://www.giantitp.com/comics/oots1299.html",
       "http://www.giantitp.com/comics/oots1300.html",
       "http://www.giantitp.com/comics/oots1301.html",
-      "http://www.giantitp.com/comics/oots1302.html"
+      "http://www.giantitp.com/comics/oots1302.html",
+      "http://www.giantitp.com/comics/oots1303.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -355,9 +355,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"bd6f22ba5c17be8fa66a40cff119588a\"",
+    "etag": "\"c0591b7b02b6688c5ea35c6672cf0071\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 04 Jun 2024 10:23:29 GMT",
+    "modified": "Tue, 04 Jun 2024 14:22:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -398,16 +398,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"14711d62cb8983a215533d7780edb8c6\"",
+    "etag": "W/\"10eede87c986ee41bb76c2874db737fb\"",
     "last_updated": 1717084805,
-    "modified": "Sun, 02 Jun 2024 17:38:39 GMT",
+    "modified": "Tue, 04 Jun 2024 14:21:30 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"14711d62cb8983a215533d7780edb8c6\"",
+    "etag": "W/\"77c57e2d1943ad04ac3a65e54f158d3a\"",
     "last_updated": 1689004753,
-    "modified": "Sun, 02 Jun 2024 17:38:39 GMT",
+    "modified": "Tue, 04 Jun 2024 14:50:24 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -542,7 +542,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1716749376,
+    "last_updated": 1717511902,
     "name": "8-bit Music Theory",
     "seen_entries": []
   },
