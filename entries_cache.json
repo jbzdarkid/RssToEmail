@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -73,8 +73,8 @@
     ]
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"b79dfb3e7e4893ed5e1af7a32aaa5b31-ssl-df\"",
-    "last_updated": 1717891245,
+    "etag": "\"c06601d1f8358b7451464ab1be3389ff-ssl-df\"",
+    "last_updated": 1717977953,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -142,9 +142,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"63c501409820625133d3bb31ce17a59f53820d944d1fd80974468158e246a872\"",
+    "etag": "W/\"4fe613a5eea51ba5d031c971812a1797bc96c27662bd2f375874873ce433275c\"",
     "last_updated": 1713458760,
-    "modified": "Mon, 10 Jun 2024 05:19:03 GMT",
+    "modified": "Mon, 10 Jun 2024 07:55:13 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -157,7 +157,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 10-Jun-2024 06:05:39 GMT",
+    "modified": "Monday, 10-Jun-2024 09:05:38 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -169,7 +169,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -200,19 +200,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 10 Jun 2024 06:04:00 GMT",
+    "modified": "Mon, 10 Jun 2024 09:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1717704806,
-    "modified": "Mon, 10 Jun 2024 06:04:00 GMT",
+    "modified": "Mon, 10 Jun 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 10 Jun 2024 06:04:00 GMT",
+    "modified": "Mon, 10 Jun 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -303,7 +303,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:9be5221707c1a518ef844e960f9c09a6\"",
+    "etag": "W/\"cacheable:8c0790ac57c1aa19936e99a801b9e41f\"",
     "last_updated": 1716223549,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -373,7 +373,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1717743600,
+    "last_updated": 1718002800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -432,7 +432,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1717736400,
+    "last_updated": 1718004544,
     "name": "Wilde Life",
     "seen_entries": []
   },
