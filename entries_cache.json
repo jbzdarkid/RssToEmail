@@ -73,8 +73,8 @@
     ]
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"99bfe2f94545403a437133c0756f58b7-ssl-df\"",
-    "last_updated": 1719092178,
+    "etag": "\"7b3ae8093b8e07438fa30cf8e5f0d71c-ssl-df\"",
+    "last_updated": 1719135606,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -143,9 +143,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c89a153ee14fe149eb3812c6d1f896ce4099abb720e53898f96df5bdc3c42465\"",
+    "etag": "W/\"f33dc1dae088e1ff51aa8502d0d5cfc12c32cd949cdb68c90bcd3adab0c5e60e\"",
     "last_updated": 1718902800,
-    "modified": "Sun, 23 Jun 2024 12:11:43 GMT",
+    "modified": "Sun, 23 Jun 2024 15:30:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 23-Jun-2024 15:04:34 GMT",
+    "modified": "Sunday, 23-Jun-2024 18:04:24 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -201,19 +201,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sun, 23 Jun 2024 15:04:00 GMT",
+    "modified": "Sun, 23 Jun 2024 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1718902964,
-    "modified": "Sun, 23 Jun 2024 15:04:00 GMT",
+    "modified": "Sun, 23 Jun 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 23 Jun 2024 15:02:00 GMT",
+    "modified": "Sun, 23 Jun 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:ee2e1599bcfcb122a15b9a0bfcdece5e\"",
+    "etag": "W/\"cacheable:f2cc68a8f7d15da92882dd231f9b2e3d\"",
     "last_updated": 1716223549,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -356,9 +356,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3c4b4dc345fa3022b78b6d3c48747edd\"",
+    "etag": "\"5cbbd928506d803dbe1c8c1777b66b11\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 23 Jun 2024 09:14:45 GMT",
+    "modified": "Sun, 23 Jun 2024 17:06:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
