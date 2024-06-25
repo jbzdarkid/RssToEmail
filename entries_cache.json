@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -143,9 +143,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f33dc1dae088e1ff51aa8502d0d5cfc12c32cd949cdb68c90bcd3adab0c5e60e\"",
+    "etag": "W/\"49a396a1bede7b6499219d635c3ecb60d0b0f01733c1c76d32e20f11ef8d61ff\"",
     "last_updated": 1718902800,
-    "modified": "Sun, 23 Jun 2024 15:30:38 GMT",
+    "modified": "Tue, 25 Jun 2024 07:08:02 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -158,7 +158,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 25-Jun-2024 06:05:24 GMT",
+    "modified": "Tuesday, 25-Jun-2024 09:04:26 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -170,7 +170,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -201,19 +201,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 25 Jun 2024 06:04:00 GMT",
+    "modified": "Tue, 25 Jun 2024 09:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1718902964,
-    "modified": "Tue, 25 Jun 2024 06:04:00 GMT",
+    "modified": "Tue, 25 Jun 2024 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 25 Jun 2024 06:04:00 GMT",
+    "modified": "Tue, 25 Jun 2024 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -304,14 +304,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:d70a115385e7d450ee61bf4d6a0f6940\"",
+    "etag": "W/\"cacheable:64c898fb4f7d285eab9fccbc8e3669b3\"",
     "last_updated": 1716223549,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-FpQXaQNPJG5eMaYtehnaw/9fkeQ\"",
+    "etag": "W/\"72f82-6fP0+7lEtsQYD8wac4+sBOp/Gkg\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -399,16 +399,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"7b2c72f22780d8bbcd3ae19010a064b4\"",
+    "etag": "W/\"a9e2514e4bbcfee5ea1cabf98ad326ad\"",
     "last_updated": 1718294430,
-    "modified": "Thu, 13 Jun 2024 18:06:35 GMT",
+    "modified": "Tue, 25 Jun 2024 07:20:43 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"47375aff2fb16b2dfab2bd15da1cad30\"",
+    "etag": "W/\"a9e2514e4bbcfee5ea1cabf98ad326ad\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 25 Jun 2024 06:04:33 GMT",
+    "modified": "Tue, 25 Jun 2024 07:20:43 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
