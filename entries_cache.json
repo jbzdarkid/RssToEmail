@@ -79,8 +79,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"4d2fd8c0c72852139fa5b8ec66c4507f-ssl-df\"",
-    "last_updated": 1719845021,
+    "etag": "\"a1c5be10f7b7f3865699af74713953d9-ssl-df\"",
+    "last_updated": 1719878409,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -149,9 +149,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"8a90afd357cdd47ef60ce39d0ac8026d3ad53a4d8d36b2782fc95e652dee3cf1\"",
+    "etag": "W/\"5e99a460f1ca9b16c927720ccb2a2291678b4cf787f3731a221e912f7196d09e\"",
     "last_updated": 1719507060,
-    "modified": "Mon, 01 Jul 2024 20:48:05 GMT",
+    "modified": "Tue, 02 Jul 2024 06:02:40 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 02-Jul-2024 03:04:24 GMT",
+    "modified": "Tuesday, 02-Jul-2024 06:06:31 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -207,19 +207,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 02 Jul 2024 03:04:00 GMT",
+    "modified": "Tue, 02 Jul 2024 06:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1719507325,
-    "modified": "Tue, 02 Jul 2024 03:04:00 GMT",
+    "modified": "Tue, 02 Jul 2024 06:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 02 Jul 2024 03:04:00 GMT",
+    "modified": "Tue, 02 Jul 2024 06:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -316,7 +316,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:c37d3d851a29af9ad38b6459e5a091fd\"",
+    "etag": "W/\"cacheable:cb2dd5f73c14fbfc3b94ae3260282b89\"",
     "last_updated": 1719593067,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -368,9 +368,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"cb7482eb6c3c27dc406e58f90344e93c\"",
+    "etag": "\"be259f636858a3424ab302fea9b234dd\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 01 Jul 2024 22:51:08 GMT",
+    "modified": "Tue, 02 Jul 2024 03:50:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -381,7 +381,7 @@
     "seen_entries": []
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1719618128,
+    "last_updated": 1719797739,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -660,9 +660,9 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"667f2d2f-a94\"",
-    "last_updated": 1719547200,
-    "modified": "Fri, 28 Jun 2024 21:37:51 GMT",
+    "etag": "W/\"66837d6f-a40\"",
+    "last_updated": 1719806400,
+    "modified": "Tue, 02 Jul 2024 04:09:19 GMT",
     "name": "xkcd",
     "seen_entries": []
   }
