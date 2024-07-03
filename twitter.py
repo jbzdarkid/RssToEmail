@@ -64,7 +64,7 @@ def get(graphql, **kwargs):
   csrf = f'{random.randrange(16**32):032x}'
 
   cookies = {
-    'auth_token': os.environ['TWITTER_TOKEN'], # Generate by logging in to twitter and using inspector to get this header.
+    'auth_token': os.environ.get('twitter_token'), # Generate by logging in to twitter and using inspector to get this header.
     'ct0': csrf,
   }
   headers['x-csrf-token'] = csrf
