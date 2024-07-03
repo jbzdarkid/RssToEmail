@@ -1,34 +1,41 @@
-import requests
 import json
+import os
+import random
+import requests
 from datetime import datetime
 from entry import Entry
 from time import sleep
 
 # Elon why are there this many required arguments
+# Update this by using the inspector in chrome and actually loading someone's timeline. Probably stable per graphql.
 features = {
-  'creator_subscriptions_tweet_preview_api_enabled': False,
-  'freedom_of_speech_not_reach_fetch_enabled': False,
-  'graphql_is_translatable_rweb_tweet_is_translatable_enabled': False,
+  'articles_preview_enabled': True,
+  'c9s_tweet_anatomy_moderator_badge_enabled': True,
+  'communities_web_enable_tweet_community_results_fetch': True,
+  'creator_subscriptions_quote_tweet_preview_enabled': False,
+  'creator_subscriptions_tweet_preview_api_enabled': True,
+  'freedom_of_speech_not_reach_fetch_enabled': True,
+  'graphql_is_translatable_rweb_tweet_is_translatable_enabled': True,
   'hidden_profile_likes_enabled': False,
   'highlights_tweets_tab_ui_enabled': False,
-  'longform_notetweets_consumption_enabled': False,
-  'longform_notetweets_inline_media_enabled': False,
-  'longform_notetweets_rich_text_read_enabled': False,
-  'responsive_web_edit_tweet_api_enabled': False,
+  'longform_notetweets_consumption_enabled': True,
+  'longform_notetweets_inline_media_enabled': True,
+  'longform_notetweets_rich_text_read_enabled': True,
+  'responsive_web_edit_tweet_api_enabled': True,
   'responsive_web_enhance_cards_enabled': False,
-  'responsive_web_graphql_exclude_directive_enabled': False,
+  'responsive_web_graphql_exclude_directive_enabled': True,
   'responsive_web_graphql_skip_user_profile_image_extensions_enabled': False,
-  'responsive_web_graphql_timeline_navigation_enabled': False,
-  'responsive_web_media_download_video_enabled': False,
-  'responsive_web_twitter_article_tweet_consumption_enabled': False,
-  'rweb_lists_timeline_redesign_enabled': False,
-  'standardized_nudges_misinfo': False,
+  'responsive_web_graphql_timeline_navigation_enabled': True,
+  'responsive_web_twitter_article_tweet_consumption_enabled': True,
+  'rweb_tipjar_consumption_enabled': True,
+  'rweb_video_timestamps_enabled': True,
+  'standardized_nudges_misinfo': True,
   'subscriptions_verification_info_verified_since_enabled': False,
   'tweet_awards_web_tipping_enabled': False,
-  'tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled': False,
-  'tweetypie_unmention_optimization_enabled': False,
+  'tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled': True,
+  'tweetypie_unmention_optimization_enabled': True,
   'verified_phone_label_enabled': False,
-  'view_counts_everywhere_api_enabled': False,
+  'view_counts_everywhere_api_enabled': True,
 }
 
 headers = {
@@ -40,6 +47,7 @@ headers = {
 
 
 def get(graphql, **kwargs):
+  """ Guest API access (slow, inconsistent, and doesn't fetch tweets in order)
   if 'x-guest-token' not in headers:
     for _ in range(10):
       r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
@@ -50,9 +58,19 @@ def get(graphql, **kwargs):
       sleep(30)
     if 'x-guest-token' not in headers:
       return None
+  """
+
+  # https://stackoverflow.com/a/2782859
+  csrf = f'{random.randrange(16**32):032x}'
+
+  cookies = {
+    'auth_token': os.environ['TWITTER_TOKEN'], # Generate by logging in to twitter and using inspector to get this header.
+    'ct0': csrf,
+  }
+  headers['x-csrf-token'] = csrf
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
-  r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers)
+  r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
   j = r.json()
   if 'errors' in j:
       raise ValueError(j['errors'])
@@ -69,13 +87,16 @@ def get_user_id(screen_name):
 def get_entries(user_id):
   kwargs = {
     'userId': user_id,
+    'count': 200,
     'includePromotedContent': False,
+    'withQuickPromoteEligibilityTweetFields': False,
     'withVoice': False,
+    'withV2Timeline': True,
   }
-  j = get('QqZBEqganhHwmU9QscmIug/UserTweets', **kwargs)
+  j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
   if not j:
     return []
-  instructions = j['user']['result']['timeline']['timeline']['instructions']
+  instructions = j['user']['result']['timeline_v2']['timeline']['instructions']
   instructions = {i['type']: i for i in instructions}
   if 'TimelineAddEntries' not in instructions:
     print(f'TimelineAddEntries not found in instruction keys: {instructions.keys()}')
@@ -104,5 +125,10 @@ def get_entries(user_id):
 
 if __name__ == '__main__':
   user_id = get_user_id('breachwizards')
-  print(user_id)
-  print(get_entries(user_id))
+  print('User id:', user_id)
+  entries = get_entries(user_id)
+  print(f'Found {len(entries)} entries:')
+  entries.sort(key = lambda e: e.date if e.date else 0, reverse=True)
+  for e in entries:
+    print('-'*50)
+    print(e.content)
