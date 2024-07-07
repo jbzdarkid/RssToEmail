@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 07-Jul-2024 15:04:36 GMT",
+    "modified": "Sunday, 07-Jul-2024 18:04:43 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -176,7 +176,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -207,19 +207,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sun, 07 Jul 2024 15:04:00 GMT",
+    "modified": "Sun, 07 Jul 2024 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1720198858,
-    "modified": "Sun, 07 Jul 2024 15:04:00 GMT",
+    "modified": "Sun, 07 Jul 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sun, 07 Jul 2024 15:04:00 GMT",
+    "modified": "Sun, 07 Jul 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -316,14 +316,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:8d147732c5f039c3869f4527db4cb44e\"",
+    "etag": "W/\"cacheable:1e252ab2e1f65c426925d5572d185bd4\"",
     "last_updated": 1720025221,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-oWSQ9OjRJerOG3BGaalmrRzVfGI\"",
+    "etag": "W/\"72f82-jHI6QRuEyrTJNzmO6WPwZj6imrs\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -368,9 +368,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b97fb794b2d4a9c1bbb2f6e38d79a5ba\"",
+    "etag": "\"72e01646b08d1449589d6a6640808b53\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 07 Jul 2024 14:45:15 GMT",
+    "modified": "Sun, 07 Jul 2024 15:56:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -411,16 +411,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"5ad56348211bc2b167fce8be2d97ce6c\"",
+    "etag": "W/\"b45abab2c0aec85ad6a60b19aa2917f3\"",
     "last_updated": 1720108838,
-    "modified": "Thu, 04 Jul 2024 16:00:38 GMT",
+    "modified": "Sun, 07 Jul 2024 15:35:57 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"5ad56348211bc2b167fce8be2d97ce6c\"",
+    "etag": "W/\"b45abab2c0aec85ad6a60b19aa2917f3\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 04 Jul 2024 16:00:38 GMT",
+    "modified": "Sun, 07 Jul 2024 15:35:57 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -475,7 +475,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1720209609,
+    "last_updated": 1720371622,
     "name": "LRR Videogames",
     "seen_entries": []
   },
