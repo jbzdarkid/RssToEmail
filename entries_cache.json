@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -164,7 +164,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 09-Jul-2024 21:04:10 GMT",
+    "modified": "Wednesday, 10-Jul-2024 00:16:56 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -176,7 +176,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -207,19 +207,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 09 Jul 2024 21:04:00 GMT",
+    "modified": "Wed, 10 Jul 2024 00:16:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1720198858,
-    "modified": "Tue, 09 Jul 2024 21:04:00 GMT",
+    "modified": "Wed, 10 Jul 2024 00:16:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 09 Jul 2024 21:04:00 GMT",
+    "modified": "Wed, 10 Jul 2024 00:16:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -316,7 +316,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:eff0688e4ac4c73b80df464c219739ac\"",
+    "etag": "W/\"cacheable:4d8d7c6fa5a6add6ff233ac055fc9ed9\"",
     "last_updated": 1720543812,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -368,9 +368,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"986a7bb9d7aa6aabd94d2824e311f1ed\"",
+    "etag": "\"ab309ec2048d0879417d90dd6c280964\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 09 Jul 2024 20:13:24 GMT",
+    "modified": "Tue, 09 Jul 2024 23:42:33 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
