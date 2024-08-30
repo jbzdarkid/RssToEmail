@@ -59,7 +59,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2F&item=div%5Bclass%2A%3D%22NewsCard-module--featured%22%5D+a&item_title=img+%40alt&item_desc=p%5Bclass%2A%3D%22copy-02+NewsCard-module--description%22%5D&item_date=p%5Bclass%2A%3D%22copy-02+NewsCard-module--dateWrapper%22%5D+span%5Bclass%2A%3D%22NewsCard-module--published%22%5D&item_date_format=m%2Fd%2Fy&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1717020000,
-    "modified": "Fri, 30 Aug 2024 17:44:26 GMT",
+    "modified": "Fri, 30 Aug 2024 20:44:58 GMT",
     "name": "Valorant RSS News",
     "seen_entries": []
   },
@@ -81,8 +81,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"a57885d2edbc8f9dcc5df772814a82c5-ssl-df\"",
-    "last_updated": 1724889644,
+    "etag": "\"c95d85c50884e7788c4f3ca8ba41247b-ssl-df\"",
+    "last_updated": 1725022803,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -179,7 +179,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 30-Aug-2024 18:05:15 GMT",
+    "modified": "Friday, 30-Aug-2024 21:04:20 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -222,19 +222,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 30 Aug 2024 18:04:00 GMT",
+    "modified": "Fri, 30 Aug 2024 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1724782541,
-    "modified": "Fri, 30 Aug 2024 18:04:00 GMT",
+    "modified": "Fri, 30 Aug 2024 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Fri, 30 Aug 2024 18:04:00 GMT",
+    "modified": "Fri, 30 Aug 2024 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -331,7 +331,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:ef80a792cbb58ff2879c26624eb9f84e\"",
+    "etag": "W/\"cacheable:f04851ad0a242c3be7af69081903f916\"",
     "last_updated": 1724863446,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -383,9 +383,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"f8066ea3f417a6867bc0b9422604a3cc\"",
+    "etag": "\"aa289c481fedf4c503245923c2fcdf06\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 30 Aug 2024 16:26:42 GMT",
+    "modified": "Fri, 30 Aug 2024 20:24:27 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -490,7 +490,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1724864439,
+    "last_updated": 1725048016,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -565,7 +565,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1725035893,
+    "last_updated": 1725042634,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
@@ -630,7 +630,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1716124611,
+    "last_updated": 1725046206,
     "name": "SourceRuns",
     "seen_entries": []
   },
