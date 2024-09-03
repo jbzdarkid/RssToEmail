@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Tue, 03 Sep 2024 09:04:47 GMT",
+    "modified": "Tue, 03 Sep 2024 12:06:52 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -77,7 +77,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Tue, 03 Sep 2024 09:04:49 GMT",
+    "modified": "Tue, 03 Sep 2024 12:06:53 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -145,9 +145,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"4e7e7fc27cbbd2c1338e3e225dbc8f0462039b3fb664d3f96a47fef9e4096f8d\"",
+    "etag": "W/\"e012f9ba2ffa0491db8cff2602e4c269803d480dd59b814f222aea1edbaa5507\"",
     "last_updated": 1712276400,
-    "modified": "Mon, 02 Sep 2024 08:58:37 GMT",
+    "modified": "Tue, 03 Sep 2024 10:56:47 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -191,13 +191,13 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 03-Sep-2024 09:04:55 GMT",
+    "modified": "Tuesday, 03-Sep-2024 12:07:01 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1725189948,
-    "modified": "Mon, 02 Sep 2024 13:09:06 GMT",
+    "last_updated": 1725364722,
+    "modified": "Tue, 03 Sep 2024 11:58:42 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
@@ -234,19 +234,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 03 Sep 2024 09:04:00 GMT",
+    "modified": "Tue, 03 Sep 2024 12:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1724782541,
-    "modified": "Tue, 03 Sep 2024 09:04:00 GMT",
+    "modified": "Tue, 03 Sep 2024 12:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Tue, 03 Sep 2024 09:04:00 GMT",
+    "modified": "Tue, 03 Sep 2024 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -343,14 +343,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:5f1c91fe25a5e134efe7c810f890ba41\"",
+    "etag": "W/\"cacheable:63a142ac8f4003dffdc2fb3adddd27c5\"",
     "last_updated": 1724863446,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-GHuCTj5emuZleFN6n1EapWYQvkw\"",
+    "etag": "W/\"72f82-HJZ4u7EV6yMEOlwFUJm+N5Fmo7c\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -438,16 +438,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"179370877e941d8dae1463fa9f3fcf55\"",
+    "etag": "W/\"26a96d1fe517c9d7e42cff3d9dc03bc3\"",
     "last_updated": 1724342429,
-    "modified": "Tue, 03 Sep 2024 08:23:40 GMT",
+    "modified": "Tue, 03 Sep 2024 10:07:02 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"5cb63668a661bbc60b836c3e84bec866\"",
+    "etag": "W/\"26a96d1fe517c9d7e42cff3d9dc03bc3\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 03 Sep 2024 08:53:19 GMT",
+    "modified": "Tue, 03 Sep 2024 10:07:02 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
