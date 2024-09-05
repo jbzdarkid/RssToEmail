@@ -4,13 +4,13 @@ from datetime import datetime, timezone
 
 from entry import Entry
 
-API_KEY = os.environ('youtube_token')
+API_KEY = os.environ['youtube_token']
 
 def get_entries(cache, feed_url):
   if 'channel_id' in feed_url: # By channel
     channel_id = feed_url.split('channel_id=')[1]
     upload_playlist = get_channel_upload_playlist(channel_id)
-    videos = get_playlist_items(playlist_id)
+    videos = get_playlist_items(upload_playlist)
     return get_video_entries(videos)
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
