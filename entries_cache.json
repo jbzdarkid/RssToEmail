@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Sat, 16 Dec 2023 15:22:14 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Thu, 05 Sep 2024 18:04:47 GMT",
+    "modified": "Thu, 05 Sep 2024 21:04:15 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -77,7 +77,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Thu, 05 Sep 2024 18:04:47 GMT",
+    "modified": "Thu, 05 Sep 2024 21:04:16 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -191,7 +191,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 05-Sep-2024 18:04:58 GMT",
+    "modified": "Thursday, 05-Sep-2024 21:04:28 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -203,7 +203,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -234,19 +234,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 05 Sep 2024 18:04:00 GMT",
+    "modified": "Thu, 05 Sep 2024 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1724782541,
-    "modified": "Thu, 05 Sep 2024 18:04:00 GMT",
+    "modified": "Thu, 05 Sep 2024 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 05 Sep 2024 18:04:00 GMT",
+    "modified": "Thu, 05 Sep 2024 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -267,7 +267,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1645803862211825712": {
-    "last_updated": 1725397600,
+    "last_updated": 1725568391,
     "name": "Twitter user 1645803862211825712",
     "seen_entries": []
   },
@@ -343,7 +343,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:4cc5b27ef6688b357ed1dec33f6906e9\"",
+    "etag": "W/\"cacheable:8b508ec681b0ad0fdacda93e5cc7668a\"",
     "last_updated": 1724863446,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -395,9 +395,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d08a0a6730b7b9c2525a5b343bfce603\"",
+    "etag": "\"816fe0262e2da5e5f7934053cccad0fb\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 05 Sep 2024 17:22:14 GMT",
+    "modified": "Thu, 05 Sep 2024 20:58:08 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -438,16 +438,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"183bc2e7d4fcd656f85be9c65ab526ef\"",
+    "etag": "W/\"5ede395d50aab51bb39a089c2f7e31ab\"",
     "last_updated": 1725552001,
-    "modified": "Thu, 05 Sep 2024 16:20:07 GMT",
+    "modified": "Thu, 05 Sep 2024 18:34:18 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"183bc2e7d4fcd656f85be9c65ab526ef\"",
+    "etag": "W/\"5ede395d50aab51bb39a089c2f7e31ab\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 05 Sep 2024 16:20:07 GMT",
+    "modified": "Thu, 05 Sep 2024 18:34:18 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
