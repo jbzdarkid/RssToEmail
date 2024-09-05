@@ -53,9 +53,9 @@ def get_video_entries(video_ids):
   r = requests.get('https://www.googleapis.com/youtube/v3/videos', params=params)
   j = r.json()
   for video in j['items']:
-    if 'liveStreamingDetails' in video:
-      start_time = datetime.strptime(video['liveStreamingDetails']['scheduledStartTime'], '%Y-%m-%dT%H:%M:%SZ')
-      if start_time > datetime.now():
+    if 'liveStreamingDetails' in video and 'scheduledStartTime' in video['liveStreamingDetails']:
+      start_time = parse_time(video['liveStreamingDetails']['scheduledStartTime'])
+      if start_time > datetime.now(timezone.utc):
         print(f'Found YT premier starting in the future, skipping: {start_time} {video["id"]}')
         continue
 
@@ -63,7 +63,12 @@ def get_video_entries(video_ids):
     entry.title = video['snippet']['title']
     entry.content = video['snippet']['description']
     entry.link = 'https://www.youtube.com/watch?v=' + video['id']
-    published_at = datetime.strptime(video['snippet']['publishedAt'], '%Y-%m-%dT%H:%M:%SZ')
-    entry.date = int(published_at.timestamp())
+    entry.date = int(parse_time(video['snippet']['publishedAt']).timestamp())
 
     yield entry
+
+
+def parse_time(string):
+  dt = datetime.strptime(string, '%Y-%m-%dT%H:%M:%SZ')
+  dt = dt.replace(tzinfo=timezone.utc) # strptime assumes local time, which is incorrect here.
+  return dt
