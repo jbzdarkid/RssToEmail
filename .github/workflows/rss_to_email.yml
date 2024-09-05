@@ -26,6 +26,7 @@ jobs:
         target_email: ${{ secrets.TARGET_EMAIL }}
         email_server: ${{ secrets.EMAIL_SERVER }}
         twitter_token: ${{ secrets.TWITTER_TOKEN }}
+        youtube_token: ${{ secrets.YOUTUBE_TOKEN }}
     - name: Commit cache updates
       if: ${{ always() }}
       run: |
