@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Sat, 07 Sep 2024 12:05:55 GMT",
+    "modified": "Sat, 07 Sep 2024 15:03:55 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -77,7 +77,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Sat, 07 Sep 2024 12:05:57 GMT",
+    "modified": "Sat, 07 Sep 2024 15:03:56 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -93,8 +93,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f439e458c5d611c99b03fc8ef1afcec8-ssl-df\"",
-    "last_updated": 1725580854,
+    "etag": "\"1daa904756edc6a09404542d9ce99f1a-ssl-df\"",
+    "last_updated": 1725699218,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -193,7 +193,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Saturday, 07-Sep-2024 12:06:03 GMT",
+    "modified": "Saturday, 07-Sep-2024 15:04:01 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -236,19 +236,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sat, 07 Sep 2024 12:06:00 GMT",
+    "modified": "Sat, 07 Sep 2024 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1724782541,
-    "modified": "Sat, 07 Sep 2024 12:06:00 GMT",
+    "modified": "Sat, 07 Sep 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Sat, 07 Sep 2024 12:06:00 GMT",
+    "modified": "Sat, 07 Sep 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -345,14 +345,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:125f48f2e42466b64d25b9f0f12defe1\"",
+    "etag": "W/\"cacheable:4213e4be400b676c21250b3c05100e40\"",
     "last_updated": 1724863446,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-dFvACmypVI9rz2a41ULLvYD5AIc\"",
+    "etag": "W/\"72f82-iv6++xJmED1D4TbBELFKbVVlDyU\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -364,12 +364,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DCC445CA78C7EC\"",
+    "etag": "W/\"0x8DCCF45D8FD9B8C\"",
     "last_updated": 0,
-    "modified": "Sat, 24 Aug 2024 14:05:20 GMT",
+    "modified": "Sat, 07 Sep 2024 14:03:27 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1290.html",
       "http://www.giantitp.com/comics/oots1291.html",
       "http://www.giantitp.com/comics/oots1292.html",
       "http://www.giantitp.com/comics/oots1293.html",
@@ -388,7 +387,8 @@
       "http://www.giantitp.com/comics/oots1306.html",
       "http://www.giantitp.com/comics/oots1307.html",
       "http://www.giantitp.com/comics/oots1308.html",
-      "http://www.giantitp.com/comics/oots1309.html"
+      "http://www.giantitp.com/comics/oots1309.html",
+      "http://www.giantitp.com/comics/oots1310.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -397,9 +397,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"9513e9f9366b1be64e3f5e274859db24\"",
+    "etag": "\"86d5869132d8dfbf890aa432a5eceff2\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 07 Sep 2024 12:03:53 GMT",
+    "modified": "Sat, 07 Sep 2024 15:02:36 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
