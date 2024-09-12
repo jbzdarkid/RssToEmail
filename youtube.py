@@ -40,6 +40,8 @@ def get_playlist_items(playlist_id):
 
   r = requests.get('https://www.googleapis.com/youtube/v3/playlistItems', params=params)
   j = r.json()
+  if 'items' not in j:
+    print(j.keys())
   return [item['contentDetails']['videoId'] for item in j['items']]
 
 

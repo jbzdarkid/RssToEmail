@@ -106,7 +106,6 @@ def get_entries(user_id):
   entries = []
   for tweet in tweets:
     if tweet['content']['entryType'] != 'TimelineTimelineItem':
-      print('Skipping non-tweet: ' + tweet['content']['entryType'])
       continue
     content = tweet['content']['itemContent']['tweet_results']['result']['legacy']
     user = tweet['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']
