@@ -54,6 +54,8 @@ def get_video_entries(video_ids):
 
   r = requests.get('https://www.googleapis.com/youtube/v3/videos', params=params)
   j = r.json()
+  if 'items' not in j:
+    print(j.keys())
   for video in j['items']:
     if 'liveStreamingDetails' in video and 'scheduledStartTime' in video['liveStreamingDetails']:
       start_time = parse_time(video['liveStreamingDetails']['scheduledStartTime'])
