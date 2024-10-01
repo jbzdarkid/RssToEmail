@@ -17,7 +17,7 @@ class EmailServer():
     print(auth_string)
     auth_string = base64.b64encode(auth_string.encode('utf-8')).decode('utf-8')
     print(auth_string)
-    smtp_conn.docmd('AUTH', f'XOAUTH2 {auth_string}')
+    self.connection.docmd('AUTH', f'XOAUTH2 {auth_string}')
     return self
 
   def sendmail(self, from_addr, to_addrs, msg):
