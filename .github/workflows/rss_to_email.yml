@@ -22,9 +22,10 @@ jobs:
       run: python rss_to_email.py
       env:
         sender_email: ${{ secrets.SENDER_EMAIL }}
-        sender_pword: ${{ secrets.SENDER_PWORD }}
         target_email: ${{ secrets.TARGET_EMAIL }}
-        email_server: ${{ secrets.EMAIL_SERVER }}
+        email_client_id: ${{ secrets.EMAIL_CLIENT_ID }}
+        email_client_secret: ${{ secrets.EMAIL_CLIENT_SECRET }}
+        email_refresh_token: ${{ secrets.EMAIL_REFRESH_TOKEN }}
         twitter_token: ${{ secrets.TWITTER_TOKEN }}
         youtube_token: ${{ secrets.YOUTUBE_TOKEN }}
     - name: Commit cache updates
