@@ -14,6 +14,7 @@ class EmailServer():
 
   def __enter__(self):
     self.connection = smtplib.SMTP_SSL('smtp.gmail.com', context=ssl.create_default_context())
+    self.connection.ehlo()
     auth_string = self.get_auth_string()
     self.connection.docmd('AUTH', 'XOAUTH2 ' + base64.b64encode(auth_string.encode('utf-8')).decode('utf-8'))
     return self
