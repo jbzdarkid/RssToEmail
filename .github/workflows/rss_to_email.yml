@@ -19,7 +19,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Run rss_to_email.py
-      run: python rss_to_email.py
+      run: python -u rss_to_email.py
       env:
         sender_email: ${{ secrets.SENDER_EMAIL }}
         target_email: ${{ secrets.TARGET_EMAIL }}
