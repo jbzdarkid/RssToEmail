@@ -121,7 +121,7 @@ if __name__ == '__main__':
 
     print(f'Found {len(entries)} entries to process')
 
-    with oauth2.get_email_server() as email_server:
+    with oauth2.EmailServer() as email_server:
       handle_entries(entries, email_server)
 
     # If any feeds failed while parsing return nonzero to make the user pay attention

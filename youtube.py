@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 
 from entry import Entry
 
-API_KEY = os.environ['youtube_token']
+API_KEY = os.environ.get('youtube_token', None)
 
 def get_entries(cache, feed_url):
   if 'channel_id' in feed_url: # By channel
