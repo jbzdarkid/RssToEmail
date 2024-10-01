@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 30 Sep 2024 00:19:50 GMT",
+    "modified": "Tue, 01 Oct 2024 04:34:43 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -79,7 +79,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 30 Sep 2024 00:19:50 GMT",
+    "modified": "Tue, 01 Oct 2024 04:34:44 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -90,13 +90,13 @@
   },
   "https://eunnieverse.com/feed/": {
     "last_updated": 1727561507,
-    "modified": "Sat, 28 Sep 2024 22:11:47 GMT",
+    "modified": "Sun, 29 Sep 2024 05:45:06 GMT",
     "name": "",
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"1b54b1a60df4849b73a0f05b1d2a0506-ssl-df\"",
-    "last_updated": 1727568001,
+    "etag": "\"0988aad47a60ec161373c8508d00a6db-ssl-df\"",
+    "last_updated": 1727679101,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -142,14 +142,14 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1727520096,
+    "last_updated": 1727694140,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"437c808b338fe1e422ef39c092f8c550bd157967de00915a56599fec0fb13832\"",
+    "etag": "W/\"63a33bcbad8784bd8d675aba608ed1e0022e594f607710c8bf5ccd5fa9576def\"",
     "last_updated": 1712276400,
-    "modified": "Sun, 29 Sep 2024 21:30:49 GMT",
+    "modified": "Mon, 30 Sep 2024 08:01:29 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -180,9 +180,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"89781fd280be27a3fc440d27e2378d574ad865472ecc1d62acfe7e177723bec8\"",
+    "etag": "W/\"b32275f92553853a903364189199cf0bb9b27d79e7f3eb48ad4651acfcdf5f88\"",
     "last_updated": 1719507060,
-    "modified": "Sat, 28 Sep 2024 12:32:05 GMT",
+    "modified": "Mon, 30 Sep 2024 15:07:34 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -195,7 +195,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 30-Sep-2024 00:19:55 GMT",
+    "modified": "Tuesday, 01-Oct-2024 05:07:11 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -238,19 +238,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 30 Sep 2024 00:18:00 GMT",
+    "modified": "Tue, 01 Oct 2024 05:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1724782541,
-    "modified": "Mon, 30 Sep 2024 00:18:00 GMT",
+    "modified": "Tue, 01 Oct 2024 05:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 30 Sep 2024 00:18:00 GMT",
+    "modified": "Tue, 01 Oct 2024 05:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -315,7 +315,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1727061762,
+    "last_updated": 1727719075,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": []
   },
@@ -332,7 +332,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1727064000,
+    "last_updated": 1727668800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:c046800d0b0f9386184898dc361dcc78\"",
+    "etag": "W/\"cacheable:25df62992f347bd56a00c059b127487e\"",
     "last_updated": 1727196593,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -399,9 +399,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"7be5ef48700235eb43b3c1685ddd7a26\"",
+    "etag": "\"d8bfc17784d3f3dd7a257e1915cbea23\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 30 Sep 2024 00:04:40 GMT",
+    "modified": "Tue, 01 Oct 2024 04:35:42 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -412,7 +412,7 @@
     "seen_entries": []
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1727442268,
+    "last_updated": 1727677031,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
@@ -476,7 +476,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1727423395,
+    "last_updated": 1727672400,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -491,7 +491,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1727457756,
+    "last_updated": 1727709797,
     "name": "GDC",
     "seen_entries": []
   },
@@ -506,7 +506,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1727629224,
+    "last_updated": 1727715606,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -571,7 +571,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1725402184,
+    "last_updated": 1727718902,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
@@ -586,7 +586,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1726843284,
+    "last_updated": 1727712788,
     "name": "8-bit Music Theory",
     "seen_entries": []
   },
@@ -691,8 +691,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"66f707ce-a42\"",
-    "last_updated": 1727409600,
+    "etag": "W/\"66fafc2f-adf\"",
+    "last_updated": 1727668800,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []

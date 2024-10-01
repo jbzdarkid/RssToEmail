@@ -2,13 +2,11 @@ import ssl
 import sys
 from fileinput import input as fileinput
 from json import load, dump
-from smtplib import SMTP
+from smtplib import SMTP_SSL
 from time import time
 from traceback import format_exc, print_exc
 
-import generic, youtube, hearthstone, twitter
-from entry import SENDER_EMAIL, SENDER_PWORD, TARGET_EMAIL, EMAIL_SERVER
-
+import oauth2, generic, youtube, hearthstone, twitter
 
 # Disable SSL verification, because many of these websites are run by small developers who don't care about https
 # https://stackoverflow.com/q/28282797
@@ -123,15 +121,8 @@ if __name__ == '__main__':
 
     print(f'Found {len(entries)} entries to process')
 
-    email_server = SMTP(EMAIL_SERVER, 587)
-    if SENDER_EMAIL:
-        email_server.starttls()
-        email_server.login(SENDER_EMAIL, SENDER_PWORD);
-
-    handle_entries(entries, email_server)
-
-    if SENDER_EMAIL:
-        email_server.quit()
+    with oauth2.EmailServer() as email_server:
+      handle_entries(entries, email_server)
 
     # If any feeds failed while parsing return nonzero to make the user pay attention
     sys.exit(0 if success else 1)

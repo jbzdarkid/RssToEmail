@@ -2,10 +2,8 @@ from email.message import EmailMessage
 from os import environ
 from time import localtime, sleep, strftime
 
-SENDER_EMAIL = environ.get('sender_email', None)
-SENDER_PWORD = environ.get('sender_pword', None)
 TARGET_EMAIL = environ.get('target_email', None)
-EMAIL_SERVER = environ.get('email_server', None)
+SENDER_EMAIL = environ.get('sender_email', None)
 
 # TODO: https://web.dev/color-scheme/ -- try sending dark mode emails?
 
