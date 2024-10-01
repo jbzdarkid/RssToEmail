@@ -15,7 +15,6 @@ class EmailServer():
     self.connection = smtplib.SMTP_SSL('smtp.gmail.com', context=ssl.create_default_context())
     auth_string = self.get_auth_string()
     print(auth_string)
-    print(base64.b64encode(auth_string))
     auth_string = base64.b64encode(auth_string.encode('utf-8')).decode('utf-8')
     print(auth_string)
     smtp_conn.docmd('AUTH', f'XOAUTH2 {auth_string}')
