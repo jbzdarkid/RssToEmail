@@ -4,7 +4,7 @@ import requests
 import smtplib
 import ssl
 
-// Adapted from Google's https://github.com/google/gmail-oauth2-tools/blob/master/python/oauth2.py
+# Adapted from Google's https://github.com/google/gmail-oauth2-tools/blob/master/python/oauth2.py
 class EmailServer():
   def __init__(self):
     self.username = os.environ.get('sender_email', None)
