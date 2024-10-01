@@ -20,7 +20,7 @@ class EmailServer():
   def sendmail(self, from_addr, to_addrs, msg):
     return self.connection.sendmail(from_addr, to_addrs, msg)
     
-  def __exit__(self):
+  def __exit__(self, exc_type, exc_value, traceback):
     self.connection.quit()
 
   def get_auth_string(self):
