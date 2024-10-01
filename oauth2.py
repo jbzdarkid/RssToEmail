@@ -4,6 +4,7 @@ import requests
 import smtplib
 import ssl
 
+// Adapted from Google's https://github.com/google/gmail-oauth2-tools/blob/master/python/oauth2.py
 class EmailServer():
   def __init__(self):
     self.username = os.environ.get('sender_email', None)
@@ -14,10 +15,7 @@ class EmailServer():
   def __enter__(self):
     self.connection = smtplib.SMTP_SSL('smtp.gmail.com', context=ssl.create_default_context())
     auth_string = self.get_auth_string()
-    print(auth_string)
-    auth_string = base64.b64encode(auth_string.encode('utf-8')).decode('utf-8')
-    print(auth_string)
-    self.connection.docmd('AUTH', f'XOAUTH2 {auth_string}')
+    self.connection.docmd('AUTH', 'XOAUTH2 ' + base64.b64encode(auth_string.encode('utf-8')).decode('utf-8'))
     return self
 
   def sendmail(self, from_addr, to_addrs, msg):
@@ -39,4 +37,3 @@ class EmailServer():
     access_token = r.json()['access_token']
 
     return 'user=%s\1auth=Bearer %s\1\1' % (self.username, access_token)
-    # return f'user={self.username}\1auth=Bearer {access_token}\1\1'
