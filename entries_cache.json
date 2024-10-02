@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Wed, 02 Oct 2024 12:07:10 GMT",
+    "modified": "Wed, 02 Oct 2024 15:04:30 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -79,7 +79,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Wed, 02 Oct 2024 12:07:11 GMT",
+    "modified": "Wed, 02 Oct 2024 15:04:31 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -142,7 +142,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1727694140,
+    "last_updated": 1727866883,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -195,7 +195,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 02-Oct-2024 12:07:18 GMT",
+    "modified": "Wednesday, 02-Oct-2024 15:04:37 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -238,19 +238,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 02 Oct 2024 12:06:00 GMT",
+    "modified": "Wed, 02 Oct 2024 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1724782541,
-    "modified": "Wed, 02 Oct 2024 12:06:00 GMT",
+    "modified": "Wed, 02 Oct 2024 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 02 Oct 2024 12:06:00 GMT",
+    "modified": "Wed, 02 Oct 2024 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:69d25d682158fc3a08c98148cff91c29\"",
+    "etag": "W/\"cacheable:1de211ba1e0719824a0a4966b128ff54\"",
     "last_updated": 1727196593,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -399,9 +399,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ffd095e342945a8d0703060a36f2cec2\"",
+    "etag": "\"1be1a8032160894dcc4a43d5619af9d6\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 02 Oct 2024 09:11:49 GMT",
+    "modified": "Wed, 02 Oct 2024 14:27:44 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -442,16 +442,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bbeba12881cc9698422cb8f2267440f4\"",
+    "etag": "W/\"0ce833c6745577a22b7c0672f17da1ec\"",
     "last_updated": 1726761602,
-    "modified": "Tue, 01 Oct 2024 14:57:36 GMT",
+    "modified": "Wed, 02 Oct 2024 14:28:48 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bbeba12881cc9698422cb8f2267440f4\"",
+    "etag": "W/\"0ce833c6745577a22b7c0672f17da1ec\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 01 Oct 2024 14:57:36 GMT",
+    "modified": "Wed, 02 Oct 2024 14:28:48 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
