@@ -34,7 +34,8 @@ class EmailServer():
     }
 
     r = requests.post('https://accounts.google.com/o/oauth2/token', params=params)
-    r.raise_for_status()
+    if not r.ok:
+      print(r.status_code, r.text)
     access_token = r.json()['access_token']
 
     return 'user=%s\1auth=Bearer %s\1\1' % (self.username, access_token)
