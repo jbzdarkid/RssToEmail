@@ -70,7 +70,8 @@ if __name__ == '__main__':
     print('&prompt=consent', end='')
     print('&response_type=code', end='')
     print('&redirect_uri=https%3A%2F%2Foauth2.dance%2F', end='')
-    print('&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send', end='')
+    # print('&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send', end='') # Doesn't work for some reason. Maybe (hopefully) just a testing app thing.
+    print('&scope=https%3A%2F%2Fmail.google.com%2F', end='')
     print(f'&client_id={server.client_id}')
 
     auth_code = input('Enter auth code: ')
