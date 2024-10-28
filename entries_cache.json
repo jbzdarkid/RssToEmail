@@ -1,6 +1,6 @@
 {
   "hearthstone_patch_notes": {
-    "last_updated": 1729180800,
+    "last_updated": 1730134800,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 28 Oct 2024 12:07:51 GMT",
+    "modified": "Mon, 28 Oct 2024 18:05:48 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -81,7 +81,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 28 Oct 2024 12:07:51 GMT",
+    "modified": "Mon, 28 Oct 2024 18:05:49 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -197,7 +197,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 28-Oct-2024 15:04:51 GMT",
+    "modified": "Monday, 28-Oct-2024 18:05:55 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -209,7 +209,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
+    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -240,19 +240,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 28 Oct 2024 15:04:00 GMT",
+    "modified": "Mon, 28 Oct 2024 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1729780591,
-    "modified": "Mon, 28 Oct 2024 15:04:00 GMT",
+    "modified": "Mon, 28 Oct 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Mon, 28 Oct 2024 15:04:00 GMT",
+    "modified": "Mon, 28 Oct 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -349,14 +349,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:4aef7e057f63774a7067a4a66683d2ce\"",
+    "etag": "W/\"cacheable:499654dd10634292a98c710602c203bb\"",
     "last_updated": 1729097710,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-dhY8763TB8mmgpZ2VF+xiNdMZiY\"",
+    "etag": "W/\"72f82-9h5sUgTuK8MEn2GdPruLdOXsMMg\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -401,9 +401,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"417b94be0f1263e1ffe09fb06467f008\"",
+    "etag": "\"ad1fb93dae50c4677fd49686cb8b6208\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 28 Oct 2024 15:01:46 GMT",
+    "modified": "Mon, 28 Oct 2024 17:34:23 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -444,16 +444,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"3634fd227306fd9ca1420b0ebd4315d6\"",
-    "last_updated": 1727971203,
-    "modified": "Sun, 27 Oct 2024 19:45:50 GMT",
+    "etag": "W/\"d852ac621c66b47099ae9d02bdaf5c3c\"",
+    "last_updated": 1730131243,
+    "modified": "Mon, 28 Oct 2024 16:50:46 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"3634fd227306fd9ca1420b0ebd4315d6\"",
+    "etag": "W/\"4cca10dd92b039e81759b7308b0d4f43\"",
     "last_updated": 1689004753,
-    "modified": "Sun, 27 Oct 2024 19:45:50 GMT",
+    "modified": "Mon, 28 Oct 2024 17:37:41 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -508,7 +508,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1730048422,
+    "last_updated": 1730134815,
     "name": "LRR Videogames",
     "seen_entries": []
   },
