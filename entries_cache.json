@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Wed, 13 Nov 2024 15:04:31 GMT",
+    "modified": "Wed, 13 Nov 2024 18:05:26 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -82,7 +82,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Wed, 13 Nov 2024 15:04:32 GMT",
+    "modified": "Wed, 13 Nov 2024 18:05:27 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -198,7 +198,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 13-Nov-2024 15:04:48 GMT",
+    "modified": "Wednesday, 13-Nov-2024 18:05:32 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -241,19 +241,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 13 Nov 2024 15:04:00 GMT",
+    "modified": "Wed, 13 Nov 2024 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1730999926,
-    "modified": "Wed, 13 Nov 2024 15:04:00 GMT",
+    "modified": "Wed, 13 Nov 2024 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Wed, 13 Nov 2024 15:04:00 GMT",
+    "modified": "Wed, 13 Nov 2024 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -350,7 +350,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:2dd9dfaa8242d66489df047b417c1d0c\"",
+    "etag": "W/\"cacheable:3e35623ae7a80ffbfca4f97acf1ad020\"",
     "last_updated": 1730998090,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -402,9 +402,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b1c27879eb3e9c5a03235837386ec83b\"",
+    "etag": "\"1817dd618e5c77538e4acf1e231e3679\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 13 Nov 2024 13:42:55 GMT",
+    "modified": "Wed, 13 Nov 2024 18:03:10 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -445,16 +445,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"1a7c3c443c422263c7e0e8f427b20b77\"",
+    "etag": "W/\"30614f47651681d65d083754ad2797a6\"",
     "last_updated": 1730739632,
-    "modified": "Wed, 13 Nov 2024 08:52:01 GMT",
+    "modified": "Wed, 13 Nov 2024 17:13:23 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bf4e06e13018baf789999fa687325592\"",
+    "etag": "W/\"092bcfe4d06c99d1f0829176f31cd663\"",
     "last_updated": 1689004753,
-    "modified": "Wed, 13 Nov 2024 14:43:35 GMT",
+    "modified": "Wed, 13 Nov 2024 17:59:20 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -509,7 +509,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1731348002,
+    "last_updated": 1731520815,
     "name": "LRR Videogames",
     "seen_entries": []
   },
@@ -624,7 +624,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1730908811,
+    "last_updated": 1731517206,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
@@ -664,7 +664,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1730912461,
+    "last_updated": 1731517203,
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
