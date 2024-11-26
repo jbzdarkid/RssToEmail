@@ -1,6 +1,7 @@
 from email.message import EmailMessage
 from os import environ
 from time import localtime, sleep, strftime
+from uuid import uuid4
 
 TARGET_EMAIL = environ.get('target_email', None)
 SENDER_EMAIL = environ.get('sender_email', None)
@@ -23,7 +24,7 @@ class Entry:
         msg['From'] = f'"{escaped_from}" <{SENDER_EMAIL}>'
         msg['Reply-To'] = TARGET_EMAIL
 
-        plaintext = f'{self.content}\n\nTo view the full post, click here: {self.link}'
+        plaintext = f'{self.content}\n\nTo view the full post, click here: {self.link}\n{uuid4()}'
         if self.date:
             plaintext += f'\nThis was originally posted at {strftime("%A, %B %d, %Y", localtime(self.date))}.'
         richtext = plaintext.replace('\n', '<br>')
