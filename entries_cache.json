@@ -1,6 +1,6 @@
 {
   "hearthstone_patch_notes": {
-    "last_updated": 1725901200,
+    "last_updated": 1732208400,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -45,15 +45,15 @@
     "seen_entries": []
   },
   "https://blog.momentum-mod.org/index.xml": {
-    "etag": "W/\"4e247da60cb38278d86e721767e13e7e\"",
-    "last_updated": 1727547642,
+    "etag": "W/\"e3d6b234523e2407e32fc404953e4d79\"",
+    "last_updated": 1729501066,
     "name": "Momentum Mod Dev Blog",
     "seen_entries": []
   },
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Fri, 15 Dec 2023 13:43:05 GMT",
     "name": "xkcd Blob",
     "seen_entries": []
   },
@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Thu, 10 Oct 2024 01:41:43 GMT",
+    "modified": "Tue, 26 Nov 2024 06:06:21 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -75,12 +75,15 @@
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-04",
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-05",
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-906",
-      "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-07"
+      "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-07",
+      "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-08",
+      "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-09",
+      "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-10"
     ]
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Thu, 10 Oct 2024 01:41:43 GMT",
+    "modified": "Tue, 26 Nov 2024 06:06:22 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -90,21 +93,21 @@
     ]
   },
   "https://eunnieverse.com/feed/": {
-    "last_updated": 1728045862,
-    "modified": "Fri, 04 Oct 2024 12:44:22 GMT",
+    "last_updated": 1732542853,
+    "modified": "Mon, 25 Nov 2024 13:54:13 GMT",
     "name": "",
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"6bc49773f5c4006d78ab86ae231707d4-ssl-df\"",
-    "last_updated": 1728432003,
+    "etag": "\"ae3b179225d7387c55fd1c4333e74884-ssl-df\"",
+    "last_updated": 1732579212,
     "name": "Explosm.net",
     "seen_entries": []
   },
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
     "last_updated": 1718461445,
-    "modified": "Sat, 5 Oct 2024 17:05:26 GMT",
+    "modified": "Sat, 23 Nov 2024 16:31:40 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -143,14 +146,14 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1728388641,
+    "last_updated": 1732542566,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f9ee5897bb4295bb4c1c553e30ded4d3f1e8fd648ba03b8125f00eda65df87e4\"",
+    "etag": "W/\"c5bd63bfb54ed3b013dc93cbf65a64bf4e7b8b1dae4031f9bda2eb6760ee56e8\"",
     "last_updated": 1712276400,
-    "modified": "Wed, 09 Oct 2024 18:47:33 GMT",
+    "modified": "Tue, 26 Nov 2024 05:20:31 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -158,9 +161,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=User:DanQ&diff=901133",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=901350",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=901500",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=901783",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=905062",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=910568",
@@ -177,13 +177,16 @@
       "http://geohashing.site/index.php?title=Template:JumpToYear&diff=911806",
       "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=911817",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=914839",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=914840"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=914840",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=918618",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=919326",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=919519"
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d2867c5c51bc291ea4a1b42b4d05034c880ad5ea729ec450d16b29cbc0656158\"",
-    "last_updated": 1727974860,
-    "modified": "Wed, 09 Oct 2024 07:37:09 GMT",
+    "etag": "W/\"11057569fe2c34a6aead7d27b7af3e21291f68f1c02cd6814afae7f4dc808b2f\"",
+    "last_updated": 1732211580,
+    "modified": "Mon, 25 Nov 2024 09:46:05 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -196,19 +199,19 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 10-Oct-2024 01:59:42 GMT",
+    "modified": "Tuesday, 26-Nov-2024 06:06:27 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1728387681,
-    "modified": "Tue, 08 Oct 2024 11:41:21 GMT",
+    "last_updated": 1730376778,
+    "modified": "Thu, 31 Oct 2024 12:12:58 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1692176654,
-    "modified": "Wed, 06 Dec 2023 02:33:56 GMT",
+    "modified": "Thu, 21 Mar 2024 01:00:18 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -239,19 +242,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 10 Oct 2024 01:58:00 GMT",
+    "modified": "Tue, 26 Nov 2024 06:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
-    "last_updated": 1724782541,
-    "modified": "Thu, 10 Oct 2024 01:58:00 GMT",
+    "last_updated": 1730999926,
+    "modified": "Tue, 26 Nov 2024 06:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1688753072,
-    "modified": "Thu, 10 Oct 2024 01:58:00 GMT",
+    "modified": "Tue, 26 Nov 2024 06:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -262,17 +265,17 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1104477640017264640": {
-    "last_updated": 1725895945,
+    "last_updated": 1730486732,
     "name": "Twitter user 1104477640017264640",
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1141417774201184257": {
-    "last_updated": 1726107777,
+    "last_updated": 1732303886,
     "name": "Twitter user 1141417774201184257",
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1645803862211825712": {
-    "last_updated": 1728505841,
+    "last_updated": 1732144455,
     "name": "Twitter user 1645803862211825712",
     "seen_entries": []
   },
@@ -303,8 +306,8 @@
     ]
   },
   "https://welcometoheavenblog.com/rss.xml": {
-    "etag": "\"569bd8512d12964d88af97ee98089a1c-ssl-df\"",
-    "last_updated": 1727799180,
+    "etag": "\"050edfb5efaaa9e7eec1ea7b63822e3d-ssl-df\"",
+    "last_updated": 1732547460,
     "name": "Welcome_to_Heaven Blog Update",
     "seen_entries": []
   },
@@ -316,14 +319,14 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1728268477,
+    "last_updated": 1732502521,
     "name": "Team Fortress Wiki - Watchlist",
     "seen_entries": []
   },
   "https://www.acriticalhit.com/feed/": {
-    "etag": "\"f288905b729a413fa98678ad4d1b5825-gzip\"",
+    "etag": "\"3f3f6516596dbb47dc79ffe18464a25f-gzip\"",
     "last_updated": 1715471519,
-    "modified": "Wed, 19 Jun 2024 04:59:38 GMT",
+    "modified": "Sat, 09 Nov 2024 22:28:38 GMT",
     "name": "A Critical Hit!",
     "seen_entries": []
   },
@@ -333,7 +336,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1728273600,
+    "last_updated": 1732510800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -348,20 +351,20 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:bcab05bdda94e77b6f322ba238dc6abc\"",
-    "last_updated": 1727196593,
+    "etag": "W/\"cacheable:774f8fda7bf50ba8d7b25bccb9c80418\"",
+    "last_updated": 1732553036,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-QBHbA5UMm8uazTU9q2lN68nByjU\"",
+    "etag": "W/\"72f83-VrAKdC9gaT1THZR2RRY6IORmV8s\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"282c3e5de762ec649bd3c84460615910\"",
+    "etag": "W/\"5a94b737c1fc00c281c1b905ad286104\"",
     "last_updated": 1707508220,
     "name": "Four Island",
     "seen_entries": []
@@ -400,9 +403,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d337a71b4afaeb79afe6b1898e508729\"",
+    "etag": "\"975d228b144a2186f46f75e8e4b56c77\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 09 Oct 2024 20:08:45 GMT",
+    "modified": "Mon, 25 Nov 2024 23:37:42 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -413,12 +416,12 @@
     "seen_entries": []
   },
   "https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month": {
-    "last_updated": 1728381277,
+    "last_updated": 1731273985,
     "name": "top scoring links : OutOfTheLoop",
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1728457200,
+    "last_updated": 1732521600,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -431,8 +434,8 @@
     "seen_entries": []
   },
   "https://www.teamfortress.com/rss.xml": {
-    "last_updated": 1726009800,
-    "modified": "Tue, 10 Sep 2024 23:10:00 +0000",
+    "last_updated": 1732146900,
+    "modified": "Wed, 20 Nov 2024 23:55:00 +0000",
     "name": "TF2 Official Blog",
     "seen_entries": []
   },
@@ -443,16 +446,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"2d8cc6ca201d908f266486faac5462b9\"",
-    "last_updated": 1727971203,
-    "modified": "Thu, 03 Oct 2024 16:58:38 GMT",
+    "etag": "W/\"321e1d21e5bf0dd37c348638acdd9c01\"",
+    "last_updated": 1731603644,
+    "modified": "Sun, 24 Nov 2024 16:36:37 GMT",
     "name": "Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"2d8cc6ca201d908f266486faac5462b9\"",
+    "etag": "W/\"321e1d21e5bf0dd37c348638acdd9c01\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 03 Oct 2024 16:58:38 GMT",
+    "modified": "Sun, 24 Nov 2024 16:36:37 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -467,7 +470,7 @@
     "seen_entries": []
   },
   "https://www.webtoons.com/en/challenge/punderworld/rss?title_no=312584": {
-    "last_updated": 1727301601,
+    "last_updated": 1732223400,
     "name": "Punderworld",
     "seen_entries": []
   },
@@ -477,12 +480,12 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1728460286,
+    "last_updated": 1732519156,
     "name": "Wilde Life",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA": {
-    "last_updated": 1727149921,
+    "last_updated": 1731776436,
     "name": "dillongoo",
     "seen_entries": []
   },
@@ -492,7 +495,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1728314593,
+    "last_updated": 1732134972,
     "name": "GDC",
     "seen_entries": []
   },
@@ -507,17 +510,17 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1728493240,
+    "last_updated": 1732557601,
     "name": "LRR Videogames",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA": {
-    "last_updated": 1726840068,
+    "last_updated": 1729352474,
     "name": "Innuendo Studios",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
-    "last_updated": 1728460750,
+    "last_updated": 1730676210,
     "name": "Team PLC",
     "seen_entries": []
   },
@@ -552,7 +555,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1728518420,
+    "last_updated": 1732500921,
     "name": "Tom Francis",
     "seen_entries": []
   },
@@ -572,7 +575,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1727718902,
+    "last_updated": 1729692045,
     "name": "The Slow Mo Guys",
     "seen_entries": []
   },
@@ -582,22 +585,22 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1728493212,
+    "last_updated": 1732582806,
     "name": "LRR Tabletop",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1727712788,
+    "last_updated": 1731692585,
     "name": "8-bit Music Theory",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
-    "last_updated": 1710893964,
+    "last_updated": 1731708830,
     "name": "Valve",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
-    "last_updated": 1722099317,
+    "last_updated": 1731705908,
     "name": "The Slow Mo Guys 2",
     "seen_entries": []
   },
@@ -617,22 +620,22 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCq71f9hMufSaXPBtcrujjfQ": {
-    "last_updated": 1716750992,
+    "last_updated": 1728846006,
     "name": "Req",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1727452834,
+    "last_updated": 1731952806,
     "name": "Game Maker's Toolkit",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1723316091,
+    "last_updated": 1730729910,
     "name": "Retro Game Mechanics Explained",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1728406817,
+    "last_updated": 1732402836,
     "name": "LoadingReadyRun",
     "seen_entries": []
   },
@@ -647,7 +650,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
-    "last_updated": 1727274842,
+    "last_updated": 1731251129,
     "name": "SourceRuns",
     "seen_entries": []
   },
@@ -657,32 +660,32 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLTFsoy_DWCOOvT2L8CzAlgqp0997RZjv2": {
-    "last_updated": 1724396618,
+    "last_updated": 1730217640,
     "name": "CINEMATICS // VALORANT",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1728489626,
+    "last_updated": 1732122053,
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
-    "last_updated": 1727362853,
+    "last_updated": 1732204861,
     "name": "Semi-Ramblomatic",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
-    "last_updated": 1726794124,
+    "last_updated": 1732557600,
     "name": "Arcane | League of Legends",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
-    "last_updated": 1728399606,
+    "last_updated": 1732546806,
     "name": "Music Videos | League of Legends",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1727096464,
+    "last_updated": 1729515663,
     "name": "Elder Dragon Social Club",
     "seen_entries": []
   },
@@ -692,8 +695,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6706d33c-7d6\"",
-    "last_updated": 1728446400,
+    "etag": "W/\"6744f6ca-87b\"",
+    "last_updated": 1732510800,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []
