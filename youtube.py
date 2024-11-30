@@ -15,7 +15,6 @@ def get_entries(cache, feed_url):
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
     videos = get_playlist_items(playlist_id)
-    print(playlist_id, videos)
     return get_video_entries(videos)
 
 
