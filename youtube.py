@@ -15,6 +15,7 @@ def get_entries(cache, feed_url):
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
     videos = get_playlist_items(playlist_id)
+    print(playlist_id, videos)
     return get_video_entries(videos)
 
 
@@ -44,7 +45,8 @@ def get_playlist_items(playlist_id):
   j = r.json()
   if 'error' in j:
     print(j)
-  return [item['contentDetails']['videoId'] for item in j['items']]
+  video_ids = [item['contentDetails']['videoId'] for item in j['items']]
+  return list(set(video_ids)) # Some playlists may contain dupes, we don't want to send duplicate emails.
 
 
 def get_video_entries(video_ids):
