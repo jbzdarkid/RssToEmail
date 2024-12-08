@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Sat, 07 Dec 2024 21:04:17 GMT",
+    "modified": "Sun, 08 Dec 2024 00:23:00 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -83,7 +83,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Sat, 07 Dec 2024 21:04:19 GMT",
+    "modified": "Sun, 08 Dec 2024 00:23:01 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -107,7 +107,7 @@
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
     "last_updated": 1718461445,
-    "modified": "Sat, 23 Nov 2024 16:31:40 GMT",
+    "modified": "Sat, 7 Dec 2024 22:57:53 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Saturday, 07-Dec-2024 21:04:26 GMT",
+    "modified": "Sunday, 08-Dec-2024 00:23:05 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -242,19 +242,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sat, 07 Dec 2024 21:04:00 GMT",
+    "modified": "Sun, 08 Dec 2024 00:22:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1733508330,
-    "modified": "Sat, 07 Dec 2024 21:04:00 GMT",
+    "modified": "Sun, 08 Dec 2024 00:22:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Sat, 07 Dec 2024 21:04:00 GMT",
+    "modified": "Sun, 08 Dec 2024 00:22:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -351,7 +351,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:d1425c9a487205ef308cb2d1a9d9f2ab\"",
+    "etag": "W/\"cacheable:4b5d45eeb4769383af99c57039b69c91\"",
     "last_updated": 1732726109,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -364,7 +364,7 @@
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"e61eb1e29d14a259b038027bec134af8\"",
+    "etag": "W/\"2cf2cc66eb56d05c20093e8630cc6516\"",
     "last_updated": 1733523519,
     "name": "Four Island",
     "seen_entries": []
@@ -635,7 +635,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1733548227,
+    "last_updated": 1733612442,
     "name": "LoadingReadyRun",
     "seen_entries": []
   },
