@@ -14,20 +14,20 @@ https://blog.xkcd.com/feed/
 https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url
 # Microsoft Environmental Sustainability Report
 https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0
-# Explosm.net
-https://explosm.net/rss.xml
 # Eunnieverse - Crush
 https://eunnieverse.com/feed/
+# Explosm.net
+https://explosm.net/rss.xml
 # Fangamer T-Shirts
 https://www.fangamer.com/collections/t-shirts.atom
 # Jonathan Coulton
 https://feeds.feedburner.com/jonathancoulton
+# Nerf NOW!!
+https://feeds.feedburner.com/nerfnow/full
 # SFP
 https://feeds.feedburner.com/strongfemaleprotagonist/UHnv
 # Bash.org quotes
 # http://feeds.sydv.net/latest-bash-quotes
-# Nerf NOW!!
-https://feeds.feedburner.com/nerfnow/full
 # FortressOfDoors - Business (the guy who did Steam Diving Bell)
 https://www.fortressofdoors.com/tag/business/rss/
 # Four Island (Hatkirby's blog)
@@ -50,10 +50,10 @@ https://hearthsim.info/feed.xml
 https://www.hearthstonetopdecks.com/category/qa/feed/
 # MSRC - Attacks
 https://msrc.microsoft.com/blog/tags/attack/feed
-# Jolly Jack's Collected Curios
-# https://politepol.com/fd/oaAc0yT3zDbO
 # Tara & Beverly
 https://nortverse.com/comic/feed/
+# Jolly Jack's Collected Curios
+# https://politepol.com/fd/oaAc0yT3zDbO
 # Reddit: Monthly Top on r/OutOfTheLoop (paused nov 2024)
 # https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month
 # Sam And Fuzzy
@@ -62,14 +62,14 @@ https://www.samandfuzzy.com/feed
 https://shadyparadox.wordpress.com/feed/
 # The Starry Expanse Project
 https://starryexpanse.com/feed/
+# Steam Database
+https://steamdb.info/api/BlogRSS/
+# Steam - Wizard with a Gun
+https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english
 # Steam - Escape Simulator
 https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english
 # Steam - Raft
 https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english
-# Steam - Wizard with a Gun
-https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english
-# Steam Database
-https://steamdb.info/api/BlogRSS/
 # TF2 Official Blog
 # https://www.teamfortress.com/rss.xml
 # Portal 2 Official Blog
@@ -86,12 +86,12 @@ https://www.vicioussyndicate.com/category/analysis/feed/
 https://www.vicioussyndicate.com/category/wild-data-reaper/feed/
 # W3Techs.com - News Blog
 https://w3techs.com/blogfeed/category/news
-# AG_Nonsuch RWBY
-https://www.webtoons.com/en/challenge/rwby-doodleverse/rss?title_no=245605
-# Sigeel Punderworld
-https://www.webtoons.com/en/challenge/punderworld/rss?title_no=312584
 # AG_Nonsuch Arcane
 https://www.webtoons.com/en/challenge/arcane-doodleverse/rss?title_no=710930
+# Sigeel Punderworld
+https://www.webtoons.com/en/challenge/punderworld/rss?title_no=312584
+# AG_Nonsuch RWBY
+https://www.webtoons.com/en/challenge/rwby-doodleverse/rss?title_no=245605
 # Welcome to Heaven
 https://welcometoheavenblog.com/rss.xml
 # What If?
@@ -102,6 +102,8 @@ https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Da
 https://www.wildelifecomic.com/comic/rss
 # xkcd.com
 https://xkcd.com/rss.xml
+# dillongoo
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA
 # yahtzee19
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-Q4WBqNtMF_2GbIsGjic4A
 # GDC
@@ -110,8 +112,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3bQlN3L10pHmVLeC5tXRGw
 # teamfortress
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5BTcArAnit9p5W7etFsPsA
+# loadingreadyrun videogames
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A
 # Innuendo Studios
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA
+# UncommentatedPannen
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5miyvhPsWWyfTulnJ43koQ
 # Team PLC
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA
 # boburnham
@@ -120,6 +126,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ
 # I Fight Dragons
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA
+# Pannekoek2012
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMm211NGh4Ls5SAMZJF7E8A
 # Starry Expanse
 https://www.youtube.com/feeds/videos.xml?channel_id=UCNpOzBfV89Q7PS4TarkLjsw
 # Gears for Breakfast
@@ -134,6 +142,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU4Ffbehftics2IPq46_w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ
 # The Slow Mo Guys
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w
+# ShadyParadox
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ
+# loadingreadyrun tabletop
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g
+# 8-bit Music Theory
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw
 # Valve
 https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg
 # The Slow Mo Guys 2
@@ -148,45 +162,31 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCq71f9hMufSaXPBtcrujjfQ
 # Game Maker's Toolkit
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw
-# loadingreadyrun
-https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA
-# loadingreadyrun videogames
-https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A
-# UncommentatedPannen
-https://www.youtube.com/feeds/videos.xml?channel_id=UC5miyvhPsWWyfTulnJ43koQ
-# loadingreadyrun tabletop
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g
 # Retro Game Mechanics Explained
 https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g
+# loadingreadyrun
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA
 # New Frame Plus
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw
-# SourceRuns
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA
-# dillongoo
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA
-# ShadyParadox
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ
-# 8-bit Music Theory
-https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw
 # HydrantDude (NES Tetris videos)
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxj-zfOhKarvzLSjt1jjgWA
-# Pannekoek2012
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMm211NGh4Ls5SAMZJF7E8A
+# SourceRuns
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA
 # Brace Yourself Games
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66
+# Overwatch Lore
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66
+# MUSIC VIDEOS // VALORANT
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLTFsoy_DWCOOvT2L8CzAlgqp0997RZjv2
+# Fully Ramblomatic (Zero Punctuation)
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp
+# Semi Ramblomatic (Extra Punctuation)
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s
 # Arcane
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg
+# Music Videos | League of Legends
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS
 # Elder Dragon Social Club
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX
 # Friday Night Paper Fight
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlepkv7m88Ma2sabQJbelzRn
-# Music Videos | League of Legends
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS
-# Overwatch Lore
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66
-# Semi Ramblomatic (Extra Punctuation)
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s
-# Fully Ramblomatic (Zero Punctuation)
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp
-# MUSIC VIDEOS // VALORANT
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLTFsoy_DWCOOvT2L8CzAlgqp0997RZjv2
