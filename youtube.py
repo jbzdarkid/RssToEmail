@@ -30,6 +30,7 @@ def get_channel_upload_playlist(channel_id):
   j = r.json()
   if 'error' in j:
     print(j)
+  print(j) # Temp, trying to get titles
   return j['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
 def get_playlist_items(playlist_id):
@@ -44,6 +45,7 @@ def get_playlist_items(playlist_id):
   j = r.json()
   if 'error' in j:
     print(j)
+  print(j) # Temp, trying to get titles
   video_ids = [item['contentDetails']['videoId'] for item in j['items']]
   return list(set(video_ids)) # Some playlists may contain dupes, we don't want to send duplicate emails.
 

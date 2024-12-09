@@ -21,6 +21,15 @@ success = True
 
 def wrap_generator(feed_title, feed_url, generator):
     global success
+
+    if feed_url not in cache:
+        print(f'Found new feed {feed_url} which is not in the cache, adding')
+        cache[feed_url] = {
+            'name': feed_title,
+            'last_updated': int(time()),
+            'seen_entries': [],
+        }
+
     entries = []
     try:
         entries = list(generator()) # TODO: We could maybe do a partial update here?
@@ -30,14 +39,6 @@ def wrap_generator(feed_title, feed_url, generator):
     except Exception:
         print('Exception while parsing feed: ' + feed_url + '\n' + format_exc(chain=False))
         success = False
-
-    # Generators can leave out feed_title if they set the title themselves.
-    if feed_title and feed_url not in cache:
-        cache[feed_url] = {
-            'name': feed_title,
-            'last_updated': int(time()),
-            'seen_entries': [],
-        }
 
     # Entries should be sorted from newest to oldest.
     entries.sort(key = lambda e: e.date if e.date else 0, reverse=True)

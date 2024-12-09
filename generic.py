@@ -24,13 +24,8 @@ def get_entries(cache, feed_url):
     except ConnectionError as e:
         d = {'status': 500, 'bozo': 1, 'bozo_exception': e, 'entries': []}
 
-    # In the future, this probably moves out into main scope. Or something.
-    if feed_url not in cache:
-        cache[feed_url] = {
-            'name': d['feed']['title'],
-            'last_updated': int(time()),
-            'seen_entries': [],
-        }
+    # Update the cache title in case it has changed
+    cache[feed_url]['name'] = 'name': d['feed']['title'],
 
     # Bozo may be set to 1 if the feed has an error (but is still parsable). Since I dEon't own these feeds, there's no need to report this.
     if d['bozo'] == 1:
