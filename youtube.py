@@ -21,7 +21,7 @@ def get_entries(cache, feed_url):
 def get_channel_upload_playlist(channel_id):
   params = {
     'key': API_KEY,
-    'part': 'contentDetails,snippet.title',
+    'part': 'contentDetails,snippet',
     'id': channel_id,
     'maxResults': 50,
   }
