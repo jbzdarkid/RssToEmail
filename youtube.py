@@ -87,6 +87,7 @@ def get_title(api, **params):
   j = r.json()
   if 'error' in j:
     print(j)
+  print(j)
   return j['snippet']['title']
 
 
