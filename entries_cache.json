@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 09 Dec 2024 18:06:11 GMT",
+    "modified": "Mon, 09 Dec 2024 21:04:33 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -83,7 +83,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 09 Dec 2024 18:06:13 GMT",
+    "modified": "Mon, 09 Dec 2024 21:04:33 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -99,8 +99,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"afc9f04c2e484bc00eb1b595820a93b6-ssl-df\"",
-    "last_updated": 1733616022,
+    "etag": "\"f562ac79ac9d3419567616ccfa1803fe-ssl-df\"",
+    "last_updated": 1733754351,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -199,7 +199,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 09-Dec-2024 18:06:18 GMT",
+    "modified": "Monday, 09-Dec-2024 21:04:39 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -242,19 +242,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 09 Dec 2024 18:06:00 GMT",
+    "modified": "Mon, 09 Dec 2024 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1733508330,
-    "modified": "Mon, 09 Dec 2024 18:06:00 GMT",
+    "modified": "Mon, 09 Dec 2024 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 09 Dec 2024 18:06:00 GMT",
+    "modified": "Mon, 09 Dec 2024 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -351,7 +351,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:5abebe6e98f7d85b762d51a9a7cae2c9\"",
+    "etag": "W/\"cacheable:193c033e2c1c856ef0470cded7481c4b\"",
     "last_updated": 1732726109,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -403,9 +403,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e4f7ea217420cb7461cede9d407d3c22\"",
+    "etag": "\"ef30311fb45578d666f9699c75252cb1\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 09 Dec 2024 17:44:16 GMT",
+    "modified": "Mon, 09 Dec 2024 18:57:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -497,7 +497,7 @@
     "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1732134972,
+    "last_updated": 1733770074,
     "name": "GDC",
     "seen_entries": [],
     "title": "GDC 2025"
