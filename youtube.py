@@ -9,11 +9,15 @@ API_KEY = os.environ.get('youtube_token', None)
 def get_entries(cache, feed_url):
   if 'channel_id' in feed_url: # By channel
     channel_id = feed_url.split('channel_id=')[1]
+    if cache[feed_url]['title'] == None:
+      cache[feed_url]['title'] = get_title('channels', id=channel_id)
     upload_playlist = get_channel_upload_playlist(channel_id)
     videos = get_playlist_items(upload_playlist)
     return get_video_entries(videos)
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
+    if cache[feed_url]['title'] == None:
+      cache[feed_url]['title'] = get_title('playlistItems', playlistId=playlist_id)
     videos = get_playlist_items(playlist_id)
     return get_video_entries(videos)
 
@@ -21,7 +25,7 @@ def get_entries(cache, feed_url):
 def get_channel_upload_playlist(channel_id):
   params = {
     'key': API_KEY,
-    'part': 'contentDetails,snippet',
+    'part': 'contentDetails',
     'id': channel_id,
     'maxResults': 50,
   }
@@ -30,13 +34,12 @@ def get_channel_upload_playlist(channel_id):
   j = r.json()
   if 'error' in j:
     print(j)
-  print(j) # Temp, trying to get titles
   return j['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
 def get_playlist_items(playlist_id):
   params = {
     'key': API_KEY,
-    'part': 'contentDetails,snippet.title',
+    'part': 'contentDetails',
     'playlistId': playlist_id,
     'maxResults': 50, # Per page, in playlist order
   }
@@ -45,7 +48,6 @@ def get_playlist_items(playlist_id):
   j = r.json()
   if 'error' in j:
     print(j)
-  print(j) # Temp, trying to get titles
   video_ids = [item['contentDetails']['videoId'] for item in j['items']]
   return list(set(video_ids)) # Some playlists may contain dupes, we don't want to send duplicate emails.
 
@@ -75,6 +77,17 @@ def get_video_entries(video_ids):
     entry.date = int(parse_time(video['snippet']['publishedAt']).timestamp())
 
     yield entry
+
+
+def get_title(api, **kwargs):
+  kwargs['key'] = API_KEY
+  kwargs['part'] = 'snippet'
+
+  r = requests.get('https://www.googleapis.com/youtube/v3/' + api, params=params)
+  j = r.json()
+  if 'error' in j:
+    print(j)
+  return j['snippet']['title']
 
 
 def parse_time(string):
