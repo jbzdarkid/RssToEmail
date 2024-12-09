@@ -79,9 +79,9 @@ def get_video_entries(video_ids):
     yield entry
 
 
-def get_title(api, **kwargs):
-  kwargs['key'] = API_KEY
-  kwargs['part'] = 'snippet'
+def get_title(api, **params):
+  params['key'] = API_KEY
+  params['part'] = 'snippet'
 
   r = requests.get('https://www.googleapis.com/youtube/v3/' + api, params=params)
   j = r.json()
