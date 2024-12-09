@@ -17,7 +17,7 @@ def get_entries(cache, feed_url):
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
     if not cache[feed_url].get('title', None):
-      cache[feed_url]['title'] = get_title('playlistItems', playlistId=playlist_id)['videoOwnerChannelTitle']
+      cache[feed_url]['title'] = get_title('playlistItems', playlistId=playlist_id)['snippet']['videoOwnerChannelTitle']
     videos = get_playlist_items(playlist_id)
     return get_video_entries(videos)
 
