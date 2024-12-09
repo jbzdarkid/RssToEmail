@@ -242,19 +242,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 09 Dec 2024 06:06:00 GMT",
+    "modified": "Mon, 09 Dec 2024 06:14:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1733508330,
-    "modified": "Mon, 09 Dec 2024 06:06:00 GMT",
+    "modified": "Mon, 09 Dec 2024 06:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 09 Dec 2024 06:06:00 GMT",
+    "modified": "Mon, 09 Dec 2024 06:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -351,7 +351,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:8ed243af28f220a172fba5aab4eb1557\"",
+    "etag": "W/\"cacheable:be21d05c15ff8af090efe3962ad409c7\"",
     "last_updated": 1732726109,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -487,177 +487,212 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC-B06UJxJ20HYv15lzrm9mA": {
     "last_updated": 1731776436,
     "name": "dillongoo",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "dillongoo"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Q4WBqNtMF_2GbIsGjic4A": {
     "last_updated": 1720106174,
     "name": "yahtzee19",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
     "last_updated": 1732134972,
     "name": "GDC",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "GDC 2025"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC3bQlN3L10pHmVLeC5tXRGw": {
     "last_updated": 1710263060,
     "name": "dukope1",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "dukope1"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5BTcArAnit9p5W7etFsPsA": {
     "last_updated": 1708668005,
     "name": "teamfortress",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
     "last_updated": 1733680812,
     "name": "LRR Videogames",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "LRR Videogames"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA": {
     "last_updated": 1729352474,
     "name": "Innuendo Studios",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Innuendo Studios"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5miyvhPsWWyfTulnJ43koQ": {
     "last_updated": 1733719512,
     "name": null,
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "UncommentatedPannen"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA": {
     "last_updated": 1730676210,
     "name": "Team PLC",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Team PLC (Poor Life Choices)"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w": {
     "last_updated": 1708668005,
     "name": "boburnham",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "boburnham"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
     "last_updated": 1714501435,
     "name": "roberttiso",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "roberttiso"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCHDUUx4O16LqWyJyZ8000RA": {
     "last_updated": 1708668005,
     "name": "I Fight Dragons",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "I Fight Dragons"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCMm211NGh4Ls5SAMZJF7E8A": {
     "last_updated": 1733598006,
     "name": "pannenkoek2012",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "pannenkoek2012"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCNpOzBfV89Q7PS4TarkLjsw": {
     "last_updated": 1708668005,
     "name": "Starry Expanse",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Starry Expanse"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOywx5hjexDJUP-trlckYNA": {
     "last_updated": 1708668005,
     "name": "Gears for Breakfast",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Gears for Breakfast"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
     "last_updated": 1733159015,
     "name": "Tom Francis",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Tom Francis"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCStZs-X5W6V3TFJLnwkzN5w": {
     "last_updated": 1733348262,
     "name": "Steamworks Development",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Steamworks Development"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCTnU4Ffbehftics2IPq46_w": {
     "last_updated": 1722654667,
     "name": "TheSuperSNES",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "TheSuperSNES"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
     "last_updated": 1716229001,
     "name": "Harry101UK",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Harry101UK"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
     "last_updated": 1733005829,
     "name": "The Slow Mo Guys",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "The Slow Mo Guys"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCbNmVHHiBTJoFkWVFokl1VQ": {
     "last_updated": 1723945657,
     "name": "ShadyParadox",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
     "last_updated": 1733246932,
     "name": "LRR Tabletop",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "LRR Tabletop"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
     "last_updated": 1732897167,
     "name": "8-bit Music Theory",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "8-bit Music Theory"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCg0FSqPeiGD_lIiPaaAehQg": {
     "last_updated": 1731708830,
     "name": "Valve",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Valve"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCgC4Nn0rqqdeqACnzaIMo_Q": {
     "last_updated": 1731705908,
     "name": "The Slow Mo Guys 2",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "The Slow Mo Guys 2"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UChW-TZWEQCOWw9G80-LAGZw": {
     "last_updated": 1708668005,
     "name": "MousseMoose",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "MousseMoose"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCiQViNg9NilR911MSxwaomQ": {
     "last_updated": 1708668005,
     "name": "Taioo",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Taioo"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCk1Fo1TfTOFWRhffJGvDSUg": {
     "last_updated": 1708668005,
     "name": "Proton Jon",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Proton Jon"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCq71f9hMufSaXPBtcrujjfQ": {
     "last_updated": 1728846006,
     "name": "Req",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Req"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
     "last_updated": 1733500810,
     "name": "Game Maker's Toolkit",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Game Maker's Toolkit"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwRqWnW5ZkVaP_lZF7caZ-g": {
     "last_updated": 1730729910,
     "name": "Retro Game Mechanics Explained",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
     "last_updated": 1733612442,
     "name": "LoadingReadyRun",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "LoadingReadyRun"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxO_ya-RmAXCXJCU54AxYFw": {
     "last_updated": 1725729706,
     "name": "New Frame Plus",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "New Frame Plus"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCxj-zfOhKarvzLSjt1jjgWA": {
     "last_updated": 1713427551,
     "name": "HydrantDude",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "HydrantDude"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCzT_ActOGi0CcHSD_atMtzA": {
     "last_updated": 1731251129,
     "name": "SourceRuns",
-    "seen_entries": []
+    "seen_entries": [],
+    "title": "SourceRuns"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66": {
     "last_updated": 1708668005,
