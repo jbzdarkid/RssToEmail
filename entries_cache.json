@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 16 Dec 2024 15:04:52 GMT",
+    "modified": "Mon, 16 Dec 2024 18:05:58 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -84,7 +84,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 16 Dec 2024 15:04:52 GMT",
+    "modified": "Mon, 16 Dec 2024 18:05:59 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -147,7 +147,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1734184153,
+    "last_updated": 1734358298,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 16-Dec-2024 15:04:58 GMT",
+    "modified": "Monday, 16-Dec-2024 18:06:04 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -243,19 +243,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 16 Dec 2024 15:04:00 GMT",
+    "modified": "Mon, 16 Dec 2024 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1733852559,
-    "modified": "Mon, 16 Dec 2024 15:04:00 GMT",
+    "modified": "Mon, 16 Dec 2024 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 16 Dec 2024 15:04:00 GMT",
+    "modified": "Mon, 16 Dec 2024 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -352,7 +352,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:317070512cb169703c97b135ef7d432a\"",
+    "etag": "W/\"cacheable:6f2a41f38172e8d462f4ffd3bc7f05a9\"",
     "last_updated": 1732726109,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -404,9 +404,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"0d9e33532b6940fd30e6606d70f541c7\"",
+    "etag": "\"7cd62c589432baf8d484b5a6ca90d5d9\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 16 Dec 2024 14:02:52 GMT",
+    "modified": "Mon, 16 Dec 2024 18:05:04 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -516,7 +516,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1734298989,
+    "last_updated": 1734372037,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -618,7 +618,7 @@
     "title": "LRR Tabletop"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1732897167,
+    "last_updated": 1734363118,
     "name": "8-bit Music Theory",
     "seen_entries": [],
     "title": "8-bit Music Theory"
@@ -744,8 +744,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"675c86c8-87d\"",
-    "last_updated": 1734066000,
+    "etag": "W/\"676057fa-8e7\"",
+    "last_updated": 1734325200,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
