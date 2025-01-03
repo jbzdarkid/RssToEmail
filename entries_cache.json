@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Thu, 02 Jan 2025 21:04:16 GMT",
+    "modified": "Fri, 03 Jan 2025 00:19:24 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -84,7 +84,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Thu, 02 Jan 2025 21:04:17 GMT",
+    "modified": "Fri, 03 Jan 2025 00:19:26 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -185,9 +185,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e9b2de1454c5f1d87c6424632d24d816216063b9863f240d82e751ad27911445\"",
+    "etag": "W/\"43a076ed47394f4931f7a32e68882f37079dca9a5f5fb25287b5acd0ee652383\"",
     "last_updated": 1734634980,
-    "modified": "Thu, 02 Jan 2025 11:15:58 GMT",
+    "modified": "Thu, 02 Jan 2025 23:27:28 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 02-Jan-2025 21:04:23 GMT",
+    "modified": "Friday, 03-Jan-2025 00:19:32 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -212,7 +212,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -243,19 +243,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 02 Jan 2025 21:04:00 GMT",
+    "modified": "Fri, 03 Jan 2025 00:18:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1734711136,
-    "modified": "Thu, 02 Jan 2025 21:04:00 GMT",
+    "modified": "Fri, 03 Jan 2025 00:18:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Thu, 02 Jan 2025 21:04:00 GMT",
+    "modified": "Fri, 03 Jan 2025 00:18:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -352,7 +352,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:4f3167d128e9493b5b4a30e91609fe4c\"",
+    "etag": "W/\"cacheable:b5db01bd655d6d057abaed95ef341e78\"",
     "last_updated": 1734628221,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -365,8 +365,8 @@
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"d07ed013338d05f46605e3ef75f78226\"",
-    "last_updated": 1735758202,
+    "etag": "W/\"5343bbea41bdaa4fb5d747ba64c4a5dc\"",
+    "last_updated": 1735851984,
     "name": "Four Island",
     "seen_entries": []
   },
