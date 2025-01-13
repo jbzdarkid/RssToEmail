@@ -25,11 +25,11 @@ if __name__ == '__main__':
   msg['Reply-To'] = TARGET_EMAIL
   email_body = ''
   for i, t in enumerate(tweets):
+    email_body += '<hr><br>'
     email_body += f'Tweet {i+1} sent at ' + strftime("%A, %B %d, %Y", localtime(t.date)) + '\n'
-    email_body += t.title + '\n'
     email_body += t.content + '\n'
 
-  msg.set_content(email_body)
+  msg.set_content("Hello, world")
   msg.add_alternative(email_body.replace('\n', '<br>'), subtype='html')
 
   with EmailServer() as email_server:

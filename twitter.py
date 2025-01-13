@@ -119,7 +119,7 @@ def get_entries(user_id):
       full_text = full_text.replace(link['url'], link['expanded_url'])
 
     for image in content['entities'].get('media', []):
-      full_text = full_text.replace(image['url'], '<img src="' + image['expanded_url'] + '">')
+      full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
 
     entry = Entry()
     entry.title = f'@{handle} on Twitter'
