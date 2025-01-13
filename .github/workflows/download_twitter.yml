@@ -1,0 +1,26 @@
+name: Download tweets
+on:
+  workflow_dispatch:
+    inputs:
+      handle:
+        required: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: 3
+    - run: pip install -r requirements.txt
+    - run: python -u send_tweets.py ${{ github.event.inputs.handle }}
+      env:
+        sender_email: ${{ secrets.SENDER_EMAIL }}
+        target_email: ${{ secrets.TARGET_EMAIL }}
+        email_client_id: ${{ secrets.EMAIL_CLIENT_ID }}
+        email_client_secret: ${{ secrets.EMAIL_CLIENT_SECRET }}
+        email_refresh_token: ${{ secrets.EMAIL_REFRESH_TOKEN }}
+        twitter_token: ${{ secrets.TWITTER_TOKEN }}
+        youtube_token: ${{ secrets.YOUTUBE_TOKEN }}
