@@ -71,6 +71,7 @@ def get(graphql, **kwargs):
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
+  r.raise_for_status()
   j = r.json()
   if 'errors' in j:
       raise ValueError(j['errors'])
@@ -112,11 +113,19 @@ def get_entries(user_id):
     handle = user['legacy']['screen_name']
     tweet_id = content['conversation_id_str'] # Avoids duplicate entries for conversations.
 
+    # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
+    full_text = content['full_text']
+    for link in content['entities']['urls']:
+      full_text = full_text.replace(link['url'], link['expanded_url'])
+
+    for image in content['entities'].get('media', []):
+      full_text = full_text.replace(image['url'], '<img src="' + image['expanded_url'] + '">')
+
     entry = Entry()
     entry.title = f'@{handle} on Twitter'
     entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
     entry.date = int(datetime.strptime(content['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
-    entry.content = content['full_text']
+    entry.content = full_text
     entries.append(entry)
 
   return entries
