@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 13 Jan 2025 09:05:25 GMT",
+    "modified": "Tue, 14 Jan 2025 03:04:40 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -85,7 +85,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 13 Jan 2025 09:05:26 GMT",
+    "modified": "Tue, 14 Jan 2025 03:04:41 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -101,8 +101,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"98953deb8e2c4296966c9ac21cd71a28-ssl-df\"",
-    "last_updated": 1736682431,
+    "etag": "\"411ff81a833728156b94d5e179246f85-ssl-df\"",
+    "last_updated": 1736760246,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -163,8 +163,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=910680",
-      "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=910682",
       "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=910683",
       "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=910706",
       "http://geohashing.site/index.php?title=File:2024-08-03_47_-122_Pipeline.jpeg&diff=911801",
@@ -182,7 +180,9 @@
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924163",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924209",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924848",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924909"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924909",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=926027",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=926033"
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
@@ -201,7 +201,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 13-Jan-2025 09:05:35 GMT",
+    "modified": "Tuesday, 14-Jan-2025 03:04:47 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -213,7 +213,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -244,19 +244,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 13 Jan 2025 09:04:00 GMT",
+    "modified": "Tue, 14 Jan 2025 03:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1734711136,
-    "modified": "Mon, 13 Jan 2025 09:04:00 GMT",
+    "modified": "Tue, 14 Jan 2025 03:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 13 Jan 2025 09:04:00 GMT",
+    "modified": "Tue, 14 Jan 2025 03:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -353,20 +353,20 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:66d8f06d54ac1f318f6bd8596fd9ab7f\"",
+    "etag": "W/\"cacheable:de2801850e2cfcdf1ed8848aff32bdb7\"",
     "last_updated": 1735922800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f83-Msj4yGgewm9aFSCoqDnIqN72PEs\"",
+    "etag": "W/\"72f83-+OA4bB0EUym8cDQXOPI1yA9j7to\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"b77ad2aef40dc74f02a9fdd18296d593\"",
+    "etag": "W/\"1f9dfb57f178f90a4ee8268970b279a0\"",
     "last_updated": 1736710758,
     "name": "Four Island",
     "seen_entries": []
@@ -405,9 +405,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1fc3de580e46b95919aa3fa99d4a08d6\"",
+    "etag": "\"825978920fb514204cc42431bf819a63\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 12 Jan 2025 17:59:00 GMT",
+    "modified": "Mon, 13 Jan 2025 23:46:01 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -482,7 +482,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1736492115,
+    "last_updated": 1736761134,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -517,7 +517,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1736744905,
+    "last_updated": 1736791209,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -745,8 +745,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"678169a3-9f9\"",
-    "last_updated": 1736485200,
+    "etag": "W/\"67857605-873\"",
+    "last_updated": 1736744400,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
