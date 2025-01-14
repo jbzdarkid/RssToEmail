@@ -124,7 +124,7 @@ def get_entries(user_id, limit=20, skip_retweets=False):
         if result['__typename'] == 'TweetWithVisibilityResults':
           result = result['tweet'] # Nested for some reason
 
-        if skip_retweets and 'retweeted_status' in result['legacy']:
+        if skip_retweets and 'retweeted_status_result' in result['legacy']:
           continue
 
         entries.append(tweet_to_entry(result))
