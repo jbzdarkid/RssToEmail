@@ -116,7 +116,8 @@ def get_entries(user_id):
     # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
     full_text = content['full_text']
     for link in content['entities']['urls']:
-      full_text = full_text.replace(link['url'], link['expanded_url'])
+      if 'expanded_url' in link:
+        full_text = full_text.replace(link['url'], link['expanded_url'])
 
     for image in content['entities'].get('media', []):
       full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
