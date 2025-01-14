@@ -72,7 +72,29 @@ def get_user_id(screen_name):
   return j['user']['result']['rest_id']
 
 
-def get_entries(user_id, limit=20):
+def tweet_to_entry(tweet):
+  handle = tweet['core']['user_results']['result']['legacy']['screen_name']
+  tweet_id = tweet['legacy']['conversation_id_str'] # Avoids duplicate entries for conversations.
+
+  # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
+  full_text = tweet['legacy']['full_text']
+  for link in tweet['legacy']['entities']['urls']:
+    if 'expanded_url' in link:
+      full_text = full_text.replace(link['url'], link['expanded_url'])
+
+  # In some cases, people put images in their tweets. Convert these to HTML so that they render in the resulting email.
+  for image in tweet['legacy']['entities'].get('media', []):
+    full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
+
+  entry = Entry()
+  entry.title = f'@{handle} on Twitter'
+  entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
+  entry.date = int(datetime.strptime(tweet['legacy']['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
+  entry.content = full_text
+  return entry
+
+
+def get_entries(user_id, limit=20, skip_retweets=False):
   kwargs = {
     'userId': user_id,
     'includePromotedContent': False,
@@ -81,8 +103,8 @@ def get_entries(user_id, limit=20):
     'withV2Timeline': True,
   }
 
-  tweets = []
-  while len(tweets) < limit:
+  entries = []
+  while len(entries) < limit:
     j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
     if not j:
       return []
@@ -99,42 +121,21 @@ def get_entries(user_id, limit=20):
         continue
       elif item['content']['entryType'] == 'TimelineTimelineItem':
         result = item['content']['itemContent']['tweet_results']['result']
-        if result['__typename'] == 'Tweet':
-          tweets.append(result)
-        elif result['__typename'] == 'TweetWithVisibilityResults':
-          tweets.append(result['tweet'])
-        else:
-          import json
-          print(json.dumps(result, indent=2))
-          raise ValueError('Could not parse timeline item of type ' + result['__typename'])
+        if result['__typename'] == 'TweetWithVisibilityResults':
+          result = result['tweet'] # Nested for some reason
+
+        if skip_retweets and 'retweeted_status' in result['legacy']:
+          continue
+
+        entries.append(tweet_to_entry(result))
 
     if cursor is None: # If there are no further items
       break
     kwargs['cursor'] = cursor # Else, download more items
 
-  entries = []
-  for tweet in tweets:
-    handle = tweet['core']['user_results']['result']['legacy']['screen_name']
-    tweet_id = tweet['legacy']['conversation_id_str'] # Avoids duplicate entries for conversations.
-
-    # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
-    full_text = tweet['legacy']['full_text']
-    for link in tweet['legacy']['entities']['urls']:
-      if 'expanded_url' in link:
-        full_text = full_text.replace(link['url'], link['expanded_url'])
-
-    # In some cases, people put images in their tweets. Convert these to HTML so that they render in the resulting email.
-    for image in tweet['legacy']['entities'].get('media', []):
-      full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
-
-    entry = Entry()
-    entry.title = f'@{handle} on Twitter'
-    entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
-    entry.date = int(datetime.strptime(tweet['legacy']['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
-    entry.content = full_text
-    entries.append(entry)
-
-  return entries
+  # Return only the requested number of items, ordered by date
+  entries.sort(key=lambda e: e.date)
+  return entries[:limit]
 
 
 if __name__ == '__main__':
