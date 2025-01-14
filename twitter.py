@@ -58,6 +58,11 @@ def get(graphql, **kwargs):
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
+  if r.status_code == 429 and 'Retry-After' in r.headers:
+    # Try again exactly once when we are told to do so due to rate limiting.
+    sleep(int(r.headers['Retry-After']))
+    r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
+
   r.raise_for_status()
   j = r.json()
   if 'errors' in j:
