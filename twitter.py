@@ -39,10 +39,10 @@ features = {
 }
 
 headers = {
-  # The public Bearer token used to call guest APIs. Scraped from the twitter service worker:
+  # The public Bearer token used to call guest APIs (and apparently also needed for graphql). Scraped from the twitter service worker:
   # https://abs.twimg.com/responsive-web/client-serviceworker/serviceworker.56c0036a.js (as loaded from https://twitter.com/sw.js)
   'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA',
-  'User-Agent': 'RssToEmail/0.1 (https://github.com/jbzdarkid/RssToEmail; https://github.com/jbzdarkid/RssToEmail/issues)',
+  'User-Agent': 'RssToEmail/0.2 (https://github.com/jbzdarkid/RssToEmail; https://github.com/jbzdarkid/RssToEmail/issues)',
 }
 
 
@@ -81,8 +81,8 @@ def get_entries(user_id, limit=20):
     'withV2Timeline': True,
   }
 
-  timeline_items = []
-  while len(timeline_items) < limit:
+  tweets = []
+  while len(tweets) < limit:
     j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
     if not j:
       return []
@@ -98,33 +98,39 @@ def get_entries(user_id, limit=20):
         cursor = item['content']['value']
         continue
       elif item['content']['entryType'] == 'TimelineTimelineItem':
-        timeline_items.append(item)
+        result = item['content']['itemContent']['tweet_results']['result']
+        if result['__typename'] == 'Tweet':
+          tweets.append(result)
+        elif result['__typename'] == 'TweetWithVisibilityResults':
+          tweets.append(result['tweet'])
+        else:
+          import json
+          print(json.dumps(result, indent=2))
+          raise ValueError('Could not parse timeline item of type ' + result['__typename'])
 
     if cursor is None: # If there are no further items
       break
     kwargs['cursor'] = cursor # Else, download more items
 
   entries = []
-  for item in timeline_items:
-    handle = item['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']['legacy']['screen_name']
-
-    content = item['content']['itemContent']['tweet_results']['result']['legacy']
-    tweet_id = content['conversation_id_str'] # Avoids duplicate entries for conversations.
+  for tweet in tweets:
+    handle = tweet['core']['user_results']['result']['legacy']['screen_name']
+    tweet_id = tweet['legacy']['conversation_id_str'] # Avoids duplicate entries for conversations.
 
     # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
-    full_text = content['full_text']
-    for link in content['entities']['urls']:
+    full_text = tweet['legacy']['full_text']
+    for link in tweet['legacy']['entities']['urls']:
       if 'expanded_url' in link:
         full_text = full_text.replace(link['url'], link['expanded_url'])
 
     # In some cases, people put images in their tweets. Convert these to HTML so that they render in the resulting email.
-    for image in content['entities'].get('media', []):
+    for image in tweet['legacy']['entities'].get('media', []):
       full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
 
     entry = Entry()
     entry.title = f'@{handle} on Twitter'
     entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
-    entry.date = int(datetime.strptime(content['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
+    entry.date = int(datetime.strptime(tweet['legacy']['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
     entry.content = full_text
     entries.append(entry)
 
