@@ -15,7 +15,7 @@ if __name__ == '__main__':
     exit(1)
   handle = sys.argv[1]
   user_id = twitter.get_user_id(handle)
-  tweets = twitter.get_entries(user_id)
+  tweets = twitter.get_entries(user_id, 100)
   tweets.sort(key = lambda e: e.date if e.date else 0)
 
   msg = EmailMessage()

@@ -47,19 +47,6 @@ headers = {
 
 
 def get(graphql, **kwargs):
-  """ Guest API access (slow, inconsistent, and doesn't fetch tweets in order)
-  if 'x-guest-token' not in headers:
-    for _ in range(10):
-      r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
-      j = r.json()
-      if 'guest_token' in j:
-        headers['x-guest-token'] = j['guest_token']
-        break
-      sleep(30)
-    if 'x-guest-token' not in headers:
-      return None
-  """
-
   # https://stackoverflow.com/a/2782859
   csrf = f'{random.randrange(16**32):032x}'
 
@@ -85,32 +72,43 @@ def get_user_id(screen_name):
   return j['user']['result']['rest_id']
 
 
-def get_entries(user_id):
+def get_entries(user_id, limit=20):
   kwargs = {
     'userId': user_id,
-    'count': 200,
     'includePromotedContent': False,
     'withQuickPromoteEligibilityTweetFields': False,
     'withVoice': False,
     'withV2Timeline': True,
   }
-  j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
-  if not j:
-    return []
-  instructions = j['user']['result']['timeline_v2']['timeline']['instructions']
-  instructions = {i['type']: i for i in instructions}
-  if 'TimelineAddEntries' not in instructions:
-    print(f'TimelineAddEntries not found in instruction keys: {instructions.keys()}')
-    return []
-  tweets = instructions['TimelineAddEntries']['entries']
+
+  timeline_items = []
+  while len(timeline_items) < limit:
+    j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
+    if not j:
+      return []
+    instructions = j['user']['result']['timeline_v2']['timeline']['instructions']
+    instructions = {i['type']: i for i in instructions}
+    if 'TimelineAddEntries' not in instructions:
+      print(f'TimelineAddEntries not found in instruction keys: {instructions.keys()}')
+      return []
+
+    cursor = None
+    for item in instructions['TimelineAddEntries']['entries']:
+      if item['content']['entryType'] == 'TimelineTimelineCursor' and item['content']['cursorType'] == 'Bottom':
+        cursor = item['content']['value']
+        continue
+      elif item['content']['entryType'] == 'TimelineTimelineItem':
+        timeline_items.append(item)
+
+    if cursor is None: # If there are no further items
+      break
+    kwargs['cursor'] = cursor # Else, download more items
 
   entries = []
-  for tweet in tweets:
-    if tweet['content']['entryType'] != 'TimelineTimelineItem':
-      continue
-    content = tweet['content']['itemContent']['tweet_results']['result']['legacy']
-    user = tweet['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']
-    handle = user['legacy']['screen_name']
+  for item in timeline_items:
+    handle = item['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']['legacy']['screen_name']
+
+    content = item['content']['itemContent']['tweet_results']['result']['legacy']
     tweet_id = content['conversation_id_str'] # Avoids duplicate entries for conversations.
 
     # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
@@ -119,6 +117,7 @@ def get_entries(user_id):
       if 'expanded_url' in link:
         full_text = full_text.replace(link['url'], link['expanded_url'])
 
+    # In some cases, people put images in their tweets. Convert these to HTML so that they render in the resulting email.
     for image in content['entities'].get('media', []):
       full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
 
@@ -133,7 +132,7 @@ def get_entries(user_id):
 
 
 if __name__ == '__main__':
-  user_id = get_user_id('breachwizards')
+  user_id = get_user_id('playhearthstone')
   print('User id:', user_id)
   entries = get_entries(user_id)
   print(f'Found {len(entries)} entries:')
