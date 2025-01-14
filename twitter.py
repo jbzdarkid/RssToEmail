@@ -58,11 +58,6 @@ def get(graphql, **kwargs):
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
-  if r.status_code == 429 and 'Retry-After' in r.headers:
-    # Try again exactly once when we are told to do so due to rate limiting.
-    sleep(int(r.headers['Retry-After']))
-    r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
-
   r.raise_for_status()
   j = r.json()
   if 'errors' in j:
@@ -111,6 +106,7 @@ def get_entries(user_id, limit=20, skip_retweets=False):
   entries = []
   while len(entries) < limit:
     j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
+    sleep(2) # Per Nitter, 500 requests per 15 minutes == ~1.8 seconds per request.
     if not j:
       return []
     instructions = j['user']['result']['timeline_v2']['timeline']['instructions']
