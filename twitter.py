@@ -101,10 +101,10 @@ def tweet_to_entry(tweet):
   return entry
 
 
-def get_entries(user_id, limit=20, skip_retweets=False):
+def get_entries(user_id, start_time, skip_retweets=False):
   kwargs = {
     'userId': user_id,
-    'count': limit * 2,
+    'count': 100,
     'includePromotedContent': False,
     'withQuickPromoteEligibilityTweetFields': False,
     'withVoice': False,
@@ -112,7 +112,7 @@ def get_entries(user_id, limit=20, skip_retweets=False):
   }
 
   entries = []
-  while len(entries) < limit:
+  while 1:
     j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
     sleep(5)
     if not j:
@@ -138,13 +138,14 @@ def get_entries(user_id, limit=20, skip_retweets=False):
 
         entries.append(tweet_to_entry(result))
 
-    if cursor is None: # If there are no further items
-      break
+    if cursor is None:
+      break # If there are no further items
+    if any((e.date < start_time.timestamp() for e in entries)):
+      break # If we've looked back far enough
     kwargs['cursor'] = cursor # Else, download more items
 
-  # Return only the requested number of items, ordered by date
   entries.sort(key=lambda e: e.date)
-  return entries[:limit]
+  return entries
 
 
 if __name__ == '__main__':

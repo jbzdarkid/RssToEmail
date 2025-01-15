@@ -1,4 +1,5 @@
 import sys
+from datetime import datetime, timedelta
 from email.message import EmailMessage
 from os import environ
 from time import localtime, sleep, strftime
@@ -15,7 +16,7 @@ if __name__ == '__main__':
     exit(1)
   handle = sys.argv[1]
   user_id = twitter.get_user_id(handle)
-  tweets = twitter.get_entries(user_id, 100, skip_retweets=True)
+  tweets = twitter.get_entries(user_id, datetime.now() - timedelta(days=30), skip_retweets=True)
 
   msg = EmailMessage()
   msg['Subject'] = f'{len(tweets)} tweets from {handle} ({user_id})'
