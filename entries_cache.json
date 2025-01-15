@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Tue, 14 Jan 2025 21:04:38 GMT",
+    "modified": "Wed, 15 Jan 2025 18:05:43 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -85,7 +85,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Tue, 14 Jan 2025 21:04:39 GMT",
+    "modified": "Wed, 15 Jan 2025 18:05:43 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -101,8 +101,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"f6238f0bc46188e062d2e8c2d94fcf5c-ssl-df\"",
-    "last_updated": 1736812827,
+    "etag": "\"b3d8a46da98abf67a38462df085134d1-ssl-df\"",
+    "last_updated": 1736950652,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -153,9 +153,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"2c7b0f0328fc14ab4bcc998b8ddac7a088fb45cc8d423786799a98099eef4bc6\"",
+    "etag": "W/\"9606f2cdc5e2dfa8d0c0eb41e195c7202f993ac4181d7200183964b40dc5eb41\"",
     "last_updated": 1712276400,
-    "modified": "Sat, 11 Jan 2025 11:11:28 GMT",
+    "modified": "Tue, 14 Jan 2025 22:39:01 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 14-Jan-2025 21:04:52 GMT",
+    "modified": "Wednesday, 15-Jan-2025 21:04:29 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -244,19 +244,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 14 Jan 2025 21:04:00 GMT",
+    "modified": "Wed, 15 Jan 2025 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1734711136,
-    "modified": "Tue, 14 Jan 2025 21:04:00 GMT",
+    "modified": "Wed, 15 Jan 2025 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Tue, 14 Jan 2025 21:04:00 GMT",
+    "modified": "Wed, 15 Jan 2025 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -321,7 +321,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1736886903,
+    "last_updated": 1736918642,
     "name": "Team Fortress Wiki - Watchlist [en]",
     "seen_entries": []
   },
@@ -353,20 +353,20 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:5be25ebda462de415447d68b3b661cfe\"",
+    "etag": "W/\"cacheable:6726895397301b037bebee2706759492\"",
     "last_updated": 1735922800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f83-FeMsWafU65O39IuavBvefh4NkGw\"",
+    "etag": "W/\"72f83-eNhq/l7ZJDP0rm18VPeX3EyLRWA\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"4f1a17e8a362a4b8a11ccaa7954e6407\"",
+    "etag": "W/\"d35fdfc2befeea71ab8742a18019e8f2\"",
     "last_updated": 1736710758,
     "name": "Four Island",
     "seen_entries": []
@@ -405,9 +405,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b00954410355a2b976a9c813e58ab1bc\"",
+    "etag": "\"5bb020358bdb0b7ebf424bc4072f8fde\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 14 Jan 2025 20:09:00 GMT",
+    "modified": "Wed, 15 Jan 2025 20:40:31 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -423,7 +423,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1736755200,
+    "last_updated": 1736928000,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -482,7 +482,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1736761134,
+    "last_updated": 1736925154,
     "name": "Wilde Life",
     "seen_entries": []
   },
@@ -517,7 +517,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1736791209,
+    "last_updated": 1736964017,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -709,7 +709,7 @@
     "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1736355658,
+    "last_updated": 1736960406,
     "name": "Fully Ramblomatic",
     "seen_entries": [],
     "title": "Second Wind"
@@ -745,8 +745,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"67857605-873\"",
-    "last_updated": 1736744400,
+    "etag": "W/\"6787b417-78b\"",
+    "last_updated": 1736917200,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
