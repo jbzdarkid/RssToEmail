@@ -140,7 +140,7 @@ def get_entries(user_id, start_time, skip_retweets=False):
 
     if cursor is None:
       break # If there are no further items
-    if any((e.date < start_time.timestamp() for e in entries)):
+    if any((e.date < start_time for e in entries)):
       break # If we've looked back far enough
     kwargs['cursor'] = cursor # Else, download more items
 
