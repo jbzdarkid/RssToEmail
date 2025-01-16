@@ -16,7 +16,8 @@ if __name__ == '__main__':
     exit(1)
   handle = sys.argv[1]
   user_id = twitter.get_user_id(handle)
-  tweets = twitter.get_entries(user_id, datetime.now() - timedelta(days=30), skip_retweets=True)
+  start_time = (datetime.now() - timedelta(days=30)).timestamp()
+  tweets = twitter.get_entries(user_id, start_time, skip_retweets=True)
 
   msg = EmailMessage()
   msg['Subject'] = f'{len(tweets)} tweets from {handle} ({user_id})'
