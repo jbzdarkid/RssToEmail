@@ -65,7 +65,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Tue, 21 Jan 2025 09:04:51 GMT",
+    "modified": "Tue, 21 Jan 2025 12:07:30 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -85,7 +85,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Tue, 21 Jan 2025 09:04:52 GMT",
+    "modified": "Tue, 21 Jan 2025 12:07:31 GMT",
     "name": "Microsoft Environmental Sustainability Report",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -153,9 +153,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0fbec2d461ca2ae0120aa9f22f2ec021b87bd5c35c08019885585906026c5482\"",
+    "etag": "W/\"276a34269c3132ecfd841c9adfea037c55ef647c192a4bab9138b7c15d518557\"",
     "last_updated": 1712276400,
-    "modified": "Tue, 21 Jan 2025 08:24:35 GMT",
+    "modified": "Tue, 21 Jan 2025 10:33:26 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -201,7 +201,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 21-Jan-2025 09:04:57 GMT",
+    "modified": "Tuesday, 21-Jan-2025 12:07:36 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -244,19 +244,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 21 Jan 2025 09:04:00 GMT",
+    "modified": "Tue, 21 Jan 2025 12:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1737227211,
-    "modified": "Tue, 21 Jan 2025 09:04:00 GMT",
+    "modified": "Tue, 21 Jan 2025 12:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Tue, 21 Jan 2025 09:04:00 GMT",
+    "modified": "Tue, 21 Jan 2025 12:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -353,14 +353,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:b2f85ef812aec2998aa8c53b2f9d8668\"",
+    "etag": "W/\"cacheable:7617fba437e07891f0762b0026b70159\"",
     "last_updated": 1735922800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f83-6uNqaxaVzDViRivY+t4vYs4SVak\"",
+    "etag": "W/\"72f83-jijcZTxchRVnujIsbeGor7rwxWU\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -405,9 +405,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"802d51f0ff9fd4f3b29fbe3bd3c7d8d2\"",
+    "etag": "\"b470090a20ce977317721a22fb62d2dd\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 20 Jan 2025 21:26:13 GMT",
+    "modified": "Tue, 21 Jan 2025 10:41:07 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
