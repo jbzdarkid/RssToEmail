@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 27 Jan 2025 15:04:55 GMT",
+    "modified": "Mon, 27 Jan 2025 18:05:45 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -91,7 +91,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 27 Jan 2025 15:04:55 GMT",
+    "modified": "Mon, 27 Jan 2025 18:05:45 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -169,8 +169,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=File:2024-08-03_47_-122_Trailhead.jpeg&diff=911804",
-      "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=911805",
       "http://geohashing.site/index.php?title=Template:JumpToYear&diff=911806",
       "http://geohashing.site/index.php?title=2024-08-03_47_-122&diff=911817",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=914839",
@@ -188,7 +186,9 @@
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=926940",
       "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=926945",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=926946",
-      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=926948"
+      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=926948",
+      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=927212",
+      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=927213"
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
@@ -207,7 +207,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 27-Jan-2025 15:05:01 GMT",
+    "modified": "Monday, 27-Jan-2025 18:05:49 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -250,19 +250,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 27 Jan 2025 15:04:00 GMT",
+    "modified": "Mon, 27 Jan 2025 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1737741610,
-    "modified": "Mon, 27 Jan 2025 15:04:00 GMT",
+    "modified": "Mon, 27 Jan 2025 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 27 Jan 2025 15:04:00 GMT",
+    "modified": "Mon, 27 Jan 2025 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -283,7 +283,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1645803862211825712": {
-    "last_updated": 1737911447,
+    "last_updated": 1737998324,
     "name": "Twitter user 1645803862211825712",
     "seen_entries": []
   },
@@ -359,7 +359,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:cb15536a1de2b4f50a0236e4700a8cb9\"",
+    "etag": "W/\"cacheable:147447b03308ed6e066ab9a5a863d3c1\"",
     "last_updated": 1735922800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -523,7 +523,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1737914412,
+    "last_updated": 1738000813,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -619,7 +619,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1737828014,
+    "last_updated": 1738000825,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -679,7 +679,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1737913824,
+    "last_updated": 1738000733,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
@@ -739,7 +739,7 @@
     "title": "Riot Games Music"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1729515663,
+    "last_updated": 1737986472,
     "name": "Elder Dragon Social Club",
     "seen_entries": [],
     "title": "LRRMTG"
