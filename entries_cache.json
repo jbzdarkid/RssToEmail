@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Fri, 02 Feb 2024 02:08:29 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Thu, 30 Jan 2025 15:04:36 GMT",
+    "modified": "Thu, 30 Jan 2025 18:05:39 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -91,7 +91,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Thu, 30 Jan 2025 15:04:36 GMT",
+    "modified": "Thu, 30 Jan 2025 18:05:39 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -154,7 +154,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1738064601,
+    "last_updated": 1738255170,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -192,9 +192,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"f1c70e1124ddb25d205bed4f004ba08d58485dd5e43be0592c935b4f474ad1ca\"",
-    "last_updated": 1734634980,
-    "modified": "Thu, 30 Jan 2025 13:16:20 GMT",
+    "etag": "W/\"708d4cdf83ea196c70bcbfd21289770b77cbb5f7725594cebaad99794a0e255a\"",
+    "last_updated": 1738259820,
+    "modified": "Thu, 30 Jan 2025 17:58:21 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -207,7 +207,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 30-Jan-2025 15:04:44 GMT",
+    "modified": "Thursday, 30-Jan-2025 18:05:46 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -219,7 +219,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -250,19 +250,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 30 Jan 2025 15:04:00 GMT",
+    "modified": "Thu, 30 Jan 2025 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
-    "last_updated": 1737741610,
-    "modified": "Thu, 30 Jan 2025 15:04:00 GMT",
+    "last_updated": 1738258743,
+    "modified": "Thu, 30 Jan 2025 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Thu, 30 Jan 2025 15:04:00 GMT",
+    "modified": "Thu, 30 Jan 2025 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -359,7 +359,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:98dd3937332bb3f113c4296aca971405\"",
+    "etag": "W/\"cacheable:1dcbf149ace7c2780950fd1094dfbe7e\"",
     "last_updated": 1735922800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -411,9 +411,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"a0734298d7486a7bfa672889bafba912\"",
+    "etag": "\"89951e35cae61d1fcbe90d20bbc5d9ce\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 30 Jan 2025 01:54:25 GMT",
+    "modified": "Thu, 30 Jan 2025 15:28:52 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -454,16 +454,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"2ce3c9979910da1989be3b9491ac3b19\"",
-    "last_updated": 1737392443,
-    "modified": "Thu, 30 Jan 2025 02:31:24 GMT",
+    "etag": "W/\"abb9247cc74906095d4ba66a7b99e4d2\"",
+    "last_updated": 1738256430,
+    "modified": "Thu, 30 Jan 2025 17:26:34 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"2ce3c9979910da1989be3b9491ac3b19\"",
+    "etag": "W/\"abb9247cc74906095d4ba66a7b99e4d2\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 30 Jan 2025 02:31:24 GMT",
+    "modified": "Thu, 30 Jan 2025 17:26:34 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -505,7 +505,7 @@
     "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1737745487,
+    "last_updated": 1738250596,
     "name": "GDC",
     "seen_entries": [],
     "title": "GDC 2025"
@@ -607,7 +607,7 @@
     "title": "Harry101UK"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1737082440,
+    "last_updated": 1738259586,
     "name": "The Slow Mo Guys",
     "seen_entries": [],
     "title": "The Slow Mo Guys"
