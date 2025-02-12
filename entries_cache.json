@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Wed, 12 Feb 2025 15:05:16 GMT",
+    "modified": "Wed, 12 Feb 2025 18:05:52 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -91,7 +91,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Wed, 12 Feb 2025 15:05:16 GMT",
+    "modified": "Wed, 12 Feb 2025 18:05:52 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -114,8 +114,8 @@
   },
   "https://feeds.feedburner.com/jonathancoulton": {
     "etag": "cTSv03lSZZvZKmKaIExXbRndQQQ",
-    "last_updated": 1718461445,
-    "modified": "Sun, 9 Feb 2025 01:41:44 GMT",
+    "last_updated": 1739374627,
+    "modified": "Wed, 12 Feb 2025 16:55:14 GMT",
     "name": "Jonathan Coulton",
     "seen_entries": []
   },
@@ -207,7 +207,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 12-Feb-2025 15:05:26 GMT",
+    "modified": "Wednesday, 12-Feb-2025 18:05:57 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -219,7 +219,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -256,7 +256,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1738258743,
-    "modified": "Wed, 12 Feb 2025 15:04:00 GMT",
+    "modified": "Tue, 11 Feb 2025 15:36:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
@@ -359,7 +359,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:2041132c77bfaa831b48147ace3ef73e\"",
+    "etag": "W/\"cacheable:99f47afccb11a950c90848aae1c8424b\"",
     "last_updated": 1735922800,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -411,9 +411,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1fd95942f7a79d2bc5dcceeba136a6b5\"",
+    "etag": "\"3d9aca7dd2c59184cc7b1e0a52b5ddfe\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 11 Feb 2025 20:14:23 GMT",
+    "modified": "Wed, 12 Feb 2025 17:54:37 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -505,7 +505,7 @@
     "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1738603637,
+    "last_updated": 1739379672,
     "name": "GDC",
     "seen_entries": [],
     "title": "GDC 2025"
@@ -523,7 +523,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1739210424,
+    "last_updated": 1739383209,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -715,7 +715,7 @@
     "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1738774852,
+    "last_updated": 1739379616,
     "name": "Fully Ramblomatic",
     "seen_entries": [],
     "title": "Second Wind"
