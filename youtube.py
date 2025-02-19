@@ -31,6 +31,7 @@ def get_channel_upload_playlist(channel_id):
   }
 
   r = requests.get('https://www.googleapis.com/youtube/v3/channels', params=params)
+  r.raise_for_status()
   j = r.json()
   if 'error' in j:
     print(j)
@@ -45,6 +46,7 @@ def get_playlist_items(playlist_id):
   }
 
   r = requests.get('https://www.googleapis.com/youtube/v3/playlistItems', params=params)
+  r.raise_for_status()
   j = r.json()
   if 'error' in j:
     print(j)
@@ -60,6 +62,7 @@ def get_video_entries(video_ids):
   }
 
   r = requests.get('https://www.googleapis.com/youtube/v3/videos', params=params)
+  r.raise_for_status()
   j = r.json()
   if 'error' in j:
     print(j)
@@ -84,6 +87,7 @@ def get_title(api, **params):
   params['part'] = 'snippet'
 
   r = requests.get('https://www.googleapis.com/youtube/v3/' + api, params=params)
+  r.raise_for_status()
   j = r.json()
   if 'error' in j:
     print(j)
