@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Thu, 20 Feb 2025 18:06:02 GMT",
+    "modified": "Thu, 20 Feb 2025 21:04:34 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -91,7 +91,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Thu, 20 Feb 2025 18:06:02 GMT",
+    "modified": "Thu, 20 Feb 2025 21:04:35 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -207,7 +207,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 20-Feb-2025 18:06:07 GMT",
+    "modified": "Thursday, 20-Feb-2025 21:04:50 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -219,7 +219,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -250,19 +250,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 20 Feb 2025 18:06:00 GMT",
+    "modified": "Thu, 20 Feb 2025 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1738258743,
-    "modified": "Thu, 20 Feb 2025 18:06:00 GMT",
+    "modified": "Thu, 20 Feb 2025 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Thu, 20 Feb 2025 18:06:00 GMT",
+    "modified": "Thu, 20 Feb 2025 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -365,7 +365,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:0f59f80f968ead690fe6ae5184f1ba9e\"",
+    "etag": "W/\"cacheable:0d11aa9532fbe90c7d7b811622877a81\"",
     "last_updated": 1739982389,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -417,9 +417,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"963700f6fc2bf948cad43c4c92beaab9\"",
+    "etag": "\"1c09b255854ed878c1eb41e81c6b6ead\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 20 Feb 2025 18:02:23 GMT",
+    "modified": "Thu, 20 Feb 2025 21:03:42 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -460,16 +460,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"eecf686df86ad5619362fdf3b91088a6\"",
+    "etag": "W/\"49086c06fef5418d726fd1602c6ceb21\"",
     "last_updated": 1740070846,
-    "modified": "Thu, 20 Feb 2025 17:00:46 GMT",
+    "modified": "Thu, 20 Feb 2025 19:44:52 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"eecf686df86ad5619362fdf3b91088a6\"",
+    "etag": "W/\"49086c06fef5418d726fd1602c6ceb21\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 20 Feb 2025 17:00:46 GMT",
+    "modified": "Thu, 20 Feb 2025 19:44:52 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -589,7 +589,7 @@
     "title": "Gears for Breakfast"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-twzO6v-PBgckhkrXVaDQ": {
-    "last_updated": 1733159015,
+    "last_updated": 1740077834,
     "name": "Tom Francis",
     "seen_entries": [],
     "title": "Tom Francis"
