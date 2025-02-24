@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 24 Feb 2025 15:05:06 GMT",
+    "modified": "Mon, 24 Feb 2025 18:06:20 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -93,7 +93,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 24 Feb 2025 15:05:07 GMT",
+    "modified": "Mon, 24 Feb 2025 18:06:20 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -156,7 +156,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1740140838,
+    "last_updated": 1740402554,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -209,7 +209,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 24-Feb-2025 15:05:16 GMT",
+    "modified": "Monday, 24-Feb-2025 18:06:25 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -252,19 +252,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 24 Feb 2025 15:04:00 GMT",
+    "modified": "Mon, 24 Feb 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1738258743,
-    "modified": "Mon, 24 Feb 2025 15:04:00 GMT",
+    "modified": "Mon, 24 Feb 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 24 Feb 2025 15:04:00 GMT",
+    "modified": "Mon, 24 Feb 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -322,8 +322,8 @@
     "seen_entries": []
   },
   "https://welcometoheavenblog.net/rss.xml": {
-    "etag": "W/\"a14e27ae32c5e19dc3fb3521c5e00bec\"",
-    "last_updated": 1739999079,
+    "etag": "W/\"6d2a5a132beab7fd895f98d755d44f5a\"",
+    "last_updated": 1740413220,
     "name": "Welcome_to_Heaven Blog Update",
     "seen_entries": []
   },
@@ -367,7 +367,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:9af5d805c1914464e62c666a3ce6c03f\"",
+    "etag": "W/\"cacheable:db19b92b5fb376a08a7df8dafbf1d524\"",
     "last_updated": 1739982389,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -531,7 +531,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1740343930,
+    "last_updated": 1740420022,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
