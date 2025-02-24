@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Mon, 24 Feb 2025 12:08:06 GMT",
+    "modified": "Mon, 24 Feb 2025 15:05:06 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -93,7 +93,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Mon, 24 Feb 2025 12:08:06 GMT",
+    "modified": "Mon, 24 Feb 2025 15:05:07 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -194,9 +194,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5755371c1e5b430ea0ab3936554900a6e5a405b58686e0b8f3b24e4da7f5eb33\"",
+    "etag": "W/\"aefab7b9029650e8a386ed6708875b5ff20a77e3ecb9dbf9f06270a818327641\"",
     "last_updated": 1738259820,
-    "modified": "Mon, 24 Feb 2025 05:17:23 GMT",
+    "modified": "Mon, 24 Feb 2025 12:30:51 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -209,7 +209,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 24-Feb-2025 12:08:11 GMT",
+    "modified": "Monday, 24-Feb-2025 15:05:16 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -252,19 +252,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 24 Feb 2025 12:08:00 GMT",
+    "modified": "Mon, 24 Feb 2025 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1738258743,
-    "modified": "Mon, 24 Feb 2025 12:08:00 GMT",
+    "modified": "Mon, 24 Feb 2025 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1733481860,
-    "modified": "Mon, 24 Feb 2025 12:08:00 GMT",
+    "modified": "Mon, 24 Feb 2025 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -367,14 +367,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:36aa585cfc743b71d2cdd8e8900b34f8\"",
+    "etag": "W/\"cacheable:9af5d805c1914464e62c666a3ce6c03f\"",
     "last_updated": 1739982389,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f83-vttCTjcnLDM7iVYUvL+a7rwaU+g\"",
+    "etag": "W/\"72f83-ruLCUbVSazaU5T77kp5aGDzTx30\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
