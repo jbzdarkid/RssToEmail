@@ -1,6 +1,6 @@
 {
   "hearthstone_patch_notes": {
-    "last_updated": 1739901600,
+    "last_updated": 1740675600,
     "name": "Hearthstone Patch Notes",
     "seen_entries": []
   },
@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Thu, 27 Feb 2025 09:04:55 GMT",
+    "modified": "Thu, 27 Feb 2025 21:04:30 GMT",
     "name": "Valorant RSS News",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -93,7 +93,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Thu, 27 Feb 2025 09:04:56 GMT",
+    "modified": "Thu, 27 Feb 2025 21:04:30 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -194,9 +194,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"305c72a8f871a5af80b4dec31c43a79cf905ed33458cf91256ffbb0815a69c2b\"",
+    "etag": "W/\"b13a4cc5c96c18bc26a5abe0ae20c1b643bfb1590a31860cfa526583dd571dfc\"",
     "last_updated": 1738259820,
-    "modified": "Thu, 27 Feb 2025 06:51:24 GMT",
+    "modified": "Thu, 27 Feb 2025 17:17:21 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -209,19 +209,19 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 27-Feb-2025 09:05:05 GMT",
+    "modified": "Thursday, 27-Feb-2025 21:04:39 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1740490792,
-    "modified": "Tue, 25 Feb 2025 13:39:52 GMT",
+    "last_updated": 1740663886,
+    "modified": "Thu, 27 Feb 2025 13:44:46 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -252,19 +252,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 27 Feb 2025 09:04:00 GMT",
+    "modified": "Thu, 27 Feb 2025 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1738258743,
-    "modified": "Thu, 27 Feb 2025 09:04:00 GMT",
+    "modified": "Thu, 27 Feb 2025 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Thu, 27 Feb 2025 09:04:00 GMT",
+    "modified": "Thu, 27 Feb 2025 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -367,14 +367,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:3609ac7daa9a8019fe11001998086c01\"",
+    "etag": "W/\"cacheable:c02342405701b234b07cb6a69227e8b8\"",
     "last_updated": 1739982389,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f83-KWV6ISy6ASGpoJsGBF0kybDPRlw\"",
+    "etag": "W/\"72f83-XqRMfeiEmy0Fhzdj/LC5CNzdkDI\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -419,9 +419,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"734f1c444b8f4fb04ca6206464cf447e\"",
+    "etag": "\"d3fa827cbe9f73739281b3efe3a40ad9\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 26 Feb 2025 18:12:51 GMT",
+    "modified": "Thu, 27 Feb 2025 20:07:55 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -462,16 +462,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"12b510e81e729fac858c575e73d2cac3\"",
-    "last_updated": 1740070846,
-    "modified": "Thu, 27 Feb 2025 01:20:30 GMT",
+    "etag": "W/\"2955f81249a3a34df68fb26e8ee13829\"",
+    "last_updated": 1740675648,
+    "modified": "Thu, 27 Feb 2025 17:56:05 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"12b510e81e729fac858c575e73d2cac3\"",
+    "etag": "W/\"2955f81249a3a34df68fb26e8ee13829\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 27 Feb 2025 01:20:30 GMT",
+    "modified": "Thu, 27 Feb 2025 17:56:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -543,7 +543,7 @@
     "title": "Innuendo Studios"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5miyvhPsWWyfTulnJ43koQ": {
-    "last_updated": 1733719512,
+    "last_updated": 1740689762,
     "name": null,
     "seen_entries": [],
     "title": "UncommentatedPannen"
@@ -633,7 +633,7 @@
     "title": "LRR Tabletop"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1740594504,
+    "last_updated": 1740671403,
     "name": "8-bit Music Theory",
     "seen_entries": [],
     "title": "8-bit Music Theory"
