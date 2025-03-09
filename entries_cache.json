@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Sun, 09 Mar 2025 06:05:20 GMT",
+    "modified": "Sun, 09 Mar 2025 09:04:26 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -94,7 +94,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Sun, 09 Mar 2025 06:05:21 GMT",
+    "modified": "Sun, 09 Mar 2025 09:04:26 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -110,8 +110,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"75129746421523313229fae6d7e2f342-ssl-df\"",
-    "last_updated": 1741392020,
+    "etag": "\"b8fde4b8a3d2749c15214ed645b2bdd6-ssl-df\"",
+    "last_updated": 1741478432,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -162,9 +162,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"42676fd97b9290758c4f4da7888750eb3d211eb18f2ff731dc65ecab8df0ab97\"",
+    "etag": "W/\"578a47ea21c28402805ee1223ee32f6b395115defd481930f6e87fd77cb5427a\"",
     "last_updated": 1712276400,
-    "modified": "Sat, 08 Mar 2025 09:41:12 GMT",
+    "modified": "Sun, 09 Mar 2025 07:40:48 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -195,9 +195,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a9b4e5f7e6f3196d373e01cf491a585a8c79fea199dafedfcd7fcc4e442dc9d2\"",
+    "etag": "W/\"0ec1373266d462aa2ae5081ab44ceb589d434013e46e07572fe0865bb57e19d3\"",
     "last_updated": 1738259820,
-    "modified": "Sat, 08 Mar 2025 10:59:31 GMT",
+    "modified": "Sun, 09 Mar 2025 08:07:47 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -210,7 +210,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 09-Mar-2025 06:05:28 GMT",
+    "modified": "Sunday, 09-Mar-2025 09:04:33 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -253,19 +253,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sun, 09 Mar 2025 06:04:00 GMT",
+    "modified": "Sun, 09 Mar 2025 09:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1741203031,
-    "modified": "Sun, 09 Mar 2025 06:04:00 GMT",
+    "modified": "Sun, 09 Mar 2025 09:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Sun, 09 Mar 2025 06:04:00 GMT",
+    "modified": "Sun, 09 Mar 2025 09:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:88f25fdb2196ee9c1459eb9ebdcbfbfd\"",
+    "etag": "W/\"cacheable:5b29ebd8414cef334d36484170f9696d\"",
     "last_updated": 1739982389,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -420,9 +420,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"91fc556192ef585f3eaf6d898c8d45cc\"",
+    "etag": "\"3e9c2c04066d36f7933e86494a340ea1\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 09 Mar 2025 00:36:32 GMT",
+    "modified": "Sun, 09 Mar 2025 09:03:55 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
