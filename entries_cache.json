@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Wed, 19 Mar 2025 12:07:47 GMT",
+    "modified": "Wed, 19 Mar 2025 15:05:01 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -94,7 +94,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Wed, 19 Mar 2025 12:07:47 GMT",
+    "modified": "Wed, 19 Mar 2025 15:05:02 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -195,9 +195,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"5228820689fe1db6f3178d402f91c629b5a3b36ff6f5911d6a426820ca49b7ca\"",
+    "etag": "W/\"fe0291cce4a5a5fc8cdb80238dc757443e1c64582bcbed27382a23aedd78503d\"",
     "last_updated": 1738259820,
-    "modified": "Mon, 17 Mar 2025 07:20:09 GMT",
+    "modified": "Wed, 19 Mar 2025 12:24:08 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -210,7 +210,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 19-Mar-2025 12:08:20 GMT",
+    "modified": "Wednesday, 19-Mar-2025 15:05:12 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -253,19 +253,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 19 Mar 2025 12:08:00 GMT",
+    "modified": "Wed, 19 Mar 2025 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1741203031,
-    "modified": "Wed, 19 Mar 2025 12:08:00 GMT",
+    "modified": "Wed, 19 Mar 2025 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Wed, 19 Mar 2025 12:08:00 GMT",
+    "modified": "Wed, 19 Mar 2025 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:97fe25395b05de5cbd8440bbb4a81084\"",
+    "etag": "W/\"cacheable:cfe0972ea9efc114576a2c78970e88cc\"",
     "last_updated": 1741711354,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -420,9 +420,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"84e1b2b1f715138744574e5e5865e5a5\"",
+    "etag": "\"2b0a25bf734756327bc47749d310578f\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 19 Mar 2025 12:02:44 GMT",
+    "modified": "Wed, 19 Mar 2025 14:28:18 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
