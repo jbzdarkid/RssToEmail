@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Sat, 22 Mar 2025 15:04:07 GMT",
+    "modified": "Sat, 22 Mar 2025 18:05:14 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -94,7 +94,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Sat, 22 Mar 2025 15:04:07 GMT",
+    "modified": "Sat, 22 Mar 2025 18:05:14 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -195,7 +195,7 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"696c5d40d12886f905f3e79dad49f62d496576b301047848ec6f1689c1377990\"",
+    "etag": "W/\"2da978be83f4918747c2c996d27601305afb76ef640cba5e459d40a77dd26260\"",
     "last_updated": 1738259820,
     "modified": "Fri, 21 Mar 2025 13:14:11 GMT",
     "name": "Project Zero",
@@ -210,7 +210,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Saturday, 22-Mar-2025 15:04:12 GMT",
+    "modified": "Saturday, 22-Mar-2025 18:05:22 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -253,19 +253,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sat, 22 Mar 2025 15:04:00 GMT",
+    "modified": "Sat, 22 Mar 2025 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1741203031,
-    "modified": "Sat, 22 Mar 2025 15:04:00 GMT",
+    "modified": "Sat, 22 Mar 2025 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Sat, 22 Mar 2025 15:04:00 GMT",
+    "modified": "Sat, 22 Mar 2025 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:0a6f1801588dfedd29ccd69896ee97e5\"",
+    "etag": "W/\"cacheable:d219ff37f729077f0eea1bdc858481ed\"",
     "last_updated": 1741711354,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -420,9 +420,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"e006edc8e7def9983a189f31b072d68d\"",
+    "etag": "\"0cdec95913eb8d0c4cc3fcecff1fe0f8\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 22 Mar 2025 14:28:34 GMT",
+    "modified": "Sat, 22 Mar 2025 18:04:26 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -463,16 +463,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"fc1dc07a57b65862d4472e7a79fda2c4\"",
+    "etag": "W/\"1367dc079b055bf3588f06b765cca633\"",
     "last_updated": 1742295640,
-    "modified": "Sat, 22 Mar 2025 12:46:26 GMT",
+    "modified": "Sat, 22 Mar 2025 16:11:05 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"fc1dc07a57b65862d4472e7a79fda2c4\"",
+    "etag": "W/\"1367dc079b055bf3588f06b765cca633\"",
     "last_updated": 1689004753,
-    "modified": "Sat, 22 Mar 2025 12:46:26 GMT",
+    "modified": "Sat, 22 Mar 2025 16:11:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
