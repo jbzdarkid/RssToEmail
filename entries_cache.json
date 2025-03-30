@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Sun, 30 Mar 2025 15:04:18 GMT",
+    "modified": "Sun, 30 Mar 2025 18:05:30 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -94,7 +94,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Sun, 30 Mar 2025 15:04:18 GMT",
+    "modified": "Sun, 30 Mar 2025 18:05:30 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -210,19 +210,19 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 30-Mar-2025 15:04:26 GMT",
+    "modified": "Sunday, 30-Mar-2025 18:05:36 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
   "https://nortverse.com/comic/feed/": {
-    "last_updated": 1743085236,
-    "modified": "Thu, 27 Mar 2025 14:20:36 GMT",
+    "last_updated": 1743353877,
+    "modified": "Sun, 30 Mar 2025 16:57:57 GMT",
     "name": "Comics \u2013 Nortverse",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -253,19 +253,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sun, 30 Mar 2025 15:04:00 GMT",
+    "modified": "Sun, 30 Mar 2025 18:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1741203031,
-    "modified": "Sun, 30 Mar 2025 15:04:00 GMT",
+    "modified": "Sun, 30 Mar 2025 18:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Sun, 30 Mar 2025 15:04:00 GMT",
+    "modified": "Sun, 30 Mar 2025 18:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -286,7 +286,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1645803862211825712": {
-    "last_updated": 1743307452,
+    "last_updated": 1743354673,
     "name": "Twitter user 1645803862211825712",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:0fabb28070c440ba17aa7694c94fa436\"",
+    "etag": "W/\"cacheable:1ee7d4c41e39ff0cf425e3912e96082f\"",
     "last_updated": 1742921091,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -420,9 +420,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"6f32be902c3d21912d4c3babd0c9dd4c\"",
+    "etag": "\"1b1bdea12881c6ab265fcf511be4f877\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 30 Mar 2025 14:05:48 GMT",
+    "modified": "Sun, 30 Mar 2025 17:55:25 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
