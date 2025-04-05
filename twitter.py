@@ -39,27 +39,14 @@ features = {
 }
 
 headers = {
-  # The public Bearer token used to call guest APIs. Scraped from the twitter service worker:
+  # The public Bearer token used to call guest APIs (and apparently also needed for graphql). Scraped from the twitter service worker:
   # https://abs.twimg.com/responsive-web/client-serviceworker/serviceworker.56c0036a.js (as loaded from https://twitter.com/sw.js)
   'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA',
-  'User-Agent': 'RssToEmail/0.1 (https://github.com/jbzdarkid/RssToEmail; https://github.com/jbzdarkid/RssToEmail/issues)',
+  'User-Agent': 'RssToEmail/0.2 (https://github.com/jbzdarkid/RssToEmail; https://github.com/jbzdarkid/RssToEmail/issues)',
 }
 
 
 def get(graphql, **kwargs):
-  """ Guest API access (slow, inconsistent, and doesn't fetch tweets in order)
-  if 'x-guest-token' not in headers:
-    for _ in range(10):
-      r = requests.post('https://api.twitter.com/1.1/guest/activate.json', headers=headers)
-      j = r.json()
-      if 'guest_token' in j:
-        headers['x-guest-token'] = j['guest_token']
-        break
-      sleep(30)
-    if 'x-guest-token' not in headers:
-      return None
-  """
-
   # https://stackoverflow.com/a/2782859
   csrf = f'{random.randrange(16**32):032x}'
 
@@ -71,6 +58,14 @@ def get(graphql, **kwargs):
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
+  response_time = datetime.strptime(r.headers['date'], '%a, %d %b %Y %H:%M:%S %Z')
+  reset_time = datetime.fromtimestamp(int(r.headers['x-rate-limit-reset']))
+  sleep_time = (reset_time - response_time).total_seconds() / int(r.headers['x-rate-limit-remaining'])
+  sleep(sleep_time)
+  if r.status_code == 429:
+    print('Request was throttled, trying once more')
+    r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
+  r.raise_for_status()
   j = r.json()
   if 'errors' in j:
       raise ValueError(j['errors'])
@@ -84,46 +79,77 @@ def get_user_id(screen_name):
   return j['user']['result']['rest_id']
 
 
-def get_entries(user_id):
+def tweet_to_entry(tweet):
+  handle = tweet['core']['user_results']['result']['legacy']['screen_name']
+  tweet_id = tweet['legacy']['conversation_id_str'] # Avoids duplicate entries for conversations.
+
+  # Twitter "provides" t.co link shortening services. I don't need nor want these for RSS purposes.
+  full_text = tweet['legacy']['full_text']
+  for link in tweet['legacy']['entities']['urls']:
+    if 'expanded_url' in link:
+      full_text = full_text.replace(link['url'], link['expanded_url'])
+
+  # In some cases, people put images in their tweets. Convert these to HTML so that they render in the resulting email.
+  for image in tweet['legacy']['entities'].get('media', []):
+    full_text = full_text.replace(image['url'], '<img src="' + image['media_url_https'] + '">')
+
+  entry = Entry()
+  entry.title = f'@{handle} on Twitter'
+  entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
+  entry.date = int(datetime.strptime(tweet['legacy']['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
+  entry.content = full_text
+  return entry
+
+
+def get_entries(user_id, start_time, skip_retweets=False):
   kwargs = {
     'userId': user_id,
-    'count': 200,
+    'count': 100,
     'includePromotedContent': False,
     'withQuickPromoteEligibilityTweetFields': False,
     'withVoice': False,
     'withV2Timeline': True,
   }
-  j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
-  if not j:
-    return []
-  instructions = j['user']['result']['timeline_v2']['timeline']['instructions']
-  instructions = {i['type']: i for i in instructions}
-  if 'TimelineAddEntries' not in instructions:
-    print(f'TimelineAddEntries not found in instruction keys: {instructions.keys()}')
-    return []
-  tweets = instructions['TimelineAddEntries']['entries']
 
   entries = []
-  for tweet in tweets:
-    if tweet['content']['entryType'] != 'TimelineTimelineItem':
-      continue
-    content = tweet['content']['itemContent']['tweet_results']['result']['legacy']
-    user = tweet['content']['itemContent']['tweet_results']['result']['core']['user_results']['result']
-    handle = user['legacy']['screen_name']
-    tweet_id = content['conversation_id_str'] # Avoids duplicate entries for conversations.
+  while 1:
+    j = get('V7H0Ap3_Hh2FyS75OCDO3Q/UserTweets', **kwargs)
+    sleep(5)
+    if not j:
+      return []
+    instructions = j['user']['result']['timeline_v2']['timeline']['instructions']
+    instructions = {i['type']: i for i in instructions}
+    if 'TimelineAddEntries' not in instructions:
+      print(f'TimelineAddEntries not found in instruction keys: {instructions.keys()}')
+      return []
 
-    entry = Entry()
-    entry.title = f'@{handle} on Twitter'
-    entry.link = f'https://twitter.com/{handle}/status/{tweet_id}'
-    entry.date = int(datetime.strptime(content['created_at'], '%a %b %d %H:%M:%S %z %Y').timestamp())
-    entry.content = content['full_text']
-    entries.append(entry)
+    cursor = None
+    for item in instructions['TimelineAddEntries']['entries']:
+      if item['content']['entryType'] == 'TimelineTimelineCursor' and item['content']['cursorType'] == 'Bottom':
+        cursor = item['content']['value']
+        continue
+      elif item['content']['entryType'] == 'TimelineTimelineItem':
+        result = item['content']['itemContent']['tweet_results']['result']
+        if result['__typename'] == 'TweetWithVisibilityResults':
+          result = result['tweet'] # Nested for some reason
 
+        if skip_retweets and 'retweeted_status_result' in result['legacy']:
+          continue
+
+        entries.append(tweet_to_entry(result))
+
+    if cursor is None:
+      break # If there are no further items
+    if any((e.date < start_time for e in entries)):
+      break # If we've looked back far enough
+    kwargs['cursor'] = cursor # Else, download more items
+
+  entries.sort(key=lambda e: e.date)
   return entries
 
 
 if __name__ == '__main__':
-  user_id = get_user_id('breachwizards')
+  user_id = get_user_id('playhearthstone')
   print('User id:', user_id)
   entries = get_entries(user_id)
   print(f'Found {len(entries)} entries:')

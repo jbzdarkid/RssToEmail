@@ -69,7 +69,11 @@ def get_entries(cache, feed_url):
         entry.link = row['link']
         entry.url = feed_url
         if 'published_parsed' in row: # Not all entries have a date
-            entry.date = int(timegm(row['published_parsed']))
+            try:
+                entry.date = int(timegm(row['published_parsed']))
+            except TypeError:
+                print(row)
+                raise
         if 'description' in row:
             entry.content = row['description']
         elif 'content' in row:
