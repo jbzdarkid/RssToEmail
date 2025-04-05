@@ -53,7 +53,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -70,7 +70,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url": {
     "last_updated": 1725343535,
-    "modified": "Sat, 05 Apr 2025 00:20:30 GMT",
+    "modified": "Sat, 05 Apr 2025 03:15:23 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
@@ -94,7 +94,7 @@
   },
   "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0": {
     "last_updated": 1711595045,
-    "modified": "Sat, 05 Apr 2025 00:20:31 GMT",
+    "modified": "Sat, 05 Apr 2025 03:15:24 GMT",
     "name": "Inactive feed",
     "seen_entries": [
       "http://aka.ms/MSFTSustainabilityReport2020",
@@ -162,9 +162,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f31d56467a8d883d3b45fbe2d8017a554cc920f45e3da8516b32629e60fb6cab\"",
+    "etag": "W/\"2e41810d3c3a74c879a8dfaf3cd81ba45080f88b0016fa9070dac6a9bfefbaba\"",
     "last_updated": 1712276400,
-    "modified": "Fri, 04 Apr 2025 11:12:38 GMT",
+    "modified": "Sat, 05 Apr 2025 01:13:29 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -195,9 +195,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"d00a15c0afb21df086e99a16d34d9dcfecc398ea2ae1463ae5c3ed74bf11fc5f\"",
+    "etag": "W/\"d66c3c5481c624d9687467335ec95a3ab7ffeee6191c8e33980d0c60f9e59787\"",
     "last_updated": 1743010200,
-    "modified": "Wed, 02 Apr 2025 12:05:49 GMT",
+    "modified": "Sat, 05 Apr 2025 01:13:21 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -210,7 +210,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Saturday, 05-Apr-2025 00:21:02 GMT",
+    "modified": "Saturday, 05-Apr-2025 03:15:29 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -222,7 +222,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Thu, 19 Dec 2024 05:00:21 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -253,19 +253,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sat, 05 Apr 2025 00:20:00 GMT",
+    "modified": "Sat, 05 Apr 2025 03:14:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1741203031,
-    "modified": "Sat, 05 Apr 2025 00:20:00 GMT",
+    "modified": "Sat, 05 Apr 2025 03:14:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Sat, 05 Apr 2025 00:20:00 GMT",
+    "modified": "Sat, 05 Apr 2025 03:14:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:7a7649fb96d1230a888cd6dbaa35c28e\"",
+    "etag": "W/\"cacheable:2b21f846d65bd8aae40eb340a5e6a708\"",
     "last_updated": 1742921091,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -420,9 +420,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d34b2024beb982a44d040a730ee68972\"",
+    "etag": "\"ecaae04cec6ae8c4640d2caadaac004c\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 05 Apr 2025 00:09:31 GMT",
+    "modified": "Sat, 05 Apr 2025 00:36:22 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -470,9 +470,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"724b62572d14b151dea8db8e41dda42a\"",
+    "etag": "W/\"43980dcfadf51beda110c1671e1a7227\"",
     "last_updated": 1689004753,
-    "modified": "Fri, 04 Apr 2025 05:14:52 GMT",
+    "modified": "Sat, 05 Apr 2025 03:11:40 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -760,8 +760,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"67ede442-911\"",
-    "last_updated": 1743566400,
+    "etag": "W/\"67f095cd-953\"",
+    "last_updated": 1743739200,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
