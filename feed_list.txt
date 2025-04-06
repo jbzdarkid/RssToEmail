@@ -11,9 +11,11 @@ https://blog.momentum-mod.org/index.xml
 # xkcd
 https://blog.xkcd.com/feed/
 # Valorant Patch Notes
-https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fplayvalorant.com%2Fen-us%2Fnews%2Ftags%2Fpatch-notes%2F&item=a%5Brole%3D%22button%22%5D&item_title=div%5Bdata-testid%3D%22card-title%22%5D&item_desc=div%5Bdata-testid%3D%22rich-text-html%22%5D&item_image=img%5Bdata-testid%3D%22mediaImage%22%5D&feed_title=Valorant+RSS+News&max=5&order=document&guid=url
+bs4|valorant
 # Microsoft Environmental Sustainability Report
-https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fcorporate-responsibility%2Fsustainability%2Freport&item=div.m-contentlist-item&item_title=h3&item_url=a+%40href&item_desc=span&feed_title=Microsoft+Environmental+Sustainability+Report&max=5&order=document&guid=0
+bs4|microsoft
+# Jolly Jack's Collected Curios
+bs4|jollyjack
 # Eunnieverse - Crush
 https://eunnieverse.com/feed/
 # Explosm.net
@@ -52,8 +54,6 @@ https://www.hearthstonetopdecks.com/category/qa/feed/
 https://msrc.microsoft.com/blog/tags/attack/feed
 # Tara & Beverly
 https://nortverse.com/comic/feed/
-# Jolly Jack's Collected Curios
-# https://politepol.com/fd/oaAc0yT3zDbO
 # Reddit: Monthly Top on r/OutOfTheLoop (paused nov 2024)
 # https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month
 # Sam And Fuzzy

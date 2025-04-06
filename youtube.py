@@ -68,7 +68,7 @@ def get_video_entries(video_ids):
     print(j)
   for video in j['items']:
     if 'liveStreamingDetails' in video and 'scheduledStartTime' in video['liveStreamingDetails']:
-      start_time = parse_time(video['liveStreamingDetails']['scheduledStartTime'])
+      start_time = datetime.fromisoformat(video['liveStreamingDetails']['scheduledStartTime'])
       if start_time > datetime.now(timezone.utc):
         print(f'Found YT premier starting in the future, skipping: {start_time} {video["id"]}')
         continue
@@ -77,7 +77,8 @@ def get_video_entries(video_ids):
     entry.title = video['snippet']['title']
     entry.content = video['snippet']['description']
     entry.link = 'https://www.youtube.com/watch?v=' + video['id']
-    entry.date = int(parse_time(video['snippet']['publishedAt']).timestamp())
+    date_str = video['snippet']['publishedAt']
+    entry.date = int(datetime.fromisoformat(date_str).timestamp())
 
     yield entry
 
@@ -92,9 +93,3 @@ def get_title(api, **params):
   if 'error' in j:
     print(j)
   return j['items'][0]
-
-
-def parse_time(string):
-  dt = datetime.strptime(string, '%Y-%m-%dT%H:%M:%SZ')
-  dt = dt.replace(tzinfo=timezone.utc) # strptime assumes local time, which is incorrect here.
-  return dt

@@ -6,7 +6,7 @@ from smtplib import SMTP_SSL
 from time import time
 from traceback import format_exc, print_exc
 
-import oauth2, generic, youtube, hearthstone, twitter
+import oauth2, generic, youtube, hearthstone, twitter, soup
 
 # Disable SSL verification, because many of these websites are run by small developers who don't care about https
 # https://stackoverflow.com/q/28282797
@@ -94,6 +94,8 @@ if __name__ == '__main__':
                 continue
             elif feed_url == 'stop':
                 break
+            elif feed_url.startswith('bs4'):
+                soup_feeds.append(feed_url)
             elif 'youtube' in feed_url:
                 youtube_feeds.append(feed_url)
             elif 'twitter' in feed_url:
@@ -118,6 +120,9 @@ if __name__ == '__main__':
             user_id = feed_url.split('?user_id=')[-1]
         last_update = cache[feed_url]['last_updated']
         entries += wrap_generator('Twitter user ' + user_id, feed_url, lambda user_id=user_id: twitter.get_entries(user_id, last_update))
+
+    for feed_url in soup_feeds:
+        entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: soup.get_entries(cache, feed_url))
 
     entries += wrap_generator('Hearthstone Patch Notes', 'hearthstone_patch_notes', lambda: hearthstone.get_entries())
 
