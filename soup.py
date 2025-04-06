@@ -21,7 +21,7 @@ def get_entries(cache, feed_url):
     generator = get_sequential_art
 
   found_any = False
-  for entry in generator(cache):
+  for entry in generator(cache, feed_url):
     found_any = True
     yield entry
 
@@ -31,10 +31,11 @@ def get_entries(cache, feed_url):
 
 # How to create CSS .select filters: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#css-selectors
 
-def get_valorant_entries(cache):
+def get_valorant_entries(cache, feed_url):
   r = requests.get('https://playvalorant.com/en-us/news/tags/patch-notes', headers=headers)
   r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  cache[feed_url]['name'] = soup.find('title').text
   
   for item in soup.select('a[role="button"]'):
     entry = Entry()
@@ -50,6 +51,7 @@ def get_microsoft_sus_entries(cache):
   r = requests.get('https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report', headers=headers)
   r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  cache[feed_url]['name'] = soup.find('title').text
 
   for item in soup.select('div[class~="material-card"]'):
     entry = Entry()
@@ -63,6 +65,7 @@ def get_sequential_art(cache):
   r = requests.get('https://collectedcurios.com/sequentialart.php', headers=headers)
   r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  cache[feed_url]['name'] = soup.find('title').text
 
   entry = Entry()
   entry.title = 'Sequential Art'
