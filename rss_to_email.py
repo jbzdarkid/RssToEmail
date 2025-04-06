@@ -87,6 +87,7 @@ if __name__ == '__main__':
     feeds = []
     youtube_feeds = []
     twitter_feeds = []
+    soup_feeds = []
     with open('feed_list.txt', 'r') as f:
         for line in f:
             feed_url = line[:line.find('#')].strip()
