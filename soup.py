@@ -72,7 +72,8 @@ def get_sequential_art(cache, feed_url):
   entry.content = soup.select_one('img[class="w3-image"]')
   entry.link = 'https://collectedcurios.com/sequentialart.php'
   last_updated = soup.select_one('div[class~="w3-display-topright"]').text
-  m = re.match('Last updated: (\d+)(st|nd|rd|th) (\w+) (\d+)', last_updated)
+  m = re.match(r'Last updated: (\d+)(st|nd|rd|th) (\w+) (\d+)', last_updated)
+  print(last_updated, m, m[1], m[2], m[3], m[4])
   if not m:
     raise ValueError(f'Could not parse last updated: "{last_updated}"')
 
