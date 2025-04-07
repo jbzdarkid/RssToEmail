@@ -68,6 +68,8 @@ def get(graphql, **kwargs):
   r.raise_for_status()
   j = r.json()
   if 'errors' in j:
+      for error in j['errors']:
+          print(error['message'])
       raise ValueError(j['errors'])
   return j['data']
 
