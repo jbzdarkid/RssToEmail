@@ -47,7 +47,7 @@ def get_valorant_entries(cache, feed_url):
 
     yield entry
 
-def get_microsoft_sus_entries(cache):
+def get_microsoft_sus_entries(cache, feed_url):
   r = requests.get('https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report', headers=headers)
   r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
@@ -61,7 +61,7 @@ def get_microsoft_sus_entries(cache):
 
     yield entry
 
-def get_sequential_art(cache):
+def get_sequential_art(cache, feed_url):
   r = requests.get('https://collectedcurios.com/sequentialart.php', headers=headers)
   r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
