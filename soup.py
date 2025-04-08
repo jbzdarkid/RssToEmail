@@ -19,6 +19,8 @@ def get_entries(cache, feed_url):
     generator = get_microsoft_sus_entries
   elif feed_url == 'bs4|jollyjack':
     generator = get_sequential_art
+  elif feed_url == 'bs4|nerfnow':
+    generator = get_nerf_now
 
   found_any = False
   for entry in generator(cache, feed_url):
@@ -65,10 +67,11 @@ def get_sequential_art(cache, feed_url):
   r = requests.get('https://collectedcurios.com/sequentialart.php', headers=headers)
   r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
-  cache[feed_url]['name'] = soup.find('title').text
+  page_title = soup.find('title').text
+  cache[feed_url]['name'] = page_title
 
   entry = Entry()
-  entry.title = 'Sequential Art'
+  entry.title = page_title
   entry.content = soup.select_one('img[class="w3-image"]')
   entry.link = 'https://collectedcurios.com/sequentialart.php'
   last_updated = soup.select_one('div[class~="w3-display-topright"]').text
@@ -80,6 +83,22 @@ def get_sequential_art(cache, feed_url):
 
   yield entry
 
+def get_nerf_now(cache, feed_url):
+  r = requests.get('https://www.nerfnow.com', headers=headers)
+  r.raise_for_status()
+  soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  page_title = soup.find('title').text
+  cache[feed_url]['name'] = page_title
+
+  entry = Entry()
+  entry.title = page_title
+  entry.content = soup.select_one('div#comic').text
+  entry.link = 'https://www.nerfnow.com'
+  last_updated = soup.select_one('meta[property="article:published_time"]')['content']
+  entry.date = int(datetime.fromisoformat(last_updated).timestamp())
+
+  yield entry
+
 if __name__ == '__main__':
-  for entry in get_sequential_art({'art': {}}, 'art'):
+  for entry in get_nerf_now({'art': {}}, 'art'):
     print(entry)
