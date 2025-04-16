@@ -1,5 +1,6 @@
 import re
 from datetime import datetime
+from urllib.parse import urljoin
 
 import bs4
 import requests
@@ -10,6 +11,20 @@ from entry import Entry
 headers = {
   'User-Agent': 'RssToEmail/0.3 (https://github.com/jbzdarkid/RssToEmail; https://github.com/jbzdarkid/RssToEmail/issues)',
 }
+
+def get_soup(url):
+  r = requests.get(url, headers=headers)
+  r.raise_for_status()
+  soup = bs4.BeautifulSoup(r.text, 'html.parser')
+
+  # Scrape and replace all relative links
+  for link in soup.find_all('a', href=True):
+    link['href'] = urljoin(r.url, link['href'])
+  for img in soup.find_all('img', src=True):
+    img['src'] = urljoin(r.url, img['src'])
+
+  return soup
+
 
 def get_entries(cache, feed_url):
   generator = None
@@ -34,9 +49,7 @@ def get_entries(cache, feed_url):
 # How to create CSS .select filters: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#css-selectors
 
 def get_valorant_entries(cache, feed_url):
-  r = requests.get('https://playvalorant.com/en-us/news/tags/patch-notes', headers=headers)
-  r.raise_for_status()
-  soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  soup = get_soup('https://playvalorant.com/en-us/news/tags/patch-notes')
   cache[feed_url]['name'] = soup.find('title').text
   
   for item in soup.select('a[role="button"]'):
@@ -50,9 +63,7 @@ def get_valorant_entries(cache, feed_url):
     yield entry
 
 def get_microsoft_sus_entries(cache, feed_url):
-  r = requests.get('https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report', headers=headers)
-  r.raise_for_status()
-  soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  soup = get_soup('https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report')
   cache[feed_url]['name'] = soup.find('title').text
 
   for item in soup.select('div[class~="material-card"]'):
@@ -64,9 +75,7 @@ def get_microsoft_sus_entries(cache, feed_url):
     yield entry
 
 def get_sequential_art(cache, feed_url):
-  r = requests.get('https://collectedcurios.com/sequentialart.php', headers=headers)
-  r.raise_for_status()
-  soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  soup = get_soup('https://collectedcurios.com/sequentialart.php')
   page_title = soup.find('title').text
   cache[feed_url]['name'] = page_title
 
@@ -84,9 +93,7 @@ def get_sequential_art(cache, feed_url):
   yield entry
 
 def get_nerf_now(cache, feed_url):
-  r = requests.get('https://www.nerfnow.com', headers=headers)
-  r.raise_for_status()
-  soup = bs4.BeautifulSoup(r.text, 'html.parser')
+  soup = get_soup('https://www.nerfnow.com')
   page_title = soup.find('title').text
   cache[feed_url]['name'] = page_title
 
@@ -100,5 +107,6 @@ def get_nerf_now(cache, feed_url):
   yield entry
 
 if __name__ == '__main__':
-  for entry in get_nerf_now({'art': {}}, 'art'):
+  for entry in get_sequential_art({'art': {}}, 'art'):
     print(entry)
+    print(entry.content)
