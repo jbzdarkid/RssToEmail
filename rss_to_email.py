@@ -125,6 +125,7 @@ if __name__ == '__main__':
     for feed_url in soup_feeds:
         entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: soup.get_entries(cache, feed_url))
 
+    # The hearthstone patch notes are actually fetched live, as javascript. As a result, traditional scrapers don't work.
     entries += wrap_generator('Hearthstone Patch Notes', 'hearthstone_patch_notes', lambda: hearthstone.get_entries())
 
     print(f'Found {len(entries)} entries to process')
