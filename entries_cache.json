@@ -135,8 +135,8 @@
     "seen_entries": []
   },
   "https://explosm.net/rss.xml": {
-    "etag": "\"62b38b6591e4a3d19dd0604ec7614f2e-ssl-df\"",
-    "last_updated": 1745161359,
+    "etag": "\"aa34a9e752d7539fa5c483f98402ed5e-ssl-df\"",
+    "last_updated": 1745193635,
     "name": "Explosm.net",
     "seen_entries": []
   },
@@ -235,7 +235,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 21-Apr-2025 03:21:45 GMT",
+    "modified": "Monday, 21-Apr-2025 06:07:05 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -278,19 +278,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 21 Apr 2025 03:20:00 GMT",
+    "modified": "Mon, 21 Apr 2025 06:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1744310146,
-    "modified": "Mon, 21 Apr 2025 03:20:00 GMT",
+    "modified": "Mon, 21 Apr 2025 06:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Mon, 21 Apr 2025 03:20:00 GMT",
+    "modified": "Mon, 21 Apr 2025 06:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -378,7 +378,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1744603200,
+    "last_updated": 1745208000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:a30a538301d920f5d8b5c5455d437e8f\"",
+    "etag": "W/\"cacheable:f582b9a423189fdb8e411d0edc7ba646\"",
     "last_updated": 1742921091,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -445,9 +445,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"88e8391867817e6a7bac436f74943fb4\"",
+    "etag": "\"a9278ad521394d3d82fc7e12d9e1ffb6\"",
     "last_updated": 1658252876,
-    "modified": "Sun, 20 Apr 2025 22:42:27 GMT",
+    "modified": "Mon, 21 Apr 2025 03:23:14 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
