@@ -1,6 +1,5 @@
 import ssl
 import sys
-from fileinput import input as fileinput
 from json import load, dump
 from smtplib import SMTP_SSL
 from time import time
