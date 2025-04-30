@@ -5,7 +5,6 @@ import feedparser
 from calendar import timegm
 from fileinput import input as fileinput
 from html import unescape
-from time import time
 from traceback import print_exception
 from urllib.error import URLError
 from xml.sax import SAXException
