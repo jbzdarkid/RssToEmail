@@ -1,7 +1,6 @@
 import ssl
 import sys
 from json import load, dump
-from smtplib import SMTP_SSL
 from time import time
 from traceback import format_exc, print_exc
 
