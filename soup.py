@@ -81,7 +81,7 @@ def get_sequential_art(cache, feed_url):
 
   entry = Entry()
   entry.title = page_title
-  entry.content = soup.select_one('img[class="w3-image"]')
+  entry.content = soup.select_one('img[class="w3-image"]').text
   entry.link = 'https://collectedcurios.com/sequentialart.php'
   last_updated = soup.select_one('div[class~="w3-display-topright"]').text
   m = re.match(r'Last updated: (\d+)(st|nd|rd|th) (\w+) (\d+)', last_updated)
