@@ -187,7 +187,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"eae65f20cb409f9d2822ad130adb7762eb188941a6205be052e212218d360967\"",
+    "etag": "W/\"84f6ffb204126d0640e359f2e650c72434b3563e68333e65784257dda06bf1b0\"",
     "last_updated": 1712276400,
     "modified": "Wed, 21 May 2025 10:52:29 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
@@ -220,9 +220,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"71dfe5aaf03897ee6560d4354012b7085912268a81cc11f42bef2541f82e44d0\"",
+    "etag": "W/\"81a94d5fb7cdd21d70c2bd95d80e8c8639107afca4433304e82a544cb952b876\"",
     "last_updated": 1746812280,
-    "modified": "Mon, 19 May 2025 11:33:01 GMT",
+    "modified": "Wed, 21 May 2025 23:18:02 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -235,7 +235,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 21-May-2025 21:04:45 GMT",
+    "modified": "Thursday, 22-May-2025 00:22:34 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -278,19 +278,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 21 May 2025 21:04:00 GMT",
+    "modified": "Thu, 22 May 2025 00:22:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1745337625,
-    "modified": "Wed, 21 May 2025 21:04:00 GMT",
+    "modified": "Thu, 22 May 2025 00:22:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Wed, 21 May 2025 21:04:00 GMT",
+    "modified": "Thu, 22 May 2025 00:22:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -393,7 +393,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:96da34f0d12c351d2805cdc1352b6d0b\"",
+    "etag": "W/\"cacheable:680694c66a8373d833ae2d6edcae26df\"",
     "last_updated": 1747819922,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -445,9 +445,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1fa52e5db2e47e3b787ed1e47ba7dbab\"",
+    "etag": "\"ef0ca28c5020bf84360b54bf36f2dd84\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 21 May 2025 18:12:18 GMT",
+    "modified": "Wed, 21 May 2025 22:44:24 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -488,16 +488,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"634eb8cee718daef8191fd90fd531376\"",
+    "etag": "W/\"f86fc9c955646a7562c1eadcb951d3b8\"",
     "last_updated": 1747065648,
-    "modified": "Wed, 21 May 2025 06:47:33 GMT",
+    "modified": "Wed, 21 May 2025 22:41:47 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"634eb8cee718daef8191fd90fd531376\"",
+    "etag": "W/\"f86fc9c955646a7562c1eadcb951d3b8\"",
     "last_updated": 1689004753,
-    "modified": "Wed, 21 May 2025 06:47:33 GMT",
+    "modified": "Wed, 21 May 2025 22:41:47 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -653,7 +653,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1747242047,
+    "last_updated": 1747861895,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -785,8 +785,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"682ba647-885\"",
-    "last_updated": 1747627200,
+    "etag": "W/\"682e5fe0-836\"",
+    "last_updated": 1747800000,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
