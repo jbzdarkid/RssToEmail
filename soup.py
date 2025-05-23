@@ -37,13 +37,17 @@ def get_entries(cache, feed_url):
   elif feed_url == 'bs4|nerfnow':
     generator = get_nerf_now
 
-  found_any = False
-  for entry in generator(cache, feed_url):
-    found_any = True
-    yield entry
+  try:
+    found_any = False
+    for entry in generator(cache, feed_url):
+      found_any = True
+      yield entry
 
-  if not found_any:
-    raise ValueError(f'bs4 generator {feed_url} could not find any entries')
+    if not found_any:
+      raise ValueError(f'bs4 generator {feed_url} could not find any entries')
+  except requests.RequestException as e:
+    print(e)
+    return
 
 
 # How to create CSS .select filters: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#css-selectors
