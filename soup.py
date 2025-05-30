@@ -67,14 +67,14 @@ def get_valorant_entries(cache, feed_url):
     yield entry
 
 def get_microsoft_sus_entries(cache, feed_url):
-  soup = get_soup('https://www.microsoft.com/en-us/corporate-responsibility/sustainability/report')
-  cache[feed_url]['name'] = soup.find('title').text
+  soup = get_soup('https://www.microsoft.com/en-us/corporate-responsibility/reports-hub')
 
-  for item in soup.select('div[class~="material-card"]'):
+  report_list = soup.select_one('div[data-automation-test-id="AccordianListItemAnswerBody0-accordion-a9b571e5-abc7-4d91-aca8-653b90ac0dfc"]')
+  for item in report_list.select('a'):
     entry = Entry()
-    entry.title = item.select_one('h3[class~="component-heading"]').text.strip()
-    entry.content = item.select_one('h3[class~="component-heading"] + div').text.strip()
-    entry.link = item.select_one('a[data-automation-test-id="cta1-"]')['href']
+    entry.title = item.text.strip()
+    entry.content = str(item)
+    entry.link = item['href']
 
     yield entry
 
@@ -111,6 +111,7 @@ def get_nerf_now(cache, feed_url):
   yield entry
 
 if __name__ == '__main__':
-  for entry in get_sequential_art({'art': {}}, 'art'):
+  from collections import defaultdict
+  for entry in get_entries(defaultdict(dict), 'bs4|microsoft'):
     print(entry)
     print(entry.content)
