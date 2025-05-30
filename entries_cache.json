@@ -80,7 +80,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 10 Aug 2024 18:20:05 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -222,9 +222,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0f7cf27013b87c97be7da829d5c52bf2b5cac71ade12f63d2bbb38488f575915\"",
+    "etag": "W/\"f5d7f0e6acb8b360a83a6306af55757de6f426ccb560f7566353d98e3c463b19\"",
     "last_updated": 1748455740,
-    "modified": "Fri, 30 May 2025 14:24:40 GMT",
+    "modified": "Fri, 30 May 2025 15:08:20 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -237,7 +237,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 30-May-2025 15:05:13 GMT",
+    "modified": "Friday, 30-May-2025 18:06:42 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -280,19 +280,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 30 May 2025 15:04:00 GMT",
+    "modified": "Fri, 30 May 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1748538547,
-    "modified": "Fri, 30 May 2025 15:04:00 GMT",
+    "modified": "Fri, 30 May 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 30 May 2025 15:04:00 GMT",
+    "modified": "Fri, 30 May 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -395,7 +395,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:1e30c3d87a61e59b4525220ef8a3eb0c\"",
+    "etag": "W/\"cacheable:31e8726deca9808ebedd198ad486f794\"",
     "last_updated": 1748450495,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -447,9 +447,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"98e6f17d91f939cf25af25b3790bb094\"",
+    "etag": "\"6d8a87f8c169e85c093ab8e34a9d0cf2\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 29 May 2025 17:08:47 GMT",
+    "modified": "Fri, 30 May 2025 16:59:25 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -490,16 +490,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"0c73ed4682ce05b53cfe0db1f3996b1f\"",
+    "etag": "W/\"90c97e7c820b60d28267229f36a904f8\"",
     "last_updated": 1747929606,
-    "modified": "Thu, 29 May 2025 13:44:13 GMT",
+    "modified": "Fri, 30 May 2025 17:02:17 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"0c73ed4682ce05b53cfe0db1f3996b1f\"",
+    "etag": "W/\"90c97e7c820b60d28267229f36a904f8\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 29 May 2025 13:44:13 GMT",
+    "modified": "Fri, 30 May 2025 17:02:17 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -661,7 +661,7 @@
     "title": "LRR Tabletop"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1747418549,
+    "last_updated": 1748620097,
     "name": "8-bit Music Theory",
     "seen_entries": [],
     "title": "8-bit Music Theory"
@@ -715,7 +715,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1748289631,
+    "last_updated": 1748624456,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
