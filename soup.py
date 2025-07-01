@@ -61,7 +61,7 @@ def get_valorant_entries(cache, feed_url):
   for item in soup.select('a[role="button"]'):
     entry = Entry()
     entry.title = item.select_one('div[data-testid="card-title"]').text
-    entry.content = item.select_one('div[data-testid="rich-text-html"] > div').text
+    entry.content = str(item.select_one('div[data-testid="rich-text-html"] > div'))
     entry.link = item['href']
     date_str = item.select_one('div[data-testid="card-date"] > time')['datetime']
     entry.date = int(datetime.fromisoformat(date_str).timestamp())
@@ -87,7 +87,7 @@ def get_sequential_art(cache, feed_url):
 
   entry = Entry()
   entry.title = page_title
-  entry.content = soup.select_one('img[class="w3-image"]').text
+  entry.content = str(soup.select_one('img[class="w3-image"]'))
   entry.link = 'https://collectedcurios.com/sequentialart.php'
   last_updated = soup.select_one('div[class~="w3-display-topright"]').text
   m = re.match(r'Last updated: (\d+)(st|nd|rd|th) (\w+) (\d+)', last_updated)
@@ -105,7 +105,7 @@ def get_nerf_now(cache, feed_url):
 
   entry = Entry()
   entry.title = page_title
-  entry.content = soup.select_one('div#comic').text
+  entry.content = str(soup.select_one('div#comic'))
   entry.link = 'https://www.nerfnow.com'
   last_updated = soup.select_one('meta[property="article:published_time"]')['content']
   entry.date = int(datetime.fromisoformat(last_updated).timestamp())
