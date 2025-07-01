@@ -36,6 +36,8 @@ def get_entries(cache, feed_url):
     generator = get_sequential_art
   elif feed_url == 'bs4|nerfnow':
     generator = get_nerf_now
+  elif feed_url == 'bs4|c_and_h':
+    generator = get_c_and_h
 
   try:
     found_any = False
@@ -110,8 +112,26 @@ def get_nerf_now(cache, feed_url):
 
   yield entry
 
+def get_c_and_h(cache, feed_url):
+  soup = get_soup('https://explosm.net')
+  cache[feed_url]['name'] = 'Cyanide & Happiness'
+
+  for link in soup.find('head').select('link[rel="preload"]'):
+    if link['href'].startswith('https://static.explosm.net'):
+      comic_url = link['href']
+      break
+  else:
+    raise ValueError('Could not find comic URL in head')
+
+  entry = Entry()
+  entry.title = f'Cyanide & Happiness for {datetime.now()}'
+  entry.content = f'<img src="{comic_url}" />'
+  entry.link = comic_url
+
+  yield entry
+
 if __name__ == '__main__':
   from collections import defaultdict
-  for entry in get_entries(defaultdict(dict), 'bs4|microsoft'):
+  for entry in get_entries(defaultdict(dict), 'bs4|c_and_h'):
     print(entry)
     print(entry.content)
