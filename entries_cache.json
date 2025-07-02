@@ -87,7 +87,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -191,7 +191,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1751285472,
+    "last_updated": 1751457820,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -244,7 +244,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 02-Jul-2025 12:08:56 GMT",
+    "modified": "Wednesday, 02-Jul-2025 15:05:51 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -256,7 +256,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Thu, 29 May 2025 05:09:05 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -287,19 +287,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 02 Jul 2025 12:08:00 GMT",
+    "modified": "Wed, 02 Jul 2025 15:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1749052833,
-    "modified": "Wed, 02 Jul 2025 12:08:00 GMT",
+    "modified": "Wed, 02 Jul 2025 15:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Wed, 02 Jul 2025 12:08:00 GMT",
+    "modified": "Wed, 02 Jul 2025 15:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -402,7 +402,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:bf94699d5a2b11fe8f11ba392470fba8\"",
+    "etag": "W/\"cacheable:a76eedab8ce85490f66b6760840d9145\"",
     "last_updated": 1751387413,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -421,12 +421,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DDACDFD3C99774\"",
+    "etag": "W/\"0x8DDB9712FD8F83E\"",
     "last_updated": 0,
-    "modified": "Mon, 16 Jun 2025 14:12:28 GMT",
+    "modified": "Wed, 02 Jul 2025 14:03:14 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1309.html",
       "http://www.giantitp.com/comics/oots1310.html",
       "http://www.giantitp.com/comics/oots1311.html",
       "http://www.giantitp.com/comics/oots1312.html",
@@ -445,7 +444,8 @@
       "http://www.giantitp.com/comics/oots1325.html",
       "http://www.giantitp.com/comics/oots1326.html",
       "http://www.giantitp.com/comics/oots1327.html",
-      "http://www.giantitp.com/comics/oots1328.html"
+      "http://www.giantitp.com/comics/oots1328.html",
+      "http://www.giantitp.com/comics/oots1329.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -454,9 +454,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"3948748388a46831784c3768990f8753\"",
+    "etag": "\"59d8cdc24cdbc91e00c0f7fb45f6b6a7\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 02 Jul 2025 11:14:15 GMT",
+    "modified": "Wed, 02 Jul 2025 14:10:50 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
