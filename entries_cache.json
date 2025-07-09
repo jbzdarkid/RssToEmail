@@ -94,7 +94,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -203,7 +203,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"24a5926d049e98ca40131b5e97055479e53ec6ee75673cff7da54e4389db5ccb\"",
+    "etag": "W/\"a63abc8acc5069c85b57d1d4ea2e0655b1cdc0307d84edbfdd9fd74d66c1b64d\"",
     "last_updated": 1712276400,
     "modified": "Wed, 09 Jul 2025 06:05:15 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
@@ -236,9 +236,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"e14ab87932d7f1b6d974002062654dfdea19140ba361915af4d7ab9dfa07ac0d\"",
+    "etag": "W/\"aabc3fea19914af399b4f031f0502b39aa46fb0b9326c1950d4f40d2ddfb7c63\"",
     "last_updated": 1748455740,
-    "modified": "Mon, 07 Jul 2025 19:44:35 GMT",
+    "modified": "Wed, 09 Jul 2025 17:36:27 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -251,7 +251,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 09-Jul-2025 15:05:47 GMT",
+    "modified": "Wednesday, 09-Jul-2025 18:07:17 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -263,7 +263,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Sun, 15 Jun 2025 01:03:02 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -294,19 +294,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 09 Jul 2025 15:04:00 GMT",
+    "modified": "Wed, 09 Jul 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Wed, 09 Jul 2025 15:04:00 GMT",
+    "modified": "Wed, 09 Jul 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Wed, 09 Jul 2025 15:04:00 GMT",
+    "modified": "Wed, 09 Jul 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -382,9 +382,9 @@
     "seen_entries": []
   },
   "https://www.acriticalhit.com/feed/": {
-    "etag": "\"3f3f6516596dbb47dc79ffe18464a25f-gzip\"",
+    "etag": "\"ddf4f78b6ae70219e556b6bd0bcf57dc-gzip\"",
     "last_updated": 1715471519,
-    "modified": "Sat, 09 Nov 2024 22:28:38 GMT",
+    "modified": "Wed, 09 Jul 2025 17:25:44 GMT",
     "name": "A Critical Hit!",
     "seen_entries": []
   },
@@ -409,7 +409,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:c5ceeba3b01310aec9c1f6325492a046\"",
+    "etag": "W/\"cacheable:b5995689fc247534e2515d8a82e3003b\"",
     "last_updated": 1751561089,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -461,9 +461,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"08c1bc2f7e5e4b3953aa5d430fe168ec\"",
+    "etag": "\"c3d81875b4b2b01dee07035380e1d121\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 09 Jul 2025 13:42:45 GMT",
+    "modified": "Wed, 09 Jul 2025 16:59:13 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -573,7 +573,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1751907609,
+    "last_updated": 1752080472,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -669,7 +669,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1751919041,
+    "last_updated": 1752080409,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -771,7 +771,7 @@
     "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1751472090,
+    "last_updated": 1752076811,
     "name": "Fully Ramblomatic",
     "seen_entries": [],
     "title": "Second Wind"
