@@ -26,7 +26,7 @@ class Entry:
         msg['Reply-To'] = TARGET_EMAIL
 
         # Contents truncated at 50k characters to avoid going over google's "message clipped" limit. I always want the "full post" link to be visible.
-        plaintext = f'{self.content[:50_000]}\n\nTo view the full post, click here: {self.link}'
+        plaintext = f'{str(self.content)[:50_000]}\n\nTo view the full post, click here: {self.link}'
         if self.date:
             plaintext += f'\nThis was originally posted at {strftime("%A, %B %d, %Y", localtime(self.date))}.'
         richtext = plaintext.replace('\n', '<br>')
