@@ -38,6 +38,8 @@ def get_entries(cache, feed_url):
     generator = get_nerf_now
   elif feed_url == 'bs4|c_and_h':
     generator = get_c_and_h
+  elif feed_url == 'bs4|nortverse':
+    generator = get_nort
 
   try:
     found_any = False
@@ -130,8 +132,19 @@ def get_c_and_h(cache, feed_url):
 
   yield entry
 
+def get_nort(cache, feed_url):
+  soup = get_soup('https://nortverse.com')
+  cache[feed_url]['name'] = 'Nortverse'
+
+  entry = Entry()
+  entry.title = 'Nortverse for {datetime.now():yyyy-MM-dd}'
+  entry.content = soup.select_one('div[id="spliced-comic"]')
+  entry.link = 'https://nortverse.com'
+
+  yield entry
+
 if __name__ == '__main__':
   from collections import defaultdict
-  for entry in get_entries(defaultdict(dict), 'bs4|c_and_h'):
+  for entry in get_entries(defaultdict(dict), 'bs4|nortverse'):
     print(entry)
     print(entry.content)
