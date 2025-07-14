@@ -137,7 +137,7 @@ def get_nort(cache, feed_url):
   cache[feed_url]['name'] = 'Nortverse'
 
   entry = Entry()
-  entry.title = 'Nortverse for {datetime.now():yyyy-MM-dd}'
+  entry.title = f'Nortverse for {datetime.now():yyyy-MM-dd}'
   entry.content = soup.select_one('div[id="spliced-comic"]')
   entry.link = 'https://nortverse.com'
 
