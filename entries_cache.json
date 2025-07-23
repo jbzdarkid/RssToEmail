@@ -222,9 +222,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"63dc9f7fd2f5b7e568ee2c0afb502bff267f78b51ce24b1cad2e8f3bc8a2ec62\"",
+    "etag": "W/\"cccebcddd2a1cc5b9ccd6f0bf85252f453f41e40eff7b80ec137fedeccf4dfb2\"",
     "last_updated": 1712276400,
-    "modified": "Mon, 21 Jul 2025 18:30:26 GMT",
+    "modified": "Wed, 23 Jul 2025 15:49:16 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -232,7 +232,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924163",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924209",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924848",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=924909",
@@ -251,7 +250,8 @@
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=997512",
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=997513",
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=997515",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=997992"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=997992",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=998014"
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
@@ -270,7 +270,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 23-Jul-2025 15:08:49 GMT",
+    "modified": "Wednesday, 23-Jul-2025 18:06:36 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -313,19 +313,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 23 Jul 2025 15:08:00 GMT",
+    "modified": "Wed, 23 Jul 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Wed, 23 Jul 2025 15:08:00 GMT",
+    "modified": "Wed, 23 Jul 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Wed, 23 Jul 2025 15:08:00 GMT",
+    "modified": "Wed, 23 Jul 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -428,7 +428,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:f2a4a172f9aec6e8de4b4a06675df726\"",
+    "etag": "W/\"cacheable:6ffc4565f61143defe6062d5b048d869\"",
     "last_updated": 1751561089,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -480,9 +480,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"dcc744d836b1d3508a04d60fe5536526\"",
+    "etag": "\"f4155813fafdb045e9ade16687eec6da\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 23 Jul 2025 07:01:01 GMT",
+    "modified": "Wed, 23 Jul 2025 17:46:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -592,7 +592,7 @@
     "title": "teamfortress"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1753126605,
+    "last_updated": 1753290007,
     "name": "LRR Videogames",
     "seen_entries": [],
     "title": "LRR Videogames"
@@ -688,7 +688,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1752698556,
+    "last_updated": 1753290021,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -790,7 +790,7 @@
     "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1752681674,
+    "last_updated": 1753286490,
     "name": "Fully Ramblomatic",
     "seen_entries": [],
     "title": "Second Wind"
