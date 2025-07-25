@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -255,9 +255,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"34786efe77bc790a9c722dd63c23eb131ccc70fc079ed31f77264c547a2d802a\"",
+    "etag": "W/\"eaa9bdb3edc0de5f7222a9860b5eb2fcf387e1020277527ae0b8bd7001417064\"",
     "last_updated": 1748455740,
-    "modified": "Thu, 24 Jul 2025 23:15:54 GMT",
+    "modified": "Fri, 25 Jul 2025 07:47:22 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -270,7 +270,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 25-Jul-2025 06:08:19 GMT",
+    "modified": "Friday, 25-Jul-2025 09:07:50 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Tue, 15 Jul 2025 12:09:45 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -313,19 +313,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 25 Jul 2025 06:08:00 GMT",
+    "modified": "Fri, 25 Jul 2025 09:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Fri, 25 Jul 2025 06:08:00 GMT",
+    "modified": "Fri, 25 Jul 2025 09:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 25 Jul 2025 06:08:00 GMT",
+    "modified": "Fri, 25 Jul 2025 09:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -428,7 +428,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:bcc7ebd42370fbd1db462e44628d9cfb\"",
+    "etag": "W/\"cacheable:740929ea6b51a80b250cdb58f218a261\"",
     "last_updated": 1751561089,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -498,7 +498,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1753254000,
+    "last_updated": 1753426800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
