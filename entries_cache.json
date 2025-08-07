@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/07/17185023/bond.png",
       "http://static.explosm.net/2025/07/18070942/training.png",
       "http://static.explosm.net/2025/07/20102611/flork-caught.png",
       "http://static.explosm.net/2025/07/20152047/foreplay.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/08/03202754/ocean.png",
       "http://static.explosm.net/2025/08/03065226/slept.png",
       "http://static.explosm.net/2025/08/04225105/wayback.png",
-      "http://static.explosm.net/2025/08/05083843/enemies.png"
+      "http://static.explosm.net/2025/08/05083843/enemies.png",
+      "http://static.explosm.net/2025/08/07114810/thicker.png"
     ]
   },
   "bs4|jollyjack": {
@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -232,10 +232,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=926945",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=926946",
-      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=926948",
-      "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=927212",
       "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=927213",
       "http://geohashing.site/index.php?title=2025-01-25_47_-122&diff=927217",
       "http://geohashing.site/index.php?title=Template:JumpToYear&diff=939727",
@@ -251,7 +247,11 @@
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=999416",
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=999439",
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=999536",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1024477"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1024477",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1024516",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1024517",
+      "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024520",
+      "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024522"
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
@@ -270,7 +270,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 07-Aug-2025 15:06:44 GMT",
+    "modified": "Thursday, 07-Aug-2025 18:07:40 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Thu, 07 Aug 2025 15:06:46 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -313,19 +313,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 07 Aug 2025 15:06:00 GMT",
+    "modified": "Thu, 07 Aug 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Thu, 07 Aug 2025 15:06:00 GMT",
+    "modified": "Thu, 07 Aug 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Thu, 07 Aug 2025 15:06:00 GMT",
+    "modified": "Thu, 07 Aug 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -428,7 +428,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:cc7230769caafb0429b78dc6b4ad3690\"",
+    "etag": "W/\"cacheable:9902457982a9300ef0bc757ce3fd3641\"",
     "last_updated": 1751561089,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -480,9 +480,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c681da4f51989c70d8544d3b99cd6d7c\"",
+    "etag": "\"7e51bf364e5f7bced582b41a6d933d6c\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 07 Aug 2025 09:37:52 GMT",
+    "modified": "Thu, 07 Aug 2025 16:25:16 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
