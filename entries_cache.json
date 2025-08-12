@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -222,7 +222,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"61250a74c5e5a38d695ab4a16ab6cc4bb4e89d3174dc1a5b187078678fea5f9f\"",
+    "etag": "W/\"c59ddcad79c885b8e1796372e31cb6d5103685c7c1f086424ade14f3adfda9e6\"",
     "last_updated": 1712276400,
     "modified": "Tue, 12 Aug 2025 09:59:05 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
@@ -270,7 +270,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 12-Aug-2025 15:05:38 GMT",
+    "modified": "Tuesday, 12-Aug-2025 18:07:26 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Tue, 12 Aug 2025 01:03:30 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -313,19 +313,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 12 Aug 2025 15:04:00 GMT",
+    "modified": "Tue, 12 Aug 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Tue, 12 Aug 2025 15:04:00 GMT",
+    "modified": "Tue, 12 Aug 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Tue, 12 Aug 2025 15:04:00 GMT",
+    "modified": "Tue, 12 Aug 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -428,8 +428,8 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:1f6bc031ceb2836d2f75b02194dffcff\"",
-    "last_updated": 1751561089,
+    "etag": "W/\"cacheable:ac4467ea9b17a1e161ee53228e251779\"",
+    "last_updated": 1755017137,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
@@ -480,9 +480,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d77759a83ba121ed57894935f4e61b5b\"",
+    "etag": "\"4bd83f1dbb1a53acf75f04a2613e1223\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 12 Aug 2025 12:05:43 GMT",
+    "modified": "Tue, 12 Aug 2025 16:57:48 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -523,16 +523,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"20750b02252f97670b34f0bd6bc2ab01\"",
+    "etag": "W/\"4d7b2c144a247a2589168d9d8830f209\"",
     "last_updated": 1753372821,
-    "modified": "Tue, 12 Aug 2025 14:18:57 GMT",
+    "modified": "Tue, 12 Aug 2025 16:29:59 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f598f40563013521aa5ef4753aa17c68\"",
+    "etag": "W/\"4d7b2c144a247a2589168d9d8830f209\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 12 Aug 2025 14:40:34 GMT",
+    "modified": "Tue, 12 Aug 2025 16:29:59 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -688,7 +688,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1754945454,
+    "last_updated": 1755018047,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -748,7 +748,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1754959100,
+    "last_updated": 1755018010,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
