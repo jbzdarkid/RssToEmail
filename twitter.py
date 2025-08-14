@@ -68,12 +68,10 @@ def get(graphql, **kwargs):
   r.raise_for_status()
   j = r.json()
   if 'errors' in j:
-      errors = [e for e in j['errors'] if e['message'] not in ['Timeout: Unspecified', 'ServiceUnavailable: Unspecified', 'OverCapacity: Unspecified']]
-      if len(errors) == 0:
-          return []
-      for error in errors:
-          print(error['message'])
-      raise ValueError(errors)
+    for error in j['errors']:
+      if error['message'] not in ['Timeout: Unspecified', 'ServiceUnavailable: Unspecified', 'OverCapacity: Unspecified', 'Depencency: Unspecified']:
+        print(error['message'])
+        raise ValueError(errors)
   return j['data']
 
 
