@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/07/28015011/myself.png",
       "http://static.explosm.net/2025/07/28135741/sick-joke.png",
       "http://static.explosm.net/2025/07/30171824/cheated.png",
       "http://static.explosm.net/2025/07/28145930/double.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/08/13003420/hanging.png",
       "http://static.explosm.net/2025/08/13163800/whats-new.png",
       "http://static.explosm.net/2025/08/15185741/zip.png",
-      "http://static.explosm.net/2025/08/15170632/nobody-listens.png"
+      "http://static.explosm.net/2025/08/15170632/nobody-listens.png",
+      "http://static.explosm.net/2025/08/17151320/17th.png"
     ]
   },
   "bs4|jollyjack": {
@@ -227,9 +227,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"a2b5cc80ae28794a0f079063345deeac44ad604dc50823b6bc1405268a0188b2\"",
+    "etag": "W/\"eb78f31e2b58b0c47b7d36285e9f5a47f224c7d3ceb36519c771b0f637b33880\"",
     "last_updated": 1712276400,
-    "modified": "Sun, 17 Aug 2025 14:45:11 GMT",
+    "modified": "Sun, 17 Aug 2025 21:05:16 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -275,7 +275,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Sunday, 17-Aug-2025 21:04:59 GMT",
+    "modified": "Monday, 18-Aug-2025 00:25:31 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -318,19 +318,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sun, 17 Aug 2025 21:04:00 GMT",
+    "modified": "Mon, 18 Aug 2025 00:24:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Sun, 17 Aug 2025 21:04:00 GMT",
+    "modified": "Mon, 18 Aug 2025 00:24:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Sun, 17 Aug 2025 21:04:00 GMT",
+    "modified": "Mon, 18 Aug 2025 00:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:629745b6671bfa8d64293113a591ea12\"",
+    "etag": "W/\"cacheable:9729f0b0a430c166c5b5a94d21668309\"",
     "last_updated": 1755017137,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
