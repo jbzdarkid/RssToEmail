@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/08/04225105/wayback.png",
       "http://static.explosm.net/2025/08/05083843/enemies.png",
       "http://static.explosm.net/2025/08/07114810/thicker.png",
       "http://static.explosm.net/2025/08/07124009/flashing.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/08/21131426/17th3.png",
       "http://static.explosm.net/2025/08/21162726/15th-century.png",
       "http://static.explosm.net/2025/08/23164225/17th4.png",
-      "http://static.explosm.net/2025/08/21081754/film.png"
+      "http://static.explosm.net/2025/08/21081754/film.png",
+      "http://static.explosm.net/2025/08/25191737/blindness.png"
     ]
   },
   "bs4|jollyjack": {
@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -275,7 +275,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 26-Aug-2025 00:22:32 GMT",
+    "modified": "Tuesday, 26-Aug-2025 03:22:22 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -287,7 +287,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Sat, 23 Aug 2025 03:19:17 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -318,19 +318,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 26 Aug 2025 00:22:00 GMT",
+    "modified": "Tue, 26 Aug 2025 03:22:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Tue, 26 Aug 2025 00:22:00 GMT",
+    "modified": "Tue, 26 Aug 2025 03:22:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Tue, 26 Aug 2025 00:22:00 GMT",
+    "modified": "Tue, 26 Aug 2025 03:22:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -433,14 +433,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:1ede484b17894096aa15e7f5c1f0f797\"",
+    "etag": "W/\"cacheable:18e75218388415ed45626ad39040129c\"",
     "last_updated": 1755621456,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f81-rY6ke3Bzfqu0r4rODYuz2vMLEtQ\"",
+    "etag": "W/\"72f81-mpmKN1zK3BYJKAflEr9RzKJvwyo\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"657f29f3b0c35ffe7033a473bad9f5cc\"",
+    "etag": "\"c2542efca658c7f3f228f22f25b6fc29\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 26 Aug 2025 00:16:19 GMT",
+    "modified": "Tue, 26 Aug 2025 01:18:56 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
