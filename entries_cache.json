@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -227,9 +227,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f467c97c67cb8eec735cbb32f0a930fb53bd640ddb0ee6e9a951cb5475d7fec5\"",
+    "etag": "W/\"4f7c5780d77cd9b82e60c1d8950c0b4bedc371fd21f4c534b19a779a8c115c5d\"",
     "last_updated": 1712276400,
-    "modified": "Mon, 25 Aug 2025 07:10:27 GMT",
+    "modified": "Tue, 26 Aug 2025 17:42:00 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -260,9 +260,9 @@
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"b8e50f9bb91b919b951f6f0add07308b088fb01f6132be6956d00d41fc71519e\"",
+    "etag": "W/\"fec18ebb891c5b9b73e620cb16217fb80ff876a65672a0ddbb98fc6f33bc4ef6\"",
     "last_updated": 1754649780,
-    "modified": "Sat, 23 Aug 2025 14:27:16 GMT",
+    "modified": "Tue, 26 Aug 2025 17:42:07 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -275,7 +275,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 26-Aug-2025 15:05:28 GMT",
+    "modified": "Tuesday, 26-Aug-2025 18:06:31 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -287,7 +287,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Tue, 12 Aug 2025 05:09:10 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -318,19 +318,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 26 Aug 2025 15:04:00 GMT",
+    "modified": "Tue, 26 Aug 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Tue, 26 Aug 2025 15:04:00 GMT",
+    "modified": "Tue, 26 Aug 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Tue, 26 Aug 2025 15:04:00 GMT",
+    "modified": "Tue, 26 Aug 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:44579da94d0bea5e35162132a550bb4b\"",
+    "etag": "W/\"cacheable:e986f72f04c547a3bc0404e944ece8dd\"",
     "last_updated": 1755621456,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"ceef67624c930456ecacec335f1f8c28\"",
+    "etag": "\"b3d07dc0de9405c0e87613cf85b4a778\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 26 Aug 2025 15:05:05 GMT",
+    "modified": "Tue, 26 Aug 2025 17:35:35 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -528,9 +528,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"40261478d2ab7282aa2c50f917bc1a40\"",
+    "etag": "W/\"5670b791df714177de4ad7b55a52c8e2\"",
     "last_updated": 1755187241,
-    "modified": "Tue, 26 Aug 2025 14:09:35 GMT",
+    "modified": "Tue, 26 Aug 2025 14:25:30 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -753,7 +753,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1756069318,
+    "last_updated": 1756227652,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
@@ -819,7 +819,7 @@
     "title": "Riot Games Music"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX": {
-    "last_updated": 1753966854,
+    "last_updated": 1756213270,
     "name": "Elder Dragon Social Club",
     "seen_entries": [],
     "title": "LRRMTG"
