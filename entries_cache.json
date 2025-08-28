@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -275,7 +275,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Thursday, 28-Aug-2025 15:05:25 GMT",
+    "modified": "Thursday, 28-Aug-2025 18:06:51 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -287,7 +287,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Sat, 23 Aug 2025 03:19:17 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -318,19 +318,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 28 Aug 2025 15:04:00 GMT",
+    "modified": "Thu, 28 Aug 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Thu, 28 Aug 2025 15:04:00 GMT",
+    "modified": "Thu, 28 Aug 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Thu, 28 Aug 2025 15:04:00 GMT",
+    "modified": "Thu, 28 Aug 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:a960da9b57ebcb6682ff55dcc8f5e344\"",
+    "etag": "W/\"cacheable:63fe37a4a29a052f17659792ebe872eb\"",
     "last_updated": 1755621456,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5638c7c83702c407835f4112c29ff33b\"",
+    "etag": "\"adeb3957f3180ac652ebef47ecef40a8\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 28 Aug 2025 10:37:50 GMT",
+    "modified": "Thu, 28 Aug 2025 17:34:38 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -528,16 +528,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"bc16a5fb98a79ddd49de88ee0e305d7f\"",
-    "last_updated": 1755187241,
-    "modified": "Thu, 28 Aug 2025 13:40:26 GMT",
+    "etag": "W/\"d199725adbb25a6e61b18244ae5f5630\"",
+    "last_updated": 1756396840,
+    "modified": "Thu, 28 Aug 2025 16:15:24 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"bc16a5fb98a79ddd49de88ee0e305d7f\"",
+    "etag": "W/\"d199725adbb25a6e61b18244ae5f5630\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 28 Aug 2025 13:40:26 GMT",
+    "modified": "Thu, 28 Aug 2025 16:15:24 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -693,7 +693,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1756141238,
+    "last_updated": 1756400489,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
