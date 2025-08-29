@@ -113,12 +113,12 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
   "https://bsky.app/profile/did:plc:s6ialkt7aqipmlcsoutmmoju/rss": {
-    "last_updated": 1755217465,
+    "last_updated": 1756497180,
     "name": "@grs22.bsky.social - Punk Rock Loser",
     "seen_entries": []
   },
@@ -237,9 +237,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=997392",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=997512",
-      "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=997513",
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=997515",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=997992",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=998014",
@@ -256,7 +253,10 @@
       "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024752",
       "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024754",
       "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024759",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1145438"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1145438",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1145446",
+      "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145447",
+      "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145449"
     ]
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
@@ -275,7 +275,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 29-Aug-2025 18:06:33 GMT",
+    "modified": "Friday, 29-Aug-2025 21:04:56 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -287,7 +287,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Sat, 23 Aug 2025 03:19:17 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -318,19 +318,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 29 Aug 2025 18:06:00 GMT",
+    "modified": "Fri, 29 Aug 2025 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Fri, 29 Aug 2025 18:06:00 GMT",
+    "modified": "Fri, 29 Aug 2025 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 29 Aug 2025 18:06:00 GMT",
+    "modified": "Fri, 29 Aug 2025 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:8d0da80b21e05d07043b1bbd8b80b89c\"",
+    "etag": "W/\"cacheable:ea44868d65e4d621be2d068328066444\"",
     "last_updated": 1755621456,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -485,9 +485,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"c25be787b850e67b35dd24ae5236759c\"",
+    "etag": "\"2561cc8903efd5450f0fc4bb99473af2\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 29 Aug 2025 17:28:18 GMT",
+    "modified": "Fri, 29 Aug 2025 20:19:49 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -753,7 +753,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1756227652,
+    "last_updated": 1756492128,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
