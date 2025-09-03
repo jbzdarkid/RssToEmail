@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -232,7 +232,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1756729675,
+    "last_updated": 1756900156,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -269,6 +269,13 @@
       "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145714"
     ]
   },
+  "https://gfw.report/index.xml": {
+    "etag": "W/\"dc70vycsgs1s24ex9\"",
+    "last_updated": 1756901340,
+    "modified": "Wed, 20 Aug 2025 05:57:55 GMT",
+    "name": "Great Firewall Report - GFW Report on Great Firewall Report",
+    "seen_entries": []
+  },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
     "etag": "W/\"9a6f9953aefe77509573335bf7dbfd69f1db626a86efec880c370563233e3d72\"",
     "last_updated": 1754649780,
@@ -285,7 +292,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Wednesday, 03-Sep-2025 09:05:45 GMT",
+    "modified": "Wednesday, 03-Sep-2025 12:09:04 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -297,7 +304,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Tue, 12 Aug 2025 05:09:10 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -328,19 +335,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Wed, 03 Sep 2025 09:04:00 GMT",
+    "modified": "Wed, 03 Sep 2025 12:08:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1752006679,
-    "modified": "Wed, 03 Sep 2025 09:04:00 GMT",
+    "modified": "Wed, 03 Sep 2025 12:08:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Wed, 03 Sep 2025 09:04:00 GMT",
+    "modified": "Wed, 03 Sep 2025 12:08:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -443,7 +450,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:b8c58c0543ed3ebaa18ebfcfc110d494\"",
+    "etag": "W/\"cacheable:75eaab2b919c65640ccd75a9ab09a035\"",
     "last_updated": 1755621456,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -495,9 +502,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"01f54144bd2e053e1c21a8d2cae0640f\"",
+    "etag": "\"93ae5fe36baa521cdb16d7ce5581d07f\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 03 Sep 2025 06:55:45 GMT",
+    "modified": "Wed, 03 Sep 2025 09:14:05 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
