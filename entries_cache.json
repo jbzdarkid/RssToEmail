@@ -26,7 +26,7 @@
     ]
   },
   "bs4|jollyjack": {
-    "last_updated": 1755129600,
+    "last_updated": 1757376000,
     "name": "Sequential Art",
     "seen_entries": []
   },
@@ -292,7 +292,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Tuesday, 09-Sep-2025 09:05:40 GMT",
+    "modified": "Tuesday, 09-Sep-2025 12:08:53 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -335,19 +335,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 09 Sep 2025 09:04:00 GMT",
+    "modified": "Tue, 09 Sep 2025 12:08:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1757022065,
-    "modified": "Tue, 09 Sep 2025 09:04:00 GMT",
+    "modified": "Tue, 09 Sep 2025 12:08:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Tue, 09 Sep 2025 09:04:00 GMT",
+    "modified": "Tue, 09 Sep 2025 12:08:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -450,7 +450,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:911d2a984f0626d2f0117e86b9df5267\"",
+    "etag": "W/\"cacheable:ecd393fe2587f2bcae578c147c330997\"",
     "last_updated": 1755621456,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -502,9 +502,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"82e606e1823934bc15a415cffd35095e\"",
+    "etag": "\"3500ac2168d91d07c6dcc61b6274b342\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 08 Sep 2025 20:52:44 GMT",
+    "modified": "Tue, 09 Sep 2025 10:00:29 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -545,9 +545,9 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"e8fa963b1a6cd6cd1afa1300ee9eb3d1\"",
+    "etag": "W/\"b249777740e0722008bce4b984f409ef\"",
     "last_updated": 1756648815,
-    "modified": "Tue, 09 Sep 2025 08:20:29 GMT",
+    "modified": "Tue, 09 Sep 2025 08:43:09 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -642,6 +642,12 @@
     "name": "boburnham",
     "seen_entries": [],
     "title": "boburnham"
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCBpY6F-BYLVlXCN96tXtPig": {
+    "last_updated": 1757419747,
+    "name": null,
+    "seen_entries": [],
+    "title": "100th Coin"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCFAQLdXDNXudL2yvGiuYcRQ": {
     "last_updated": 1714501435,
