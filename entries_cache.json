@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -128,7 +128,7 @@
     "seen_entries": []
   },
   "https://bsky.app/profile/did:plc:s6ialkt7aqipmlcsoutmmoju/rss": {
-    "last_updated": 1757440680,
+    "last_updated": 1757703480,
     "name": "@grs22.bsky.social - Punk Rock Loser",
     "seen_entries": []
   },
@@ -247,9 +247,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=File:2025-07-21_47_-122_path_into_woods.jpeg&diff=999408",
-      "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=999416",
-      "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=999439",
       "http://geohashing.site/index.php?title=2025-07-21_47_-122&diff=999536",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1024477",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1024516",
@@ -266,7 +263,10 @@
       "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145667",
       "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145670",
       "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145714",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1147488"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1147488",
+      "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1147494",
+      "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1147496",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1147498"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -292,7 +292,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Friday, 12-Sep-2025 18:06:17 GMT",
+    "modified": "Friday, 12-Sep-2025 21:04:19 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Tue, 12 Aug 2025 05:09:10 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -335,19 +335,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 12 Sep 2025 18:06:00 GMT",
+    "modified": "Fri, 12 Sep 2025 21:04:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1757022065,
-    "modified": "Fri, 12 Sep 2025 18:06:00 GMT",
+    "modified": "Fri, 12 Sep 2025 21:04:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 12 Sep 2025 18:06:00 GMT",
+    "modified": "Fri, 12 Sep 2025 21:04:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -450,7 +450,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:cc2cc815988ea2f3f0f6546173f6e03f\"",
+    "etag": "W/\"cacheable:e82c8e3452e1b8b5f052b8971bcbc6f6\"",
     "last_updated": 1757694884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -502,9 +502,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"d44bb8e751ae13093a150b1e2c3b922a\"",
+    "etag": "\"d57d0af326aa71e23f24659d494d2607\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 12 Sep 2025 16:37:53 GMT",
+    "modified": "Fri, 12 Sep 2025 19:16:03 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -854,8 +854,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"68c1a0d1-9fd\"",
-    "last_updated": 1757476800,
+    "etag": "W/\"68c48184-b09\"",
+    "last_updated": 1757649600,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
