@@ -247,8 +247,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024752",
-      "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024754",
       "http://geohashing.site/index.php?title=2025-08-07_47_-122&diff=1024759",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1145438",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1145446",
@@ -266,7 +264,9 @@
       "http://geohashing.site/index.php?title=Talk:2025-09-14_47_-122&diff=1151264",
       "http://geohashing.site/index.php?title=File:2025-09-14_47_-122_darkid_hashpoint.png&diff=1151275",
       "http://geohashing.site/index.php?title=File:2025-09-14_47_-122_darkid_bagel.jpeg&diff=1151277",
-      "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151278"
+      "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151278",
+      "http://geohashing.site/index.php?title=Talk:2025-09-14_47_-122&diff=1151281",
+      "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151283"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -292,7 +292,7 @@
   },
   "https://msrc.microsoft.com/blog/tags/attack/feed": {
     "last_updated": 1710474492,
-    "modified": "Monday, 15-Sep-2025 00:23:02 GMT",
+    "modified": "Monday, 15-Sep-2025 03:21:36 GMT",
     "name": "Attack on Microsoft Security Response Center",
     "seen_entries": []
   },
@@ -335,19 +335,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 15 Sep 2025 00:22:00 GMT",
+    "modified": "Mon, 15 Sep 2025 03:20:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1757022065,
-    "modified": "Mon, 15 Sep 2025 00:22:00 GMT",
+    "modified": "Mon, 15 Sep 2025 03:20:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Mon, 15 Sep 2025 00:22:00 GMT",
+    "modified": "Mon, 15 Sep 2025 03:20:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -418,7 +418,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1757421312,
+    "last_updated": 1757906365,
     "name": "Team Fortress Wiki - Watchlist [en]",
     "seen_entries": []
   },
@@ -450,7 +450,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:1465fc242cbaeee4161d1aa115623f41\"",
+    "etag": "W/\"cacheable:a90ff53165a986ab8b847a31e1ef78dc\"",
     "last_updated": 1757694884,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
