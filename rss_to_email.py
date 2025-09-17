@@ -109,7 +109,7 @@ if __name__ == '__main__':
         entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: youtube.get_entries(cache, feed_url))
 
     for feed_url in twitter_feeds:
-        if not feed_url.split('/')[-1].isdigit(): # Normalize twitter URLs to use IDs, not handles, to save an API call.
+        if 'user_id' not in feed_url: # Normalize twitter URLs to use IDs, not handles, to save an API call.
             old_url = feed_url
             user_id = twitter.get_user_id(feed_url.split('/')[-1])
             feed_url = 'https://twitter.com/intent/user?user_id=' + user_id
