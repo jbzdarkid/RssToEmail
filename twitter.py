@@ -78,7 +78,7 @@ def get(graphql, **kwargs):
 def get_user_id(screen_name):
   j = get('oUZZZ8Oddwxs8Cd3iW3UEA/UserByScreenName', screen_name=screen_name)
   if not j:
-    raise ValueError('Failed to look up user id')
+    raise ValueError(f'Failed to look up user id {screen_name}')
   return j['user']['result']['rest_id']
 
 
