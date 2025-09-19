@@ -58,9 +58,12 @@ def get(graphql, **kwargs):
 
   data = {'features': json.dumps(features), 'variables': json.dumps(kwargs)}
   r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
-  response_time = datetime.strptime(r.headers['date'], '%a, %d %b %Y %H:%M:%S %Z')
-  reset_time = datetime.fromtimestamp(int(r.headers['x-rate-limit-reset']))
-  sleep_time = (reset_time - response_time).total_seconds() / int(r.headers['x-rate-limit-remaining'])
+  if r.headers.get('x-rate-limit-remaining', 0) == 0:
+    sleep_time = 30
+  else:
+    response_time = datetime.strptime(r.headers['date'], '%a, %d %b %Y %H:%M:%S %Z')
+    reset_time = datetime.fromtimestamp(int(r.headers['x-rate-limit-reset']))
+    sleep_time = (reset_time - response_time).total_seconds() / int(r.headers['x-rate-limit-remaining'])
   sleep(sleep_time)
   if r.status_code == 429:
     print('Request was throttled, trying once more')
