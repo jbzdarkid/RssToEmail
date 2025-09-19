@@ -109,7 +109,7 @@ if __name__ == '__main__':
         entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: youtube.get_entries(cache, feed_url))
 
     for feed_url in twitter_feeds:
-        if not feed_url.split('/')[-1].isdigit(): # Normalize twitter URLs to use IDs, not handles, to save an API call.
+        if 'user_id' not in feed_url: # Normalize twitter URLs to use IDs, not handles, to save an API call.
             old_url = feed_url
             user_id = twitter.get_user_id(feed_url.split('/')[-1])
             feed_url = 'https://twitter.com/intent/user?user_id=' + user_id
@@ -117,7 +117,7 @@ if __name__ == '__main__':
                 print(line.replace(old_url, feed_url), end='')
         else:
             user_id = feed_url.split('?user_id=')[-1]
-        last_update = cache[feed_url]['last_updated']
+        last_update = 0 if feed_url not in cache else cache[feed_url]['last_updated']
         entries += wrap_generator('Twitter user ' + user_id, feed_url, lambda user_id=user_id: twitter.get_entries(user_id, last_update))
 
     for feed_url in soup_feeds:
