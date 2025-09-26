@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -247,7 +247,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145667",
       "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145670",
       "http://geohashing.site/index.php?title=2025-08-30_47_-122&diff=1145714",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1147488",
@@ -266,7 +265,8 @@
       "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1165461",
       "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1165468",
       "http://geohashing.site/index.php?title=Template:JumpToYear&diff=1167947",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1168292"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1168292",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1168297"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -277,9 +277,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"83d5614d45396c235574a60440323c17a80d29da104e7d0007521f774a13e153\"",
-    "last_updated": 1754649780,
-    "modified": "Thu, 25 Sep 2025 19:22:59 GMT",
+    "etag": "W/\"c84094e55616591e4f395ff8656961fd9c87a2df21c31b8efe4f506182c18dcb\"",
+    "last_updated": 1758906000,
+    "modified": "Fri, 26 Sep 2025 17:00:00 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Mon, 22 Sep 2025 12:08:47 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -335,19 +335,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 26 Sep 2025 15:06:00 GMT",
+    "modified": "Fri, 26 Sep 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1758892927,
-    "modified": "Fri, 26 Sep 2025 15:06:00 GMT",
+    "modified": "Fri, 26 Sep 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 26 Sep 2025 15:04:00 GMT",
+    "modified": "Fri, 26 Sep 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -368,7 +368,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1622687206258184195": {
-    "last_updated": 1758893061,
+    "last_updated": 1758908497,
     "name": "Twitter user 1622687206258184195",
     "seen_entries": []
   },
@@ -460,7 +460,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:738632f4bf6c70c5902d386fea40ac24\"",
+    "etag": "W/\"cacheable:dad686f4a1a0c5651341e7e17f60dde8\"",
     "last_updated": 1758041160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -512,9 +512,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2b2655fc3ae47317da2e0301afbf8b33\"",
+    "etag": "\"ea77eb9101b2c142e6a96c2b373f9c34\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 26 Sep 2025 13:47:39 GMT",
+    "modified": "Fri, 26 Sep 2025 17:16:42 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -555,16 +555,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"a6729d9d8730d2c779761170398e5848\"",
+    "etag": "W/\"3d097df71abf3d0e67d61766869fecf2\"",
     "last_updated": 1758816024,
-    "modified": "Thu, 25 Sep 2025 16:18:34 GMT",
+    "modified": "Fri, 26 Sep 2025 16:12:30 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a6729d9d8730d2c779761170398e5848\"",
+    "etag": "W/\"3d097df71abf3d0e67d61766869fecf2\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 25 Sep 2025 16:18:34 GMT",
+    "modified": "Fri, 26 Sep 2025 16:12:30 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -726,7 +726,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1758819662,
+    "last_updated": 1758906082,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -786,7 +786,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1758646868,
+    "last_updated": 1758906055,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
