@@ -113,7 +113,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sun, 15 Dec 2024 15:22:21 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -237,7 +237,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f25a81ab7447da09b4f23ced6ffdc53d9f49e973bed8f142019c6e9b1e1526ce\"",
+    "etag": "W/\"1816bdf219c0e13d59b2737a36f7503974fc759bac5326d925d139ebcd36ddaa\"",
     "last_updated": 1712276400,
     "modified": "Wed, 01 Oct 2025 15:55:09 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
@@ -277,9 +277,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"66f61d7f3a4740d71fa9823b6fce3f93b537c9df5197cb21c9501732277f6fdf\"",
+    "etag": "W/\"f15952629bdfe2b54ae862e6b63d1a477f39422389d532a6dc24d142dae76879\"",
     "last_updated": 1758906000,
-    "modified": "Thu, 02 Oct 2025 07:06:50 GMT",
+    "modified": "Thu, 02 Oct 2025 15:08:11 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -305,7 +305,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Tue, 12 Aug 2025 05:09:10 GMT",
+    "modified": "Mon, 22 Sep 2025 12:08:47 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -336,19 +336,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 02 Oct 2025 15:04:00 GMT",
+    "modified": "Thu, 02 Oct 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1758892927,
-    "modified": "Thu, 02 Oct 2025 15:04:00 GMT",
+    "modified": "Thu, 02 Oct 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Thu, 02 Oct 2025 15:04:00 GMT",
+    "modified": "Thu, 02 Oct 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -369,7 +369,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1622687206258184195": {
-    "last_updated": 1759400779,
+    "last_updated": 1759426181,
     "name": "Twitter user 1622687206258184195",
     "seen_entries": []
   },
@@ -461,7 +461,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:b946becd940ad99e5ed7d70822c9eaf2\"",
+    "etag": "W/\"cacheable:e71d44b910e8836e60b383fd925a2722\"",
     "last_updated": 1758041160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -513,9 +513,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b47d5101df23f167874bca3dd098f4a3\"",
+    "etag": "\"b3b45f88f1f6ee9eae1faf4ab60d184d\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 01 Oct 2025 21:03:07 GMT",
+    "modified": "Thu, 02 Oct 2025 17:11:05 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -556,16 +556,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"69e6761e4edd9e0fdeb533d30ab55941\"",
-    "last_updated": 1758816024,
-    "modified": "Wed, 01 Oct 2025 23:19:43 GMT",
+    "etag": "W/\"4f803649d67943077c82fb4b0d1e4559\"",
+    "last_updated": 1759420857,
+    "modified": "Thu, 02 Oct 2025 16:01:05 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"69e6761e4edd9e0fdeb533d30ab55941\"",
+    "etag": "W/\"4f803649d67943077c82fb4b0d1e4559\"",
     "last_updated": 1689004753,
-    "modified": "Wed, 01 Oct 2025 23:19:43 GMT",
+    "modified": "Thu, 02 Oct 2025 16:01:05 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -727,7 +727,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1759338095,
+    "last_updated": 1759424457,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -775,7 +775,7 @@
     "title": "Req"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1758034839,
+    "last_updated": 1759420852,
     "name": "Game Maker's Toolkit",
     "seen_entries": [],
     "title": "Game Maker's Toolkit"
