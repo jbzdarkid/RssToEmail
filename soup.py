@@ -73,7 +73,7 @@ def get_valorant_entries(cache, feed_url):
 def get_microsoft_sus_entries(cache, feed_url):
   soup = get_soup('https://www.microsoft.com/en-us/corporate-responsibility/reports-hub')
 
-  report_list = soup.select_one('div[data-automation-test-id="AccordianListItemAnswerBody0-accordion-a9b571e5-abc7-4d91-aca8-653b90ac0dfc"]')
+  report_list = soup.select_one('div[data-automation-test-id="AccordianListItemAnswerText0-accordion-uid7a90"]')
   for item in report_list.select('a'):
     entry = Entry()
     entry.title = item.text.strip()
@@ -145,6 +145,6 @@ def get_nort(cache, feed_url):
 
 if __name__ == '__main__':
   from collections import defaultdict
-  for entry in get_entries(defaultdict(dict), 'bs4|nortverse'):
+  for entry in get_entries(defaultdict(dict), 'bs4|microsoft'):
     print(entry)
     print(entry.content)
