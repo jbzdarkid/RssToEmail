@@ -40,6 +40,8 @@ def get_entries(cache, feed_url):
     generator = get_c_and_h
   elif feed_url == 'bs4|nortverse':
     generator = get_nort
+  elif feed_url == 'bs4|sam_and_fuzzy':
+    generator = get_saf
 
   try:
     found_any = False
@@ -143,8 +145,19 @@ def get_nort(cache, feed_url):
 
   yield entry
 
+def get_saf(cache, feed_url):
+  soup = get_soup('https://www.samandfuzzy.com')
+  cache[feed_url]['name'] = 'Sam & Fuzzy'
+
+  entry = Entry()
+  entry.title = soup.select_one('meta[property="og:title"]')['content']
+  entry.content = soup.select_one('img[class="comic-image"]')
+  entry.link = soup.select_one('meta[property="og:url"]')['content']
+
+  yield entry
+
 if __name__ == '__main__':
   from collections import defaultdict
-  for entry in get_entries(defaultdict(dict), 'bs4|microsoft'):
+  for entry in get_entries(defaultdict(dict), 'bs4|sam_and_fuzzy'):
     print(entry)
     print(entry.content)
