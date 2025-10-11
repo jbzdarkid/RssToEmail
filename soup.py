@@ -14,7 +14,9 @@ headers = {
 
 def get_soup(url):
   r = requests.get(url, headers=headers)
-  r.raise_for_status()
+  if not r.ok:
+    print(r.status_code, r.text)
+    r.raise_for_status()
   soup = bs4.BeautifulSoup(r.text, 'html.parser')
 
   # Scrape and replace all relative links
