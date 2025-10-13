@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/09/07160609/boobs.png",
       "http://static.explosm.net/2025/09/08134305/how-pretty.png",
       "http://static.explosm.net/2025/09/11170559/positive.png",
       "http://static.explosm.net/2025/09/11125021/pepsi-4.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/10/05174600/dinosaur-skeleton.png",
       "http://static.explosm.net/2025/10/08143509/issues.png",
       "http://static.explosm.net/2025/10/08104835/qualified.png",
-      "http://static.explosm.net/2025/10/11235904/parking.png"
+      "http://static.explosm.net/2025/10/11235904/parking.png",
+      "http://static.explosm.net/2025/10/08181834/reflexes.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Sun, 12 Oct 2025 05:18:52 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Mon, 13 Oct 2025 03:22:00 GMT",
+    "modified": "Mon, 13 Oct 2025 06:08:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1758892927,
-    "modified": "Mon, 13 Oct 2025 03:22:00 GMT",
+    "modified": "Mon, 13 Oct 2025 06:08:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Mon, 13 Oct 2025 03:22:00 GMT",
+    "modified": "Mon, 13 Oct 2025 06:08:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -374,7 +374,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1622687206258184195": {
-    "last_updated": 1760313522,
+    "last_updated": 1760334650,
     "name": "Twitter user 1622687206258184195",
     "seen_entries": []
   },
@@ -451,7 +451,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1759723200,
+    "last_updated": 1760328000,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -466,7 +466,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:8a16bb0ae17b35b4277e7d93f22a25f6\"",
+    "etag": "W/\"cacheable:3cbaf3ce213bf7083db8bfe882b750f3\"",
     "last_updated": 1758041160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
