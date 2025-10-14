@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"c66a4ea559c494e8524941ab7b83c8ac592ee5c299727439f4730800a1c2bd5a\"",
+    "etag": "W/\"3e07a661a43f481cc2cb312ad3f330f85803fe2e2b619cf3f7613939ec544c55\"",
     "last_updated": 1758906000,
     "modified": "Tue, 14 Oct 2025 07:09:24 GMT",
     "name": "Project Zero",
@@ -310,7 +310,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
+    "modified": "Sun, 12 Oct 2025 05:18:52 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Tue, 14 Oct 2025 15:04:00 GMT",
+    "modified": "Tue, 14 Oct 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1758892927,
-    "modified": "Tue, 14 Oct 2025 15:04:00 GMT",
+    "modified": "Tue, 14 Oct 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Tue, 14 Oct 2025 15:04:00 GMT",
+    "modified": "Tue, 14 Oct 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -466,7 +466,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:e1de6e1dd7d6e8ba1e95d9c5b5cb4add\"",
+    "etag": "W/\"cacheable:1cd9bd13d458f1787ecf98fa4081b950\"",
     "last_updated": 1758041160,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -518,9 +518,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"4bb96b427b279836a34d32b64fa1ace5\"",
+    "etag": "\"fb17236eb14530bf5d81b4c3754ad933\"",
     "last_updated": 1658252876,
-    "modified": "Tue, 14 Oct 2025 14:41:42 GMT",
+    "modified": "Tue, 14 Oct 2025 18:00:23 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -612,7 +612,7 @@
     "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1759953714,
+    "last_updated": 1760464916,
     "name": "GDC",
     "seen_entries": [],
     "title": "GDC 2025"
@@ -732,7 +732,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1760374846,
+    "last_updated": 1760460117,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
