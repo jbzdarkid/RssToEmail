@@ -13,7 +13,9 @@ headers = {
 }
 
 def get_soup(url):
-  r = requests.get(url, headers=headers)
+  s = requests.Session()
+  s.headers.update(headers)
+  r = s.get(url)
   if not r.ok:
     print(r.status_code, r.text)
     r.raise_for_status()
