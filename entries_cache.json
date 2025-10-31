@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/09/25222555/gasp.png",
       "http://static.explosm.net/2025/09/26022347/gasp-1.png",
       "http://static.explosm.net/2025/09/28131447/have-sex.png",
       "http://static.explosm.net/2025/10/01013351/slug.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/10/23180414/unmotivated.png",
       "http://static.explosm.net/2025/10/25212617/crescent.gif",
       "http://static.explosm.net/2025/10/27101658/hot-sauce.png",
-      "http://static.explosm.net/2025/10/29004918/insane.png"
+      "http://static.explosm.net/2025/10/29004918/insane.png",
+      "http://static.explosm.net/2025/10/30190950/costume-3.png"
     ]
   },
   "bs4|jollyjack": {
@@ -282,9 +282,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"561b1e98d57693ba3813f2390fcb2a047be792e168c3fe14484e892edb4f508d\"",
+    "etag": "W/\"3262af6e9a41f2fc0cba4f0d67f3ac6772345bd6738e05ddae6fcab71851def4\"",
     "last_updated": 1758906000,
-    "modified": "Wed, 29 Oct 2025 16:55:03 GMT",
+    "modified": "Fri, 31 Oct 2025 07:40:20 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 31 Oct 2025 06:06:00 GMT",
+    "modified": "Fri, 31 Oct 2025 09:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1761580471,
-    "modified": "Fri, 31 Oct 2025 06:06:00 GMT",
+    "modified": "Fri, 31 Oct 2025 09:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 31 Oct 2025 06:06:00 GMT",
+    "modified": "Fri, 31 Oct 2025 09:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -466,7 +466,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:80b0df1ef1168e153095f0ef49623714\"",
+    "etag": "W/\"cacheable:e972570f6903b0c0b431fe95db576d9b\"",
     "last_updated": 1761669862,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -518,9 +518,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b8718a9a487d02145a1274a28519bdcb\"",
+    "etag": "\"2959122a515aa7b216e17123f38faca3\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 31 Oct 2025 03:08:26 GMT",
+    "modified": "Fri, 31 Oct 2025 07:57:48 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -595,7 +595,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1761731192,
+    "last_updated": 1761900212,
     "name": "Wilde Life",
     "seen_entries": []
   },
