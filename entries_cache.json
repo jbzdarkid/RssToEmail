@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -242,7 +242,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"e5a754c38deb559927f03fa441947703939a1fe5b7198116c262db46f63be14d\"",
+    "etag": "W/\"c5729d506feaefc5c21300cf3da72f295e6281442254a315b9c394b11e7b7dcf\"",
     "last_updated": 1712276400,
     "modified": "Thu, 30 Oct 2025 12:03:31 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
@@ -282,9 +282,9 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3262af6e9a41f2fc0cba4f0d67f3ac6772345bd6738e05ddae6fcab71851def4\"",
+    "etag": "W/\"0e3eb4650ba3e0777ed28d59814dc8ef682e60f4af6ff6fafe8821db727d4c2c\"",
     "last_updated": 1758906000,
-    "modified": "Fri, 31 Oct 2025 07:40:20 GMT",
+    "modified": "Fri, 31 Oct 2025 17:44:50 GMT",
     "name": "Project Zero",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 24 Oct 2025 03:18:26 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 31 Oct 2025 15:04:00 GMT",
+    "modified": "Fri, 31 Oct 2025 18:18:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1761580471,
-    "modified": "Fri, 31 Oct 2025 15:04:00 GMT",
+    "modified": "Fri, 31 Oct 2025 18:18:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 31 Oct 2025 15:04:00 GMT",
+    "modified": "Fri, 31 Oct 2025 18:18:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -466,7 +466,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:41204cf16c00f42b52eab5064e3a7e26\"",
+    "etag": "W/\"cacheable:1d420427110de255a219ef872351b65b\"",
     "last_updated": 1761669862,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -518,9 +518,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"36a7ecbc1d27ff7a1f33dd1217805acf\"",
+    "etag": "\"bc60bad5773962b63237b850c11b4ea3\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 31 Oct 2025 14:29:24 GMT",
+    "modified": "Fri, 31 Oct 2025 18:14:05 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -561,16 +561,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"f593de5b54746e7b9f8030305961ea15\"",
+    "etag": "W/\"255fda5db80fc026e7d7cb9ba7ec874a\"",
     "last_updated": 1761580848,
-    "modified": "Tue, 28 Oct 2025 15:57:35 GMT",
+    "modified": "Fri, 31 Oct 2025 17:04:13 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"f593de5b54746e7b9f8030305961ea15\"",
+    "etag": "W/\"fd4676cc3a65320786bab26d5fd50daa\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 28 Oct 2025 15:57:35 GMT",
+    "modified": "Fri, 31 Oct 2025 17:35:41 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -714,7 +714,7 @@
     "title": "TheSuperSNES"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCUJXm3LMFLSEe_A2IBf8GwQ": {
-    "last_updated": 1761336026,
+    "last_updated": 1761926452,
     "name": "Harry101UK",
     "seen_entries": [],
     "title": "Harry101UK"
@@ -738,7 +738,7 @@
     "title": "LRR Tabletop"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCeZLO2VgbZHeDcongKzzfOw": {
-    "last_updated": 1760719716,
+    "last_updated": 1761925945,
     "name": "8-bit Music Theory",
     "seen_entries": [],
     "title": "8-bit Music Theory"
@@ -792,7 +792,7 @@
     "title": "Retro Game Mechanics Explained"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1761429643,
+    "last_updated": 1761930094,
     "name": "LoadingReadyRun",
     "seen_entries": [],
     "title": "LoadingReadyRun"
