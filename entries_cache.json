@@ -242,9 +242,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"f109080efea10d66f62fc567c667023aeac293f9c4eabc484e827176f2fb6ef3\"",
+    "etag": "W/\"81166a603dc66cb3aa654ed446164d90568348be9fdec5f51716dea947b1d96d\"",
     "last_updated": 1712276400,
-    "modified": "Wed, 19 Nov 2025 15:00:28 GMT",
+    "modified": "Thu, 20 Nov 2025 15:30:04 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -252,7 +252,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=File:2025-09-14_47_-122_darkid_bagel.jpeg&diff=1151277",
       "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151278",
       "http://geohashing.site/index.php?title=Talk:2025-09-14_47_-122&diff=1151281",
       "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151283",
@@ -271,7 +270,8 @@
       "http://geohashing.site/index.php?title=2025-10-25_47_-122&diff=1172221",
       "http://geohashing.site/index.php?title=2025-10-25_47_-122&diff=1172223",
       "http://geohashing.site/index.php?title=2025-10-25_47_-122&diff=1172224",
-      "http://geohashing.site/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=e5d6af78bde6dfba7761649665e24aa1c9dd090f&feedformat=atom"
+      "http://geohashing.site/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=e5d6af78bde6dfba7761649665e24aa1c9dd090f&feedformat=atom",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1174339"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -282,7 +282,7 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a5be5f557a3241255bf704b373cf785781d047822993264f15d016cbd2ef2808\"",
+    "etag": "W/\"99bae878f512f5ba9b77ae08bed57d23702c475aa95d56be3db74e7c5cde14ea\"",
     "last_updated": 1762193340,
     "modified": "Thu, 20 Nov 2025 01:59:00 GMT",
     "name": "Project Zero",
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Thu, 20 Nov 2025 15:04:00 GMT",
+    "modified": "Thu, 20 Nov 2025 18:06:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1761580471,
-    "modified": "Thu, 20 Nov 2025 15:04:00 GMT",
+    "modified": "Thu, 20 Nov 2025 18:06:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Thu, 20 Nov 2025 15:04:00 GMT",
+    "modified": "Thu, 20 Nov 2025 18:06:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -466,14 +466,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:2438dcdced495a23779972622c22b3fd\"",
+    "etag": "W/\"cacheable:31c58a662f82a8d6d167ccce0e39267d\"",
     "last_updated": 1763570633,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f81-C5QhZvmBJFiZ5wLtmz28vZfl+P0\"",
+    "etag": "W/\"72f81-BdRKbA//4U1jRtFnPe+eGVWfe4Q\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
@@ -561,16 +561,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"517f095c5e169ca5ea47d46dd4bd2f4a\"",
-    "last_updated": 1762189201,
-    "modified": "Thu, 20 Nov 2025 14:13:43 GMT",
+    "etag": "W/\"e5d7d7226fd4ce3ee656767a00131ddb\"",
+    "last_updated": 1763658019,
+    "modified": "Thu, 20 Nov 2025 17:15:54 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"517f095c5e169ca5ea47d46dd4bd2f4a\"",
+    "etag": "W/\"e81300db64ae2310e05665e99985f2bd\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 20 Nov 2025 14:13:43 GMT",
+    "modified": "Thu, 20 Nov 2025 17:30:35 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -612,7 +612,7 @@
     "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1763488838,
+    "last_updated": 1763658052,
     "name": "GDC",
     "seen_entries": [],
     "title": "GDC 2025"
