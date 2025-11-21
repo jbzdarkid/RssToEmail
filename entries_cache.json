@@ -252,7 +252,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing - Watchlist [en]",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151278",
       "http://geohashing.site/index.php?title=Talk:2025-09-14_47_-122&diff=1151281",
       "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1151283",
       "http://geohashing.site/index.php?title=2025-09-14_47_-122&diff=1165418",
@@ -271,7 +270,8 @@
       "http://geohashing.site/index.php?title=2025-10-25_47_-122&diff=1172223",
       "http://geohashing.site/index.php?title=2025-10-25_47_-122&diff=1172224",
       "http://geohashing.site/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=e5d6af78bde6dfba7761649665e24aa1c9dd090f&feedformat=atom",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1174339"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1174339",
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1174379"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Fri, 21 Nov 2025 00:22:00 GMT",
+    "modified": "Fri, 21 Nov 2025 03:24:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1761580471,
-    "modified": "Fri, 21 Nov 2025 00:22:00 GMT",
+    "modified": "Fri, 21 Nov 2025 03:24:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Fri, 21 Nov 2025 00:22:00 GMT",
+    "modified": "Fri, 21 Nov 2025 03:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -374,7 +374,7 @@
     "seen_entries": []
   },
   "https://twitter.com/intent/user?user_id=1622687206258184195": {
-    "last_updated": 1763612069,
+    "last_updated": 1763690985,
     "name": "Twitter user 1622687206258184195",
     "seen_entries": []
   },
@@ -466,7 +466,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:7594129fbc3964df6c4f202d62bb6e39\"",
+    "etag": "W/\"cacheable:e8438edf2584871d158faf0c7c83bdfc\"",
     "last_updated": 1763570633,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -518,9 +518,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b11c01bca8f31621b2c6dd7d87989275\"",
+    "etag": "\"ed333b8ca4eb11ebf6339e310034945b\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 20 Nov 2025 18:20:10 GMT",
+    "modified": "Fri, 21 Nov 2025 00:49:15 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
