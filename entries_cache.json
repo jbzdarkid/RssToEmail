@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -310,7 +310,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -341,19 +341,19 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
-    "modified": "Sat, 06 Dec 2025 00:22:00 GMT",
+    "modified": "Sat, 06 Dec 2025 03:22:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1761580471,
-    "modified": "Sat, 06 Dec 2025 00:22:00 GMT",
+    "modified": "Sat, 06 Dec 2025 03:22:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
     "last_updated": 1740494230,
-    "modified": "Sat, 06 Dec 2025 00:22:00 GMT",
+    "modified": "Sat, 06 Dec 2025 03:24:00 GMT",
     "name": "648800 RSS Feed",
     "seen_entries": []
   },
@@ -466,7 +466,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:21651622cd2a822281943e5eccb0ccf5\"",
+    "etag": "W/\"cacheable:0481575a4db063ab3bef054108747b03\"",
     "last_updated": 1764359857,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -518,9 +518,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"070ee4df80745f722a7a237593e92bd8\"",
+    "etag": "\"263eafa31b291994f25b3a12f6617a51\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 05 Dec 2025 22:51:12 GMT",
+    "modified": "Sat, 06 Dec 2025 00:54:56 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -658,6 +658,12 @@
     "name": "boburnham",
     "seen_entries": [],
     "title": "boburnham"
+  },
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg": {
+    "last_updated": 1764991450,
+    "name": null,
+    "seen_entries": [],
+    "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCBpY6F-BYLVlXCN96tXtPig": {
     "last_updated": 1757419747,
@@ -876,8 +882,8 @@
     "title": "LRR Streams"
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6930e590-97f\"",
-    "last_updated": 1764738000,
+    "etag": "W/\"69339068-91b\"",
+    "last_updated": 1764910800,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd.com",
     "seen_entries": []
