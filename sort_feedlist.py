@@ -5,7 +5,7 @@ with open('feed_list.txt', 'r') as f:
         feed_name = lines[i]
         feed_url = lines[i+1]
 
-        sortkey = feed_url.split('://')[1]
+        sortkey = feed_url.split('://')[-1]
         if sortkey.startswith('www.'):
             sortkey = sortkey[4:]
         feeds.append((sortkey, feed_name, feed_url))

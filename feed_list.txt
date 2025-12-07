@@ -10,20 +10,22 @@ https://backend.deviantart.com/rss.xml?q=gallery:DrFaustusAU
 https://blog.momentum-mod.org/index.xml
 # xkcd
 https://blog.xkcd.com/feed/
-# Valorant Patch Notes
-bs4|valorant
-# Microsoft Environmental Sustainability Report
-bs4|microsoft
-# Jolly Jack's Collected Curios
-bs4|jollyjack
-# Nerf NOW!!
-bs4|nerfnow
 # Cyanide & Happiness
 bs4|c_and_h
+# Jolly Jack's Collected Curios
+bs4|jollyjack
+# Microsoft Environmental Sustainability Report
+bs4|microsoft
+# Nerf NOW!!
+bs4|nerfnow
 # Nortverse
 bs4|nortverse
-# Sam And Fuzzy
-https://www.samandfuzzy.com/feed
+# Valorant Patch Notes
+bs4|valorant
+# @notnkgm on BlueSky
+https://bsky.app/profile/did:plc:ljgkqozvs6woee4fivp6gv4k/rss
+# @charcharcat on BlueSky
+https://bsky.app/profile/did:plc:oxjlxvktngkkyzsm3zjbcgoo/rss
 # Eunnieverse - Crush
 https://eunnieverse.com/feed/
 # Fangamer T-Shirts
@@ -44,14 +46,14 @@ https://foxes-in-love.tumblr.com/rss
 https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default
 # Geohashes
 https://geohashing.site/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=e5d6af78bde6dfba7761649665e24aa1c9dd090f&feedformat=atom
+# GFW project
+https://gfw.report/index.xml
 # Order of the Stick
 https://www.giantitp.com/comics/oots.rss
 # Go Get a Roomie! Rerun
 https://www.gogetaroomie.com/ggar-rerun/rss
 # Project Zero
 https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss
-# GFW project
-https://gfw.report/index.xml
 # HearthSim
 https://hearthsim.info/feed.xml
 # Hearthstone TopDecks Q&A
@@ -60,6 +62,8 @@ https://www.hearthstonetopdecks.com/category/qa/feed/
 https://msrc.microsoft.com/blog/tags/attack/feed
 # Reddit: Monthly Top on r/OutOfTheLoop (paused nov 2024)
 # https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=month
+# Sam And Fuzzy
+https://www.samandfuzzy.com/feed
 # ShadyParadox Blog
 https://shadyparadox.wordpress.com/feed/
 # The Starry Expanse Project
@@ -82,10 +86,6 @@ https://twitter.com/intent/user?user_id=1104477640017264640
 https://twitter.com/intent/user?user_id=1141417774201184257
 # @BlueDino262566 on Twitter
 https://twitter.com/intent/user?user_id=1904403867544006656
-# @notnkgm on BlueSky
-https://bsky.app/profile/did:plc:ljgkqozvs6woee4fivp6gv4k/rss
-# @charcharcat on BlueSky
-https://bsky.app/profile/did:plc:oxjlxvktngkkyzsm3zjbcgoo/rss
 # Analysis - Vicious Syndicate
 https://www.vicioussyndicate.com/category/analysis/feed/
 # Wild Analysis - Vicious Syndicate
@@ -126,10 +126,10 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC5fdssPqmmGhkhsJi4VcckA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5miyvhPsWWyfTulnJ43koQ
 # Team PLC
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5ufT8-84hiY5O44nhMGAtA
-# Valorant
-https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg
 # boburnham
 https://www.youtube.com/feeds/videos.xml?channel_id=UC81hVmI5eEBIt3s3HQpJd_w
+# Valorant
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg
 # 100th Coin
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBpY6F-BYLVlXCN96tXtPig
 # roberttiso
@@ -192,9 +192,9 @@ https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEM
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg
 # Music Videos | League of Legends
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS
+# LRR - Send Codes 
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLsy9DTCWSlnh_2H1HquUv4p-2hP-FY5JS
 # LRR - Elder Dragon Social Club
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlcO5vEicgBJErTY1Due_xiX
 # LRR - Friday Night Paper Fight
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLzRiDUMuwrlepkv7m88Ma2sabQJbelzRn
-# LRR - Send Codes 
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLsy9DTCWSlnh_2H1HquUv4p-2hP-FY5JS
