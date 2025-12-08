@@ -242,9 +242,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7b968f721081bb858db54f1d619e623ff51695ba0b0c77f2ba78ab388182811e\"",
+    "etag": "W/\"5f63628b9d382b26e2fbfa6ba89b02526b344db86c0d394a50e4563784393cef\"",
     "last_updated": 1712276400,
-    "modified": "Sun, 07 Dec 2025 10:16:00 GMT",
+    "modified": "Mon, 08 Dec 2025 02:48:10 GMT",
     "name": "Fully Ramblomatic - the blog of Yahtzee Croshaw",
     "seen_entries": []
   },
@@ -333,16 +333,58 @@
     "name": "SteamDB",
     "seen_entries": []
   },
+  "https://store.steampowered.com/feeds/news/app/1150530": {
+    "last_updated": 1765164995,
+    "modified": "Mon, 08 Dec 2025 03:36:00 GMT",
+    "name": "1150530 RSS Feed",
+    "seen_entries": []
+  },
   "https://store.steampowered.com/feeds/news/app/1150530/?cc=US&l=english": {
     "last_updated": 1716225154,
     "modified": "Mon, 08 Dec 2025 00:24:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
+  "https://store.steampowered.com/feeds/news/app/1435790": {
+    "last_updated": 1765164996,
+    "modified": "Mon, 08 Dec 2025 03:36:00 GMT",
+    "name": "1435790 RSS Feed",
+    "seen_entries": []
+  },
   "https://store.steampowered.com/feeds/news/app/1435790/?cc=US&l=english": {
     "last_updated": 1761580471,
     "modified": "Mon, 08 Dec 2025 00:24:00 GMT",
     "name": "1435790 RSS Feed",
+    "seen_entries": []
+  },
+  "https://store.steampowered.com/feeds/news/app/1812090": {
+    "last_updated": 1765164999,
+    "modified": "Mon, 08 Dec 2025 03:36:00 GMT",
+    "name": "1812090 RSS Feed",
+    "seen_entries": []
+  },
+  "https://store.steampowered.com/feeds/news/app/2071280": {
+    "last_updated": 1765164998,
+    "modified": "Mon, 08 Dec 2025 03:34:00 GMT",
+    "name": "2071280 RSS Feed",
+    "seen_entries": []
+  },
+  "https://store.steampowered.com/feeds/news/app/247080": {
+    "last_updated": 1765164998,
+    "modified": "Mon, 08 Dec 2025 03:36:00 GMT",
+    "name": "247080 RSS Feed",
+    "seen_entries": []
+  },
+  "https://store.steampowered.com/feeds/news/app/2879840": {
+    "last_updated": 1765164997,
+    "modified": "Mon, 08 Dec 2025 03:36:00 GMT",
+    "name": "2879840 RSS Feed",
+    "seen_entries": []
+  },
+  "https://store.steampowered.com/feeds/news/app/548430": {
+    "last_updated": 1765164997,
+    "modified": "Mon, 08 Dec 2025 03:36:00 GMT",
+    "name": "548430 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/648800/?cc=US&l=english": {
@@ -428,7 +470,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1764572069,
+    "last_updated": 1765162234,
     "name": "Team Fortress Wiki - Watchlist [en]",
     "seen_entries": []
   },
@@ -460,14 +502,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:a0c4d5cc6454de8cace908449a5e8cb4\"",
+    "etag": "W/\"cacheable:0b04a40510fa514ae32a319ee746f807\"",
     "last_updated": 1764359857,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f81-2scWAn2OlGHAWdUfK0WU08nnsBs\"",
+    "etag": "W/\"72f81-eDUgkhs7B085tP5sDuRdaZ56QMg\"",
     "last_updated": 1712567105,
     "name": "business - Fortress of Doors",
     "seen_entries": []
