@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/11/05195907/heart.png",
       "http://static.explosm.net/2025/11/04162830/paranoia.png",
       "http://static.explosm.net/2025/11/09010341/carriage.png",
       "http://static.explosm.net/2025/11/09161402/boomerang.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/12/03164625/greatest.png",
       "http://static.explosm.net/2025/12/05114645/time-travel-employee.png",
       "http://static.explosm.net/2025/12/06162854/time-travel-employee-2.png",
-      "http://static.explosm.net/2025/12/08121221/time-travel-employee-3.png"
+      "http://static.explosm.net/2025/12/08121221/time-travel-employee-3.png",
+      "http://static.explosm.net/2025/12/10085106/hatchet.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -237,7 +237,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1765201229,
+    "last_updated": 1765371511,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 10 Dec 2025 12:08:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Wed, 10 Dec 2025 12:08:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1765307573,
-    "modified": "Wed, 10 Dec 2025 12:08:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "1812090 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1765164998,
-    "modified": "Wed, 10 Dec 2025 12:08:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "2071280 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765164998,
-    "modified": "Wed, 10 Dec 2025 12:08:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "247080 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1765164997,
-    "modified": "Wed, 10 Dec 2025 12:08:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "2879840 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1765164997,
-    "modified": "Wed, 10 Dec 2025 12:06:00 GMT",
+    "modified": "Wed, 10 Dec 2025 15:08:00 GMT",
     "name": "548430 RSS Feed",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:89b95f72b1f0978cc0c0e5e9fe8f9cc5\"",
+    "etag": "W/\"cacheable:c7e73ed04afb7984987a98deeaf4d374\"",
     "last_updated": 1765212225,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"853c0bfd002fae7db1097f945a44cfcb\"",
+    "etag": "\"1cbc933f5160892af2545fb7de0708a6\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 10 Dec 2025 12:07:17 GMT",
+    "modified": "Wed, 10 Dec 2025 12:11:46 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -603,16 +603,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"ae8094cd0c1074f4a7e108a031419c57\"",
+    "etag": "W/\"6dfaac61fbc94f07f19c111d7b6979d9\"",
     "last_updated": 1764867628,
-    "modified": "Tue, 09 Dec 2025 09:05:32 GMT",
+    "modified": "Wed, 10 Dec 2025 14:40:44 GMT",
     "name": "Analysis \u2013 Vicious Syndicate",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"ae8094cd0c1074f4a7e108a031419c57\"",
+    "etag": "W/\"6dfaac61fbc94f07f19c111d7b6979d9\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 09 Dec 2025 09:05:32 GMT",
+    "modified": "Wed, 10 Dec 2025 14:40:44 GMT",
     "name": "Wild Data Reaper \u2013 Vicious Syndicate",
     "seen_entries": []
   },
@@ -702,7 +702,7 @@
     "title": "boburnham"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg": {
-    "last_updated": 1765292442,
+    "last_updated": 1765375203,
     "name": null,
     "seen_entries": [],
     "title": "VALORANT"
