@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sat, 14 Dec 2024 13:43:09 GMT",
     "name": "xkcd",
     "seen_entries": []
   },
@@ -237,7 +237,7 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1765371511,
+    "last_updated": 1765544476,
     "name": "Foxes in Love",
     "seen_entries": []
   },
@@ -282,7 +282,7 @@
     "seen_entries": []
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"de66b195ffc0d24f23846d78ee5ad174ac7c759121650be0a94ca1ca0d299311\"",
+    "etag": "W/\"713fb7ef318b9682606a31654ff9369d30fdf0c7c54ba07671701674c2f10b4c\"",
     "last_updated": 1762193340,
     "modified": "Fri, 12 Dec 2025 01:35:43 GMT",
     "name": "Project Zero",
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Wed, 18 Dec 2024 12:08:02 GMT",
     "name": "shadyblog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 12 Dec 2025 12:08:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Fri, 12 Dec 2025 12:08:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1765307573,
-    "modified": "Fri, 12 Dec 2025 12:08:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "1812090 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1765164998,
-    "modified": "Fri, 12 Dec 2025 12:08:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "2071280 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765164998,
-    "modified": "Fri, 12 Dec 2025 12:08:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "247080 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1765391993,
-    "modified": "Fri, 12 Dec 2025 12:08:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "2879840 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1765454404,
-    "modified": "Fri, 12 Dec 2025 12:06:00 GMT",
+    "modified": "Fri, 12 Dec 2025 15:08:00 GMT",
     "name": "548430 RSS Feed",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:81ba8a72a95289e3268968bace1fe9c7\"",
+    "etag": "W/\"cacheable:edcf477de29aee7a3f8dfd7330d134d8\"",
     "last_updated": 1765212225,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"719194031222188fa46d64453388b4c3\"",
+    "etag": "\"31a927948a3007c80257fa1bd93c613c\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 11 Dec 2025 20:16:06 GMT",
+    "modified": "Fri, 12 Dec 2025 12:52:51 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -702,7 +702,7 @@
     "title": "boburnham"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg": {
-    "last_updated": 1765465258,
+    "last_updated": 1765551696,
     "name": null,
     "seen_entries": [],
     "title": "VALORANT"
