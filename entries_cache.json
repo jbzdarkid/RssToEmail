@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/11/09161402/boomerang.png",
       "http://static.explosm.net/2025/11/12163806/present.png",
       "http://static.explosm.net/2025/11/12144356/sperm.png",
       "http://static.explosm.net/2025/11/16150613/vengeance.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/12/08121221/time-travel-employee-3.png",
       "http://static.explosm.net/2025/12/10085106/hatchet.png",
       "http://static.explosm.net/2025/12/12113205/bygones.png",
-      "http://static.explosm.net/2025/12/13231337/painting.png"
+      "http://static.explosm.net/2025/12/13231337/painting.png",
+      "http://static.explosm.net/2025/12/15115353/heroin.png"
     ]
   },
   "bs4|jollyjack": {
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "1150530 RSS Feed",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "1435790 RSS Feed",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1765307573,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "1812090 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1765553367,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "2071280 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765164998,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "247080 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1765391993,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "2879840 RSS Feed",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1765454404,
-    "modified": "Mon, 15 Dec 2025 15:06:00 GMT",
+    "modified": "Mon, 15 Dec 2025 18:10:00 GMT",
     "name": "548430 RSS Feed",
     "seen_entries": []
   },
@@ -502,8 +502,8 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"cacheable:12e289213fde5ddf46b875be00cb5612\"",
-    "last_updated": 1765212225,
+    "etag": "W/\"cacheable:1100335671014a48aeb3bea3e7dd96ad\"",
+    "last_updated": 1765817116,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer",
     "seen_entries": []
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"37c6403e2f69a814152db8a456a51b32\"",
+    "etag": "\"3aa7d5f2c55ff9e8b61707e6dfc1dfa4\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 15 Dec 2025 12:08:03 GMT",
+    "modified": "Mon, 15 Dec 2025 17:17:04 GMT",
     "name": "Q&A \u2013 Hearthstone Top Decks",
     "seen_entries": []
   },
@@ -654,7 +654,7 @@
     "title": "yahtzee19"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC0JB7TSe49lg56u6qH8y_MQ": {
-    "last_updated": 1765396803,
+    "last_updated": 1765818056,
     "name": "GDC",
     "seen_entries": [],
     "title": "GDC 2025"
@@ -780,7 +780,7 @@
     "title": "ShadyParadox"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1765489192,
+    "last_updated": 1765821620,
     "name": "LRR Tabletop",
     "seen_entries": [],
     "title": "LRR Tabletop"
@@ -828,7 +828,7 @@
     "title": "Req"
   },
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw": {
-    "last_updated": 1762360053,
+    "last_updated": 1765814324,
     "name": "Game Maker's Toolkit",
     "seen_entries": [],
     "title": "Game Maker's Toolkit"
