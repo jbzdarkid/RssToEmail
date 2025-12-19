@@ -20,6 +20,8 @@ def get_entries(cache, feed_url):
       cache[feed_url]['title'] = get_title('playlistItems', playlistId=playlist_id)['snippet']['videoOwnerChannelTitle']
     videos = get_playlist_items(playlist_id)
     return get_video_entries(videos)
+  else:
+    raise ValueError(f'Not sure how to get entries from feed url: {feed_url}')
 
 
 def get_channel_upload_playlist(channel_id):
