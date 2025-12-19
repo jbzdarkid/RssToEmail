@@ -41,6 +41,7 @@ def get_channel_upload_playlist(channel_id):
     print(j)
   return j['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
+
 def get_playlist_items(playlist_id):
   params = {
     'key': API_KEY,
@@ -101,3 +102,14 @@ def get_title(api, **params):
   if 'error' in j:
     print(j)
   return j['items'][0]
+
+
+if __name__ == '__main__':
+  from collections import defaultdict
+  feed_url = 'https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg'
+
+  cache = defaultdict(dict)
+  for entry in get_entries(cache, feed_url):
+    print(entry, entry.title)
+
+  print(cache)
