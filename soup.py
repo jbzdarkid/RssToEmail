@@ -65,8 +65,7 @@ def get_entries(cache, feed_url):
 
 def get_valorant_entries(cache, feed_url):
   soup = get_soup('https://playvalorant.com/en-us/news/tags/patch-notes')
-  cache[feed_url]['name'] = soup.find('title').text
-  
+
   for item in soup.select('a[role="button"]'):
     entry = Entry()
     entry.title = item.select_one('div[data-testid="card-title"]').text
@@ -92,7 +91,6 @@ def get_microsoft_sus_entries(cache, feed_url):
 def get_sequential_art(cache, feed_url):
   soup = get_soup('https://collectedcurios.com/sequentialart.php')
   page_title = soup.find('title').text
-  cache[feed_url]['name'] = page_title
 
   entry = Entry()
   entry.title = page_title
@@ -110,7 +108,6 @@ def get_sequential_art(cache, feed_url):
 def get_nerf_now(cache, feed_url):
   soup = get_soup('https://www.nerfnow.com')
   page_title = soup.find('title').text
-  cache[feed_url]['name'] = page_title
 
   entry = Entry()
   entry.title = page_title
@@ -123,7 +120,6 @@ def get_nerf_now(cache, feed_url):
 
 def get_c_and_h(cache, feed_url):
   soup = get_soup('https://explosm.net')
-  cache[feed_url]['name'] = 'Cyanide & Happiness'
 
   for link in soup.find('head').select('link[rel="preload"]'):
     if link['href'].startswith('https://static.explosm.net'):
@@ -142,7 +138,6 @@ def get_c_and_h(cache, feed_url):
 
 def get_nort(cache, feed_url):
   soup = get_soup('https://nortverse.com')
-  cache[feed_url]['name'] = 'Nortverse'
 
   entry = Entry()
   entry.title = f'Nortverse for {datetime.now():yyyy-MM-dd}'

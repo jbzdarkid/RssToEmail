@@ -9,15 +9,11 @@ API_KEY = os.environ.get('youtube_token', None)
 def get_entries(cache, feed_url):
   if 'channel_id' in feed_url: # By channel
     channel_id = feed_url.split('channel_id=')[1]
-    if not cache[feed_url].get('title', None):
-      cache[feed_url]['title'] = get_title('channels', id=channel_id)['snippet']['title']
     upload_playlist = get_channel_upload_playlist(channel_id)
     videos = get_playlist_items(upload_playlist)
     return get_video_entries(videos)
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
-    if not cache[feed_url].get('title', None):
-      cache[feed_url]['title'] = get_title('playlistItems', playlistId=playlist_id)['snippet']['videoOwnerChannelTitle']
     videos = get_playlist_items(playlist_id)
     return get_video_entries(videos)
   else:

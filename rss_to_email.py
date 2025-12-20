@@ -21,12 +21,8 @@ def wrap_generator(feed_title, feed_url, generator):
     global success
 
     if feed_url not in cache:
-        print(f'Found new feed {feed_url} which is not in the cache, adding')
-        cache[feed_url] = {
-            'name': feed_title,
-            'last_updated': int(time()),
-            'seen_entries': [],
-        }
+        print(f'Error: {feed_url} is not in the cache')
+        return
 
     entries = []
     try:

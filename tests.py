@@ -89,7 +89,7 @@ if __name__ == '__main__':
     main.cache = {}
     main.cache_name = 'test_entries.json'
     Path(main.cache_name).unlink(missing_ok=True)
-    
+
     def is_test(method):
       return inspect.ismethod(method) and method.__name__.startswith('test')
     tests = list(inspect.getmembers(test_class, is_test))
