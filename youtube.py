@@ -7,11 +7,16 @@ from entry import Entry
 API_KEY = os.environ.get('youtube_token', None)
 
 def get_entries(cache, feed_url):
-  if 'channel_id' in feed_url: # By channel
+  if 'channel_id' in feed_url: # By channel (deprecated)
     channel_id = feed_url.split('channel_id=')[1]
     upload_playlist = get_channel_upload_playlist(channel_id)
-    videos = get_playlist_items(upload_playlist)
-    return get_video_entries(videos)
+
+    # See https://stackoverflow.com/a/76602819 for more details.
+    raise ValueError(f''' \
+Please use the direct playlist feed: ?playlist_id={upload_playlist}
+To exclude youtube shorts, use ?playlist_id=UULF{upload_playlist[2:]}
+''')
+
   elif 'playlist_id' in feed_url: # By playlist
     playlist_id = feed_url.split('playlist_id=')[1]
     videos = get_playlist_items(playlist_id)
@@ -21,6 +26,8 @@ def get_entries(cache, feed_url):
 
 
 def get_channel_upload_playlist(channel_id):
+  # https://stackoverflow.com/a/76602819/2105321
+  # I might not need this? What does this come up with...
   params = {
     'key': API_KEY,
     'part': 'contentDetails',
@@ -102,7 +109,10 @@ def get_title(api, **params):
 
 if __name__ == '__main__':
   from collections import defaultdict
+
+  feed_url = 'https://www.youtube.com/feeds/videos.xml?playlist_id=UULF8CX0LD98EDXl4UYX1MDCXg'
   feed_url = 'https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg'
+  # feed_url = 'https://www.youtube.com/feeds/videos.xml?channel_id=UC8CX0LD98EDXl4UYX1MDCXg'
 
   cache = defaultdict(dict)
   for entry in get_entries(cache, feed_url):
