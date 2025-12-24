@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/11/19172714/dinosaur-1.png",
       "http://static.explosm.net/2025/11/21112346/5-finger.png",
       "http://static.explosm.net/2025/11/23175827/bat.png",
       "http://static.explosm.net/2025/11/24113102/interview-2.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/12/17173718/list.png",
       "http://static.explosm.net/2025/12/19103637/epstein.png",
       "http://static.explosm.net/2025/12/21110759/angel.png",
-      "http://static.explosm.net/2025/12/21110855/dcw-presents.png"
+      "http://static.explosm.net/2025/12/21110855/dcw-presents.png",
+      "http://static.explosm.net/2025/12/24013625/dcw17pt1.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1766174428,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1766077352,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1766059253,
-    "modified": "Wed, 24 Dec 2025 06:08:00 GMT",
+    "modified": "Wed, 24 Dec 2025 09:06:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,14 +502,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:30b4c7a6bc75d9fc2de73ba14bcb391d\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:f46e53521ef1222252ed94602ee79ef1\"",
     "last_updated": 1765817116,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-uC72TqPiE8V08sWUQ0rG4mSttlM\"",
+    "etag": "W/\"72f82-9j8LwiOtTEwghIBvWEXT2ZrMHSM\"",
     "last_updated": 1712567105,
     "name": "FortressOfDoors",
     "seen_entries": []
@@ -578,7 +578,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1766390400,
+    "last_updated": 1766563200,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
