@@ -30,6 +30,7 @@ class Entry:
         if self.date:
             plaintext += f'\nThis was originally posted at {strftime("%A, %B %d, %Y", localtime(self.date))}.'
         richtext = plaintext.replace('\n', '<br>')
+        richtext = richtext.replace('<img', '<img style="max-width: 100%"') # Trying to fix image embeds being too big
 
         msg.set_content(plaintext)
         msg.add_alternative(richtext, subtype='html')
