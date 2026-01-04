@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/12/01083400/casper-2.png",
       "http://static.explosm.net/2025/12/03164625/greatest.png",
       "http://static.explosm.net/2025/12/05114645/time-travel-employee.png",
       "http://static.explosm.net/2025/12/06162854/time-travel-employee-2.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2025/12/28030203/dcw17pt2-1.png",
       "http://static.explosm.net/2025/12/23160138/unusual.png",
       "http://static.explosm.net/2025/12/31003758/phone-number.png",
-      "http://static.explosm.net/2026/01/23141911/newyears2026.png"
+      "http://static.explosm.net/2026/01/23141911/newyears2026.png",
+      "http://static.explosm.net/2025/12/23162649/birthday-40.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:08:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:06:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1766174428,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:06:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1766077352,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:08:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:06:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:06:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1766059253,
-    "modified": "Sun, 04 Jan 2026 03:36:00 GMT",
+    "modified": "Sun, 04 Jan 2026 06:08:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,14 +502,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:81f023cd6ac468319a57e94b7d64eb9a\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:1e1b53460604bf0124c54046015a7ddb\"",
     "last_updated": 1765817116,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-Fx6oquh0tD2iDxhqCA940W7vdUA\"",
+    "etag": "W/\"72f82-naGunNP67ard41WCWlN5slOzsUk\"",
     "last_updated": 1712567105,
     "name": "FortressOfDoors",
     "seen_entries": []
