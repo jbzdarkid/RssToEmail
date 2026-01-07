@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1766174428,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1766077352,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1767787228,
-    "modified": "Wed, 07 Jan 2026 15:08:00 GMT",
+    "modified": "Wed, 07 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:48a9ecfa3acdb1e081399c9e78ef62b4\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:fa0be9b23c500b1e0b7dfaf8c6218180\"",
     "last_updated": 1765817116,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"1639b18ed2832da86a695681cd7a05d8\"",
+    "etag": "\"fc865d036fefe21f05b54fd84304231f\"",
     "last_updated": 1658252876,
-    "modified": "Wed, 07 Jan 2026 00:11:48 GMT",
+    "modified": "Wed, 07 Jan 2026 18:02:02 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
@@ -659,7 +659,7 @@
     "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1767542404,
+    "last_updated": 1767805310,
     "name": "Youtube - Zero Punctuation",
     "seen_entries": []
   },
@@ -674,7 +674,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
-    "last_updated": 1761229804,
+    "last_updated": 1767801306,
     "name": "Youtube - League of Legends Music Videos",
     "seen_entries": []
   },
@@ -771,7 +771,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UULF8CX0LD98EDXl4UYX1MDCXg": {
-    "last_updated": 1767720219,
+    "last_updated": 1767801673,
     "name": "Youtube - Valorant",
     "seen_entries": []
   },
@@ -871,7 +871,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1767722403,
+    "last_updated": 1767805256,
     "name": "Youtube - LoadingReadyRun",
     "seen_entries": []
   },
