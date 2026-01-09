@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/12/06162854/time-travel-employee-2.png",
       "http://static.explosm.net/2025/12/08121221/time-travel-employee-3.png",
       "http://static.explosm.net/2025/12/10085106/hatchet.png",
       "http://static.explosm.net/2025/12/12113205/bygones.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2026/01/23141911/newyears2026.png",
       "http://static.explosm.net/2025/12/23162649/birthday-40.png",
       "http://static.explosm.net/2026/01/05143358/rabbi.png",
-      "http://static.explosm.net/2026/01/07035911/revealing.png"
+      "http://static.explosm.net/2026/01/07035911/revealing.png",
+      "http://static.explosm.net/2026/01/09113759/stoned.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 15 Dec 2025 15:22:33 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -242,9 +242,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"bc4495654145af0104a85346e56472a92dfdf391d81a94b03a6258d2f071b0bd\"",
+    "etag": "W/\"e4c7fbaffaa0ee3dc4b612a89d2a9016f09727baed5091e5ccd6aaf164946f1d\"",
     "last_updated": 1712276400,
-    "modified": "Fri, 09 Jan 2026 05:07:36 GMT",
+    "modified": "Fri, 09 Jan 2026 15:32:33 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Sun, 21 Dec 2025 01:04:59 GMT",
+    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 09 Jan 2026 15:06:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Fri, 09 Jan 2026 15:06:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1766174428,
-    "modified": "Fri, 09 Jan 2026 15:06:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1766077352,
-    "modified": "Fri, 09 Jan 2026 15:06:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Fri, 09 Jan 2026 15:06:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Fri, 09 Jan 2026 15:06:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1767960272,
-    "modified": "Fri, 09 Jan 2026 15:04:00 GMT",
+    "modified": "Fri, 09 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:4e64a9f2d53df16a81b0826e1db8f34b\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:776481178cfda0feb3fb621a4c8123d6\"",
     "last_updated": 1765817116,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"46db4f9bbcc1f47a371142802e170139\"",
+    "etag": "\"1d239d8dc6518eec40164df95b6aae79\"",
     "last_updated": 1658252876,
-    "modified": "Fri, 09 Jan 2026 12:27:31 GMT",
+    "modified": "Fri, 09 Jan 2026 18:04:50 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
@@ -821,7 +821,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1767463267,
+    "last_updated": 1767981641,
     "name": "Youtube - LRRTT",
     "seen_entries": []
   },
@@ -871,7 +871,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1767805256,
+    "last_updated": 1767980405,
     "name": "Youtube - LoadingReadyRun",
     "seen_entries": []
   },
