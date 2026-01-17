@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
+    "modified": "Mon, 15 Dec 2025 15:22:33 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -252,7 +252,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing wiki watchlist",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1171763",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1171768",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1171769",
       "http://geohashing.site/index.php?title=2025-10-25_47_-122&diff=1171770",
@@ -271,7 +270,8 @@
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1179952",
       "http://geohashing.site/index.php?title=2026-01-17_47_-122&diff=1179963",
       "http://geohashing.site/index.php?title=2026-01-17_47_-122&diff=1179965",
-      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1179967"
+      "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1179967",
+      "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1180025"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Wed, 14 Jan 2026 18:08:38 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1766174428,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1768233343,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1768478593,
-    "modified": "Fri, 16 Jan 2026 21:04:00 GMT",
+    "modified": "Sat, 17 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:7910d8d1a089f081f9ff2aff1f613461\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:bb22dd8325bbbb8a07f6ed26b683884d\"",
     "last_updated": 1768322737,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -679,7 +679,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLsy9DTCWSlnh_2H1HquUv4p-2hP-FY5JS": {
-    "last_updated": 1767917650,
+    "last_updated": 1768607813,
     "name": "Youtube - Send Codes ",
     "seen_entries": []
   },
