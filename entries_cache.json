@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/12/19103637/epstein.png",
       "http://static.explosm.net/2025/12/21110759/angel.png",
       "http://static.explosm.net/2025/12/21110855/dcw-presents.png",
       "http://static.explosm.net/2025/12/24013625/dcw17pt1.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2026/01/14121233/jupiter.png",
       "http://static.explosm.net/2026/01/15184005/bitches.png",
       "http://static.explosm.net/2026/01/18151642/partner.png",
-      "http://static.explosm.net/2026/01/19145046/racism.png"
+      "http://static.explosm.net/2026/01/19145046/racism.png",
+      "http://static.explosm.net/2026/01/21181233/dead.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sat, 01 Feb 2025 02:08:32 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1765164996,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1766174428,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1768813702,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1768478593,
-    "modified": "Wed, 21 Jan 2026 21:08:00 GMT",
+    "modified": "Thu, 22 Jan 2026 00:24:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:3e2729f3659b1772bfcb850c8d12ccae\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:4a6651f438b4d78f1f6e58f7c034f853\"",
     "last_updated": 1769014677,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -603,16 +603,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"9cd4b15b7bb5a6ee25003ef20aaa67a2\"",
+    "etag": "W/\"c65ff5599d955163881f0da32c39a344\"",
     "last_updated": 1768237205,
-    "modified": "Wed, 21 Jan 2026 18:01:34 GMT",
+    "modified": "Wed, 21 Jan 2026 23:40:45 GMT",
     "name": "Vicious Syndicate - Standard",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"9cd4b15b7bb5a6ee25003ef20aaa67a2\"",
+    "etag": "W/\"c65ff5599d955163881f0da32c39a344\"",
     "last_updated": 1689004753,
-    "modified": "Wed, 21 Jan 2026 18:01:34 GMT",
+    "modified": "Wed, 21 Jan 2026 23:40:45 GMT",
     "name": "Vicious Syndicate - Wild",
     "seen_entries": []
   },
@@ -891,8 +891,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"696ee7f9-a0f\"",
-    "last_updated": 1768798800,
+    "etag": "W/\"6971558c-9d1\"",
+    "last_updated": 1768971600,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []
