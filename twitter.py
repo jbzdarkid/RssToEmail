@@ -68,6 +68,8 @@ def get(graphql, **kwargs):
   if r.status_code in [429, 422]:
     print('Request was throttled, trying once more')
     r = requests.get(f'https://twitter.com/i/api/graphql/{graphql}', data=data, headers=headers, cookies=cookies)
+    if r.status_code in [429, 422]:
+      return [] # We'll try again in 3 hours.
   r.raise_for_status()
   j = r.json()
   if 'errors' in j:
