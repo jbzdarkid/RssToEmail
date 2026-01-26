@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2025/12/24013625/dcw17pt1.png",
       "http://static.explosm.net/2025/12/25050728/christmas-2025.png",
       "http://static.explosm.net/2025/12/23152858/dcw-dad.png",
       "http://static.explosm.net/2025/12/28030203/dcw17pt2-1.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2026/01/19145046/racism.png",
       "http://static.explosm.net/2026/01/21181233/dead.png",
       "http://static.explosm.net/2026/01/23105529/doug.png",
-      "http://static.explosm.net/2026/01/25012119/cringe.png"
+      "http://static.explosm.net/2026/01/25012119/cringe.png",
+      "http://static.explosm.net/2026/01/26120026/post-it.png"
     ]
   },
   "bs4|jollyjack": {
@@ -283,8 +283,8 @@
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
     "etag": "W/\"14c0c42331658b67c02eecfee53c4cfa97fe36a7c698f4ce5ca41243408c854e\"",
-    "last_updated": 1768413660,
-    "modified": "Thu, 15 Jan 2026 16:54:27 GMT",
+    "last_updated": 1769414400,
+    "modified": "Mon, 26 Jan 2026 17:49:38 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1769207046,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1768813702,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1768478593,
-    "modified": "Mon, 26 Jan 2026 15:08:00 GMT",
+    "modified": "Mon, 26 Jan 2026 18:08:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:1d27219300c94eab455cad91a740e66a\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:5bae5184188eef8df6641d14a0bf0f49\"",
     "last_updated": 1769014677,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -515,8 +515,8 @@
     "seen_entries": []
   },
   "https://www.fourisland.com/blog.atom": {
-    "etag": "W/\"558c5f3e3dfa094dab1929208e6cf2d7\"",
-    "last_updated": 1769107877,
+    "etag": "W/\"56763b685306be1fcb2a0339587de82b\"",
+    "last_updated": 1769440629,
     "name": "Four Island",
     "seen_entries": []
   },
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"2b6e26d902aa4c36a0b70265eef2fdfe\"",
+    "etag": "\"b26daa6412cbd58fe2742cfb580ab268\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 26 Jan 2026 13:36:42 GMT",
+    "modified": "Mon, 26 Jan 2026 15:46:15 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
@@ -642,7 +642,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYFVhxsaqDuOh4Ic5mRu5CiZVKCMVv66": {
-    "last_updated": 1763398806,
+    "last_updated": 1769014845,
     "name": "Youtube - Brace Yourself Games",
     "seen_entries": []
   },
@@ -821,7 +821,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1769364000,
+    "last_updated": 1769450400,
     "name": "Youtube - LRRTT",
     "seen_entries": []
   },
@@ -866,12 +866,12 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUwRqWnW5ZkVaP_lZF7caZ-g": {
-    "last_updated": 1746715646,
+    "last_updated": 1769440220,
     "name": "Youtube - Retro Game Mechanics Explained",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1769274038,
+    "last_updated": 1769446839,
     "name": "Youtube - LoadingReadyRun",
     "seen_entries": []
   },
