@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Mon, 15 Dec 2025 15:22:33 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -185,7 +185,7 @@
   },
   "https://eunnieverse.com/feed/": {
     "last_updated": 1744729560,
-    "modified": "Wed, 10 Dec 2025 05:59:02 GMT",
+    "modified": "Mon, 26 Jan 2026 22:48:44 GMT",
     "name": "Eunnieverse - Crush",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Mon, 26 Jan 2026 00:27:15 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1769207046,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1768813702,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1768478593,
-    "modified": "Mon, 26 Jan 2026 21:06:00 GMT",
+    "modified": "Tue, 27 Jan 2026 00:26:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:553811bd0191fa0f3e7857177e05d399\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:650bf1ee3f7279f105cd64002782e3cd\"",
     "last_updated": 1769014677,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -666,6 +666,11 @@
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0uejtHnqX-LK14lEMAwWQk7s": {
     "last_updated": 1768492828,
     "name": "Youtube - Extra Punctuation",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUPKuAVC8PO4N7wmS4OlXS_m0vMSTqUyY": {
+    "last_updated": 1763683155,
+    "name": "Youtube - Brace Yourself Games",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
@@ -891,8 +896,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"697423ff-917\"",
-    "last_updated": 1769144400,
+    "etag": "W/\"69780106-a17\"",
+    "last_updated": 1769403600,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []
