@@ -76,7 +76,7 @@ def get(graphql, **kwargs):
     for error in j['errors']:
       if error['message'] not in ['Timeout: Unspecified', 'ServiceUnavailable: Unspecified', 'OverCapacity: Unspecified', 'Depencency: Unspecified']:
         print(error['message'])
-        raise ValueError(errors)
+        raise ValueError(error)
   return j['data']
 
 
