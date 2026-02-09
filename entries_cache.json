@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -237,14 +237,14 @@
     "seen_entries": []
   },
   "https://foxes-in-love.tumblr.com/rss": {
-    "last_updated": 1770387645,
+    "last_updated": 1770647383,
     "name": "Foxes in Love",
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0c1f173845c5cf7ea22ab1e6cd0abb87fb4660e32d779d8092ac687bf221636e\"",
+    "etag": "W/\"49de91b09f7365fca01d349e6e6894ffa8d81abbd827cc7ffca6172b91d252a5\"",
     "last_updated": 1712276400,
-    "modified": "Sat, 07 Feb 2026 08:21:37 GMT",
+    "modified": "Mon, 09 Feb 2026 12:33:01 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -252,7 +252,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing wiki watchlist",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1180025",
       "http://geohashing.site/index.php?title=File:2026-01-17_47_-122_hashpoint.jpeg&diff=1180165",
       "http://geohashing.site/index.php?title=File:2026-01-17_47_-122_hashproof.png&diff=1180166",
       "http://geohashing.site/index.php?title=File:2026-01-17_47_-122_downhill.jpeg&diff=1180167",
@@ -271,7 +270,8 @@
       "http://geohashing.site/index.php?title=2026-01-24_47_-122&diff=1181103",
       "http://geohashing.site/index.php?title=2026-01-24_47_-122&diff=1181104",
       "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1182141",
-      "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1182142"
+      "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1182142",
+      "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1182462"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1770418811,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1768813702,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1770213707,
-    "modified": "Mon, 09 Feb 2026 12:18:00 GMT",
+    "modified": "Mon, 09 Feb 2026 15:22:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:cf3fb9dcf9534c5efbbb3ae5ff9b8916\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:bede21d0ff402d827ef27cc7b701f982\"",
     "last_updated": 1769014677,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"58bbf7c530f85095776559e9152f16ab\"",
+    "etag": "\"1edd7769a4bf16d31d05a9e020bb9885\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 09 Feb 2026 02:36:52 GMT",
+    "modified": "Mon, 09 Feb 2026 14:26:36 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
