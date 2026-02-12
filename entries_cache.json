@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/01/07035911/revealing.png",
       "http://static.explosm.net/2026/01/09113759/stoned.png",
       "http://static.explosm.net/2026/01/11150546/burger-2.png",
       "http://static.explosm.net/2026/01/12004000/doggystyle.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2026/02/04173651/list2-1.png",
       "http://static.explosm.net/2026/02/06092234/together.png",
       "http://static.explosm.net/2026/02/07234152/work2.png",
-      "http://static.explosm.net/2026/02/08105326/tiny-tony.png"
+      "http://static.explosm.net/2026/02/08105326/tiny-tony.png",
+      "http://static.explosm.net/2026/02/11180551/kermit.png"
     ]
   },
   "bs4|jollyjack": {
@@ -43,7 +43,7 @@
     ]
   },
   "bs4|nerfnow": {
-    "last_updated": 1770259930,
+    "last_updated": 1770850580,
     "name": "Nerf NOW!!",
     "seen_entries": []
   },
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
+    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1770418811,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1768813702,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1770813599,
-    "modified": "Wed, 11 Feb 2026 21:12:00 GMT",
+    "modified": "Thu, 12 Feb 2026 00:30:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -475,9 +475,9 @@
     "seen_entries": []
   },
   "https://www.acriticalhit.com/feed/": {
-    "etag": "\"d73ee07a38ecba87a070fec40a675975-gzip\"",
+    "etag": "\"66a41f9657b9c83b58fa0a568847740f-gzip\"",
     "last_updated": 1770830961,
-    "modified": "Wed, 11 Feb 2026 17:29:33 GMT",
+    "modified": "Wed, 11 Feb 2026 22:12:33 GMT",
     "name": "A Critical Hit!",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:dc724e0cdc968ec50f17a85f59f54cd7\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:31aa16529932b8f6d1eb62fea282402e\"",
     "last_updated": 1769014677,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
