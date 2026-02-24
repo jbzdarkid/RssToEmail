@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/01/19145046/racism.png",
       "http://static.explosm.net/2026/01/21181233/dead.png",
       "http://static.explosm.net/2026/01/23105529/doug.png",
       "http://static.explosm.net/2026/01/25012119/cringe.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2026/02/16122609/legs-2.png",
       "http://static.explosm.net/2026/02/18134929/wanted.png",
       "http://static.explosm.net/2026/02/19183217/butt-dial.png",
-      "http://static.explosm.net/2026/02/22190509/bed.png"
+      "http://static.explosm.net/2026/02/22190509/bed.png",
+      "http://static.explosm.net/2026/02/23171956/rabbit.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Fri, 07 Nov 2025 03:24:03 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1771618138,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1771513396,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1771329612,
-    "modified": "Mon, 23 Feb 2026 21:18:00 GMT",
+    "modified": "Tue, 24 Feb 2026 00:28:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:bdcfab0a4ccfa5e907ad0c0367354300\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:e01ca4b6ba05748e31c8d063331754ea\"",
     "last_updated": 1769014677,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"b25b1706433078e3cc8bfeee13a1cca3\"",
+    "etag": "\"987d9e703550faa3e631328c62aea24c\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 23 Feb 2026 19:58:18 GMT",
+    "modified": "Mon, 23 Feb 2026 23:35:23 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
@@ -725,7 +725,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UU5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1771550015,
+    "last_updated": 1771882886,
     "name": "Youtube - LRRVG",
     "seen_entries": []
   },
