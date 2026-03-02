@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Wed, 25 Feb 2026 21:14:48 GMT",
+    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "modified": "Mon, 02 Mar 2026 15:16:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "modified": "Mon, 02 Mar 2026 15:16:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1771618138,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "modified": "Mon, 02 Mar 2026 15:16:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1771513396,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "modified": "Mon, 02 Mar 2026 15:16:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "modified": "Mon, 02 Mar 2026 15:16:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "modified": "Mon, 02 Mar 2026 15:16:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
-    "last_updated": 1771934434,
-    "modified": "Mon, 02 Mar 2026 12:14:00 GMT",
+    "last_updated": 1772455822,
+    "modified": "Mon, 02 Mar 2026 15:14:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,14 +502,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:5fb28b8a08a9b8930cd17998d2fd7b3a\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:b4a2991febe067131b54e126d878cebb\"",
     "last_updated": 1771951506,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"72f82-xgcXKmFA6nvJrsJ00f6BFlqUZf8\"",
+    "etag": "W/\"72f82-Jib+DyjjyaehclMLz4buxH/bA3M\"",
     "last_updated": 1712567105,
     "name": "FortressOfDoors",
     "seen_entries": []
@@ -521,12 +521,11 @@
     "seen_entries": []
   },
   "https://www.giantitp.com/comics/oots.rss": {
-    "etag": "W/\"0x8DE5CE59E7D607A\"",
+    "etag": "W/\"0x8DE78664727A591\"",
     "last_updated": 0,
-    "modified": "Mon, 26 Jan 2026 14:17:20 GMT",
+    "modified": "Mon, 02 Mar 2026 14:16:20 GMT",
     "name": "Order of the Stick",
     "seen_entries": [
-      "http://www.giantitp.com/comics/oots1320.html",
       "http://www.giantitp.com/comics/oots1321.html",
       "http://www.giantitp.com/comics/oots1322.html",
       "http://www.giantitp.com/comics/oots1323.html",
@@ -545,7 +544,8 @@
       "http://www.giantitp.com/comics/oots1336.html",
       "http://www.giantitp.com/comics/oots1337.html",
       "http://www.giantitp.com/comics/oots1338.html",
-      "http://www.giantitp.com/comics/oots1339.html"
+      "http://www.giantitp.com/comics/oots1339.html",
+      "http://www.giantitp.com/comics/oots1340.html"
     ]
   },
   "https://www.gogetaroomie.com/ggar-rerun/rss": {
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"f6b0a457161a2b229edfac5b48a297a9\"",
+    "etag": "\"f2aa7a2319c6b6a9bbcf147277efa177\"",
     "last_updated": 1658252876,
-    "modified": "Mon, 02 Mar 2026 12:13:29 GMT",
+    "modified": "Mon, 02 Mar 2026 12:55:18 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
@@ -603,16 +603,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"3fe4a2275bf42d7457a8a51ab924be9d\"",
+    "etag": "W/\"ba4d5c72d36b8e584fe18d15032ab89f\"",
     "last_updated": 1771520453,
-    "modified": "Thu, 26 Feb 2026 07:03:37 GMT",
+    "modified": "Mon, 02 Mar 2026 14:23:15 GMT",
     "name": "Vicious Syndicate - Standard",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"3fe4a2275bf42d7457a8a51ab924be9d\"",
+    "etag": "W/\"ba4d5c72d36b8e584fe18d15032ab89f\"",
     "last_updated": 1689004753,
-    "modified": "Thu, 26 Feb 2026 07:03:37 GMT",
+    "modified": "Mon, 02 Mar 2026 14:23:15 GMT",
     "name": "Vicious Syndicate - Wild",
     "seen_entries": []
   },
