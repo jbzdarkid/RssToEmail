@@ -3,7 +3,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/01/28170535/post-it-2.png",
       "http://static.explosm.net/2026/02/01132101/construction.png",
       "http://static.explosm.net/2026/02/02102847/bridge.png",
       "http://static.explosm.net/2026/02/04173651/list2-1.png",
@@ -22,7 +21,8 @@
       "http://static.explosm.net/2026/02/26170734/soup-3.png",
       "http://static.explosm.net/2026/03/01153142/wandering.png",
       "http://static.explosm.net/2026/03/02095636/your-dad.png",
-      "http://static.explosm.net/2026/03/04183421/fool.png"
+      "http://static.explosm.net/2026/03/04183421/fool.png",
+      "http://static.explosm.net/2026/03/05190436/ideas-guy.png"
     ]
   },
   "bs4|jollyjack": {
@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Wed, 25 Feb 2026 21:14:48 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1771618138,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1772636683,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1772539223,
-    "modified": "Fri, 06 Mar 2026 03:46:00 GMT",
+    "modified": "Fri, 06 Mar 2026 06:18:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:f647abdbea70e0c44f09a2c1f4fec017\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:7b6d59c8d679a0048a9f9fb77c43ba2c\"",
     "last_updated": 1771951506,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"f0a0c18a5dec74e552c45b438a649b4b\"",
+    "etag": "\"191a88413fd79dd8feeca90282b15e34\"",
     "last_updated": 1658252876,
-    "modified": "Thu, 05 Mar 2026 22:42:46 GMT",
+    "modified": "Fri, 06 Mar 2026 04:02:34 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
