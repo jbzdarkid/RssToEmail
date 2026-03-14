@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +304,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Wed, 25 Feb 2026 21:14:48 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1772838002,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1772636683,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1772539223,
-    "modified": "Sat, 14 Mar 2026 15:08:00 GMT",
+    "modified": "Sat, 14 Mar 2026 18:10:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:2bffe5a6e7434f81e976b7aac24b85e0\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:7d40de82bd5edbcb471d63be7c90b98b\"",
     "last_updated": 1773161052,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -554,9 +554,9 @@
     "seen_entries": []
   },
   "https://www.hearthstonetopdecks.com/category/qa/feed/": {
-    "etag": "\"5974dbf27eba3002abae3d8999c3cd3f\"",
+    "etag": "\"a98789a360f737cb57041063399fe2cf\"",
     "last_updated": 1658252876,
-    "modified": "Sat, 14 Mar 2026 05:41:01 GMT",
+    "modified": "Sat, 14 Mar 2026 16:49:44 GMT",
     "name": "Hearthstone TopDecks Q&A",
     "seen_entries": []
   },
@@ -603,16 +603,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"7efde8f4c32336a36e1f07a169fb3162\"",
+    "etag": "W/\"c2c8ac8ed96e579a175934662cee42a2\"",
     "last_updated": 1771520453,
-    "modified": "Sat, 14 Mar 2026 14:38:10 GMT",
+    "modified": "Sat, 14 Mar 2026 17:14:03 GMT",
     "name": "Vicious Syndicate - Standard",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"7efde8f4c32336a36e1f07a169fb3162\"",
+    "etag": "W/\"c2c8ac8ed96e579a175934662cee42a2\"",
     "last_updated": 1689004753,
-    "modified": "Sat, 14 Mar 2026 14:38:10 GMT",
+    "modified": "Sat, 14 Mar 2026 17:14:03 GMT",
     "name": "Vicious Syndicate - Wild",
     "seen_entries": []
   },
@@ -786,7 +786,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1773421247,
+    "last_updated": 1773507644,
     "name": "Youtube - LoadingReadyRun",
     "seen_entries": []
   },
@@ -826,7 +826,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUUK0HBIBWgM2c4vsPhkYY4w": {
-    "last_updated": 1771265581,
+    "last_updated": 1773507393,
     "name": "Youtube - The Slow Mo Guys",
     "seen_entries": []
   },
@@ -836,7 +836,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1772388000,
+    "last_updated": 1773507600,
     "name": "Youtube - LRRTT",
     "seen_entries": []
   },
