@@ -14,7 +14,7 @@ def get_entries(cache, feed_url):
     # See https://stackoverflow.com/a/76602819 for more details.
     raise ValueError(f''' \
 Please use the direct playlist feed: ?playlist_id={upload_playlist}
-To exclude youtube shorts, use ?playlist_id=UULF{upload_playlist[2:]}
+To exclude youtube shorts and livestreams, use ?playlist_id=UULF{upload_playlist[2:]}
 ''')
 
   elif 'playlist_id' in feed_url: # By playlist
