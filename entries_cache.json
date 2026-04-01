@@ -118,7 +118,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 15 Dec 2025 15:22:33 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -335,7 +335,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +347,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1769177664,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +359,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1774647938,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1772636683,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1766069175,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1774954840,
-    "modified": "Wed, 01 Apr 2026 00:38:00 GMT",
+    "modified": "Wed, 01 Apr 2026 04:04:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -502,7 +502,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:29cd5c14a04bc990320f78b9b73cc966\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:25254c8ea545b1beebe6015f59d1ac43\"",
     "last_updated": 1774975508,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -676,6 +676,11 @@
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GYRhFnNllP8ss1moTRwMRBg": {
     "last_updated": 1764360025,
     "name": "Youtube - Arcane",
+    "seen_entries": []
+  },
+  "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5GaupX-BYDsT12YfCUppoxHc": {
+    "last_updated": 1772208059,
+    "name": "Youtube - League of Legends Cinematics",
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLbAFXJC0J5Gbogs-3Jk3nay0sAeAqi3SS": {
