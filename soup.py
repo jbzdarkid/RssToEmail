@@ -45,6 +45,8 @@ def get_entries(cache, feed_url):
     generator = get_c_and_h
   elif feed_url == 'bs4|nortverse':
     generator = get_nort
+  elif feed_url == 'bs4|anthropic':
+    generator = get_anthropic
   else:
     raise ValueError(f'Unknown soup: {feed_url}')
 
@@ -145,6 +147,19 @@ def get_nort(cache, feed_url):
   entry.link = 'https://nortverse.com'
 
   yield entry
+
+
+def get_anthropic(cache, feed_url):
+  soup = get_soup('https://red.anthropic.com')
+
+  for item in soup.select('a[class="note"]'):
+    entry = Entry()
+    entry.title = item.select_one('h3').text
+    entry.content = item.select_one('div[class="description"]').text
+    entry.link = item['href']
+
+    yield entry
+
 
 if __name__ == '__main__':
   from collections import defaultdict
