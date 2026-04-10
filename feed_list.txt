@@ -10,6 +10,8 @@ https://backend.deviantart.com/rss.xml?q=gallery:DrFaustusAU
 https://blog.momentum-mod.org/index.xml
 # xkcd blog
 https://blog.xkcd.com/feed/
+# red.anthropic
+bs4|anthropic
 # Cyanide & Happiness
 bs4|c_and_h
 # Sequential Art
@@ -18,8 +20,6 @@ bs4|jollyjack
 bs4|microsoft
 # Nerf NOW!!
 bs4|nerfnow
-# red.anthropic
-bs4|anthropic
 # Nortverse
 bs4|nortverse
 # Valorant Patch Notes

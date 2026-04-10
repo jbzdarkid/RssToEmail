@@ -1,4 +1,27 @@
 {
+  "bs4|anthropic": {
+    "last_updated": 0,
+    "name": "red.anthropic",
+    "seen_entries": [
+      "http://red.anthropic.com/2025/cyber-toolkits/index.html",
+      "http://red.anthropic.com/2025/project-vend/index.html",
+      "http://red.anthropic.com/2025/claude-4-cyber/",
+      "http://red.anthropic.com/2025/cyber-competitions/",
+      "http://red.anthropic.com/2025/nuclear-safeguards/",
+      "http://red.anthropic.com/2025/biorisk/",
+      "http://red.anthropic.com/2025/ai-for-cyber-defenders/",
+      "http://red.anthropic.com/2025/project-fetch/",
+      "http://red.anthropic.com/2025/smart-contracts/",
+      "http://red.anthropic.com/2025/project-vend-2/",
+      "http://red.anthropic.com/2026/critical-infrastructure-defense/",
+      "http://red.anthropic.com/2026/property-based-testing/",
+      "http://red.anthropic.com/2026/cyber-toolkits-update/",
+      "http://red.anthropic.com/2026/zero-days/",
+      "http://red.anthropic.com/2026/firefox/",
+      "http://red.anthropic.com/2026/exploit/",
+      "http://red.anthropic.com/2026/mythos-preview/"
+    ]
+  },
   "bs4|c_and_h": {
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
@@ -118,7 +141,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"5b1177c9-3bf\"",
     "last_updated": 1643641534,
-    "modified": "Mon, 15 Dec 2025 15:22:33 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -304,7 +327,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Wed, 25 Feb 2026 21:14:48 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -335,7 +358,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -347,7 +370,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1775754118,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -359,31 +382,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1774647938,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1772636683,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1775754109,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1774954840,
-    "modified": "Fri, 10 Apr 2026 18:22:00 GMT",
+    "modified": "Fri, 10 Apr 2026 21:14:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -475,9 +498,9 @@
     "seen_entries": []
   },
   "https://www.acriticalhit.com/feed/": {
-    "etag": "\"31f3d8a72fb9d530dfcb3fa1935dd73e-gzip\"",
-    "last_updated": 1770830961,
-    "modified": "Thu, 09 Apr 2026 01:51:55 GMT",
+    "etag": "\"40c779f319eb423e31615d79e17c67f6-gzip\"",
+    "last_updated": 1775848390,
+    "modified": "Fri, 10 Apr 2026 20:11:23 GMT",
     "name": "A Critical Hit!",
     "seen_entries": []
   },
@@ -502,7 +525,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:860f3ea1cc454f63ad52f5cb1f609fa7\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:a5596a26082f351b25d1572d91763d0e\"",
     "last_updated": 1775066878,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -906,8 +929,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"69d69cd3-841\"",
-    "last_updated": 1775620800,
+    "etag": "W/\"69d96005-815\"",
+    "last_updated": 1775793600,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []
