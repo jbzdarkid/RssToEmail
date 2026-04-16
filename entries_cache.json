@@ -1,4 +1,59 @@
 {
+  "": {
+    "last_updated": 0,
+    "name": "Done sending emails",
+    "seen_entries": []
+  },
+  "                      ^^^^^^^^^^": {
+    "last_updated": 0,
+    "name": "print(f'# {code} {http_codes[code].upper()}')",
+    "seen_entries": []
+  },
+  "                   ~~~~~~~~~^^": {
+    "last_updated": 0,
+    "name": "entries = list(generator()) # TODO: We could maybe do a partial update here?",
+    "seen_entries": []
+  },
+  "    entries += wrap_generator(None, feed_url, lambda feed_url=feed_url: generic.get_entries(cache, feed_url))": {
+    "last_updated": 0,
+    "name": "File \"/home/runner/work/RssToEmail/RssToEmail/rss_to_email.py\", line 102, in <lambda>",
+    "seen_entries": []
+  },
+  "  File \"/home/runner/work/RssToEmail/RssToEmail/generic.py\", line 50, in get_entries": {
+    "last_updated": 0,
+    "name": "~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^",
+    "seen_entries": []
+  },
+  "  File \"/home/runner/work/RssToEmail/RssToEmail/rss_to_email.py\", line 29, in wrap_generator": {
+    "last_updated": 0,
+    "name": "Traceback (most recent call last):",
+    "seen_entries": []
+  },
+  "403 Client Error: Forbidden for url: https://nortverse.com/": {
+    "last_updated": 0,
+    "name": "403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'nortverse.com',cType: 'interactive',cRay: '9ed547529953c95b',cH: 'Q0fm5px6taYErdo1lq5YJ1S1yewB8URUqTbj8kWEh9c-1776364408-1.2.1.1-GmnS5O5kg.PrXvoXtUoY3kIVlsNI3Z8OeGkd9hsdArIjQymhwgsQF0VH.vGT_rTo',cUPMDTk:\"\\/?__cf_chl_tk=mi9vCzMSHSnRatAWHvfXnvBV6c5s9NIbfm_ihpdS9yo-1776364408-1.0.1.1-RbCwB_fC5M_dS42XCzadWivKDz4kA7Km4.dOU5PH55w\",cFPWv: 'g',cITimeS: '1776364408',cTplC:0,cTplO:0,cTplV:5,cTplB: '0',fa:\"\\/?__cf_chl_f_tk=mi9vCzMSHSnRatAWHvfXnvBV6c5s9NIbfm_ihpdS9yo-1776364408-1.0.1.1-RbCwB_fC5M_dS42XCzadWivKDz4kA7Km4.dOU5PH55w\",md: '.KdXJbUO1y9JNM0vwXHLpb2IfWAY5Ghzz.EgjQCkl3g-1776364408-1.2.1.1-Im71cezuFuSMhUGZDnRxaPWCXHQMzfHd71p62sm8ejC6TY8OVWDuOt9dELFieITI1smgxbc.2WQ2xbPWmlSq_ru5RpzeCFJMcoSUrtyztFOhF7LS_cVjZ_UZ5JUDUyUbxu9tqz_mDz4WTfl2yit9NHwb9gsUgz3B8o0hMWp70f8beElV.1E8hLziBpDnQ5o_mMDEPxVkKGqM4ZzYDdx4Iy32MFsqBn55CpVApukh6V03dwBmc_v5UkqN0MYe_OF8y4zDG494nik0xKsv6BfIrp3o0ocwPnFgzKf6BL.N3a4qVb_4KHwkmMbSEsiB.oPeuG6882jSiaHXsvCc3twkPEUIVmkto6nhAVu3i_SsvYTgGwsoJoMG_CfOf_jUWzd227ayYZRDgqYTRIv8kmlG0lby4uxPoIBFcxMqmOD_S4kaunEUliDdVMXpFuv6xaAHib4Xq6ZUrSwNmkIeFnKvYNXYbn.Nq6J_g8rNi9_gefKi2uhEFhh11uawW173XNvCMRQ2Wax8jzAb7OEZ_pw.78QmuYGjBax6SiPIA7Ah1I559YbwhqWci6REZptJ7Uqc7qmFR.q0M8zZMsMAWL9zHmUSi4Gds.oNI4w.e4oPyRF0Vq0GDFkdTMHD5LwMa75jmLglGmKXf4LdPgPr2EMfq0tOEjWcN2d1fT0iGgPJQFqMV9pEtLDntuorHWoc0lT3Ixd_CDcWwkdgMd8qqord4CI6NLBNJEOxUGP2emM..2LOTQo8lhzAa94O6Jruv2cxYz40h5tmLJ8F8IPU7IZ1M408elDJJgHIcrxMT2Z4sa4v_o_82OpbqWsGAiikDfYCRaK5n4T.tmOLlQIQrmdDCoVrAKY2e.ShVHxi5ln39jZnv2nS0q04_awHlR1ZS6xrktwsrEwHoJ0_mNSWEEBjBRaibdPKArefRgSTMmioROcebXirO8HuF3iDIlQuwVkH7LtqDZrPl8Mv.aeCpsz71SQdEPAn0KTfJG2bok_1kHyLC7dka97T7W9zuQi21IBhmd1_KMaO0H9PWh9AGnl3cl7GAagAhi3tHlRzcin_sjSwlyYITVa9kekrj95B_nZNqekiA0ZmEvfObp8GRFRXMg',mdrd: 't_OyPVlMXOgygRCEO79aQz0J4rIYvhGCYBGw1nv5JgI-1776364408-1.2.1.1-FCyll0Aq.yfT4t5lUJjzS5ujBN_W1DTBiPkY3kPhX9_zrMORjB.9Qzw9tmAoBlokMM5HmwecI_FWN8iy79FjQSCp.qcEqWom_NH3SrItZrxO0OiorTqjo7BSLP1cChbZ.kOUNsUuXHezcwdPW_Yc9J_6gsdSoqKBvu.8sz9XpnV7LpRydVK4H.rViJ8PDJZn3rd5rHvPQaIu50TvFCjT84cm3A4bdZDGIqhiNK8fT8uI8P7fua0ZDr9Mlwgq6P8MlLwBLK0C9ZbWAhoM1D_lKlSzDqClbjkCbie5Hhg_wnDLybHR9PkKUMD_t7JA1e8GrK7nN0wy8pv_Tohgr7NoX0YJSbAXZJHbstbmFJASDsPSyDZKO2IVErrgEPiOci.ZDXAtdYYCOik8BwLCa4JClIMmCGS3wLmryMOY9eHklR4XlaPpxhAjDzPgQ.rjqdZARQZJiaMFpo4EKpqqVcWXMGgEM_hoPI_GUkn_LgNn4E6phE7Nqgz2MiuHGsVBXCFyYzav29KoGjR9RUR.SGiUTQJlJvX0FlvSICcS0Tn_zvaLrq_Nze4Cuu_qWiNO1k30VALVb7JKgFna_0fz6aw834dBjNVgHvIUqCT4tlaV3.VqMU.N1H7PcvuiHD89UvfSYZIO1W2zbQXQFDtJ1GkMltN8HlgNhpW7PpSAWqD4TfC.q5FyuSryQOX.atMTF1plH7lToIV6nc_Y3ZP00i6WEcfqXPPBBCfasBuCpV1Iun1._k_3OsqVXxfpS6W_dnPO3lUUh8IQ5ViP8UasNtD66Ovz_V.1ykauIAUbGTrmtEvwjQdMd7w3Vl2Ojarq3Q8OPYbS5XDBJCWcBJR4_6Ut9RAES_Ou4CrZ1.gvbgHJGbGC5M8VXFnOuDGpLATbd9K4a7gEpXBaKBpcLrV2rRp8fsohU4c7ckFxe_Y6i6Gvm9JNbK_HzL027DH.OVyjhdUZ41Xv3Q0f3Ih6fdPHvB4aSbnSW2pjKHc0RlweRTFsQ6WNSBKFfx92ZmbQfKWITs3nrYy29RNMzjxt0rtWeKTQDbfqioPUGlmaGiujsrZ2MkUziN1sfWAaMxNdQ_FK8iAWNvOo4jGN.i2M5gc33UfPn0ii_nCkgOfRITnzgYEPjZMudCBgBUVh0KS2u5ZMGj2jTqy43o518Yv53bEABMtnqxDgp9hpzCOFp_JiVQMVePORUpKS5EQtDp._LSssGJ.o2IBwCzChNuBAM311ZwvmhG80kmR0sViJ8Uj_CovkPrOz859h0.UST1cTIzaPSkKHWMxCGaAC0iVwb8cFXSEmrxRrAq.Q7X2mxDpxSNDTEvXRI8Pr0FQsDsFvi1XrQ4wPVX2flu88l3yrjnMhjllEN0LCNROEr2gU8pPiVCCgoPjQ_6Q10dbqCrRygHQ6Jjc2I5ui7rvuuPgX5pzVuMDUvphRnTF7tD9mUni99A7WM7oZFFszDB2OLbmIfjtxoGAF6b4Q6NeOrXQRO_A.gShHFfV9cMXtJV9BOuzxbZyStUncalojenUu5VbqFTxyrXC9Q_MXMr9Tqukp3HfZMCsp4MS7TqsAFCIXEoFJu.05Z3rzMfwGJZB7CY9BhKwllIQTClsj8On_dUm6HPsIzzwa.25ifHDsd1vSEb9AJBBi9vuEAvHs_dlnZngQ98.hPwZegByi0xQMP8UYM2BbwgKDVYCm2VZSBzcKl5F9kZJi1f6PZbTb90rd2b9wHbr4Us_COIT.GTtIYHadYN2lqEFPAZft9yQMVxslzUXheCMMlr_HfLzTFYEJowW1z357RBg7CIsEHL_7W8SncW4UEKjp55LDPpg3TEEK3gNmDbs.GZCuWfg1OWLkkxQXxFwv5uHJC0AVzznQVP1wECVmrBcgmVfygAA1XWam.ucQ.86CO2cGQnvy0drTnK4FzgkZfjT3HRG9C1n6YOf.Q_euju.yNZeV6I19scGHEL8oyy8wZSlk4OKo2EV9p3kVzYCqd692PCw6rPl7eB_zF6PnezyJC9nrI3yz5z4E5HtaMeJWVR42syR1t0Nh7dPqeqp.cJBCgtPKk8LvPXpoYyxrormITeH1SnnI.sIHi5CMbo0WizI1SCMhfzQ7T.UOiX6Fh9vM4wvSNWJ0f0oRZLQ9_8I37xw.5UB_n0mc_qm61gmFqMpNCxiHjey6.qQ1AnE1erhbgZW4fak6s6pOQuY.wZORxN6Xr2gwuJvycxmKO84Zj4jH.WbHrePYcKZ_LAYsedSoAEw30j80IRGzYZt1Jr3Q0o6Rvqq9zVLxkPaDfEAg30vx7zQErQKIii8GjnEO6Wi7tJNc_D1mcGdWiZGAQO58DwVu7PEZlyPe0GhV.8uLQ53CitfQxZuzTFk68FMoSWF66VL7Yqnd8hu9c4XpcIsWL6uLu4o1IH5U_tEJZXCe49pauRgw.1S5oMAxx8t4YJNVMBViSPmEHZC7hNSS85XGrnFVb.dSX4w9GDIvWSnPQWV9NIVLH3.D5nIWHZe3re5AcRNQVofKbe0cmwphmuKbC.FzDjCPO3ypyneg1peib2qJ1AidRE.eUoCRF7yvsmImzMYWr08.VTZWj6FwgOr7tJOcFm18hDPIA7WAxCSmnxRQfnw3V2kSV6YHNtVykWoZe7sWsKU10taQpLmIt3K2gg',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9ed547529953c95b';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"\\/?__cf_chl_rt_tk=mi9vCzMSHSnRatAWHvfXnvBV6c5s9NIbfm_ihpdS9yo-1776364408-1.0.1.1-RbCwB_fC5M_dS42XCzadWivKDz4kA7Km4.dOU5PH55w\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "seen_entries": []
+  },
+  "Exception while parsing feed: https://bsky.app/profile/did:plc:ljgkqozvs6woee4fivp6gv4k/rss": {
+    "last_updated": 0,
+    "name": "@notnkgm on BlueSky",
+    "seen_entries": []
+  },
+  "Found 2 total new entries, sending emails": {
+    "last_updated": 0,
+    "name": "Found new entry for https://www.vicioussyndicate.com/category/analysis/feed/ by date",
+    "seen_entries": []
+  },
+  "Found new entry for https://www.youtube.com/feeds/videos.xml?playlist_id=UUdWlJzQqscth452iqXjRj3g by date": {
+    "last_updated": 0,
+    "name": "Found 2585 entries to process",
+    "seen_entries": []
+  },
+  "Request was throttled, trying once more": {
+    "last_updated": 0,
+    "name": "Request was throttled, trying once more",
+    "seen_entries": []
+  },
   "bs4|anthropic": {
     "last_updated": 0,
     "name": "red.anthropic",
