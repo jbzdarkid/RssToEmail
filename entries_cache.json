@@ -81,7 +81,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/03/15191308/last.png",
       "http://static.explosm.net/2026/03/11192624/full-time-mom.png",
       "http://static.explosm.net/2026/03/18121201/charlie.png",
       "http://static.explosm.net/2026/03/11195930/fart-cop.png",
@@ -100,7 +99,8 @@
       "http://static.explosm.net/2026/04/12112356/knife.png",
       "http://static.explosm.net/2026/04/13103550/be-the-change.gif",
       "http://static.explosm.net/2026/04/15110131/microwaved.png",
-      "http://static.explosm.net/2026/04/17080653/maiden-name.png"
+      "http://static.explosm.net/2026/04/17080653/maiden-name.png",
+      "http://static.explosm.net/2026/04/19121156/underperforming.png"
     ]
   },
   "bs4|jollyjack": {
@@ -320,7 +320,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"6027a9d92284ecfcabace984e6682ae2cb084a742f3d6d7be912236db9362377\"",
+    "etag": "W/\"bb06b5b3e63dccabf1c4177e25983c36716dbffb4dc85ea4426368ab5b6b7455\"",
     "last_updated": 1712276400,
     "modified": "Sat, 18 Apr 2026 17:24:10 GMT",
     "name": "Fully Ramblomatic",
@@ -387,7 +387,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Thu, 09 Apr 2026 18:24:20 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -418,7 +418,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Sun, 19 Apr 2026 15:16:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -430,7 +430,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1775754118,
-    "modified": "Sun, 19 Apr 2026 15:16:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -442,31 +442,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1776465317,
-    "modified": "Sun, 19 Apr 2026 15:16:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1772636683,
-    "modified": "Sun, 19 Apr 2026 15:16:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Sun, 19 Apr 2026 15:16:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1775754109,
-    "modified": "Sun, 19 Apr 2026 15:16:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1774954840,
-    "modified": "Sun, 19 Apr 2026 15:14:00 GMT",
+    "modified": "Sun, 19 Apr 2026 18:16:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -585,14 +585,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:d68d84c1547a750a1fbc79da4c2c8e5c\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:2a4f7b54f0fe01c59c0a4d4f86ce9413\"",
     "last_updated": 1775066878,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"74cde-nFZtkIH7WoIjvLwyu05Vy4ArnMY\"",
+    "etag": "W/\"74cde-Noqsf4MeZ+tzPYEILg1Jy07uHQc\"",
     "last_updated": 1712567105,
     "name": "FortressOfDoors",
     "seen_entries": []
@@ -813,7 +813,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UU5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1776382640,
+    "last_updated": 1776618047,
     "name": "Youtube - LRRVG",
     "seen_entries": []
   },
