@@ -81,7 +81,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/04/08014034/huge.png",
       "http://static.explosm.net/2026/04/09164248/judge-a-book.png",
       "http://static.explosm.net/2026/04/12112356/knife.png",
       "http://static.explosm.net/2026/04/13103550/be-the-change.gif",
@@ -100,7 +99,8 @@
       "http://static.explosm.net/2026/05/06085940/melee.png",
       "http://static.explosm.net/2026/05/08083849/dinner-2.png",
       "http://static.explosm.net/2026/05/10163606/gen.png",
-      "http://static.explosm.net/2026/05/10092849/last-thing.png"
+      "http://static.explosm.net/2026/05/10092849/last-thing.png",
+      "http://static.explosm.net/2026/05/13100009/rich2.png"
     ]
   },
   "bs4|jollyjack": {
@@ -320,7 +320,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"91e6873092655f1c157ce32db64f0c1c710c957143f561ec39d9596ed0d13db6\"",
+    "etag": "W/\"24dfa23b9ea8ddd0a95e1696386f3dff6db10e5aa884b897cfa9ba41ddf27bdc\"",
     "last_updated": 1777321320,
     "modified": "Wed, 13 May 2026 10:48:06 GMT",
     "name": "Fully Ramblomatic",
@@ -361,8 +361,8 @@
   },
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
     "etag": "W/\"14c0c42331658b67c02eecfee53c4cfa97fe36a7c698f4ce5ca41243408c854e\"",
-    "last_updated": 1772697600,
-    "modified": "Tue, 12 May 2026 13:59:15 GMT",
+    "last_updated": 1778655600,
+    "modified": "Wed, 13 May 2026 18:19:48 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -418,7 +418,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -430,7 +430,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1775754118,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -442,31 +442,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1778277650,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1778178002,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1778137543,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Wed, 13 May 2026 15:54:00 GMT",
+    "modified": "Wed, 13 May 2026 18:42:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -585,7 +585,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:02d7a43ff8a8d93a4b6a43195dfbe1eb\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:7620c1714a56cf6f939d034187e23f82\"",
     "last_updated": 1778604261,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -742,7 +742,7 @@
     "title": "VALORANT"
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBKwq0XD0ueR3CXGUhGpsD1puLcYJPUp": {
-    "last_updated": 1778083240,
+    "last_updated": 1778688045,
     "name": "Youtube - Zero Punctuation",
     "seen_entries": []
   },
@@ -989,8 +989,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6a02eaa0-9c3\"",
-    "last_updated": 1778472000,
+    "etag": "W/\"6a04c3e4-9d9\"",
+    "last_updated": 1778644800,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []
