@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/04/29122616/saved.png",
       "http://static.explosm.net/2026/05/01140632/days.png",
       "http://static.explosm.net/2026/05/03160124/boning.png",
       "http://static.explosm.net/2026/05/04103115/burger-3.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/05/27123824/joinup.png",
       "http://static.explosm.net/2026/05/28152308/welfare-check.png",
       "http://static.explosm.net/2026/05/31171838/finishhim2.png",
-      "http://static.explosm.net/2026/06/01085731/dude.png"
+      "http://static.explosm.net/2026/06/01085731/dude.png",
+      "http://static.explosm.net/2026/06/03163927/fifth.png"
     ]
   },
   "bs4|jollyjack": {
@@ -124,7 +124,7 @@
     ]
   },
   "bs4|nerfnow": {
-    "last_updated": 1779996984,
+    "last_updated": 1780534927,
     "name": "Nerf NOW!!",
     "seen_entries": []
   },
@@ -426,7 +426,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:04:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -438,7 +438,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1779984941,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:04:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -450,31 +450,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1779990478,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:04:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1779869640,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:04:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:04:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1779987307,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:04:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Wed, 03 Jun 2026 21:58:00 GMT",
+    "modified": "Thu, 04 Jun 2026 01:02:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -593,7 +593,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:61b95746c9d7ac605844234ad0c54ae7\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:412ea1b427b1c8edab5998f54a50e81b\"",
     "last_updated": 1778604261,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -694,16 +694,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"16c16f1069dc913fd4c5876bd371586e\"",
+    "etag": "W/\"4a230d942328ce8876dee24ad8284f5e\"",
     "last_updated": 1779984008,
-    "modified": "Tue, 02 Jun 2026 17:03:56 GMT",
+    "modified": "Wed, 03 Jun 2026 23:32:36 GMT",
     "name": "Vicious Syndicate - Standard",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"16c16f1069dc913fd4c5876bd371586e\"",
+    "etag": "W/\"4a230d942328ce8876dee24ad8284f5e\"",
     "last_updated": 1689004753,
-    "modified": "Tue, 02 Jun 2026 17:03:56 GMT",
+    "modified": "Wed, 03 Jun 2026 23:32:36 GMT",
     "name": "Vicious Syndicate - Wild",
     "seen_entries": []
   },
