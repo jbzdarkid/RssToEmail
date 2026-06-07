@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/05/03160124/boning.png",
       "http://static.explosm.net/2026/05/04103115/burger-3.png",
       "http://static.explosm.net/2026/05/06085940/melee.png",
       "http://static.explosm.net/2026/05/08083849/dinner-2.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/05/31171838/finishhim2.png",
       "http://static.explosm.net/2026/06/01085731/dude.png",
       "http://static.explosm.net/2026/06/03163927/fifth.png",
-      "http://static.explosm.net/2026/06/05102404/accountant.png"
+      "http://static.explosm.net/2026/06/05102404/accountant.png",
+      "http://static.explosm.net/2026/06/07141957/little.png"
     ]
   },
   "bs4|jollyjack": {
@@ -199,7 +199,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Wed, 03 Jun 2026 18:53:33 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -395,7 +395,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Sat, 23 May 2026 15:26:56 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -426,7 +426,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -438,7 +438,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1779984941,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -450,31 +450,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1779990478,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1779869640,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1779987307,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Sun, 07 Jun 2026 18:30:00 GMT",
+    "modified": "Sun, 07 Jun 2026 21:28:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -593,7 +593,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:c7c64f15d39e5e71e169bcfaa54c246a\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:4c170f37c77edea4ae3cf6575ef1fba8\"",
     "last_updated": 1778604261,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -821,7 +821,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UU5cCITw_rzNdLelWJCw5L1A": {
-    "last_updated": 1780612738,
+    "last_updated": 1780862262,
     "name": "Youtube - LRRVG",
     "seen_entries": []
   },
