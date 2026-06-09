@@ -26,7 +26,11 @@ def wrap_generator(feed_title, feed_url, generator):
 
     entries = []
     try:
-        entries = list(generator()) # TODO: We could maybe do a partial update here?
+        # We could in theory yield entries from the generator as they come in,
+        # so that a generator failure would still result in any (procssed) entries being sent.
+        # However, a failure in a date-based update would be bad, since those usually yield newest-to-oldest,
+        # which would update the 'latest' time to skip the broken entry on future runs.
+        entries = list(generator())
     except KeyboardInterrupt:
         print_exc()
         success = False
