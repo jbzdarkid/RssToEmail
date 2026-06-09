@@ -36,6 +36,7 @@ def wrap_generator(feed_title, feed_url, generator):
 
     # Entries should be sorted from newest to oldest.
     entries.sort(key = lambda e: e.date if e.date else 0, reverse=True)
+    entries = entries[:20] # Cap per-feed so feeds with more entries than seen_entries holds don't cascade.
     for entry in entries: # Small fixup to avoid redundancy. Eh.
         entry.url = feed_url
     return entries
