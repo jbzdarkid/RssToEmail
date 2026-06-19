@@ -150,13 +150,13 @@ def get_nort(cache, feed_url):
 
 
 def get_anthropic(cache, feed_url):
-  soup = get_soup('https://red.anthropic.com')
+  soup = get_soup('https://www.anthropic.com/research/team/frontier-red-team')
 
-  for item in soup.select('a[class="note"]'):
+  root = soup.select_one('div[class^="PublicationList"]').parent
+  for item in root.select('li'):
     entry = Entry()
-    entry.title = item.select_one('h3').text
-    entry.content = item.select_one('div[class="description"]').text
-    entry.link = item['href']
+    entry.title = item.select_one('span[class*="__title"]').text
+    entry.link = item.select_one('a')['href']
 
     yield entry
 
