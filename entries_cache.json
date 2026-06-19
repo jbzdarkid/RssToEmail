@@ -58,16 +58,6 @@
     "last_updated": 0,
     "name": "red.anthropic",
     "seen_entries": [
-      "http://red.anthropic.com/2025/project-vend/index.html",
-      "http://red.anthropic.com/2025/claude-4-cyber/",
-      "http://red.anthropic.com/2025/cyber-competitions/",
-      "http://red.anthropic.com/2025/nuclear-safeguards/",
-      "http://red.anthropic.com/2025/biorisk/",
-      "http://red.anthropic.com/2025/ai-for-cyber-defenders/",
-      "http://red.anthropic.com/2025/project-fetch/",
-      "http://red.anthropic.com/2025/smart-contracts/",
-      "http://red.anthropic.com/2025/project-vend-2/",
-      "http://red.anthropic.com/2026/critical-infrastructure-defense/",
       "http://red.anthropic.com/2026/property-based-testing/",
       "http://red.anthropic.com/2026/cyber-toolkits-update/",
       "http://red.anthropic.com/2026/zero-days/",
@@ -77,7 +67,17 @@
       "http://red.anthropic.com/2026/cvd/",
       "http://red.anthropic.com/2026/exploit-evals/",
       "http://red.anthropic.com/2026/attack-navigator/",
-      "http://red.anthropic.com/2026/n-days/"
+      "http://red.anthropic.com/2026/n-days/",
+      "http://www.anthropic.com/research/cyber-toolkits-update",
+      "http://www.anthropic.com/research/zero-days",
+      "http://www.anthropic.com/research/exploit",
+      "http://www.anthropic.com/news/mozilla-firefox-security",
+      "http://www.anthropic.com/research/mythos-preview",
+      "http://www.anthropic.com/research/exploit-evals",
+      "http://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "http://www.anthropic.com/research/attack-navigator",
+      "http://www.anthropic.com/research/n-days",
+      "http://www.anthropic.com/research/project-fetch-phase-two"
     ]
   },
   "bs4|c_and_h": {
@@ -432,7 +432,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -444,7 +444,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1780938343,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -456,31 +456,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1781554454,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1779869640,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1779987307,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Fri, 19 Jun 2026 01:04:00 GMT",
+    "modified": "Fri, 19 Jun 2026 04:34:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -599,7 +599,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:7f3880423baadda9d63ea7e875101803\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:0cd12f7f6e05dfbbe6592032328bec5e\"",
     "last_updated": 1781628234,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
