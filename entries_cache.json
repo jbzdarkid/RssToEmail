@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/06/01085731/dude.png",
       "http://static.explosm.net/2026/06/03163927/fifth.png",
       "http://static.explosm.net/2026/06/05102404/accountant.png",
       "http://static.explosm.net/2026/06/07141957/little.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/06/28140222/sexually-active.png",
       "http://static.explosm.net/2026/07/01180158/seek.png",
       "http://static.explosm.net/2026/07/03104218/uncle-sam.png",
-      "http://static.explosm.net/2026/07/05192938/honest.png"
+      "http://static.explosm.net/2026/07/05192938/honest.png",
+      "http://static.explosm.net/2026/07/06093710/something-strange-2.png"
     ]
   },
   "bs4|jollyjack": {
@@ -323,7 +323,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"0f79b9cb0bc98d77ba209519e313d6393e8e1cd0c89e50676f3dc81afdf408cc\"",
+    "etag": "W/\"5b698ee125dbb6d58fea64f5759ea83d3083fd3f958b3e87d254cd57e4b87841\"",
     "last_updated": 1777321320,
     "modified": "Mon, 06 Jul 2026 13:56:07 GMT",
     "name": "Fully Ramblomatic",
@@ -394,7 +394,7 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1779517821,
-    "modified": "Sun, 14 Jun 2026 13:46:48 GMT",
+    "modified": "Sun, 14 Jun 2026 13:47:51 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
@@ -432,7 +432,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 06 Jul 2026 15:32:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -444,7 +444,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Mon, 06 Jul 2026 15:32:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -456,31 +456,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1782504010,
-    "modified": "Mon, 06 Jul 2026 15:32:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1782461557,
-    "modified": "Mon, 06 Jul 2026 15:30:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 06 Jul 2026 15:32:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1781898364,
-    "modified": "Mon, 06 Jul 2026 15:32:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Mon, 06 Jul 2026 15:32:00 GMT",
+    "modified": "Mon, 06 Jul 2026 19:56:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -567,7 +567,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1783326222,
+    "last_updated": 1783358272,
     "name": "Team Fortress Wiki Watchlist",
     "seen_entries": []
   },
@@ -599,7 +599,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:935c89640e95c7bbd8f22ba0252c0fc4\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:9906d1ff67616e05c31079e0aa0f0ac1\"",
     "last_updated": 1782837818,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -700,16 +700,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"a413239d6240aa9215f995934b454319\"",
-    "last_updated": 1783267256,
-    "modified": "Sun, 05 Jul 2026 18:55:47 GMT",
+    "etag": "W/\"a587ef06420b5cd5c8ad0a498a77f54f\"",
+    "last_updated": 1783353645,
+    "modified": "Mon, 06 Jul 2026 16:59:47 GMT",
     "name": "Vicious Syndicate - Standard",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a413239d6240aa9215f995934b454319\"",
+    "etag": "W/\"a587ef06420b5cd5c8ad0a498a77f54f\"",
     "last_updated": 1689004753,
-    "modified": "Sun, 05 Jul 2026 18:55:47 GMT",
+    "modified": "Mon, 06 Jul 2026 16:59:47 GMT",
     "name": "Vicious Syndicate - Wild",
     "seen_entries": []
   },
@@ -943,7 +943,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UUdWlJzQqscth452iqXjRj3g": {
-    "last_updated": 1783184435,
+    "last_updated": 1783357230,
     "name": "Youtube - LRRTT",
     "seen_entries": []
   },
