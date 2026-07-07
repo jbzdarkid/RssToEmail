@@ -199,7 +199,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -394,14 +394,14 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1779517821,
-    "modified": "Sun, 14 Jun 2026 13:46:48 GMT",
+    "modified": "Sun, 14 Jun 2026 13:46:49 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
+    "modified": "Wed, 25 Feb 2026 21:14:48 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -432,7 +432,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -444,7 +444,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -456,31 +456,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1782504010,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1782461557,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1781898364,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Mon, 06 Jul 2026 22:12:00 GMT",
+    "modified": "Tue, 07 Jul 2026 03:24:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -599,7 +599,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:d9e9ee3bf6637106672c0de588f6afe3\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:6c11ab2647c70ee6d361049a97040b43\"",
     "last_updated": 1782837818,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -700,16 +700,16 @@
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/analysis/feed/": {
-    "etag": "W/\"a587ef06420b5cd5c8ad0a498a77f54f\"",
+    "etag": "W/\"ed70da7694b104540e9dc8f6e8279259\"",
     "last_updated": 1783353645,
-    "modified": "Mon, 06 Jul 2026 16:59:47 GMT",
+    "modified": "Tue, 07 Jul 2026 02:54:52 GMT",
     "name": "Vicious Syndicate - Standard",
     "seen_entries": []
   },
   "https://www.vicioussyndicate.com/category/wild-data-reaper/feed/": {
-    "etag": "W/\"a587ef06420b5cd5c8ad0a498a77f54f\"",
+    "etag": "W/\"ed70da7694b104540e9dc8f6e8279259\"",
     "last_updated": 1689004753,
-    "modified": "Mon, 06 Jul 2026 16:59:47 GMT",
+    "modified": "Tue, 07 Jul 2026 02:54:52 GMT",
     "name": "Vicious Syndicate - Wild",
     "seen_entries": []
   },
@@ -1003,8 +1003,8 @@
     "seen_entries": []
   },
   "https://xkcd.com/rss.xml": {
-    "etag": "W/\"6a487770-91b\"",
-    "last_updated": 1783051200,
+    "etag": "W/\"6a4c360b-88f\"",
+    "last_updated": 1783310400,
     "modified": "Sat, 06 Jul 2024 01:15:40 GMT",
     "name": "xkcd",
     "seen_entries": []
