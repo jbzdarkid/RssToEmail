@@ -200,7 +200,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Wed, 03 Jun 2026 18:53:33 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -324,9 +324,9 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"3411997b2fae703d118db67d232d871ebf7d86bf9527a01df93a42e99482ccc8\"",
+    "etag": "W/\"c630b997bbb4cfdfa5a7abb26e898857fe6aa3a87353f65c7675d5d7af1b17ed\"",
     "last_updated": 1777321320,
-    "modified": "Sun, 19 Jul 2026 18:59:19 GMT",
+    "modified": "Mon, 20 Jul 2026 08:44:40 GMT",
     "name": "Fully Ramblomatic",
     "seen_entries": []
   },
@@ -395,7 +395,7 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1779517821,
-    "modified": "Sun, 14 Jun 2026 13:46:48 GMT",
+    "modified": "Tue, 14 Jul 2026 03:05:27 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:44:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:44:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1783720831,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:44:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:44:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:44:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1783698004,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:44:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Mon, 20 Jul 2026 06:18:00 GMT",
+    "modified": "Mon, 20 Jul 2026 11:42:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -568,7 +568,7 @@
     "seen_entries": []
   },
   "https://wiki.teamfortress.com/w/api.php?action=feedwatchlist&allrev=1&wlowner=Darkid&wltoken=be4074d55fa595f8d2adfb7364035ea8cc9eb36a": {
-    "last_updated": 1784526958,
+    "last_updated": 1784528603,
     "name": "Team Fortress Wiki Watchlist",
     "seen_entries": []
   },
@@ -600,14 +600,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:17802ef031115348a6ee1c31195d7a82\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:7c881690b5bdae1748c84e6abcaaed66\"",
     "last_updated": 1784047513,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"74cb8-8pvw68wXwKceWSaYaoARYsTbXDY\"",
+    "etag": "W/\"74cb8-GzqrYXLqXsF5SvRFzPFKDXgM8no\"",
     "last_updated": 1712567105,
     "name": "FortressOfDoors",
     "seen_entries": []
@@ -676,7 +676,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1784271600,
+    "last_updated": 1784530800,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
@@ -735,7 +735,7 @@
     "seen_entries": []
   },
   "https://www.wildelifecomic.com/comic/rss": {
-    "last_updated": 1784275316,
+    "last_updated": 1784542577,
     "name": "Wilde Life",
     "seen_entries": []
   },
