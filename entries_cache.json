@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/06/21174948/alone.png",
       "http://static.explosm.net/2026/06/22132929/hold-liquor.gif",
       "http://static.explosm.net/2026/06/24001253/olympic.png",
       "http://static.explosm.net/2026/06/25105802/parents-not-home.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/07/17080623/promise.png",
       "http://static.explosm.net/2026/07/19153201/nation.png",
       "http://static.explosm.net/2026/07/19185103/OF.png",
-      "http://static.explosm.net/2026/07/22181233/special.png"
+      "http://static.explosm.net/2026/07/22181233/special.png",
+      "http://static.explosm.net/2026/07/21134847/divorce-4.png"
     ]
   },
   "bs4|jollyjack": {
@@ -125,7 +125,7 @@
     ]
   },
   "bs4|nerfnow": {
-    "last_updated": 1784324633,
+    "last_updated": 1784873780,
     "name": "Nerf NOW!!",
     "seen_entries": []
   },
@@ -200,7 +200,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -395,14 +395,14 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1779517821,
-    "modified": "Sun, 14 Jun 2026 13:46:49 GMT",
+    "modified": "Sun, 14 Jun 2026 13:46:48 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1734500322,
-    "modified": "Wed, 25 Feb 2026 21:14:48 GMT",
+    "modified": "Thu, 18 Dec 2025 15:05:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:26:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:26:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1783720831,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:26:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:26:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:26:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1783698004,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:26:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Fri, 24 Jul 2026 05:48:00 GMT",
+    "modified": "Fri, 24 Jul 2026 08:24:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -600,7 +600,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:7c622f6c8487a0b0343cb2ee01153bbf\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:cfee52450fa58f9704cdff3a62d9952a\"",
     "last_updated": 1784652263,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
@@ -676,7 +676,7 @@
     "seen_entries": []
   },
   "https://www.samandfuzzy.com/feed": {
-    "last_updated": 1784703600,
+    "last_updated": 1784876400,
     "modified": "Tue, 03 Aug 2021 09:15:22 GMT",
     "name": "Sam And Fuzzy",
     "seen_entries": []
