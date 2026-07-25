@@ -6,6 +6,20 @@ from entry import Entry
 
 API_KEY = os.environ.get('youtube_token', None)
 
+def make_get_request(path, params):
+  try:
+    r = requests.get(f'https://www.googleapis.com/youtube/v3/{path}', params=params)
+  except requests.exceptions.ConnectionError as e:
+    print(e)
+    return None
+  if r.status_code in [500]:
+    return None
+  r.raise_for_status()
+  j = r.json()
+  if 'error' in j:
+    print(j)
+  return j
+
 def get_entries(cache, feed_url):
   if 'channel_id' in feed_url: # By channel (deprecated)
     channel_id = feed_url.split('channel_id=')[1]
@@ -35,13 +49,9 @@ def get_channel_upload_playlist(channel_id):
     'maxResults': 50,
   }
 
-  r = requests.get('https://www.googleapis.com/youtube/v3/channels', params=params)
-  if r.status_code in [500]:
+  j = make_get_request('channels', params=params)
+  if not j:
     return []
-  r.raise_for_status()
-  j = r.json()
-  if 'error' in j:
-    print(j)
   return j['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
 
@@ -53,13 +63,9 @@ def get_playlist_items(playlist_id):
     'maxResults': 50, # Per page, in playlist order
   }
 
-  r = requests.get('https://www.googleapis.com/youtube/v3/playlistItems', params=params)
-  if r.status_code in [500]:
+  j = make_get_request('playlistItems', params=params)
+  if not j:
     return []
-  r.raise_for_status()
-  j = r.json()
-  if 'error' in j:
-    print(j)
   video_ids = [item['contentDetails']['videoId'] for item in j['items']]
   return list(set(video_ids)) # Some playlists may contain dupes, we don't want to send duplicate emails.
 
@@ -71,13 +77,9 @@ def get_video_entries(video_ids):
     'id': ','.join(video_ids),
   }
 
-  r = requests.get('https://www.googleapis.com/youtube/v3/videos', params=params)
-  if r.status_code in [500]:
+  j = make_get_request('videos', params=params)
+  if not j:
     return
-  r.raise_for_status()
-  j = r.json()
-  if 'error' in j:
-    print(j)
   for video in j['items']:
     if 'liveStreamingDetails' in video and 'scheduledStartTime' in video['liveStreamingDetails']:
       start_time = datetime.fromisoformat(video['liveStreamingDetails']['scheduledStartTime'])
@@ -93,18 +95,6 @@ def get_video_entries(video_ids):
     entry.date = int(datetime.fromisoformat(date_str).timestamp())
 
     yield entry
-
-
-def get_title(api, **params):
-  params['key'] = API_KEY
-  params['part'] = 'snippet'
-
-  r = requests.get('https://www.googleapis.com/youtube/v3/' + api, params=params)
-  r.raise_for_status()
-  j = r.json()
-  if 'error' in j:
-    print(j)
-  return j['items'][0]
 
 
 if __name__ == '__main__':
