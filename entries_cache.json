@@ -200,7 +200,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
+    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -334,7 +334,6 @@
     "last_updated": 1715580324,
     "name": "Geohashing wiki watchlist",
     "seen_entries": [
-      "http://geohashing.site/index.php?title=2026-01-24_47_-122&diff=1181100",
       "http://geohashing.site/index.php?title=2026-01-24_47_-122&diff=1181103",
       "http://geohashing.site/index.php?title=2026-01-24_47_-122&diff=1181104",
       "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1182141",
@@ -353,7 +352,8 @@
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1195404",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1195409",
       "http://geohashing.site/index.php?title=User:Darkid/Potential_expeditions&diff=1195416",
-      "http://geohashing.site/index.php?title=2026-06-10_47_-122&diff=0"
+      "http://geohashing.site/index.php?title=2026-06-10_47_-122&diff=0",
+      "http://geohashing.site/index.php?title=Seattle,_Washington&diff=1200046"
     ]
   },
   "https://gfw.report/index.xml": {
@@ -395,14 +395,14 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1779517821,
-    "modified": "Sun, 14 Jun 2026 13:46:48 GMT",
+    "modified": "Sun, 14 Jun 2026 13:46:49 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1785046883,
-    "modified": "Sun, 26 Jul 2026 07:07:06 GMT",
+    "modified": "Sun, 26 Jul 2026 10:43:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1784923209,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1783698004,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Sun, 26 Jul 2026 19:08:00 GMT",
+    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -600,7 +600,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:cd2b874ec0cfa4e1e3f8a2fc10b71cde\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:d9c25e0f2efda88d4597b870823eb2a6\"",
     "last_updated": 1784652263,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
