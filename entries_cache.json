@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/06/24001253/olympic.png",
       "http://static.explosm.net/2026/06/25105802/parents-not-home.png",
       "http://static.explosm.net/2026/06/28155756/wearing.png",
       "http://static.explosm.net/2026/06/28140222/sexually-active.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/07/19185103/OF.png",
       "http://static.explosm.net/2026/07/22181233/special.png",
       "http://static.explosm.net/2026/07/21134847/divorce-4.png",
-      "http://static.explosm.net/2026/07/26181708/wire.png"
+      "http://static.explosm.net/2026/07/26181708/wire.png",
+      "http://static.explosm.net/2026/07/21141041/epidemic.png"
     ]
   },
   "bs4|jollyjack": {
@@ -200,7 +200,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -395,14 +395,14 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1779517821,
-    "modified": "Sun, 14 Jun 2026 13:46:49 GMT",
+    "modified": "Sun, 14 Jun 2026 13:46:48 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1785046883,
-    "modified": "Sun, 26 Jul 2026 10:43:54 GMT",
+    "modified": "Sun, 26 Jul 2026 07:07:06 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1784923209,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1783698004,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
+    "modified": "Mon, 27 Jul 2026 06:30:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -585,7 +585,7 @@
     "seen_entries": []
   },
   "https://www.awkwardzombie.com/awkward-zombie/rss": {
-    "last_updated": 1784520000,
+    "last_updated": 1785124800,
     "name": "Awkward Zombie",
     "seen_entries": []
   },
@@ -600,14 +600,14 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:824771e2c03d92a1a70a7ed13b287cdb\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:0cf7a331793de14d8dbb9c1008ff220d\"",
     "last_updated": 1784652263,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
   },
   "https://www.fortressofdoors.com/tag/business/rss/": {
-    "etag": "W/\"74cb8-2FkEuVrSzDz0snumpmInE/bFLao\"",
+    "etag": "W/\"74cb8-8vispwwc4EiS5enUhmo1F1DABWo\"",
     "last_updated": 1712567105,
     "name": "FortressOfDoors",
     "seen_entries": []
