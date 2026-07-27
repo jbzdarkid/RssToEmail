@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/06/22132929/hold-liquor.gif",
       "http://static.explosm.net/2026/06/24001253/olympic.png",
       "http://static.explosm.net/2026/06/25105802/parents-not-home.png",
       "http://static.explosm.net/2026/06/28155756/wearing.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/07/19153201/nation.png",
       "http://static.explosm.net/2026/07/19185103/OF.png",
       "http://static.explosm.net/2026/07/22181233/special.png",
-      "http://static.explosm.net/2026/07/21134847/divorce-4.png"
+      "http://static.explosm.net/2026/07/21134847/divorce-4.png",
+      "http://static.explosm.net/2026/07/26181708/wire.png"
     ]
   },
   "bs4|jollyjack": {
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1784923209,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1783698004,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Sun, 26 Jul 2026 21:58:00 GMT",
+    "modified": "Mon, 27 Jul 2026 02:54:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -600,7 +600,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:d9c25e0f2efda88d4597b870823eb2a6\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:824771e2c03d92a1a70a7ed13b287cdb\"",
     "last_updated": 1784652263,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
