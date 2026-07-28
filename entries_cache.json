@@ -58,7 +58,6 @@
     "last_updated": 0,
     "name": "red.anthropic",
     "seen_entries": [
-      "http://red.anthropic.com/2026/zero-days/",
       "http://red.anthropic.com/2026/firefox/",
       "http://red.anthropic.com/2026/exploit/",
       "http://red.anthropic.com/2026/mythos-preview/",
@@ -77,7 +76,8 @@
       "http://www.anthropic.com/research/n-days",
       "http://www.anthropic.com/research/project-fetch-phase-two",
       "http://www.anthropic.com/research/claude-plays-robotics",
-      "http://www.anthropic.com/research/project-pilot"
+      "http://www.anthropic.com/research/project-pilot",
+      "http://www.anthropic.com/research/discovering-cryptographic-weaknesses"
     ]
   },
   "bs4|c_and_h": {
@@ -200,7 +200,7 @@
   "https://blog.xkcd.com/feed/": {
     "etag": "\"65db526a-3c0\"",
     "last_updated": 1643641534,
-    "modified": "Sun, 01 Feb 2026 02:08:47 GMT",
+    "modified": "Sun, 14 Dec 2025 13:43:12 GMT",
     "name": "xkcd blog",
     "seen_entries": []
   },
@@ -324,7 +324,7 @@
     "seen_entries": []
   },
   "https://fullyramblomatic-yahtzee.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"7c45716f4a976e31bb290f53df4af3b096e46d93fc39bb4100c1311a92fdf92d\"",
+    "etag": "W/\"d6e731640b0e3e5038910d9c17986e10db7582522a96a34f484857527e59535a\"",
     "last_updated": 1777321320,
     "modified": "Tue, 28 Jul 2026 07:06:53 GMT",
     "name": "Fully Ramblomatic",
@@ -395,14 +395,14 @@
   },
   "https://probablydance.com/feed/": {
     "last_updated": 1785202609,
-    "modified": "Tue, 28 Jul 2026 13:08:43 GMT",
+    "modified": "Tue, 28 Jul 2026 13:06:03 GMT",
     "name": "Probably Dance",
     "seen_entries": []
   },
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1785046883,
-    "modified": "Sun, 26 Jul 2026 10:43:54 GMT",
+    "modified": "Sun, 26 Jul 2026 07:07:06 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1784923209,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1783698004,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1778065254,
-    "modified": "Tue, 28 Jul 2026 16:38:00 GMT",
+    "modified": "Tue, 28 Jul 2026 19:22:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -600,8 +600,8 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:66310328d9203e862ae93ad872f3e728\"",
-    "last_updated": 1784652263,
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:170b4689049eae0115b8675a5e64af20\"",
+    "last_updated": 1785257064,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
     "seen_entries": []
@@ -894,7 +894,7 @@
     "seen_entries": []
   },
   "https://www.youtube.com/feeds/videos.xml?playlist_id=UULFwjN2uVdL9A0i3gaIHKFzuA": {
-    "last_updated": 1785016826,
+    "last_updated": 1785258027,
     "name": "Youtube - LoadingReadyRun",
     "seen_entries": []
   },
