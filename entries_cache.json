@@ -84,7 +84,6 @@
     "last_updated": 1751360920,
     "name": "Cyanide & Happiness",
     "seen_entries": [
-      "http://static.explosm.net/2026/07/03104218/uncle-sam.png",
       "http://static.explosm.net/2026/07/05192938/honest.png",
       "http://static.explosm.net/2026/07/06093710/something-strange-2.png",
       "http://static.explosm.net/2026/07/08001551/julius.png",
@@ -103,7 +102,8 @@
       "http://static.explosm.net/2026/07/29205508/harryp.png",
       "http://static.explosm.net/2026/07/30141837/baldness.png",
       "http://static.explosm.net/2026/08/02160855/krisbirthday.png",
-      "http://static.explosm.net/2026/08/03162928/my-car.png"
+      "http://static.explosm.net/2026/08/03162928/my-car.png",
+      "http://static.explosm.net/2026/08/05161713/punch.png"
     ]
   },
   "bs4|jollyjack": {
@@ -366,7 +366,7 @@
   "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss": {
     "etag": "W/\"14c0c42331658b67c02eecfee53c4cfa97fe36a7c698f4ce5ca41243408c854e\"",
     "last_updated": 1778655600,
-    "modified": "Sun, 02 Aug 2026 23:42:34 GMT",
+    "modified": "Thu, 06 Aug 2026 00:48:20 GMT",
     "name": "Google Project Zero",
     "seen_entries": []
   },
@@ -378,7 +378,7 @@
     "seen_entries": []
   },
   "https://mpmrpjb.tumblr.com/rss": {
-    "last_updated": 1785235266,
+    "last_updated": 1785964690,
     "name": "mpmrpjb",
     "seen_entries": []
   },
@@ -402,7 +402,7 @@
   "https://shadyparadox.wordpress.com/feed/": {
     "etag": "\"673696e6-3c0\"",
     "last_updated": 1785046883,
-    "modified": "Sun, 26 Jul 2026 07:07:06 GMT",
+    "modified": "Mon, 27 Jul 2026 01:06:54 GMT",
     "name": "ShadyParadox Blog",
     "seen_entries": []
   },
@@ -433,7 +433,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1150530": {
     "last_updated": 1765164995,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Wizard with a Gun",
     "seen_entries": []
   },
@@ -445,7 +445,7 @@
   },
   "https://store.steampowered.com/feeds/news/app/1435790": {
     "last_updated": 1781882709,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Escape Simulator",
     "seen_entries": []
   },
@@ -457,31 +457,31 @@
   },
   "https://store.steampowered.com/feeds/news/app/1812090": {
     "last_updated": 1784923209,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Escape Academy",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2071280": {
     "last_updated": 1783606475,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Ravenswatch",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/247080": {
     "last_updated": 1765906155,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Crypt of the Necrodancer",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/2879840": {
     "last_updated": 1785534120,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Escape Simulator 2",
     "seen_entries": []
   },
   "https://store.steampowered.com/feeds/news/app/548430": {
     "last_updated": 1785409235,
-    "modified": "Wed, 05 Aug 2026 22:10:00 GMT",
+    "modified": "Thu, 06 Aug 2026 02:32:00 GMT",
     "name": "Steam News - Deep Rock Galactic",
     "seen_entries": []
   },
@@ -600,7 +600,7 @@
     "seen_entries": []
   },
   "https://www.fangamer.com/collections/t-shirts.atom": {
-    "etag": "W/\"page_cache:141962:CollectionDetailsController:d3ec8b0830848411f5f31bacccf20d6c\"",
+    "etag": "W/\"page_cache:141962:CollectionDetailsController:1c7ea4102277067972bfda923c0a7bc4\"",
     "last_updated": 1785257064,
     "modified": "Tue, 03 Aug 2021 09:15:12 GMT",
     "name": "Fangamer T-Shirts",
